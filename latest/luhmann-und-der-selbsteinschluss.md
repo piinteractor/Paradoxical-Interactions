@@ -2,8 +2,8 @@
 title: "Luhmann und der Selbsteinschluss"
 slug: "luhmann-und-der-selbsteinschluss"
 published: "2026-01-25T14:46:29"
-updated: "2026-03-10T23:02:23"
-archived_at: "2026-03-10T23:02:26Z"
+updated: "2026-03-10T23:03:16"
+archived_at: "2026-03-10T23:03:17Z"
 source_url: "https://blog.piinteract.org/de/luhmann-und-der-selbsteinschluss/"
 source: "blog.piinteract.org"
 status: "publish"
@@ -158,7 +158,7 @@ Das wäre die Reaktion eines Systems, das in der Lage ist, sich selbst zu beobac
 
 <div class="et_pb_divider_9 et_pb_divider et_pb_space et_pb_divider_position_center et_pb_module"><div class="et_pb_divider_internal"></div></div>
 
-<div class="et_pb_text_11 et_pb_text et_pb_bg_layout_light et_pb_module et_flex_module"><div class="et_pb_text_inner"><p><strong>Peter Senner</strong><br />Thinking beyond the Tellerrand<br /><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="javascript:secureDecryptAndNavigate('jQZeXb76fKeml+SI5vjEBe34xYSxknbXkJ4eoG9jxFkR7zKjfMux7N5dyTvBUc04HmbIzR+yU7eX6R6FUSxMuJp9gFmVUs1b7wZn8UE=', 'edbf98302df0e84b9d5ce7fdffda68f27bff32962164e1d07069217c6c189d0a')">contact@piinteract.org</a><br /><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="http://www.piinteract.org" rel="noopener">www.piinteract.org</a></p>
+<div class="et_pb_text_11 et_pb_text et_pb_bg_layout_light et_pb_module et_flex_module"><div class="et_pb_text_inner"><p><strong>Peter Senner</strong><br />Thinking beyond the Tellerrand<br /><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="javascript:secureDecryptAndNavigate('EAYRK1e9uH0ZEsviWqzirnY2C5TU2ac1BW3N2UeArmlwlJ2ji9jn/D9ETmIAvghH9W44QzEVQe13xpBATyTiyBVdgXyCqOILV63vOjk=', 'edbf98302df0e84b9d5ce7fdffda68f27bff32962164e1d07069217c6c189d0a')">contact@piinteract.org</a><br /><a class="underline underline underline-offset-2 decoration-1 decoration-current/40 hover:decoration-current focus:decoration-current" href="http://www.piinteract.org" rel="noopener">www.piinteract.org</a></p>
 </div></div>
 
 <div class="et_pb_divider_10 et_pb_divider et_pb_space et_pb_divider_position_center et_pb_module"><div class="et_pb_divider_internal"></div></div></div></div></div>
