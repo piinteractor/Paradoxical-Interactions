@@ -2,22 +2,19 @@
 title: "&#8220;Power Scales Faster Than Alignment&#8221;"
 slug: "power-scales-faster-than-alignment"
 published: "2026-01-29T08:00:56"
-updated: "2026-03-04T15:23:31"
-archived_at: "2026-03-04T15:23:39Z"
+updated: "2026-03-21T05:51:36"
+archived_at: "2026-03-21T05:51:43Z"
 source_url: "https://blog.piinteract.org/power-scales-faster-than-alignment/"
 source: "blog.piinteract.org"
 status: "publish"
 ---
-
-
 <div class="et_pb_section_0 et_pb_section et_section_regular et_flex_section">
-
 <div class="et_pb_row_0 et_pb_row et_flex_row">
-
 <div class="et_pb_column_0 et_pb_column et-last-child et_flex_column et_pb_css_mix_blend_mode_passthrough et_flex_column_24_24 et_flex_column_24_24_tablet et_flex_column_24_24_phone">
-
-<div class="et_pb_text_0 et_pb_text et_pb_bg_layout_light et_pb_module et_flex_module"><div class="et_pb_text_inner"><p><em> "Only he who is a party can really judge, but as a party he cannot judge. Hence it follows that there is no possibility of judgment in the world, only a glimmer of it." </em></p>
-<p>— Franz Kafka</p>
+<div class="et_pb_text_0 et_pb_text et_pb_bg_layout_light et_pb_module et_flex_module"><div class="et_pb_text_inner"><blockquote>
+<p><em><strong>"Knowledge is power."</strong> — Petyr Baelish</em></p>
+<p><em><strong>"Power is power."</strong> — Cersei Lannister</em></p>
+</blockquote>
 </div></div>
 
 <div class="et_pb_divider_0 et_pb_divider et_pb_space et_pb_divider_position_center et_pb_module"><div class="et_pb_divider_internal"></div></div>
@@ -164,7 +161,10 @@ status: "publish"
 
 <div class="et_pb_divider_13 et_pb_divider et_pb_space et_pb_divider_position_center et_pb_module"><div class="et_pb_divider_internal"></div></div>
 
-<div class="et_pb_text_14 et_pb_text et_pb_bg_layout_light et_pb_module et_flex_module"><div class="et_pb_text_inner"><p class="font-claude-response-body break-words whitespace-normal leading-[1.7]">Paradoxical Interactions <em>(PI): When rational actors consistently produce collectively irrational outcomes—not through failure, but through structure.</em></p>
+<div class="et_pb_text_14 et_pb_text et_pb_bg_layout_light et_pb_module et_flex_module"><div class="et_pb_text_inner"><p>Paradoxical Interactions <em>(PI): When rational actors consistently produce collectively irrational outcomes—not through failure, but through structure.</em></p>
 </div></div>
 
-<div class="et_pb_divider_14 et_pb_divider et_pb_space et_pb_divider_position_center et_pb_module"><div class="et_pb_divider_internal"></div></div></div></div></div>
+<div class="et_pb_divider_14 et_pb_divider et_pb_space et_pb_divider_position_center et_pb_module"><div class="et_pb_divider_internal"></div></div>
+</div>
+</div>
+</div>
