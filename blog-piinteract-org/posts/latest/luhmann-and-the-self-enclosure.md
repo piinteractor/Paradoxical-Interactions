@@ -3,6 +3,7 @@ title: "Luhmann and the Self-Enclosure"
 date: 2026-01-25T14:46:29
 modified: 2026-03-10T23:01:46
 slug: luhmann-and-the-self-enclosure
+lang: en
 type: post
 status: publish
 wp_id: 421
