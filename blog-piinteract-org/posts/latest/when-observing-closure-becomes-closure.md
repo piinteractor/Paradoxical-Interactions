@@ -3,6 +3,7 @@ title: "When Observing Closure Becomes Closure"
 date: 2026-02-27T12:00:56
 modified: 2026-03-09T20:33:57
 slug: when-observing-closure-becomes-closure
+lang: en
 type: post
 status: publish
 wp_id: 2739
