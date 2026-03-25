@@ -3,6 +3,7 @@ title: "The Hypothesis Trap. Why AI Can Only Tell the Truth When It Doesn’t Kn
 date: 2026-03-01T10:00:56
 modified: 2026-03-21T19:36:23
 slug: the-hypothesis-trap-why-ai-can-only-tell-the-truth-when-it-doesnt-know-its-true
+lang: en
 type: post
 status: publish
 wp_id: 2729
