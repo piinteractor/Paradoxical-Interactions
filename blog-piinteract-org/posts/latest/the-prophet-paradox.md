@@ -3,6 +3,7 @@ title: "The Prophet Paradox"
 date: 2026-01-28T08:00:56
 modified: 2026-02-26T13:00:41
 slug: the-prophet-paradox
+lang: en
 type: post
 status: publish
 wp_id: 626
