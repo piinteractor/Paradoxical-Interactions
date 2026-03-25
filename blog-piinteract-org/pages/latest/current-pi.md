@@ -3,6 +3,7 @@ title: "Current PI"
 date: 2026-03-18T16:53:03
 modified: 2026-03-19T09:54:21
 slug: current-pi
+lang: en
 type: page
 status: publish
 wp_id: 341
