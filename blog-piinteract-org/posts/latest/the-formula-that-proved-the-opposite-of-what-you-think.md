@@ -3,6 +3,7 @@ title: "The Formula That Proved the Opposite of What You Think"
 date: 2026-02-06T07:00:56
 modified: 2026-02-27T14:13:10
 slug: the-formula-that-proved-the-opposite-of-what-you-think
+lang: en
 type: post
 status: publish
 wp_id: 1567
