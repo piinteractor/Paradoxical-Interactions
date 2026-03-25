@@ -3,6 +3,7 @@ title: "The Deparadoxification of the Deparadoxification."
 date: 2026-03-20T11:52:59
 modified: 2026-03-24T05:56:52
 slug: the-deparadoxification-of-the-deparadoxification
+lang: en
 type: post
 status: publish
 wp_id: 3669
