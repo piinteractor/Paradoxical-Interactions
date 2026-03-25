@@ -3,6 +3,7 @@ title: "The Communication Asymmetry:"
 date: 2026-02-02T10:00:56
 modified: 2026-03-20T18:16:35
 slug: the-communication-asymmetry
+lang: en
 type: post
 status: publish
 wp_id: 1065
