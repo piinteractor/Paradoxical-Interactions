@@ -3,6 +3,7 @@ title: "Religion & Belief Systems"
 date: 2025-12-29T15:57:09
 modified: 2026-02-22T19:02:25
 slug: religion-belief-systems
+lang: en
 type: page
 status: publish
 wp_id: 1168
