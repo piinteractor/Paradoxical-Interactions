@@ -3,6 +3,7 @@ title: "The Priest of Nemi: How Success Creates Its Own Assassin"
 date: 2026-01-26T17:25:56
 modified: 2026-03-11T05:09:54
 slug: the-priest-of-nemi-how-success-creates-its-own-assassin
+lang: en
 type: post
 status: publish
 wp_id: 570
