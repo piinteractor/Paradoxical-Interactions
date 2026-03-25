@@ -3,6 +3,7 @@ title: "Framework"
 date: 2025-12-17T22:09:55
 modified: 2026-02-04T10:11:19
 slug: framework
+lang: en
 type: page
 status: publish
 wp_id: 205
