@@ -3,6 +3,7 @@ title: "The Jonah Paradox"
 date: 2026-02-04T07:00:56
 modified: 2026-02-23T19:57:10
 slug: the-jonah-paradox
+lang: en
 type: post
 status: publish
 wp_id: 1236
