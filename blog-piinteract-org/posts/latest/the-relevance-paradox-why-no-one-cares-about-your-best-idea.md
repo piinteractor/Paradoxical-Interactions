@@ -3,6 +3,7 @@ title: "The Relevance Paradox: Why No One Cares About Your Best Idea"
 date: 2026-02-23T10:00:56
 modified: 2026-03-14T01:29:30
 slug: the-relevance-paradox-why-no-one-cares-about-your-best-idea
+lang: en
 type: post
 status: publish
 wp_id: 2176
