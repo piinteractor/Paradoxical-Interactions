@@ -3,6 +3,7 @@ title: "The Intelligence Trap"
 date: 2026-01-26T12:10:46
 modified: 2026-02-03T06:56:09
 slug: the-intelligence-trap
+lang: en
 type: post
 status: publish
 wp_id: 520
