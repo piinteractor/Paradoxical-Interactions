@@ -3,6 +3,7 @@ title: "The Perelman Paradox"
 date: 2026-02-02T08:00:56
 modified: 2026-03-11T05:19:49
 slug: the-perelman-paradox
+lang: en
 type: post
 status: publish
 wp_id: 1100
