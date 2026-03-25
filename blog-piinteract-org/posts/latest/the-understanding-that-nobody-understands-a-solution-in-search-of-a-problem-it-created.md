@@ -3,6 +3,7 @@ title: "The Understanding That Nobody Understands. A Solution in Search of a Pro
 date: 2026-03-11T16:39:14
 modified: 2026-03-13T17:26:55
 slug: the-understanding-that-nobody-understands-a-solution-in-search-of-a-problem-it-created
+lang: en
 type: post
 status: publish
 wp_id: 3333
