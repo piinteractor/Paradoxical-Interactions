@@ -3,6 +3,7 @@ title: "The Finishing Bell. We Built the Experiment. We Were the Experiment."
 date: 2026-03-19T18:50:08
 modified: 2026-03-20T09:24:35
 slug: the-finishing-bell-we-built-the-experiment-we-were-the-experiment
+lang: en
 type: post
 status: publish
 wp_id: 3365
