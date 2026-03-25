@@ -3,6 +3,7 @@ title: "The PI of Peter Thiel"
 date: 2026-02-15T10:00:56
 modified: 2026-02-27T14:13:10
 slug: the-pi-of-peter-thiel
+lang: en
 type: post
 status: publish
 wp_id: 1907
