@@ -3,6 +3,7 @@ title: "Anti-Practices"
 date: 2025-12-17T22:10:00
 modified: 2026-02-28T10:37:51
 slug: anti-practices
+lang: en
 type: page
 status: publish
 wp_id: 495
