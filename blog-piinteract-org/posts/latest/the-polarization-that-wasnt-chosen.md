@@ -3,6 +3,7 @@ title: "The Polarization That Wasn’t Chosen"
 date: 2026-02-27T10:00:56
 modified: 2026-03-14T01:25:44
 slug: the-polarization-that-wasnt-chosen
+lang: en
 type: post
 status: publish
 wp_id: 2627
