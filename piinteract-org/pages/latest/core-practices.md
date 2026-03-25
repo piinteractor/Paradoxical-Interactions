@@ -3,6 +3,7 @@ title: "Core Practices"
 date: 2025-12-17T22:09:59
 modified: 2026-02-17T21:29:13
 slug: core-practices
+lang: en
 type: page
 status: publish
 wp_id: 493
