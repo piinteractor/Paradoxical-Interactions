@@ -3,6 +3,7 @@ title: "Practices"
 date: 2025-12-17T22:09:59
 modified: 2026-02-04T10:44:50
 slug: practices
+lang: en
 type: page
 status: publish
 wp_id: 286
