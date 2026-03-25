@@ -3,6 +3,7 @@ title: "Home"
 date: 2025-11-06T14:50:21
 modified: 2026-02-26T12:17:15
 slug: paradoxical-interactions
+lang: en
 type: page
 status: publish
 wp_id: 14
