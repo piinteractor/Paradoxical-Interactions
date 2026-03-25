@@ -3,6 +3,7 @@ title: "Science PI"
 date: 2026-03-18T16:53:03
 modified: 2026-03-18T17:25:27
 slug: science-pi
+lang: en
 type: page
 status: publish
 wp_id: 2784
