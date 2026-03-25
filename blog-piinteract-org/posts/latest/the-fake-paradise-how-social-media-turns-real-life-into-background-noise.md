@@ -3,6 +3,7 @@ title: "The Fake Paradise. How Social Media Turns Real Life into Background Nois
 date: 2026-03-07T10:00:56
 modified: 2026-03-09T22:44:54
 slug: the-fake-paradise-how-social-media-turns-real-life-into-background-noise
+lang: en
 type: post
 status: publish
 wp_id: 3152
