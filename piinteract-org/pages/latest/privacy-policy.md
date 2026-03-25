@@ -3,6 +3,7 @@ title: "Privacy Policy"
 date: 2025-12-16T10:28:35
 modified: 2025-12-27T11:16:00
 slug: privacy-policy
+lang: en
 type: page
 status: publish
 wp_id: 3
