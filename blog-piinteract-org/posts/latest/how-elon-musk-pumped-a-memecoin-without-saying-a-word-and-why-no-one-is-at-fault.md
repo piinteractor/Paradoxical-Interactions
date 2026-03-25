@@ -3,6 +3,7 @@ title: "How Elon Musk Pumped a Memecoin Without Saying a Word—And Why No One I
 date: 2026-02-01T08:00:56
 modified: 2026-03-11T04:43:45
 slug: how-elon-musk-pumped-a-memecoin-without-saying-a-word-and-why-no-one-is-at-fault
+lang: en
 type: post
 status: publish
 wp_id: 962
