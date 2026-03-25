@@ -3,6 +3,7 @@ title: "When Leaking Makes You Look Weaker"
 date: 2026-02-03T08:00:56
 modified: 2026-03-25T11:48:34
 slug: when-leaking-makes-you-look-weaker
+lang: en
 type: post
 status: publish
 wp_id: 956
