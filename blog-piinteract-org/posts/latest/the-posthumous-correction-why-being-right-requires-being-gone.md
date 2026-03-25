@@ -3,6 +3,7 @@ title: "The Posthumous Correction. Why Being Right Requires Being Gone."
 date: 2026-03-15T20:48:10
 modified: 2026-03-17T18:56:39
 slug: the-posthumous-correction-why-being-right-requires-being-gone
+lang: en
 type: post
 status: publish
 wp_id: 3601
