@@ -3,6 +3,7 @@ title: "The Cassandra Paradox"
 date: 2026-01-26T17:25:56
 modified: 2026-03-11T05:16:01
 slug: the-cassandra-paradox
+lang: en
 type: post
 status: publish
 wp_id: 619
