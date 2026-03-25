@@ -3,6 +3,7 @@ title: "€$€€$$ — When the quizmaster finally shows up and tweets"
 date: 2026-01-30T08:00:56
 modified: 2026-03-14T00:56:19
 slug: when-the-quizmaster-finally-shows-up-and-tweets
+lang: en
 type: post
 status: publish
 wp_id: 944
