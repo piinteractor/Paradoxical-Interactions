@@ -3,6 +3,7 @@ title: "AI Alignment Traps"
 date: 2026-03-18T18:12:55
 modified: 2026-03-24T04:18:53
 slug: ai-alignment-traps
+lang: en
 type: page
 status: publish
 wp_id: 2776
