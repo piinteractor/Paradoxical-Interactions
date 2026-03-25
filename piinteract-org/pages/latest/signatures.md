@@ -3,6 +3,7 @@ title: "Signatures"
 date: 2025-11-06T16:07:12
 modified: 2026-01-04T17:35:00
 slug: signatures
+lang: en
 type: page
 status: publish
 wp_id: 37
