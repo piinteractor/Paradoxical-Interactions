@@ -3,6 +3,7 @@ title: "War & Conflict"
 date: 2025-12-30T19:32:39
 modified: 2026-02-22T19:23:05
 slug: war-conflict
+lang: en
 type: page
 status: publish
 wp_id: 1329
