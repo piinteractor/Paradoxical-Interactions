@@ -3,6 +3,7 @@ title: "Justice That Could Be Afforded"
 date: 2026-01-23T10:33:56
 modified: 2026-03-04T14:40:55
 slug: justice-that-could-be-afforded
+lang: en
 type: post
 status: publish
 wp_id: 366
