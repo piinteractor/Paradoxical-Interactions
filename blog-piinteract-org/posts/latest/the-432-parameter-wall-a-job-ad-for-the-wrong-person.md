@@ -3,6 +3,7 @@ title: "The 432-Parameter Wall. A Job Ad for the Wrong Person."
 date: 2026-03-11T13:01:41
 modified: 2026-03-11T16:48:36
 slug: the-432-parameter-wall-a-job-ad-for-the-wrong-person
+lang: en
 type: post
 status: publish
 wp_id: 3320
