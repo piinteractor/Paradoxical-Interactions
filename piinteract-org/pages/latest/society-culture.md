@@ -3,6 +3,7 @@ title: "Society & Culture"
 date: 2025-12-17T22:09:57
 modified: 2026-02-17T14:39:42
 slug: society-culture
+lang: en
 type: page
 status: publish
 wp_id: 412
