@@ -3,6 +3,7 @@ title: "Synchronization of Metronomes. The Physical Axiom of PI."
 date: 2026-03-07T10:00:56
 modified: 2026-03-09T15:03:33
 slug: synchronization-of-metronomes-the-physical-axiom-of-pi
+lang: en
 type: post
 status: publish
 wp_id: 3090
