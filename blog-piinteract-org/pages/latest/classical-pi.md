@@ -3,6 +3,7 @@ title: "Classical PI"
 date: 2026-03-18T16:53:01
 modified: 2026-03-19T08:08:40
 slug: classical-pi
+lang: en
 type: page
 status: publish
 wp_id: 337
