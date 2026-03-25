@@ -3,6 +3,7 @@ title: "AI Alignment Trap: How AI Companies Get Stuck in Structure"
 date: 2026-02-01T07:00:56
 modified: 2026-03-14T04:53:40
 slug: ai-alignment-trap-how-ai-companies-get-stuck-in-structure
+lang: en
 type: post
 status: publish
 wp_id: 1020
