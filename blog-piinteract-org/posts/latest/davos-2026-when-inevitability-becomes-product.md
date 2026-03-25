@@ -3,6 +3,7 @@ title: "Davos: 2026 – When Inevitability becomes Product"
 date: 2026-01-21T21:28:13
 modified: 2026-03-04T14:25:27
 slug: davos-2026-when-inevitability-becomes-product
+lang: en
 type: post
 status: publish
 wp_id: 333
