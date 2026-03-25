@@ -3,6 +3,7 @@ title: "When Checkmate Is Just a Position"
 date: 2026-02-25T10:00:56
 modified: 2026-03-14T05:07:20
 slug: when-checkmate-is-just-a-position
+lang: en
 type: post
 status: publish
 wp_id: 2298
