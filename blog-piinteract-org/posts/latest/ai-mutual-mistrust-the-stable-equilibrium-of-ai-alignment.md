@@ -3,6 +3,7 @@ title: "AI Mutual Mistrust: The Stable Equilibrium of AI Alignment"
 date: 2026-02-04T12:00:56
 modified: 2026-02-27T14:13:07
 slug: ai-mutual-mistrust-the-stable-equilibrium-of-ai-alignment
+lang: en
 type: post
 status: publish
 wp_id: 1076
