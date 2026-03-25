@@ -3,6 +3,7 @@ title: "Riding the Magic Bus. How Self-Organization Refers to Itself."
 date: 2026-03-24T09:20:34
 modified: 2026-03-25T13:19:59
 slug: riding-the-magic-bus-how-self-organization-refers-to-itself
+lang: en
 type: post
 status: publish
 wp_id: 4200
