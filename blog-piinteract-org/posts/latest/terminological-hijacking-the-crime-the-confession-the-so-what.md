@@ -3,6 +3,7 @@ title: "Terminological Hijacking: The Crime, The Confession, The “So What?”"
 date: 2026-01-24T16:00:36
 modified: 2026-03-11T05:06:51
 slug: terminological-hijacking-the-crime-the-confession-the-so-what
+lang: en
 type: post
 status: publish
 wp_id: 425
