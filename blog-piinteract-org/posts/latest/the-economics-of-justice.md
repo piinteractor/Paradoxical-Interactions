@@ -3,6 +3,7 @@ title: "The Economics of Justice"
 date: 2026-01-23T11:57:56
 modified: 2026-03-20T16:28:17
 slug: the-economics-of-justice
+lang: en
 type: post
 status: publish
 wp_id: 378
