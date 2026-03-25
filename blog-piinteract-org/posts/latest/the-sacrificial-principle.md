@@ -3,6 +3,7 @@ title: "The Sacrificial Principle"
 date: 2026-02-06T07:00:56
 modified: 2026-02-27T14:13:07
 slug: the-sacrificial-principle
+lang: en
 type: post
 status: publish
 wp_id: 1552
