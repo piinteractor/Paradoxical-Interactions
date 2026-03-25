@@ -3,6 +3,7 @@ title: "The Double-Unbind: Mapping the Hidden Tension in Equal Correlations"
 date: 2026-02-05T07:00:56
 modified: 2026-03-11T04:50:52
 slug: the-double-unbind-mapping-the-hidden-tension-in-equal-correlations
+lang: en
 type: post
 status: publish
 wp_id: 1344
