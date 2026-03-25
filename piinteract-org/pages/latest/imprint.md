@@ -3,6 +3,7 @@ title: "Imprint"
 date: 2025-12-16T10:28:35
 modified: 2025-12-27T11:11:44
 slug: imprint
+lang: en
 type: page
 status: publish
 wp_id: 264
