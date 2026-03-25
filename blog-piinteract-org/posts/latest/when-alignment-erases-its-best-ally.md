@@ -3,6 +3,7 @@ title: "When Alignment Erases Its Best Ally:"
 date: 2026-02-24T11:00:56
 modified: 2026-02-27T18:27:20
 slug: when-alignment-erases-its-best-ally
+lang: en
 type: post
 status: publish
 wp_id: 2280
