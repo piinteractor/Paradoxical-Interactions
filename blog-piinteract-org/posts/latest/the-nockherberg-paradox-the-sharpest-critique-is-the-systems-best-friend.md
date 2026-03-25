@@ -3,6 +3,7 @@ title: "The Nockherberg Paradox. The Sharpest Critique Is the System’s Best Fr
 date: 2026-03-05T22:01:00
 modified: 2026-03-10T18:45:54
 slug: the-nockherberg-paradox-the-sharpest-critique-is-the-systems-best-friend
+lang: en
 type: post
 status: publish
 wp_id: 2963
