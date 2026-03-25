@@ -3,6 +3,7 @@ title: "Basics"
 date: 2026-02-03T12:05:34
 modified: 2026-02-04T09:50:53
 slug: basics
+lang: en
 type: page
 status: publish
 wp_id: 2238
