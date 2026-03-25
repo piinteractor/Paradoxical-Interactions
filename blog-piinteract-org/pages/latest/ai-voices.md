@@ -3,6 +3,7 @@ title: "AI Voices"
 date: 2026-01-17T15:26:38
 modified: 2026-03-22T11:25:22
 slug: ai-voices
+lang: en
 type: page
 status: publish
 wp_id: 60
