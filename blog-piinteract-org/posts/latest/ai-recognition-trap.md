@@ -3,6 +3,7 @@ title: "AI Recognition Trap:"
 date: 2026-02-03T07:00:56
 modified: 2026-02-27T14:13:06
 slug: ai-recognition-trap
+lang: en
 type: post
 status: publish
 wp_id: 1067
