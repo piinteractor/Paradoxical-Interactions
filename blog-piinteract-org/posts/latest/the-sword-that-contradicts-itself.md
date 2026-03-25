@@ -3,6 +3,7 @@ title: "The Sword That Contradicts Itself"
 date: 2026-02-21T10:00:56
 modified: 2026-02-27T14:13:38
 slug: the-sword-that-contradicts-itself
+lang: en
 type: post
 status: publish
 wp_id: 2081
