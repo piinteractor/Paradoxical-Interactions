@@ -3,6 +3,7 @@ title: "Why AI Understands PI Better Than Humans"
 date: 2026-01-17T10:51:08
 modified: 2026-03-04T13:54:14
 slug: why-ai-understands-pi-better-than-humans
+lang: en
 type: post
 status: publish
 wp_id: 48
