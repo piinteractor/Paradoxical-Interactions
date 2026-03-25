@@ -3,6 +3,7 @@ title: "Von Papen, Schleicher & Co."
 date: 2026-01-23T12:35:10
 modified: 2026-02-28T15:59:05
 slug: von-papen-schleicher-co
+lang: en
 type: post
 status: publish
 wp_id: 387
