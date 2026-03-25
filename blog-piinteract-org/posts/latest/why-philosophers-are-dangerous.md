@@ -3,6 +3,7 @@ title: "Why Philosophers Are Dangerous"
 date: 2026-02-16T10:00:56
 modified: 2026-02-27T16:18:36
 slug: why-philosophers-are-dangerous
+lang: en
 type: post
 status: publish
 wp_id: 1979
