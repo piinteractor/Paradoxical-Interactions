@@ -3,6 +3,7 @@ title: "Narrow-mindedness instead of Wisdom – The Philosopher’s PI"
 date: 2026-01-28T08:00:56
 modified: 2026-03-11T05:13:51
 slug: narrow-mindedness-instead-of-wisdom-the-philosophers-pi
+lang: en
 type: post
 status: publish
 wp_id: 646
