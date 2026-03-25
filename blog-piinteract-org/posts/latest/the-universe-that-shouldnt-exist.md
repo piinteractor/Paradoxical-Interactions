@@ -3,6 +3,7 @@ title: "The Universe That Shouldn’t Exist"
 date: 2026-02-23T10:00:56
 modified: 2026-03-04T13:20:02
 slug: the-universe-that-shouldnt-exist
+lang: en
 type: post
 status: publish
 wp_id: 2163
