@@ -3,6 +3,7 @@ title: "Technology & AI"
 date: 2025-12-17T22:09:56
 modified: 2026-02-16T20:18:17
 slug: technology-ai
+lang: en
 type: page
 status: publish
 wp_id: 408
