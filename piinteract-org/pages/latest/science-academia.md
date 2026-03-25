@@ -3,6 +3,7 @@ title: "Science & Academia"
 date: 2025-12-17T22:09:58
 modified: 2026-02-17T14:54:05
 slug: science-academia
+lang: en
 type: page
 status: publish
 wp_id: 414
