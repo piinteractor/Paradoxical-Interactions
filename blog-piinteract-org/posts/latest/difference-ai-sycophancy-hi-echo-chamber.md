@@ -3,6 +3,7 @@ title: "HI AI Sycophancy vs. HI HI Echo Chambers"
 date: 2026-01-17T10:54:36
 modified: 2026-03-04T14:25:15
 slug: difference-ai-sycophancy-hi-echo-chamber
+lang: en
 type: post
 status: publish
 wp_id: 52
