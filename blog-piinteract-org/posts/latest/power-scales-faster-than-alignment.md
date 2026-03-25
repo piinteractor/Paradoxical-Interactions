@@ -3,6 +3,7 @@ title: "“Power Scales Faster Than Alignment”"
 date: 2026-01-29T08:00:56
 modified: 2026-03-21T05:51:36
 slug: power-scales-faster-than-alignment
+lang: en
 type: post
 status: publish
 wp_id: 733
