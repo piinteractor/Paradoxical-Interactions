@@ -3,6 +3,7 @@ title: "Home"
 date: 2026-01-17T09:43:25
 modified: 2026-03-23T03:19:46
 slug: home
+lang: en
 type: page
 status: publish
 wp_id: 39
