@@ -3,6 +3,7 @@ title: "The Gaveston Pattern:"
 date: 2026-02-19T10:00:56
 modified: 2026-02-27T14:13:38
 slug: the-gaveston-pattern
+lang: en
 type: post
 status: publish
 wp_id: 1981
