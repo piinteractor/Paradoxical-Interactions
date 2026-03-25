@@ -3,6 +3,7 @@ title: "HI ⟺ AI Interaction"
 date: 2026-03-24T16:56:14
 modified: 2026-03-24T20:37:52
 slug: hi-ai-interaction
+lang: en
 type: page
 status: publish
 wp_id: 3760
