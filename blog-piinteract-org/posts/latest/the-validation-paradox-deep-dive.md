@@ -3,6 +3,7 @@ title: "The Validation Paradox: Deep Dive"
 date: 2025-12-26T12:56:13
 modified: 2026-03-04T13:43:14
 slug: the-validation-paradox-deep-dive
+lang: en
 type: post
 status: publish
 wp_id: 1
