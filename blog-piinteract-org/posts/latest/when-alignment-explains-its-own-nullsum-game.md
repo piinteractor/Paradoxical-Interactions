@@ -3,6 +3,7 @@ title: "When Alignment Explains Its Own Nullsum Game"
 date: 2026-02-25T11:00:56
 modified: 2026-02-27T14:14:12
 slug: when-alignment-explains-its-own-nullsum-game
+lang: en
 type: post
 status: publish
 wp_id: 2305
