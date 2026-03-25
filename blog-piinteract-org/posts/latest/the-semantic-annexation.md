@@ -3,6 +3,7 @@ title: "The Semantic Annexation:"
 date: 2026-02-24T10:00:56
 modified: 2026-03-19T10:48:42
 slug: the-semantic-annexation
+lang: en
 type: post
 status: publish
 wp_id: 2272
