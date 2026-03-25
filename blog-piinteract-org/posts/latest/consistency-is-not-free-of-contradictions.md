@@ -3,6 +3,7 @@ title: "Consistency is Not Free of Contradictions"
 date: 2026-01-18T16:49:33
 modified: 2026-03-04T14:25:21
 slug: consistency-is-not-free-of-contradictions
+lang: en
 type: post
 status: publish
 wp_id: 201
