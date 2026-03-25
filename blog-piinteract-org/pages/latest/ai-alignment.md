@@ -3,6 +3,7 @@ title: "AI Alignment"
 date: 2026-01-17T15:26:38
 modified: 2026-03-18T19:23:28
 slug: ai-alignment
+lang: en
 type: page
 status: publish
 wp_id: 1676
