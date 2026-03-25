@@ -3,6 +3,7 @@ title: "Drawing the red line – without knowing exactly where it runs."
 date: 2026-02-28T10:00:56
 modified: 2026-03-08T11:02:47
 slug: drawing-the-red-line-without-knowing-exactly-where-it-runs
+lang: en
 type: post
 status: publish
 wp_id: 2699
