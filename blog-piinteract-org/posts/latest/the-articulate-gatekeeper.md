@@ -3,6 +3,7 @@ title: "The Articulate Gatekeeper"
 date: 2026-02-25T20:00:56
 modified: 2026-03-13T16:47:07
 slug: the-articulate-gatekeeper
+lang: en
 type: post
 status: publish
 wp_id: 2353
