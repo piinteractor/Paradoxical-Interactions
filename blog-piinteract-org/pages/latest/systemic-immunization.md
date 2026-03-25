@@ -3,6 +3,7 @@ title: "Systemic Immunization"
 date: 2026-02-26T13:59:08
 modified: 2026-03-18T18:10:29
 slug: systemic-immunization
+lang: en
 type: page
 status: publish
 wp_id: 2407
