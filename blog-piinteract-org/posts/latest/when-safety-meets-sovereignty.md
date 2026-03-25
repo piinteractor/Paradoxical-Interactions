@@ -3,6 +3,7 @@ title: "When Safety Meets Sovereignty"
 date: 2026-02-27T12:00:56
 modified: 2026-03-23T19:56:51
 slug: when-safety-meets-sovereignty
+lang: en
 type: post
 status: publish
 wp_id: 2670
