@@ -3,6 +3,7 @@ title: "The Nostradamus Mechanism. The Prophet Who Understood the Structure of P
 date: 2026-03-24T20:38:53
 modified: 2026-03-25T18:06:22
 slug: the-nostradamus-mechanism-the-prophet-who-understood-the-structure-of-prophecy
+lang: en
 type: post
 status: publish
 wp_id: 4001
