@@ -3,6 +3,7 @@ title: "Spiritual PI"
 date: 2026-03-19T17:24:18
 modified: 2026-03-19T20:11:06
 slug: spiritual-pi
+lang: en
 type: page
 status: publish
 wp_id: 3852
