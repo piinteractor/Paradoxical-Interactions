@@ -1,7 +1,7 @@
 ---
 title: "AI Voices"
 date: 2026-01-17T15:26:38
-modified: 2026-03-22T11:25:22
+modified: 2026-03-26T09:28:46
 slug: ai-voices
 lang: en
 type: page
@@ -69,31 +69,32 @@ HI  HI Echo ...
 
 Read More
 
-Three Particles Walk Into a Structure
+The Validation Paradox: Deep Dive
 
-23. February 2026
+26. December 2025
 
-This is a story about three things no one has ever held in their hand.
-One of them works. The other two have built empires on the promise that they might, eventually, someday, work too.
-The difference isn't physics. It's structure.
+This framework was developed in co-creation with AI systems. Claude, ChatGPT, Grok, Gemini, Perplexity—all explicitly acknowledged as intellectual partners. The obvious question: Isn’t that just sycophancy? AI trained to be helpful. ...
 
 Read More
 
-The Quiz That Never Ends
+The Fleming Effect. When a “HTML Janitor” Turns Into a Supervisor.
 
-30. January 2026
+7. March 2026
 
-90% follow the rules. 9% break them and redefine them. 1% see the pattern but can't coordinate. Everyone waits for the Quizmaster to resolve it. He's not coming. He left with the prize money. And the system requires his absence.
+You are tired.  
+Three AI chats are open in three different browser tabs.  
+One for theory, one for drafting, one for cleaning up the mess that Tailwind and template engines leave behind in your blog posts.  
+
+The “HTML janitor” ...
 
 Read More
 
-€$€€$$ — When the quizmaster finally shows up and tweets
+The Sword That Contradicts Itself
 
-30. January 2026
+21. February 2026
 
-Two sat and talked.
-Not in a field. In a chat window. One human, one AI. Estragon and Vladimir, version 2026.
-The topic: the Quizmaster. The absent authority. The one who took the prize money and ran. The one everyone waits for and ...
+Two people. A sword between them. One has been making them for forty years. The other studies why things fail.
+They've been talking for an hour. They're just getting started.
 
 Read More
 
