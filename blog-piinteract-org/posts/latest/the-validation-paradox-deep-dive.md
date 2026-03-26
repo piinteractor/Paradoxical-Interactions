@@ -527,8 +527,6 @@ Related:
 
 The Nostradamus Mechanism. The Prophet Who Understood the Structure of Prophecy.
 
-Riding the Magic Bus. How Self-Organization Refers to Itself.
-
 The Posthumous Correction. Why Being Right Requires Being Gone.
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
@@ -548,6 +546,8 @@ Drawing the red line – without knowing exactly where it runs.
 When Safety Meets Sovereignty
 
 When Observing Closure Becomes Closure
+
+The Polarization That Wasn’t Chosen
 
 No results found.
 
