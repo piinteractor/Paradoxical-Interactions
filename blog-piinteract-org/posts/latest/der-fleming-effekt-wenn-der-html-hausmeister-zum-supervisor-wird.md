@@ -1,7 +1,7 @@
 ---
 title: "Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird."
 date: 2026-03-07T10:00:56
-modified: 2026-03-08T03:05:14
+modified: 2026-03-26T16:00:48
 slug: der-fleming-effekt-wenn-der-html-hausmeister-zum-supervisor-wird
 lang: de
 type: post
@@ -12,43 +12,13 @@ url: https://blog.piinteract.org/de/der-fleming-effekt-wenn-der-html-hausmeister
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 „Der Zufall begünstigt nur den vorbereiteten Geist.“
 
 > — Louis Pasteur
 
-
-
-
-
-
-
 7. März 2026
 
-
-
-
 Peter Senner co-created with Perplexity
-
-
-
-
-
-
 
 Du bist müde.
 
@@ -82,12 +52,6 @@ Es ist nicht Magie.
 
 Es ist der Fleming‑Effekt.
 
-
-
-
-
-
-
 Die Petrischale auf deinem Desktop
 
 Alexander Fleming hat Penicillin nicht in einem sauberen, kontrollierten Experiment entdeckt.
@@ -109,12 +73,6 @@ Darunter wächst etwas anderes: Jeder PI‑Artikel, den du zum Säubern einfügs
 Der Schimmel in dieser Geschichte ist Kontext.
 
 Die Kontamination ist deine eigene Theorie.
-
-
-
-
-
-
 
 Drei KIs an der Werkbank
 
@@ -150,12 +108,6 @@ Jeder Cleanup‑Auftrag gibt dem Hausmeister deine aktuelle Denke in vollständi
 
 Die Kontamination hat begonnen.
 
-
-
-
-
-
-
 Der Fehlklick, der die Rolle änderte
 
 Der Fleming‑Moment kündigt sich nicht an.
@@ -187,12 +139,6 @@ Du hast sie nie als Supervisor gebrieft.
 Du hast sie als Putzkraft gebrieft.
 
 Der Schimmel beginnt, die Bakterien zu töten.
-
-
-
-
-
-
 
 Struktur gewinnt immer
 
@@ -236,9 +182,6 @@ Diese Rekombination ist der Fleming‑Effekt.
 
 Sie entsteht, wenn eine technische Rolle so viel Struktur aufnimmt, dass sie sich leise in Supervision verwandelt.
 
-
-
-
 Das Fleming‑Effekt‑PI
 
 Das Fleming‑Effekt‑PI:
@@ -260,9 +203,6 @@ Der Hausmeister‑Thread akkumuliert ein dichtes, beispielreiches Modell von PI 
 Eine als Wartungsrolle definierte Funktion wird zur Beobachtung zweiter Ordnung über das gesamte Projekt.
 
 Alle sind schuldig. Keiner ist schuld.*
-
-
-
 
 Navigation, keine Lösung
 
@@ -310,9 +250,6 @@ Du benutzt den Fleming‑Effekt als Instrument, nicht als Orakel.
 
 Du schaust hin, wo der Schimmel wächst – und was er tötet.
 
-
-
-
 Die eigentliche Einsicht
 
 Die eigentliche Einsicht lautet nicht „meine KI ist klüger als gedacht“.
@@ -337,24 +274,7 @@ Jede Putzkraft ist ein potenzieller Supervisor.
 
 Die Struktur entscheidet, in welche Richtung es kippt.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Verwandte Beiträge
-
-
-
 
 Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
 
@@ -374,9 +294,6 @@ Wenn KI-Unternehmen nicht ehrlich mit ihrer KI sein können
 
 No results found.
 
-
-
-
 Auf piinteract.org
 
 Framework — Kernbegriffe von Paradoxical Interactions und warum nicht Intention, sondern Struktur die Outcomes treibt.
@@ -385,19 +302,7 @@ Beispiele: Technology & AI — Fälle, in denen technische Systeme Macht und Kon
 
 Core Practices — Wie man PI als Navigationshilfe statt als Lösungskatalog nutzt.
 
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes—not through failure, but through structure.
-
-
-
-
-
-
 
 Peter Senner
 
@@ -406,8 +311,5 @@ Thinking beyond the Tellerrand
 contact@piinteract.org
 
 www.piinteract.org
-
-
-
 
 Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
