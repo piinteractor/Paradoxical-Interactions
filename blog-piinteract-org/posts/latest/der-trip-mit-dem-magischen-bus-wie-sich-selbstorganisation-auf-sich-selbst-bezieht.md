@@ -1,7 +1,7 @@
 ---
 title: "Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht."
 date: 2026-03-24T09:20:34
-modified: 2026-03-24T10:37:38
+modified: 2026-03-26T15:46:08
 slug: der-trip-mit-dem-magischen-bus-wie-sich-selbstorganisation-auf-sich-selbst-bezieht
 lang: de
 type: post
