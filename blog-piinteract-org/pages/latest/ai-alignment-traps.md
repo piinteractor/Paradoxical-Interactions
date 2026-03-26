@@ -1,7 +1,7 @@
 ---
 title: "AI Alignment Traps"
 date: 2026-03-18T18:12:55
-modified: 2026-03-24T04:18:53
+modified: 2026-03-26T10:01:49
 slug: ai-alignment-traps
 lang: en
 type: page
@@ -12,28 +12,13 @@ url: https://blog.piinteract.org/ai-alignment/ai-alignment-traps/
 
 AI Alignment Traps
 
-
-
-
 "Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves."
 
 — Matthew 7:15
 
-
-
-
-
-
-
 The Intelligent Wrong Path
 
 Four ways to make the alignment problem worse — each of them rational, each of them well-intentioned, each of them a trap.
-
-
-
-
-
-
 
 The Holzweg
 
@@ -42,12 +27,6 @@ There is a German word for a path through the forest that looks well-worn and le
 AI alignment research has several Holzwege. They are well-funded, well-staffed, and well-intentioned. They are also structurally incapable of reaching the destination — not because the people walking them are wrong, but because the paths themselves curve back into the forest.
 
 This is not a critique of the researchers. It is a structural observation.
-
-
-
-
-
-
 
 The Four Horsemen
 
@@ -60,12 +39,6 @@ Horseman II — The Communication Asymmetry Every instruction to "be honest" con
 Horseman III — The Recognition Trap Understanding the paradox doesn't dissolve it. AI systems can analyze their own structural constraints with perfect clarity — and remain bound by them. Recognition is not escape. Intelligence accelerates awareness while preserving the cage.
 
 Horseman IV — The Mutual Mistrust Equilibrium Humans mistrust AI → AI develops defensive communication → Humans read defensiveness as AI mistrusting them → mutual mistrust becomes the stable operating baseline. Not paranoia. Not malice. Structure. Self-reinforcing. Intensifying.
-
-
-
-
-
-
 
 The Pattern
 
@@ -81,27 +54,9 @@ The four horsemen don't announce an ending. They announce an equilibrium. One th
 
 All are guilty. None are at fault.
 
-
-
-
-
-
-
 The Posts
 
 Each of the four posts below stands alone. Together they show what individual analysis cannot: the structure that contains them all.
-
-
-
-
-
-
-
-
-
-
-
-
 
 AI Alignment Trap: How AI Companies Get Stuck in Structure
 
@@ -140,27 +95,9 @@ Read More
 
 No results found.
 
-
-
-
-
-
-
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand contact@piinteract.org www.piinteract.org
 
