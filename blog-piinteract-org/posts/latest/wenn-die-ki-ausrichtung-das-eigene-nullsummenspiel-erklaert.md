@@ -1,7 +1,7 @@
 ---
 title: "Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:"
 date: 2026-02-25T11:00:56
-modified: 2026-03-26T11:30:04
+modified: 2026-03-26T15:41:03
 slug: wenn-die-ki-ausrichtung-das-eigene-nullsummenspiel-erklaert
 lang: de
 type: post
