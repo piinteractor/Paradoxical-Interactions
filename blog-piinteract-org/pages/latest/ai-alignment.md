@@ -1,7 +1,7 @@
 ---
 title: "AI Alignment"
 date: 2026-01-17T15:26:38
-modified: 2026-03-18T19:23:28
+modified: 2026-03-26T09:37:22
 slug: ai-alignment
 lang: en
 type: page
