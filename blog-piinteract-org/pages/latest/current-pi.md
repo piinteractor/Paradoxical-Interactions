@@ -183,14 +183,6 @@ Von Foerster said: the observer is inside. There is no ...
 
 Read More
 
-Riding the Magic Bus. How Self-Organization Refers to Itself.
-
-24. March 2026
-
-Self-organization is the great hope of complexity theory. No central authority. No master plan. Local actors, local rules, emergent order. The market. The brain. The flock of starlings. The city that nobody designed but everybody navigates.
-
-Read More
-
 The Nostradamus Mechanism. The Prophet Who Understood the Structure of Prophecy.
 
 24. March 2026
