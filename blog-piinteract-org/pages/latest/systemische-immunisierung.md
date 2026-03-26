@@ -76,7 +76,7 @@ Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
 
 25. Februar 2026
 
-Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: Große Sprachmodelle dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu ...
+Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: LLMs dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu undifferenziert“ zu ...
 
 Read More
 
