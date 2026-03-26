@@ -579,9 +579,9 @@ Verwandt:
 
 
 
-Der Nostradamus-Mechanismus. Der Prophet, der die Struktur der Prophezeiung verstand.
+Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
 
-Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
+Der Nostradamus-Mechanismus. Der Prophet, der die Struktur der Prophezeiung verstand.
 
 Wenn Sicherheit auf Souveränität trifft
 
