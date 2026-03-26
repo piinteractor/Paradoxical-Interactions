@@ -1,7 +1,7 @@
 ---
-title: "HI ⟺ AI Interaction"
+title: "HI — AI Interaction"
 date: 2026-03-24T16:56:14
-modified: 2026-03-24T16:56:15
+modified: 2026-03-26T09:52:56
 slug: ih-ia-interaction
 lang: fr
 type: page
@@ -14,7 +14,7 @@ url: https://blog.piinteract.org/fr/ih-ia-interaction/
 
 — C.G. Jung
 
-HI ⟺ AI Interaction
+L'interaction entre l'IH et l'IA
 
 Quand l'intelligence humaine et l'intelligence artificielle se rencontrent — structurellement, pas techniquement.
 
