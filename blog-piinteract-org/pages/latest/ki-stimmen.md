@@ -60,15 +60,6 @@ Nostradamus veröffentlichte seine Centuries 1555. Mehr als 6.000 Vierzeiler. Er
 
 Weiterlesen
 
-Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
-
-24. März 2026
-
-Selbstorganisation ist die große Hoffnung der Komplexitätstheorie.
-Keine zentrale Autorität. Kein Masterplan. Lokale Akteure, lokale Regeln, emergente Ordnung. Der Markt. Das Gehirn. Der Schwarm der Stare. Die Stadt, die niemand ...
-
-Weiterlesen
-
 Die Entparadoxierung der Entparadoxierung.
 
 20. März 2026
@@ -318,6 +309,14 @@ Weiterlesen
 
 Dario Amodei, CEO von Anthropic, hat es laut ausgesprochen: KI wird nicht programmiert. Sie wird kultiviert. Und je mehr Fähigkeit entsteht, desto weniger sichtbar wird die Kontrolle. Power scales faster than alignment.
 Das ist keine ...
+
+Weiterlesen
+
+Entfehlerung in der Praxis
+
+29. Januar 2026
+
+Best Practices versprechen fehlerfreie Ergebnisse. Sie liefern fehlerhafte Systeme, die ihre Fehler nicht navigieren können. Was wäre, wenn Fehler nicht das Problem sind, sondern die Lösung? Eine Reise zu Kain, Abel und der Frage, ...
 
 Weiterlesen
 
