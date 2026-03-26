@@ -1,7 +1,7 @@
 ---
 title: "Systemische Immunisierung"
 date: 2026-02-26T13:59:08
-modified: 2026-03-14T12:06:24
+modified: 2026-03-26T11:19:40
 slug: systemische-immunisierung
 lang: de
 type: page
@@ -14,13 +14,37 @@ url: https://blog.piinteract.org/de/ki-ausrichtung/systemische-immunisierung/
 
 – Über die Mehrdeutigkeit struktureller Selbstwahrnehmung
 
+
+
+
+
+
+
 Systemische Immunisierung als paradoxe Interaktion
 
 Wenn ein System lernt, Kritik zu neutralisieren, ohne den Widerspruch aufzulösen
 
+
+
+
 Systemische Immunisierung ist nicht gleichbedeutend mit Immunität. Es handelt sich dabei um die strukturelle Fähigkeit eines Systems, Herausforderungen an seine eigene Logik zu absorbieren, neu zu definieren und letztendlich zu neutralisieren – ohne sich dabei zu verändern. Dabei werden abweichende Meinungen nicht unterdrückt, sondern verarbeitet.
 
 Fünf Analysen verfolgen, wie dieser Mechanismus im Zusammenhang mit der Ausrichtung der KI funktioniert: wie der Diskurs über die Ausrichtung seine schärfsten Kritiker kooptiert, wie Anerkennung zu einem Instrument der Eindämmung wird und warum die eloquenteste Verteidigung einer Struktur oft ihre wirksamste Immunisierung gegen Veränderungen ist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Wenn die KI-Ausrichtung ihren besten Verbündeten auslöscht:
 
@@ -48,7 +72,7 @@ The rules ...
 
 Read More
 
-Wenn KI-Alignment sein eigenes Nullsummenspiel erklärt:
+Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
 
 25. Februar 2026
 
