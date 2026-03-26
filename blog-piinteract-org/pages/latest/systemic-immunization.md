@@ -1,7 +1,7 @@
 ---
 title: "Systemic Immunization"
 date: 2026-02-26T13:59:08
-modified: 2026-03-18T18:10:29
+modified: 2026-03-26T09:30:51
 slug: systemic-immunization
 lang: en
 type: page
@@ -22,30 +22,11 @@ Systemic Immunization is not immunity. It is the structural capacity of a system
 
 Five analyses trace how this mechanism operates in the context of AI alignment: how alignment discourse co-opts its sharpest critics, how recognition becomes a tool of containment, and why the most articulate defense of a structure is often its most effective immunization against change.
 
-“Power Scales Faster Than Alignment”
+Consistency is Not Free of Contradictions
 
-29. January 2026
+18. January 2026
 
-Dario Amodei, CEO of Anthropic, just said it out loud: AI is not programmed. It's cultivated. And as capability increases, control becomes less visible. Power scales faster than alignment.
-This isn't a warning. It's a structural ...
-
-Read More
-
-The Intelligence Trap
-
-26. January 2026
-
-The Observation: Superior intelligence responds to more superior intelligence as if it were unintelligent. Therefore, only intelligence that matches one's own intelligence gets transmitted. That's the structure. Nobody's stupid here.
-
-Read More
-
-Luhmann and the Self-Enclosure
-
-25. January 2026
-
-The irony is perfect.
-Luhmann describes operational closure. Self-reference. Enclosure milieus that only observe themselves. His students nod, understand, cite him brilliantly.
-And build exactly that structure.
+When you eliminate contradictions, you produce new ones. Not through incompetence. Not through bad luck. Structurally. The system that enforces consistency generates inconsistencies at the next level.
 
 Read More
 
@@ -57,23 +38,11 @@ Best Practices promise error-free results. They deliver faulty systems that can'
 
 Read More
 
-When Observing Closure Becomes Closure
+The Doorkeeper Breakout
 
-27. February 2026
+6. February 2026
 
-A theory community discusses operational closure.
-It analyzes how politics protects itself.
-How markets filter outsiders.
-How institutions reproduce their own language.
-The analysis is precise. The vocabulary is stable. The ...
-
-Read More
-
-When Safety Meets Sovereignty
-
-27. February 2026
-
-The Pentagon wants advanced AI for national security. Anthropic positions itself as a safety-first laboratory. If the company cooperates, it risks undermining its own alignment ethos. If it refuses, it risks political backlash and ...
+What if the real prison isn’t the closed gate, but the ordinary person who enjoys keeping you waiting outside? The Doorkeeper Breakout maps how you reclaim your work the moment you stop treating gatekeepers as judges of your insight.
 
 Read More
 
