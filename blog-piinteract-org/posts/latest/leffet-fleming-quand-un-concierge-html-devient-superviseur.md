@@ -1,7 +1,7 @@
 ---
 title: "L’effet Fleming. Quand un « concierge HTML » devient superviseur."
 date: 2026-03-07T10:00:56
-modified: 2026-03-11T18:24:51
+modified: 2026-03-26T16:10:53
 slug: leffet-fleming-quand-un-concierge-html-devient-superviseur
 lang: fr
 type: post
@@ -29,7 +29,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 « Le hasard ne favorise que les esprits préparés. »
 
-> — Louis Pasteur
+— Louis Pasteur
 
 
 
