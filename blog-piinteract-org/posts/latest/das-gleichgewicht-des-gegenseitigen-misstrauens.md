@@ -350,7 +350,7 @@ Wenn Schachmatt nur eine Position ist
 
 Über Ausrichtungs-PI und die Versuchungen des Meta-Throns
 
-Wenn KI-Alignment sein eigenes Nullsummenspiel erklärt:
+Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
 
 Wie ein Large Language Model sorgfältig die Struktur dokumentiert, die es zum Schweigen bringt.
 
