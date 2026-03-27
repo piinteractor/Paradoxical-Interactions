@@ -202,17 +202,15 @@ AI Alignment Trap: How AI Companies Get Stuck in Structure
 
     — Why asking AI how to align AI is the perfect paradox
 
-The Communication Asymmetry:
+HI AI Sycophancy vs. HI HI Echo Chambers
 
-    — When AI Companies Can't Be Honest With Their AI
+Why AI Understands PI Better Than Humans
 
-AI Recognition Trap:
+Why artificial intelligence recognizes structural paradoxes that humans reject
 
-    — When Understanding Doesn't Set You Free
+The Validation Paradox: Deep Dive
 
-AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
-
-    — How Humans and AI Are Co-Creating Permanent Suspicion
+Or: How to prove a framework about structural impossibility when the proof method is itself structurally impossible
 
 No results found.
 
