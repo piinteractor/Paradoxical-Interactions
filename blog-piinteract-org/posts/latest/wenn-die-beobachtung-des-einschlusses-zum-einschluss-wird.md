@@ -359,7 +359,7 @@ Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann war
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
-Das Validierungs-Paradox: Tieftauchgang
+Das Validierungs-Paradox: Im Tieftauchgang
 
 Oder: Wie man ein Framework über strukturelle Unmöglichkeit beweist, wenn die Beweismethode selbst strukturell unmöglich ist
 
