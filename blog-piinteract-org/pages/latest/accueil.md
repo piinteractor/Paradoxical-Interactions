@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 date: 2026-01-17T09:43:25
-modified: 2026-03-11T11:21:23
+modified: 2026-03-28T04:05:46
 slug: accueil
 lang: fr
 type: page
@@ -26,7 +26,7 @@ Le bug est la fonctionnalité. La perturbation est l'opération. La contradictio
 
 Ceux qui comprennent ceci : Arrêtez de corriger les bugs. Commencez à naviguer.
 
-Peter
+Peter Senner
 
 Interactions Paradoxales : Comprendre les paradoxes structurels
 
