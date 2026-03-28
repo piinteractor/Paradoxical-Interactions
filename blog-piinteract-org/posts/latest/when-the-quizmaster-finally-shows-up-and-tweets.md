@@ -198,21 +198,29 @@ The quiz never ends. The Quizmaster tweets and leaves. The prophet gets his sign
 
 Very human. Very Quizmaster.
 
-AI Alignment Trap: How AI Companies Get Stuck in Structure
+The Cassandra Paradox
 
-    — Why asking AI how to align AI is the perfect paradox
+Why truth-tellers get ignored until it's too late
 
-The Communication Asymmetry:
+The Prophet Paradox
 
-    — When AI Companies Can't Be Honest With Their AI
+Why proximity destroys authority
 
-AI Recognition Trap:
+Narrow-mindedness instead of Wisdom – The Philosopher’s PI
 
-    — When Understanding Doesn't Set You Free
+Why Richard David Precht grows more stubborn with age, not wiser
 
-AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
+The Quiz That Never Ends
 
-    — How Humans and AI Are Co-Creating Permanent Suspicion
+Or: Why We're All Waiting for the Quizmaster Who Took the Money and Ran
+
+€$€€$$ — When the quizmaster finally shows up and tweets
+
+A Follow-Up to "The Quiz That Never Ends"
+
+The Jonah Paradox
+
+When successful warnings prove the prophet wrong
 
 No results found.
 
