@@ -592,13 +592,13 @@ Verwandt:
 
 
 
+Wenn Sicherheit auf Souveränität trifft
+
 Das Validierungsparadoxon: Ein tiefer Einblick
 
 Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
 
 Der Nostradamus-Mechanismus. Der Prophet, der die Struktur der Prophezeiung verstand.
-
-Wenn Sicherheit auf Souveränität trifft
 
 „Macht wächst schneller als Kontrolle“
 
