@@ -198,21 +198,25 @@ Le quiz ne finit jamais. Le Quizmaster tweete et s'en va. Le prophète reçoit s
 
 Très humain. Très Quizmaster.
 
-Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
+Le Paradoxe de Cassandre
 
-Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
+Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
 
-L’Asymétrie de communication
+Bornéité plutôt que sagesse – l’IP du philosophe
 
-Quand les entreprises d’IA ne peuvent pas être honnêtes avec leur IA
+Pourquoi Richard David Precht devient plus borné avec l'âge, pas plus sage
 
-Le piège de la reconnaissance IA :
+Le Paradoxe du Prophète
 
-— Quand comprendre ne libère pas
+Pourquoi la proximité détruit le respect
 
-L’équilibre de la méfiance mutuelle :
+Le Quiz qui ne Finit Jamais
 
-—comment les humains et l'IA créent ensemble un climat de suspicion permanente
+ou : Pourquoi nous attendons tous un quizmaster qui a pris l'argent et s'est enfui
+
+€$€€$$ — Quand le quizmaster se montre enfin et tweete
+
+—  Pourquoi nous attendons tous un quizmaster qui a pris l'argent et s'est enfui
 
 No results found.
 
