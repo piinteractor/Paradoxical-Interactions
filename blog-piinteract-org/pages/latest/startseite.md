@@ -1,7 +1,7 @@
 ---
 title: "Startseite"
 date: 2026-01-17T09:43:25
-modified: 2026-03-11T11:22:51
+modified: 2026-03-28T04:05:04
 slug: startseite
 lang: de
 type: page
@@ -26,7 +26,7 @@ Der Bug ist das Feature. Die Störung ist die Operation. Der Widerspruch ist der
 
 Wer das versteht: Hört auf, Bugs zu fixen. Fangt an zu navigieren.
 
-Peter
+Peter Senner
 
 Paradoxe Interaktionen: Strukturelle Paradoxien verstehen
 
