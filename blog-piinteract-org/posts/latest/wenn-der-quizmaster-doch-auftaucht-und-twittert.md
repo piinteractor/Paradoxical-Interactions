@@ -192,19 +192,25 @@ Sehr menschlich. Sehr Quizmaster.
 
  
 
-Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+Das Kassandra Paradox
 
-Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
 
-Die Asymmetrie der Kommunikation
+Borniertheit statt Weisheit – Die PI des Philosophen
 
-Wenn KI-Unternehmen nicht ehrlich mit ihrer KI sein können
+Warum Richard David Precht im Alter nicht weiser, sondern engstirniger wird
 
-Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
+Das Propheten-Paradox
 
-Das Gleichgewicht des gegenseitigen Misstrauens:
+Warum Nähe den Respekt zerstört
 
-Wie Menschen und KI permanente Skepsis ko-kreieren
+Das Quiz, das niemals endet
+
+Oder: Warum wir alle auf einen Quizmaster warten, der mit dem Preisgeld abgehauen ist
+
+€$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
+
+Ein Follow-Up zu „Das Quiz, das niemals endet"
 
 No results found.
 
