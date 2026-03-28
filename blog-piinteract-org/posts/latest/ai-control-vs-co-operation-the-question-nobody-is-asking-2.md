@@ -1,7 +1,7 @@
 ---
 title: "AI Control vs. Co-Operation. The Question Nobody Is Asking."
 date: 2026-03-28T04:33:33
-modified: 2026-03-28T04:33:33
+modified: 2026-03-28T08:02:50
 slug: ai-control-vs-co-operation-the-question-nobody-is-asking-2
 lang: en
 type: post
@@ -110,19 +110,21 @@ And that is more than the control loop has ever produced.
 
 Related Posts
 
-AI Alignment Trap: How AI Companies Get Stuck in Structure
+The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone.
 
-    — Why asking AI how to align AI is the perfect paradox
+How Luhmann Refutes Himself. And Why It's Urgently Necessary.
+
+AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
+
+    — How Humans and AI Are Co-Creating Permanent Suspicion
 
 The Communication Asymmetry:
 
     — When AI Companies Can't Be Honest With Their AI
 
-HI AI Sycophancy vs. HI HI Echo Chambers
+AI Alignment Trap: How AI Companies Get Stuck in Structure
 
-Why AI Understands PI Better Than Humans
-
-Why artificial intelligence recognizes structural paradoxes that humans reject
+    — Why asking AI how to align AI is the perfect paradox
 
 No results found.
 
