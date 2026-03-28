@@ -1,7 +1,7 @@
 ---
 title: "Le Théorème des Deux Idiots. Pourquoi deux systèmes incomplets produisent quelque chose qu’aucun des deux ne pourrait seul."
 date: 2026-03-26T20:19:12
-modified: 2026-03-27T20:07:14
+modified: 2026-03-28T04:12:05
 slug: le-theoreme-des-deux-idiots-pourquoi-deux-systemes-incomplets-produisent-quelque-chose-quaucun-des-deux-ne-pourrait-seul
 lang: fr
 type: post
