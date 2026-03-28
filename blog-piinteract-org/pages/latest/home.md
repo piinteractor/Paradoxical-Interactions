@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-03-28T15:41:50
+modified: 2026-03-28T16:52:50
 slug: home
 lang: en
 type: page
@@ -13,8 +13,7 @@ url: https://blog.piinteract.org/
 #pi-dandelion-wrap {
   position: relative;
   width: 100%;
-  height: 100vh;
-  min-height: 400px;
+  height: 600px;
   background: #f5f5f5;
   overflow: hidden;
 }
@@ -27,8 +26,8 @@ url: https://blog.piinteract.org/
   pointer-events: none;
   z-index: 10;
   font-family: 'Open Sans', sans-serif;
-  font-size: clamp(22px, 4vw, 44px);
-  font-weight: 600;
+  font-size: clamp(26px, 4.5vw, 50px);
+  font-weight: 400;
   color: #333;
   letter-spacing: -0.01em;
   padding: 0 5%;
@@ -136,8 +135,8 @@ url: https://blog.piinteract.org/
     ctx.save();
     ctx.translate(m.x, m.y);
     ctx.rotate(m.rot);
-    var fil    = 22;
-    var pR     = s * pulse;
+    var fil = 22;
+    var pR  = s * pulse;
     for(var i=0; i<fil; i++){
       var a   = (i/fil)*Math.PI*2;
       var ex  = Math.cos(a)*pR;
@@ -188,53 +187,35 @@ url: https://blog.piinteract.org/
     ctx.restore();
   }
 
-  var monsters = [];
-  for(var i=0; i<3; i++){
-    monsters.push({
-      x: 0, y: 0,
-      vx: (Math.random()-0.5)*0.28,
-      vy: (Math.random()-0.5)*0.18,
-      rot: Math.random()*Math.PI*2,
-      rotSpeed: 0.003 + Math.random()*0.005,
-      size: 60 + Math.random()*28,
-      pulse: Math.random()*Math.PI*2,
-      pulseSpeed: 0.025 + Math.random()*0.02,
-    });
-  }
+  var monsters = [
+    { x:0, y:0, vx:(Math.random()-0.5)*0.28, vy:(Math.random()-0.5)*0.18, rot:Math.random()*Math.PI*2, rotSpeed:0.003+Math.random()*0.005, size:60+Math.random()*28, pulse:Math.random()*Math.PI*2, pulseSpeed:0.025+Math.random()*0.02 },
+    { x:0, y:0, vx:(Math.random()-0.5)*0.28, vy:(Math.random()-0.5)*0.18, rot:Math.random()*Math.PI*2, rotSpeed:0.003+Math.random()*0.005, size:60+Math.random()*28, pulse:Math.random()*Math.PI*2, pulseSpeed:0.025+Math.random()*0.02 },
+    { x:0, y:0, vx:(Math.random()-0.5)*0.28, vy:(Math.random()-0.5)*0.18, rot:Math.random()*Math.PI*2, rotSpeed:0.003+Math.random()*0.005, size:60+Math.random()*28, pulse:Math.random()*Math.PI*2, pulseSpeed:0.025+Math.random()*0.02 },
+  ];
+  monsters[0].x = W*0.18; monsters[0].y = 230;
+  monsters[1].x = W*0.50; monsters[1].y = 350;
+  monsters[2].x = W*0.82; monsters[2].y = 220;
 
   var seeds = [];
   for(var j=0; j<44; j++){
     var pal = seedPalettes[Math.floor(Math.random()*seedPalettes.length)];
     seeds.push({
-      x: Math.random()*800,
-      y: Math.random()*500,
-      vx: 0.12 + Math.random()*0.42,
-      vy: -0.04 - Math.random()*0.16,
-      wobble: Math.random()*Math.PI*2,
-      wobbleSpeed: 0.009+Math.random()*0.018,
+      x: Math.random()*800, y: Math.random()*600,
+      vx: 0.12+Math.random()*0.42, vy: -0.04-Math.random()*0.16,
+      wobble: Math.random()*Math.PI*2, wobbleSpeed: 0.009+Math.random()*0.018,
       wobbleAmp: 0.3+Math.random()*0.9,
-      rot: Math.random()*Math.PI*2,
-      rotSpeed: (Math.random()-0.5)*0.035,
-      size: 6 + Math.random()*10,
-      col: pal[0],
-      tipCol: pal[1],
-      fleeVx: 0,
-      fleeVy: 0,
+      rot: Math.random()*Math.PI*2, rotSpeed: (Math.random()-0.5)*0.035,
+      size: 6+Math.random()*10, col: pal[0], tipCol: pal[1],
+      fleeVx: 0, fleeVy: 0,
     });
   }
-
-  /* spread monsters after first resize */
-  monsters[0].x = W*0.18; monsters[0].y = H*0.38;
-  monsters[1].x = W*0.50; monsters[1].y = H*0.55;
-  monsters[2].x = W*0.80; monsters[2].y = H*0.35;
 
   function animate(){
     ctx.clearRect(0,0,W,H);
     monsters.forEach(function(m){
       m.pulse += m.pulseSpeed;
       m.rot   += m.rotSpeed;
-      m.x     += m.vx;
-      m.y     += m.vy;
+      m.x     += m.vx; m.y += m.vy;
       var pad = m.size+20;
       if(m.x < pad){ m.x = pad; m.vx *= -1; }
       if(m.x > W-pad){ m.x = W-pad; m.vx *= -1; }
@@ -247,24 +228,24 @@ url: https://blog.piinteract.org/
       s.rot    += s.rotSpeed;
       var fx=0, fy=0, minDist=Infinity;
       monsters.forEach(function(m){
-        var dx   = s.x-m.x, dy = s.y-m.y;
-        var dist = Math.sqrt(dx*dx+dy*dy);
-        var danger = m.size*2.6;
-        if(dist < danger && dist > 0){
-          if(dist < minDist) minDist = dist;
-          var force = (danger-dist)/danger;
-          fx += (dx/dist)*force*2.0;
-          fy += (dy/dist)*force*2.0;
+        var dx=s.x-m.x, dy=s.y-m.y;
+        var dist=Math.sqrt(dx*dx+dy*dy);
+        var danger=m.size*2.6;
+        if(dist<danger && dist>0){
+          if(dist<minDist) minDist=dist;
+          var force=(danger-dist)/danger;
+          fx+=(dx/dist)*force*2.0;
+          fy+=(dy/dist)*force*2.0;
         }
       });
-      if(minDist < Infinity){ s.fleeVx = fx; s.fleeVy = fy; }
-      else { s.fleeVx *= 0.93; s.fleeVy *= 0.93; }
-      s.x += s.vx + Math.sin(s.wobble)*s.wobbleAmp + s.fleeVx;
-      s.y += s.vy + Math.cos(s.wobble*0.7)*0.15    + s.fleeVy;
-      if(s.x >  W+70) s.x = -70;
-      if(s.x < -70)   s.x =  W+70;
-      if(s.y < -70){ s.y = H+10; s.x = Math.random()*W; }
-      if(s.y >  H+70){ s.y = -10; s.x = Math.random()*W; }
+      if(minDist<Infinity){ s.fleeVx=fx; s.fleeVy=fy; }
+      else { s.fleeVx*=0.93; s.fleeVy*=0.93; }
+      s.x += s.vx+Math.sin(s.wobble)*s.wobbleAmp+s.fleeVx;
+      s.y += s.vy+Math.cos(s.wobble*0.7)*0.15+s.fleeVy;
+      if(s.x> W+70) s.x=-70;
+      if(s.x< -70)  s.x=W+70;
+      if(s.y< -70){ s.y=H+10; s.x=Math.random()*W; }
+      if(s.y> H+70){ s.y=-10; s.x=Math.random()*W; }
       ctx.save();
       ctx.translate(s.x, s.y);
       drawAchene(s.size, s.col, s.tipCol, s.rot);
@@ -276,7 +257,7 @@ url: https://blog.piinteract.org/
   animate();
 })();
 
-The Term "Paradoxical Interactions"
+The Term
 
 How to define Paradoxical Interactions? Difficult, when this unwieldy term resists conventional definitions. How do you describe something that simply is, in its self-evidence? Something that needs no words, because any description distorts what it describes. The definition, so to speak, runs into emptiness.
 
