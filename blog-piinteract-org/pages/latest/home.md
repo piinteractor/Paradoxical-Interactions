@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-03-23T03:19:46
+modified: 2026-03-28T04:04:25
 slug: home
 lang: en
 type: page
@@ -26,7 +26,7 @@ The bug is the feature. The disruption is the operation. The contradiction is th
 
 Those who understand this: Stop fixing bugs. Start navigating.
 
-Peter
+Peter Senner
 
 Paradoxical Interactions: Understanding Structural Paradoxes
 
