@@ -1,7 +1,7 @@
 ---
 title: "When Safety Meets Sovereignty"
 date: 2026-02-27T12:00:56
-modified: 2026-03-23T19:56:51
+modified: 2026-03-28T12:36:00
 slug: when-safety-meets-sovereignty
 lang: en
 type: post
@@ -29,7 +29,7 @@ You don't have sufficient permissions to access this content.
 
 “When safety becomes a strategic variable, it stops being safety.”
 
-Anonymous
+— Anonymous
 
 
 
@@ -49,6 +49,8 @@ Peter Senner co-created with ChatGPT
 
 
 
+
+The Setup
 
 The Pentagon wants advanced AI for national security. Anthropic positions itself as a safety-first laboratory. If the company cooperates, it risks undermining its own alignment ethos. If it refuses, it risks political backlash and strategic marginalization.
 
