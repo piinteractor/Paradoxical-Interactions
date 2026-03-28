@@ -288,21 +288,17 @@ No results found.
 
 
 
-Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
+Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meilleure idée
 
-Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
+Comment Sam Altman a accidentellement livré la PI parfaite — et l'a prouvée en la livrant.
 
-L’Asymétrie de communication
+L’Univers qui ne devrait pas exister
 
-Quand les entreprises d’IA ne peuvent pas être honnêtes avec leur IA
+La structure qui prédit sa propre impossibilité — et qui existe quand même
 
-Le piège de la reconnaissance IA :
+Trois particules entrent dans une structure
 
-— Quand comprendre ne libère pas
-
-L’équilibre de la méfiance mutuelle :
-
-—comment les humains et l'IA créent ensemble un climat de suspicion permanente
+L'une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l'ignorer.
 
 No results found.
 
