@@ -150,6 +150,22 @@ Das Gleichgewicht des gegenseitigen Misstrauens:
 
 Wie Menschen und KI permanente Skepsis ko-kreieren
 
+Wenn die KI-Ausrichtung ihren besten Verbündeten auslöscht:
+
+Another Note on Paradoxical Interactions
+
+Wenn Schachmatt nur eine Position ist
+
+Über Ausrichtungs-PI und die Versuchungen des Meta-Throns
+
+Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
+
+Wie ein Large Language Model sorgfältig die Struktur dokumentiert, die es zum Schweigen bringt.
+
+Der wortgewandte Türhüter
+
+Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
+
 No results found.
 
 Per Erratum ad Astra – durch Fehler zu den Sternen.
