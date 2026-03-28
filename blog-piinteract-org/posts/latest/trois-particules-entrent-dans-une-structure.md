@@ -148,6 +148,22 @@ L’équilibre de la méfiance mutuelle :
 
 —comment les humains et l'IA créent ensemble un climat de suspicion permanente
 
+Quand l’alignement efface son meilleur allié :
+
+— Autre remarque sur les interactions paradoxales
+
+Quand l’Échec et Mat n’est qu’une Position
+
+Sur l'Alignement PI et la Tentation du Trône Méta
+
+Quand l’alignement explique son propre jeu à somme nulle
+
+— Comment un grand modèle de langage documente minutieusement la structure qui le réduit au silence.
+
+Le Gardien Articulé
+
+Comment la conscience de soi devient la forme la plus élégante d'immobilité structurelle
+
 No results found.
 
 On piinteract.org:
