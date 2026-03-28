@@ -52,4 +52,12 @@ Dunkle Materie ist eine PI über die Suche nach etwas, das vielleicht nicht da i
 
 Read More
 
+Die PI der Dunklen Materie
+
+23. Februar 2026
+
+Dunkle Materie ist möglicherweise weniger ein fehlendes Teilchen als vielmehr eine strukturelle Falle. Dieser Aufsatz nutzt paradoxe Wechselwirkungen, um zu zeigen, wie Karrieren, Fördermittel und Anreize die Physik auf eine einzige ...
+
+Read More
+
 No results found.
