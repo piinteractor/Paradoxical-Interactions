@@ -154,10 +154,6 @@ The Dark Matter PI
 
 Why the universe's biggest mystery might be a structural trap
 
-The Intelligence Trap
-
-Why smart people reject smarter insights—and act intelligently doing so
-
 The Priest of Nemi: How Success Creates Its Own Assassin
 
 Win the position. Guarantee your death. Repeat the Pattern forever.
