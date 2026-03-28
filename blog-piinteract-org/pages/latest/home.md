@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-03-28T16:52:50
+modified: 2026-03-28T17:23:12
 slug: home
 lang: en
 type: page
@@ -39,10 +39,20 @@ url: https://blog.piinteract.org/
   width: 100%; height: 100%;
   z-index: 1;
 }
+#pi-dandelion-fade {
+  position: absolute;
+  bottom: 0; left: 0;
+  width: 100%;
+  height: 180px;
+  background: linear-gradient(to bottom, transparent 0%, #f5f5f5 100%);
+  pointer-events: none;
+  z-index: 5;
+}
 
   
 "Paradoxical Interactions"
 
+  
   
 
 (function(){
