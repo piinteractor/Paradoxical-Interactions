@@ -198,10 +198,6 @@ Le quiz ne finit jamais. Le Quizmaster tweete et s'en va. Le prophète reçoit s
 
 Très humain. Très Quizmaster.
 
-Le Paradoxe de Cassandre
-
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
-
 Bornéité plutôt que sagesse – l’IP du philosophe
 
 Pourquoi Richard David Precht devient plus borné avec l'âge, pas plus sage
