@@ -30,15 +30,6 @@ Die Strukturen waren bereits da. Die Mythologie hat sie nur als Erstes benannt.
 
 Alle sind schuldig. Keiner kann was dafür
 
-Das Kassandra Paradox
-
-26. Januar 2026
-
-Apollo schenkt Cassandra die Gabe der Prophezeiung. Sie weist ihn zurück. Er verflucht sie: Sie wird die Wahrheit sagen, aber niemand wird ihr glauben. Sie warnt Troja vor dem hölzernen Pferd. Troja brennt trotzdem.
-Ende der ...
-
-Weiterlesen
-
 Borniertheit statt Weisheit – Die PI des Philosophen
 
 28. Januar 2026
