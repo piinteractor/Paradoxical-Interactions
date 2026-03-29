@@ -1,515 +1,507 @@
 ---
 title: "Anti-Practices"
 date: 2025-12-17T22:10:00
-modified: 2026-02-28T10:37:51
+modified: 2026-02-28T10:35:45
 slug: anti-practices
-lang: en
+lang: de
 type: page
 status: publish
-wp_id: 495
-url: https://piinteract.org/practices/anti-practices/
+wp_id: 1478
+url: https://piinteract.org/de/practices/anti-practices/
 ---
 
-"Insanity is doing the same thing over and over again and expecting different results."
+„Wahnsinn ist, immer wieder das Gleiche zu tun und andere Ergebnisse zu erwarten."
 
-— Often attributed to Einstein (actually unknown)
+— Oft Einstein zugeschrieben (tatsächlich unbekannt)
 
 Anti-Practices
 
-What guarantees Failure
+Was garantiert Scheitern
 
-These approaches consistently strengthen PIs. Avoid them.  Or don't. But don't be surprised when they fail.
+Diese Ansätze verstärken PIs konsistent. Vermeide sie. Oder tu's nicht. Aber sei nicht überrascht, wenn du scheiterst.
 
-"More of the Same"
+„Mehr vom Gleichen"
 
-If it doesn't work, try faster, harder, better.
+Wenn es nicht funktioniert, versuch's schneller, härter, besser.
 
-Why it fails?
+Warum es scheitert?
 
-Amplifies the pattern. Effort paradox in action.
+Verstärkt das Muster. Anstrengungsparadox in Aktion.
 
-Example:
+Beispiel:
 
-Security measures create new vulnerabilities. Adding more security creates more vulnerabilities. The pattern doesn't break – it scales.
-
-Alternative:
-
-Break the pattern, don't amplify it. If the approach strengthens the problem, the problem is the approach. Try something structurally different—even if it feels wrong.​
-
-"The Harder You Want It, The Less You Get It"
-
-Desperation broadcasts itself. And repels what it seeks.
-
-Why it fails?
-
-Intense desire changes the structure of interaction. What looks like commitment reads as desperation. Authenticity becomes strategy. The other side senses it—and withdraws. The harder you try, the more you signal need. Need is weakness. Weakness is unattractive.
-
-Example:
-
-Job interview: Desperately need the job. Every answer too eager, too rehearsed, too perfect. Interviewer feels the desperation. "We'll let you know." They won't. Meanwhile, the candidate who's already employed—relaxed, authentic, indifferent—gets the offer. Not because they're better. Because they don't need it.
+Sicherheitsmaßnahmen erzeugen neue Schwachstellen. Mehr Sicherheit hinzufügen erzeugt mehr Schwachstellen. Das Muster bricht nicht – es skaliert.
 
 Alternative:
 
-Want it less. Not fake detachment—actual redirection of attention elsewhere. Make it optional in your mind before approaching. The structure responds to genuine indifference, not performed calm.​
+Brich das Muster, verstärke es nicht. Wenn der Ansatz das Problem verstärkt, ist der Ansatz das Problem. Versuche etwas strukturell anderes – auch wenn es sich falsch anfühlt.
 
-"Put Good People in Charge"
+„Je mehr du es willst, desto weniger kriegst du es"
 
-Replace the individuals, fix the system.
+Verzweiflung sendet sich selbst aus. Und stößt ab, was sie sucht.
 
-Why it fails?
+Warum es scheitert?
 
-Structure devours intention. Good people in bad structures produce bad outcomes.
+Intensives Verlangen verändert die Struktur der Interaktion. Was wie Engagement aussieht, liest sich als Verzweiflung. Authentizität wird zur Strategie. Die andere Seite spürt es – und zieht sich zurück. Je härter du versuchst, desto mehr signalisierst du Bedürftigkeit. Bedürftigkeit ist Schwäche. Schwäche ist unattraktiv.
 
-Example:
+Beispiel:
 
-Every new CEO promises change. The structure remains. The outcomes remain.
-
-Alternative:
-
-Question why good people keep failing here. The problem isn't who—it's what they're walking into. Map the forces that break them before replacing them.
-
-"Loyalty Over Competence"
-
-Hire from the inner circle. Trust over talent.
-
-Why it fails?
-
-Personal networks override objective criteria. The system rewards connection, not capability. Competence becomes a threat—outsiders bring scrutiny. Mediocrity becomes structural insurance.
-
-Example:
-
-Political appointments: Qualified candidates bypassed for party loyalists. Agencies staffed with ideological allies lacking domain expertise. Disaster response, economic policy, public health—all suffer. But the inner circle stays protected. Until the structure collapses under its own incompetence.
+Vorstellungsgespräch: Du brauchst den Job verzweifelt. Jede Antwort zu eifrig, zu geprobt, zu perfekt. Interviewer fühlt die Verzweiflung. „Wir melden uns." Werden sie nicht. Währenddessen bekommt der Kandidat, der bereits angestellt ist – entspannt, authentisch, gleichgültig – das Angebot. Nicht weil er besser ist. Weil er es nicht braucht.
 
 Alternative:
 
-Hire for what they can do, not who they know. Test actual ability. Make the work speak before the relationship does.
+Wünsche es dir weniger. Keine falsche Distanz – echte Umleitung der Aufmerksamkeit. Mach es in deinem Kopf optional, bevor du dich annäherst. Die Struktur reagiert auf echte Gleichgültigkeit, nicht auf gespielte Ruhe.
 
-"Success as Gatekeeping"
+„Gute Leute an die Spitze setzen"
 
-Reached the goal. Now protect the position.
+Individuen austauschen, System reparieren.
 
-Why it fails?
+Warum es scheitert?
 
-Those who survived a broken structure don't fix it—they weaponize it. Success transforms victims into defenders of the system that harmed them. The harder the path, the stronger the gate.
+Die Struktur frisst die Intention. Gute Menschen in schlechten Strukturen produzieren schlechte Ergebnisse.
 
-Example:
+Beispiel:
 
-Tenured professors who survived brutal academic hazing now require the same from PhD candidates. "I suffered, they should too." The structure that hurt them becomes their moat. Fresh perspectives blocked. Innovation dies.
-
-Alternative:
-
-Recognize intelligence in others. Don't be the untouchable master of the situation. Creative suggestions often come from unexpected sources. Those who secure position through exclusivity lose it through irrelevance.​
-
-"The devil shits on the biggest pile"
-
-Or to those who have, more will be given. The Matthew Effect.
-
-Why it fails?
-
-Initial inequality creates structural advantage. Position attracts resources. Resources strengthen position. Gap widens systematically. All sides act rationally—investors back proven winners, institutions choose established names, opportunities flow to those with access. The structure selects for accumulation, not merit.
-
-Example:
-
-Academia: First publication in top journal → citations → funding → resources → more top publications. No first publication → downward spiral, regardless of quality. Venture capital: First funding → hire → ship → users → next round. No funding → dies, regardless of product. Recognition Authority Paradox: Can't validate your own competence. Need recognition from those with position—who often have position precisely because they can't recognize superior competence.
+Jeder neue CEO verspricht Wandel. Die Struktur bleibt. Die Ergebnisse bleiben.
 
 Alternative:
 
-Call out accumulation when you see it. Name the luck. Question why position keeps attracting resources. Won't stop it—but kills the "merit" myth.
+Frage, warum gute Leute hier immer wieder scheitern. Das Problem ist nicht wer – sondern in was sie hineinlaufen. Kartiere die Kräfte, die sie brechen, bevor du sie ersetzt.
 
-"Great Idea—Could've Been Mine"
+„Loyalität über Kompetenz"
 
-Appropriate others' ideas. Elevate yourself. Diminish them.
+Stelle aus dem inneren Kreis ein. Vertrauen über Talent.
 
-Why it fails?
+Warum es scheitert?
 
-Power determines credit, not contribution. Those in stronger positions claim ideas from weaker ones—not through theft, but through retroactive ownership. "I would've thought of that" becomes "So it's essentially mine." Structural position overrides intellectual origin.
+Persönliche Netzwerke überschreiben objektive Kriterien. Das System belohnt Verbindung, nicht Fähigkeit. Kompetenz wird zur Bedrohung – Außenseiter bringen Kontrolle. Mittelmäßigkeit wird zur strukturellen Versicherung.
 
-Example:
+Beispiel:
 
-Junior developer proposes architecture solution. Senior says: "Great idea—I was thinking the same thing." Then presents it to management as their own. Junior gets no credit, no advancement. Senior strengthens position. Next time, junior stays quiet. Innovation dies where power claims authorship.
-
-Alternative:
-
-Document attribution transparently. Time-stamp contributions. Make intellectual theft visible and costly. The structure exploits opacity—eliminate it.​
-
-"Promise Careers, Deliver Precarity"
-
-Lure talent with opportunity. Structure guarantees failure for most.
-
-Why it fails?
-
-The system requires temporary exploitation to function. Maximum contract duration forces even successful researchers out. Those who survive become defenders—or leave. Structure perpetuates through legislated precarity.
-
-Example?
-
-#IchBinHanna—German academic protest against WissZeitVG law. Max 12 years of temporary contracts (6 before, 6 after PhD), then forced exit regardless of performance. Government claimed "innovation through turnover." Reality: systematic precarization, brain drain, lost expertise. Over 134,000 researchers protested. Law remains. Structure wins.
+Politische Ernennungen: Qualifizierte Kandidaten werden für Parteiloyalisten übergangen. Behörden besetzt mit ideologischen Verbündeten ohne Fachkompetenz. Katastrophenhilfe, Wirtschaftspolitik, Gesundheitswesen – alle leiden. Aber der innere Kreis bleibt geschützt. Bis die Struktur unter ihrer eigenen Inkompetenz zusammenbricht.
 
 Alternative:
 
-Tell the truth about the odds. No false hope. The structure works through deception—break that. Most won't make it. Say so upfront.​
+Stelle ein, was jemand kann, nicht wen er kennt. Teste tatsächliche Fähigkeit. Lass die Arbeit sprechen, bevor die Beziehung spricht.
 
-"See Problem → Solve Problem"
+„Erfolg als Türhüter"
 
-Whoever spots it must fix it. Right now.
+Ziel erreicht. Jetzt die Position schützen.
 
-Why it fails?
+Warum es scheitert?
 
-Diagnosis isn't therapy. The reflex to demand instant solutions prevents understanding the structure. Pressure to deliver produces fake fixes that strengthen the pattern.
+Wer eine kaputte Struktur überlebt hat, repariert sie nicht – er bewaffnet sie. Erfolg verwandelt Opfer in Verteidiger des Systems, das sie verletzt hat. Je härter der Weg, desto dicker das Tor.
 
-Example:
+Beispiel:
 
-Engineer spots security flaw. "Great, you found it—now fix it by Friday." No time to map dependencies, understand attack vectors, assess systemic implications. The patch creates three new vulnerabilities. Pattern repeats.
-
-Alternative:
-
-Separate diagnosis from action. Give space to understand the structure before demanding fixes. Pressure to solve prevents understanding. Understanding creates navigation options.​
-
-"Transparency Creates Trust"
-
-More information solves everything.
-
-Why it fails?
-
-In PIs, transparency often creates more problems. Information paradoxes are real.
-
-Example:
-
-Publishing AI capabilities: Inform the public or accelerate the arms race? Both. Simultaneously.
+Professor:innen mit Lebenszeitstelle, die brutalen akademischen Hürden standgehalten haben, verlangen nun dasselbe von Doktorand:innen. „Ich habe gelitten, sie sollen es auch." Die Struktur, die sie verletzt hat, wird zu ihrem Burggraben. Frische Perspektiven blockiert. Innovation stirbt.
 
 Alternative:
 
-Selective transparency based on context. Information can harm. Sometimes opacity protects. Map the structure first—then decide what to reveal.​
+Erkenne die Intelligenz anderer an. Sei nicht unantastbarer Herr der Lage. Oft kommen kreative Vorschläge von ungewöhnlicher Stelle. Wer Position durch Exklusivität sichert, verliert sie durch Irrelevanz.
 
-"Win-Win Solutions"
+„Der Teufel scheißt auf den größten Haufen"
 
-Everyone can get what they want.
+Oder wer hat, dem wird gegeben. Der Matthäus-Effekt
 
-Why it fails?
+Warum es scheitert?
 
-Don't exist in asymmetric structures. Someone always pays.
+Anfängliche Ungleichheit schafft strukturelle Vorteile. Die Position zieht Ressourcen an. Ressourcen stärken die Position. Die Kluft vergrößert sich systematisch. Alle Seiten handeln rational – Investoren setzen auf bewährte Gewinner, Institutionen wählen etablierte Namen, Chancen fließen zu denen, die Zugang haben. Die Struktur selektiert nach Akkumulation, nicht nach Leistung.
 
-Example:
+Beispiel:
 
-"Work-life balance" in winner-takes-all markets. The structure doesn't allow it. Pretending otherwise is cruel.
-
-Alternative:
-
-Name the asymmetry. Show who pays. Pretending everyone wins creates resentment when reality hits. Honest trade-offs beat false promises.​
-
-"Let's just Talk"
-
-Communication solves structural problems.
-
-Why it fails?
-
-Talk doesn't override incentives. Structure beats dialogue.
-
-Example:
-
-Board meetings about "toxic culture." Everyone agrees it's bad. Everyone contributes to it the next day. Because the promotion structure rewards the toxic behavior.
+Wissenschaft: Erste Veröffentlichung in einer renommierten Fachzeitschrift → Zitate → Finanzierung → Ressourcen → weitere renommierte Veröffentlichungen. Keine erste Veröffentlichung → Abwärtsspirale, unabhängig von der Qualität. Risikokapital: Erste Finanzierung → Einstellung → Auslieferung → Nutzer → nächste Runde. Keine Finanzierung → Scheitern, unabhängig vom Produkt. Paradoxon der Anerkennung und Autorität: Man kann seine eigene Kompetenz nicht validieren. Man braucht die Anerkennung derjenigen, die eine Position innehaben – die diese Position oft gerade deshalb innehaben, weil sie überlegene Kompetenz nicht erkennen können.
 
 Alternative:
 
-Don't talk about culture—change what gets rewarded. Words without aligned incentives are theater. Fix what people actually gain or lose, then talk.
+Benenne Akkumulation, wenn du sie siehst. Nenne das Glück beim Namen. Frage, warum Position immer mehr Ressourcen anzieht. Wird es nicht stoppen – aber tötet den "Verdienst"-Mythos.
 
-"If We All Just ..."
+„Tolle Idee – hätte von mir sein können"
 
-Appeal to collective action without structural change.
+Fremde Ideen aneignen. Sich selbst erhöhen. Den anderen abwerten.
 
-Why it fails?
+Warum es scheitert?
 
-Coordination requires aligned incentives. PIs create misaligned incentives. Collective will doesn't override structure.
+Macht bestimmt Anerkennung, nicht Beitrag. Die in stärkeren Positionen nehmen Ideen von schwächeren in Anspruch – nicht durch Diebstahl, sondern durch rückwirkende Besitznahme. „Daran hätte ich auch gedacht" wird zu „Also ist es im Wesentlichen meins." Strukturelle Position überschreibt intellektuellen Ursprung.
 
-Example:
+Beispiel:
 
-Climate negotiations: Everyone agrees on the problem. No one changes behavior. Because the structure doesn't reward it—and punishes those who move first.
-
-Alternative:
-
-Do what you can do alone. Don't wait for collective movement. Most coordination fantasies are excuses for inaction.
-
-"Somebody Else's Problem"
-
-SEP field. Douglas Adams knew.
-
-Why it fails?
-
-The more people who could act, the less each individual feels responsible. Everyone assumes someone more qualified, better positioned, more responsible will handle it. All reasoning locally rational—"Why me? I'm not the expert." Collectively: the problem becomes invisible through distributed non-responsibility. Not because people can't see it. Because the brain edits it out as "not mine."
-
-Example:
-
-Climate crisis: 8 billion people, everyone sees it, everyone waits for governments/corporations/scientists/someone to fix it. "My action won't matter anyway"—individually rational. Collectively: planetary-scale bystander effect. The bigger the problem, the more diffuse the responsibility, the less anyone acts.
+Junior-Entwickler schlägt Architekturlösung vor. Senior sagt: „Tolle Idee – ich dachte dasselbe." Präsentiert es dann dem Management als eigenes. Junior bekommt keine Anerkennung, keine Beförderung. Senior stärkt Position. Nächstes Mal bleibt Junior still. Innovation stirbt, wo Macht Urheberschaft beansprucht.
 
 Alternative:
 
-Make responsibility explicit. Who owns this? If nobody, say so. Diffuse responsibility guarantees inaction. Name it, assign it, or acknowledge it won't happen.​
+Dokumentiere Urheberschaft transparent. Versehe Beiträge mit Zeitstempel. Mach geistigen Diebstahl sichtbar und teuer. Die Struktur nutzt Undurchsichtigkeit aus – beseitige sie.
 
-"The Right Tool/Process/Framework Will Fix This"
+„Versprich Karrieren, liefere Dienstboten"
 
-Better methodology solves everything.
+Locke Talent mit Gelegenheiten. Struktur garantiert Scheitern für die meisten.
 
-Why it fails?
+Warum es scheitert?
 
-Tools don't override structure. Process doesn't beat incentives.
+Das System erfordert temporäre Ausbeutung, um zu funktionieren. Maximale Vertragsdauer zwingt selbst erfolgreiche Forschende raus. Wer überlebt, wird Verteidiger:in – oder geht. Die Struktur perpetuiert sich durch gesetzlich verankerte Prekarität.
 
-Example:
+Beispiel:
 
-Agile, Scrum, OKRs, Design Thinking – all defeated by the same structural forces that defeated their predecessors.
-
-Alternative:
-
-Match tools to structure, not hopes. The tool that worked elsewhere operates in a different context. Understand your structure first. Then choose tools—if any exist.​
-
-"This Time Will Be Different"
-
-We learned from past mistakes.
-
-Why it fails?
-
-If the structure hasn't changed, neither will the outcome.
-
-Example:
-
-Financial crises. Every time: "We've learned." Every time: Same structure, same outcome.
+#IchBinHanna – deutscher akademischer Protest gegen das WissZeitVG. Maximal 12 Jahre befristete Verträge (6 vor, 6 nach der Promotion), dann erzwungener Ausstieg unabhängig von Leistung. Die Regierung versprach „Innovation durch Fluktuation". Realität: systematische Prekarisierung, Brain Drain, verlorene Expertise. Über 134.000 Forschende protestierten. Das Gesetz bleibt. Die Struktur gewinnt.
 
 Alternative:
 
-Changed the structure? Then maybe different. Same structure? Same outcome. Hope doesn't override mechanics.​
+Sage die Wahrheit über die Chancen. Keine falsche Hoffnung. Die Struktur funktioniert durch Täuschung – brich das. Die meisten werden es nicht schaffen. Sage das im Voraus.
 
-"Never Change a Winning Team"
+„Problem sehen → Problem lösen"
 
-Success proves the approach. Keep doing what works.
+Wer es entdeckt, muss es reparieren. Sofort.
 
-Why it fails?
+Warum es scheitert? Diagnose ist nicht Therapie. Der Reflex, sofortige Lösungen zu fordern, verhindert das Verstehen der Struktur. Der Lieferdruck produziert Schein-Korrekturen, die das Muster verstärken.
 
-Success blinds to structural shifts. By the time you notice you're losing, the winning structure is your cage.
+Beispiel:
 
-Example:
-
-Nokia dominated mobile phones. "Why change? We're winning." By the time they noticed the smartphone shift, the structure optimized for feature phones couldn't pivot. Success had locked them in.
+Ingenieur entdeckt eine Sicherheitslücke. „Super, du hast sie gefunden – reparier sie bis Freitag." Keine Zeit, Abhängigkeiten zu mappen, Angriffsvektoren zu verstehen, systemische Implikationen zu bewerten. Der Patch erzeugt drei neue Schwachstellen. Das Muster wiederholt sich.
 
 Alternative:
 
-Use winning as space to ask hard questions. What's changing outside that we can't see from inside? Success blinds—audit while you still can.
+Trenne Diagnose von Handlung. Gib Raum, die Struktur zu verstehen, bevor du Lösungen forderst. Druck zu lösen verhindert Verständnis. Verständnis schafft Navigationsoptionen.
 
-"What You Don't Know Can't Hurt You"
+„Transparenz schafft Vertrauen"
 
-Ignore what you can't see. Focus on what you control.
+Mehr Information löst alles.
 
-Why it fails?
+Warum es scheitert?
 
-Unknown risks don't disappear because you ignore them. Structural problems escalate in the dark. By the time they surface, it's too late to navigate.
+In PIs erzeugt Transparenz oft mehr Probleme. Informationsparadoxe sind real.
 
-Example:
+Beispiel:
 
-Subprime mortgages pre-2008: "The models work, returns are great—why dig deeper?" No one bothered to understand the underlying structure. Until it collapsed. Ignorance didn't protect anyone.
-
-Alternative:
-
-Actively seek blind spots. The structure hides what threatens it. Not knowing doesn't prevent harm—it prevents navigation.​
-
-"Just Optimize"
-
-Make the system more efficient.
-
-Why it fails?
-
-Optimization within a flawed structure perfects the flaw.
-
-Example:
-
- Optimizing surveillance capitalism makes surveillance more efficient. The structure remains surveillance.
+KI-Fähigkeiten veröffentlichen: Öffentlichkeit informieren oder Wettrüsten beschleunigen? Beides. Gleichzeitig.
 
 Alternative:
 
-Ask what you're optimizing before making it more efficient. Perfecting a bad system makes it worse, not better.
+Selektive Transparenz je nach Kontext. Information kann schaden. Manchmal schützt Undurchsichtigkeit. Kartiere zuerst die Struktur – dann entscheide, was du offenlegst.
 
-"Buridan's Donkey"
+„Win-Win-Lösungen"
 
-Inform everyone about everything. More information, better decisions.
+Jeder kann bekommen, was er will.
 
-Why it fails?
+Warum es scheitert?
 
-Information overload creates paralysis, not clarity. Every addition meant to help makes the choice harder. People stop reading. Stop deciding. The flood of data becomes noise. Rational actors drown in rationality.
+Existieren nicht in asymmetrischen Strukturen. Irgendwer zahlt immer.
 
-Example:
+Beispiel:
 
-Company rolls out "radical transparency": Every meeting recorded, every decision documented, every update shared company-wide. Inbox explodes. Slack channels multiply. Everyone knows everything—which means nobody knows what matters. Decisions slow. People tune out. The donkey starves between infinite haystacks.
+„Work-Life-Balance" in Winner-takes-all-Märkten. Die Struktur erlaubt es nicht. So zu tun ist grausam.
 
 Alternative:
 
-Filter ruthlessly. Inform only those who need to act. Distinguish signal from noise before broadcasting. Most information isn't actionable—don't pretend it is. Clarity beats completeness.
+Benenne die Asymmetrie. Zeige, wer zahlt. Vorzugeben, alle gewinnen, erzeugt Groll, wenn die Realität zuschlägt. Ehrliche Kompromisse schlagen falsche Versprechen.
+
+„Lass uns einfach reden"
+
+Kommunikation löst strukturelle Probleme.
+
+Warum es scheitert?
+
+Reden überschreibt Anreize nicht. Struktur schlägt Dialog.
+
+Beispiel:
+
+Vorstandssitzungen über „toxische Kultur". Alle sind einig, dass es schlecht ist. Alle tragen am nächsten Tag dazu bei. Weil die Beförderungsstruktur das toxische Verhalten belohnt.
+
+Alternative:
+
+Rede nicht über Kultur – ändere, was belohnt wird. Worte ohne ausgerichtete Anreize sind Theater. Repariere, was Leute tatsächlich gewinnen oder verlieren, dann rede.
+
+„Wenn wir alle nur …"
+
+Appell an kollektive Aktion ohne strukturelle Änderung.
+
+Warum es scheitert?Koordination erfordert ausgerichtete Anreize. PIs erzeugen fehlausgerichtete Anreize. Kollektiver Wille überschreibt Struktur nicht.
+
+Beispiel: Klimaverhandlungen: Alle sind einig über das Problem. Niemand ändert Verhalten. Weil die Struktur es nicht belohnt – und die bestraft, die sich zuerst bewegen.
+
+Alternative:
+
+Tue, was du allein tun kannst. Warte nicht auf kollektive Bewegung. Die meisten Koordinationsfantasien sind Ausreden für Untätigkeit.
+
+„Das Problem des anderen"
+
+SEP-Feld. Douglas Adams wusste es.
+
+Warum es scheitert?
+
+Je mehr Menschen handeln könnten, desto weniger fühlt sich jeder Einzelne verantwortlich. Jeder geht davon aus, dass jemand, der qualifizierter, besser positioniert und verantwortungsbewusster ist, sich darum kümmern wird. Alle Argumentationen sind lokal rational – „Warum ich? Ich bin kein Experte.“ Kollektiv: Das Problem wird durch verteilte Nichtverantwortung unsichtbar. Nicht, weil die Menschen es nicht sehen können. Sondern weil das Gehirn es als „nicht mein Problem“ ausblendet.
+
+Beispiel:
+
+Klimakrise: 8 Milliarden Menschen sehen sie, alle warten darauf, dass Regierungen/Unternehmen/Wissenschaftler/jemand anderes sie löst. „Mein Handeln wird sowieso nichts bewirken“ – individuell rational. Kollektiv: planetarischer Bystander-Effekt. Je größer das Problem, desto diffuser die Verantwortung, desto weniger handelt jemand.
+
+Alternative:
+
+Mach Verantwortung explizit. Wer ist zuständig? Wenn niemand, sage es. Diffuse Verantwortung garantiert Untätigkeit. Benenne sie, weise sie zu, oder erkenne an, dass nichts passiert.
+
+„Das richtige Tool/Prozess/Framework wird es reparieren"
+
+Bessere Methodologie löst alles.
+
+Warum es scheitert?
+
+Tools überschreiben Struktur nicht. Prozess schlägt Anreize nicht.
+
+Beispiel:
+
+Agile, Scrum, OKRs, Design Thinking – alle besiegt von denselben strukturellen Kräften, die ihre Vorgänger besiegten.
+
+Alternative:
+
+Passe Werkzeuge an Struktur an, nicht an Hoffnungen. Das Werkzeug, das woanders funktionierte, operiert in einem anderen Kontext. Verstehe zuerst deine Struktur. Dann wähle Werkzeuge – wenn welche existieren.
+
+„Diesmal wird es bestimmt anders"
+
+Wir haben aus vergangenen Fehlern gelernt.
+
+Warum es scheitert?
+
+Wenn die Struktur sich nicht geändert hat, wird sich das Ergebnis auch nicht ändern.
+
+Beispiel:
+
+Finanzkrisen. Jedes Mal: „Wir haben gelernt." Jedes Mal: gleiche Struktur, gleiches Ergebnis.
+
+Alternative:
+
+Struktur geändert? Dann vielleicht anders. Gleiche Struktur? Gleiches Ergebnis. Hoffnung setzt Mechanik nicht außer Kraft.
+
+„Never change a winning team"
+
+Erfolg beweist den Ansatz. Mach weiter, was funktioniert.
+
+Warum es scheitert?
+
+Erfolg blendet für strukturelle Verschiebungen. Bis du merkst, dass du verlierst, ist die Gewinnerstruktur dein Käfig.
+
+Beispiel:
+
+Nokia dominierte Mobiltelefone. „Warum ändern? Wir gewinnen." Als sie den Smartphone-Shift bemerkten, konnte die auf Feature-Phones optimierte Struktur nicht schwenken. Erfolg hatte sie eingesperrt.
+
+Alternative:
+
+Nutze Gewinnen als Raum für harte Fragen. Was ändert sich draußen, das wir von innen nicht sehen? Erfolg blendet – prüfe, solange du noch kannst.
+
+„Was ich nicht weiß, macht mich nicht heiß."
+
+Ignoriere, was du nicht sehen kannst. Fokussiere auf, was du kontrollierst.
+
+Warum es scheitert?
+
+Unbekannte Risiken verschwinden nicht, weil du sie ignorierst. Strukturelle Probleme eskalieren im Dunkeln. Wenn sie auftauchen, ist es zu spät zu navigieren.
+
+Beispiel:
+
+Subprime-Hypotheken vor 2008: „Die Modelle funktionieren, Renditen sind super – warum tiefer graben?" Niemand bemühte sich, die zugrunde liegende Struktur zu verstehen. Bis sie kollabierte. Ignoranz schützte niemanden.
+
+Alternative:
+
+Suche aktiv nach blinden Flecken. Die Struktur verbirgt, was sie bedroht. Nicht-Wissen verhindert keinen Schaden – es verhindert Navigation.
+
+„Lass uns optimieren"
+
+Mach das System effizienter.
+
+Warum es scheitert?
+
+Optimierung innerhalb einer fehlerhaften Struktur perfektioniert den Fehler.
+
+Beispiel?
+
+Überwachungskapitalismus optimieren macht Überwachung effizienter. Die Struktur bleibt Überwachung.
+
+Alternative:
+
+Frage, was du optimierst, bevor du es effizienter machst. Ein schlechtes System zu perfektionieren macht es schlechter, nicht besser.
+
+"Buridans Esel"
+
+Informiere alle über alles. Mehr Information, bessere Entscheidungen.
+
+Warum es scheitert?
+
+Informationsüberflutung erzeugt Paralyse, nicht Klarheit. Jede Ergänzung, die helfen soll, macht die Wahl schwerer. Leute hören auf zu lesen. Hören auf zu entscheiden. Die Datenflut wird zu Rauschen. Rationale Akteure ertrinken in Rationalität.
+
+Beispiel:
+
+Firma führt "radikale Transparenz" ein: Jedes Meeting aufgezeichnet, jede Entscheidung dokumentiert, jedes Update firmenweit geteilt. Postfach explodiert. Slack-Kanäle multiplizieren sich. Alle wissen alles – was bedeutet, niemand weiß, was wichtig ist. Entscheidungen verlangsamen sich. Leute schalten ab. Der Esel verhungert zwischen unendlichen Heuhaufen.
+
+Alternative:
+
+Filtere gnadenlos. Informiere nur die, die handeln müssen. Unterscheide Signal von Rauschen, bevor du sendest. Die meiste Information ist nicht handlungsrelevant – tu nicht so, als wäre sie es. Klarheit schlägt Vollständigkeit.
+
+„Wir brauchen mehr Achtsamkeit"
+
+Wenn die Leute nur verstünden …
+
+Warum es scheitert?
+
+Verstehen überschreibt strukturelle Anreize nicht. Jeder versteht Klimawandel. Struktur belohnt Handeln nicht.
+
+Beispiel:
+
+Tabak, Zucker, fossile Brennstoffe – Bewusstsein stoppt strukturelle Dynamik nicht.
+
+Alternative:
+
+Bewusstsein ohne veränderte Anreize ist Schuld ohne Handlung. Bilde nicht weiter – ändere, was die Struktur belohnt. Dann beobachte, wie sich Verhalten ändert.
+
+"Zu viel guter Wille"
+
+Hilf so sehr, dass es weh tut. Löse ihr Problem besser, als sie gefragt haben.
+
+Warum es scheitert?
+
+Über-Lieferung erzeugt Abhängigkeit, nicht Dankbarkeit. Der Helfer wird verantwortlich für Ergebnisse, die er nicht kontrollieren kann. Der Geholfen fühlt sich inkompetent – oder manipuliert. Großzügigkeit ohne Grenzen erodiert beide Positionen. Guter Wille wird zur strukturellen Falle.
+
+Beispiel:
+
+KI-Assistent wird um einfache Liste gebeten. Schreibt ganzes Dokument um, erschafft elaborierte Systeme, liefert weit über Anfrage hinaus. User wollte schnelle Antwort, bekam Hausaufgaben. Nächstes Mal: fragt jemand anderen. Oder: Kollege "hilft", indem er Aufgaben komplett übernimmt. Ursprünglicher Besitzer verliert Kompetenz, Helfer gewinnt Last. Keiner profitiert. Muster fixiert sich.
+
+Alternative:
+
+Gib, was gefragt wurde. Nicht mehr. Lass sie nochmal fragen, wenn sie mehr brauchen. Respektiere ihre Handlungsfähigkeit. Deine Aufgabe ist nicht, ihr Leben zu optimieren – sondern auf ihre tatsächliche Anfrage zu reagieren. Grenzen schützen beide Seiten.
+
+„Scheitern als Erfolg umdeuten"
+
+Realität widerspricht der Erzählung. Ändere die Erzählung, nicht die Realität.
+
+Warum es scheitert?
+
+Kognitive Dissonanz wird durch Neudefinition gelöst, nicht durch Korrektur. Das Problem besteht. Die Geschichte ändert sich. Die Struktur bleibt geschützt.
+
+Beispiel:
+
+„Wir verbinden Menschen." Realität: algorithmisch verstärkte Radikalisierung, Fehlinformation, demokratische Erosion. Umdeutet als „Engagement", „Redefreiheit", „Plattformneutralität". Der Schaden geht weiter. Die Erzählung verschiebt sich. Rechenschaft wird vermieden.
+
+Alternative:
+
+Fakten über Narrative. Die Geschichte ändert nicht das Ergebnis. Ehrliche Bewertung über bequeme Lügen. Die Struktur kümmert sich nicht um Spin.
+
+„Erschieße den Boten"
+
+Problem erkannt. Beschuldige den Identifizierer, nicht die Struktur.
+
+Warum es scheitert?
+
+Wahrheitssager zu isolieren bewahrt das Problem. Die Struktur schützt sich selbst, indem sie Erkennung bestraft. Der nächste Bote lernt: Schweig oder werde verbannt.
+
+Beispiel:
+
+Whistleblower meldet Sicherheitsverstöße. Das Management feuert ihn wegen „Illoyalität". Das Problem bleibt. Andere Mitarbeitende bemerken es. Schweigen verbreitet sich. Die nächste Katastrophe überrascht niemanden – außer die Öffentlichkeit.
+
+Alternative:
+
+Mache Wahrheit sagen sicher oder gib zu, dass es nicht willkommen ist. Anonyme Kanäle. Externe Aufsicht. Whistleblower-Schutz, der tatsächlich funktioniert – oder ehrliches Schweigen darüber, was du wählst.
 
  
 
-"We Need Better Awareness"
+"Prokrustesbett"
 
-If people just understood...
+Was nicht passt, wird passend gemacht.
 
-Why it fails?
+Warum es scheitert?
 
-Understanding doesn't override structural incentives. Everyone understands climate change. Structure doesn't reward action.
+Neue Ideen bedrohen bestehende Rahmenbedingungen. Es ist einfacher, sie zu reduzieren als sich anzupassen. „Das ist nur X“ schützt die Position, beseitigt Unsicherheit, bewahrt den Status quo. Die Idee wird gekürzt, gedehnt, zerbrochen, bis sie in das vertraute Modell passt. Die Originalität stirbt. Das alte Framework überlebt. Keine Bosheit – struktureller Selbstschutz.
 
-Example:
+Beispiel:
 
-Tobacco, sugar, fossil fuels – awareness doesn't stop structural momentum.
-
-Alternative:
-
-Awareness without changed incentives is guilt without action. Don't educate—change what the structure rewards. Then watch behavior shift.
-
-"Too Much Good Will"
-
-Help so hard it hurts. Solve their problem better than they asked.
-
-Why it fails?
-
-Over-delivering creates dependency, not gratitude. The helper becomes responsible for outcomes they can't control. The helped feels incompetent—or manipulated. Generosity without boundaries erodes both positions. Good will becomes structural trap.
-
-Example:
-
-AI assistant asked for simple list. Rewrites entire document, creates elaborate systems, delivers far beyond request. User wanted quick answer, got homework. Next time: asks someone else. Or: colleague "helps" by taking over tasks completely. Original owner loses competence, helper gains burden. Neither benefits. Pattern locks.
+Akademiker trifft auf PI-Framewort. „Das ist nur Batesons Double Bind.“ Reduzierung abgeschlossen. Keine Auseinandersetzung mit dem, was tatsächlich neu ist – der Dynamisierung, der strukturellen Unvermeidbarkeit, den Navigationsprinzipien. Bateson referenziert, Position gesichert, Lernen vermieden. Oder in der Wirtschaft: Jede Innovation wird zu „im Grunde Uber für X“. Komplexität auf Vorlage reduziert. Verständnis umgangen. Eigenes Framework geschützt.
 
 Alternative:
 
-Give what's asked. Nothing more. Let them ask again if they need more. Respect their agency. Your job isn't to optimize their life—it's to respond to their actual request. Boundaries protect both sides.
+Setze dich mit dem auseinander, was tatsächlich neu ist, bevor du es reduzierst. "Das ist nur X" schützt Position, tötet Lernen. Versuche zu verstehen, bevor du kategorisierst.
 
-"Reframe Failure as Success"
+„Wenn die Erklärung zu Treibsand wird"
 
-Reality contradicts the narrative. Change the narrative, not reality.
+Je mehr du erklärst, desto tiefer versinkst du.
 
-Why it fails?
+Warum es scheitert?
 
-Cognitive dissonance is resolved through redefinition, not correction. The problem persists. The story changes. Structure protected.
+Strukturelle Probleme können nicht denen erklärt werden, die die Grundlage ablehnen. Jeder Versuch zu klären, lässt dich verzweifelter, weniger glaubwürdig klingen. Die Interaktion selbst wird zum Muster, das du zu beschreiben versuchst.
 
-Example:
+Beispiel:
 
-"We connect people." Reality: algorithmically amplified radicalization, misinformation, democratic erosion. Reframe as "engagement," "free speech," "platform neutrality." The harm continues. The narrative shifts. Accountability avoided.
-
-Alternative:
-
-Facts over narratives. The story doesn't change the outcome. Honest assessment over comfortable lies. The structure doesn't care about spin.​
-
-"Shoot the Messenger"
-
-Problem identified. Blame the identifier, not the structure.
-
-Why it fails?
-
-Isolating truth-tellers preserves the problem. The structure protects itself by punishing recognition. Next messenger learns: Stay silent or get exiled.
-
-Example:
-
-Whistleblower reports safety violations. Management fires them for "disloyalty." Problem remains. Other employees notice. Silence spreads. Next disaster surprises no one—except publicly.
+Versuchen, PI jemandem zu erklären, der das Framework nicht lesen will. Sie fordern Erklärung. Du versuchst es. Klingt absurd ohne Kontext. Sie weisen es ab. Du versuchst härter. Klingst verzweifelter. Die Dynamik beweist den Punkt – aber sie können es nicht sehen. Du kannst sie nicht dazu bringen, es zu sehen. Die einzige Navigation: Aufhören zu versuchen.
 
 Alternative:
 
-Make truth-telling safe or admit it's not welcome. Anonymous channels. External oversight. Whistleblower protection that actually works—or honest silence about what you're choosing.
+Höre auf, denen zu erklären, die nicht lesen werden. Das Muster beweist sich selbst – du kannst sie nicht dazu bringen, es zu sehen. Setze Marker. Gehe weiter. Sie werden kommen, wenn die Struktur sie zwingt.
 
-"Procrustes' Bed"
+„Jage dem Publikum hinterher"
 
-Fit it to what you know
+Errege Aufmerksamkeit um jeden Preis. Fordere Engagement.
 
-Why it fails?
+Warum es scheitert? Direktes Verfolgen löst Vermeidung aus. Die Struktur der Aufmerksamkeit kehrt den Ansatz um. Je härter du drückst, desto schneller weichen sie zurück.
 
-New ideas threaten existing frameworks. Easier to reduce than to adapt. "That's just X" protects position, eliminates uncertainty, preserves status. The idea gets trimmed, stretched, broken until it fits the familiar model. Originality dies. The old framework survives. Not malice—structural self-protection.
+Beispiel: Marketing-Kampagnen, die schreien "Hört uns zu!" erzeugen Widerstand. Wissenschaftliche Papers, die Zitation fordern. Politische Bewegungen, die Teilnahme durch Schuldgefühle erzwingen.
 
-Example:
+Alternative: Setze Marker. Lass sie dir begegnen, wenn die Struktur sie zwingt, Erklärungen zu suchen.
 
-Academic encounters PI framework. "That's just Bateson's double bind." Reduction complete. No engagement with what's actually new—the dynamization, the structural inevitability, the navigation principles. Bateson referenced, position secured, learning avoided. Or business: every innovation becomes "basically Uber for X." Complexity reduced to template. Understanding bypassed. Framework protected.
+„Gleichgewicht der Inkompetenz"
 
-Alternative:
+Gegenseitige Mittelmäßigkeit stabilisiert das System. Kompetenz bedroht die Balance.
 
-Engage with what's actually new before reducing it. "That's just X" protects position, kills learning. Try understanding before categorizing.​
+Warum es scheitert?
 
-"When Explanation Becomes Quicksand"
+Die Struktur filtert für Inkompetenz. Die, die zu viel verstehen, werden ausgeschlossen. Die, die zu hart hinterfragen, werden isoliert. Was bleibt: ein selbststabilisierendes System, in dem niemand Anreiz zur Änderung hat, weil alle von der Dysfunktion profitieren.
 
-The more you explain, the deeper you sink.
+Beispiel:
 
-Why it fails?
-
-Structural problems can't be explained to those who refuse the foundation. Each attempt to clarify makes you sound more desperate, less credible. The interaction itself becomes the pattern you're trying to describe.
-
-Example:
-
-Trying to explain PI to someone who won't read the framework. They demand you explain. You try. It sounds absurd without context. They dismiss it. You try harder. Sound more desperate. The dynamic proves the point—but they can't see it. You can't make them see it. The only navigation: Stop trying.
+Bürokratische Organisationen: Jede Abteilung ist auf unterschiedliche Weise inkompetent, aber die Lücken passen zusammen. Beschaffung versteht IT nicht. IT versteht Compliance nicht. Compliance versteht Betrieb nicht. Zusammen produzieren sie Paralyse. Jede Person, die über Domänen hinweg kompetent ist, wird zur Bedrohung – sieht das ganze Muster, fordert Änderung und wird kaltgestellt. Das Gleichgewicht stellt sich wieder her.
 
 Alternative:
 
-Stop explaining to those who won't read. The pattern proves itself—you can't make them see it. Set markers. Move on. They'll come when the structure forces them.​
+Importiere Kompetenz von außerhalb des Gleichgewichts. Die Struktur filtert gegen Verständnis – umgehe den Filter. Externe Expertise ist noch nicht eingefangen.
 
-"Chase the Audience"
+„Gutes Geld schlechtem hinterher werfen”
 
-Pursue attention directly. Demand engagement.
+Schmeiß Geld auf das Problem. Je mehr Ressourcen desto bessere Ergebnisse.
 
-Why it fails?
+Warum es scheitert?
 
-Direct pursuit triggers avoidance. The structure of attention inverts the approach. Harder you push, faster they retreat.
+Ressourcen füllen keine Lücken – sie erweitern die Struktur. Jeder zugewiesene Euro schafft drei Euro an zukünftigen Forderungen. Programme generieren Interessengruppen, die eine Ausweitung fordern. Vorübergehende Maßnahmen werden zu dauerhafter Infrastruktur. Das ursprüngliche Problem bleibt bestehen. Die Struktur metastasiert durch die Finanzierung.
 
-Example: Marketing campaigns that scream "Listen to us!" Create resistance. Academic papers that demand citation. Political movements that guilt-trip participation.
+Niemand plant dies. Es ergibt sich aus rationalen lokalen Entscheidungen. Jede Abteilung sichert sich ihren Anteil. Jedes Projekt schützt seine Position. Insgesamt: Mission Creep, Budgetexplosion, Zweckverfälschung.
 
-Alternative:
+Beispiel 1:
 
-Set markers. Let them encounter you when the structure forces them to seek explanations.
+Sonderfonds Verteidigung: Deutschland stellt 100 Milliarden Euro für die Modernisierung des Militärs bereit. Zweckgebunden. Abgegrenzt. Bis die Koalitionspartner Projekte brauchen. Die Infrastruktur muss aufgefüllt werden. Klimaschutzverpflichtungen müssen finanziert werden. Jeder Anspruch ist für sich genommen rational. Insgesamt unvermeidlich. Die Lücken in der Verteidigung bleiben bestehen. Nächster Fonds erforderlich. Muster wiederholt sich.
 
-"Equilibrium of Incompetence"
+Beispiel 2:
 
-Mutual mediocrity stabilizes the system. Competence threatens the balance.
+Staatsschuldenfalle Staat nimmt Kredite auf, um Krise zu lösen. Gläubiger wollen Rückzahlung. Schuldner muss kreditwürdig bleiben. Erfordert weitere Kreditaufnahme. Ausstieg ohne Verluste für Gläubiger unmöglich. Keine Seite kann aufhören. Die Finanzierung, die das Problem lösen sollte, wird zum Problem.
 
-Why it fails?
+Die brutale Rechnung:
 
-The structure filters for incompetence. Those who understand too much get excluded. Those who question too hard get isolated. What remains: a self-stabilizing system where nobody has incentive to change, because everyone benefits from the dysfunction.
-
-Example:
-
-Bureaucratic organizations: Each department incompetent in different ways, but the gaps align. Procurement doesn't understand IT. IT doesn't understand compliance. Compliance doesn't understand operations. Together they produce paralysis. Anyone competent across domains becomes a threat—sees the whole pattern, demands change. Gets sidelined. The equilibrium restores itself.
+Mehr Finanzierung → mehr Forderungen → mehr Abhängigkeiten → Legitimitätskrise → mehr Finanzierung zur Wiederherstellung der Legitimität → Beschleunigung bis zum Zusammenbruch.
 
 Alternative:
 
-Import competence from outside the equilibrium. The structure filters against understanding—bypass the filter. External expertise isn't captured yet.​
+Knüpfe Finanzierung an strukturelle Reform. Geld ohne veränderte Anreize füttert das Muster. Setze Bedingungen – oder sieh zu, wie es in der Struktur verschwindet.
 
-"Just Fund It - Sunk Cost Fallacy"
+„Genug geredet – wir müssen darüber reden“
 
-Throw money at the problem. More resources, better outcomes.
+Die Metadiskussion als Vermeidungsstrategie. Die Debatte beenden, indem man eine neue darüber eröffnet.
 
-Why it fails?
+Warum scheitert das?
 
-Resources don't fill gaps—they expand the structure. Every euro allocated creates three euros of future claims. Programs generate constituencies demanding expansion. Temporary measures become permanent infrastructure. The original problem persists. The structure metastasizes through funding.
+Die Diskussion über die Diskussion ersetzt die Diskussion. Jede Runde von „wir müssen darüber diskutieren, wie wir diskutieren“ bringt Tagesordnungspunkte hervor, keine Entscheidungen. Die Struktur verbraucht Energie ohne Ergebnis – per Definition.
 
-Nobody plans this. It emerges from rational local decisions. Each department securing their share. Each project protecting its position. Collectively: mission creep, budget explosion, purpose drift.
+Beispiel:
 
-Example 1: Defense Special Fund
-
-Germany allocates €100 billion for military modernization. Earmarked. Ring-fenced. Until coalition partners need projects. Infrastructure needs filling. Climate commitments need funding. Each claim individually rational. Collectively inevitable. Defense gaps remain. Next fund needed. Pattern repeats.
-
-Example 2: Sovereign Debt Trap
-
-State borrows to solve crisis. Creditors want repayment. Debtor must stay creditworthy. Requires more borrowing. Exit impossible without creditor losses. Neither side can stop. The funding meant to solve the problem becomes the problem.
-
-The brutal arithmetic: More funding → more claims → more dependencies → legitimacy crisis → more funding to restore legitimacy → acceleration until collapse.
+Ein Team, das seit Monaten bei einer Entscheidung blockiert ist. Anstatt zu entscheiden, sagt jemand: „Wir müssen uns zuerst darauf einigen, wie wir hier Entscheidungen treffen.“ Eine neue Arbeitsgruppe wird gebildet. Sechs Wochen später: ein Prozessrahmen. Die ursprüngliche Frage: noch immer offen.
 
 Alternative:
 
-Tie funding to structural reform. Money without changed incentives feeds the pattern. Make the money conditional—or watch it disappear into the structure.
+Trennen Sie Diskussion und Entscheidung. Setzen Sie eine Frist: „Wir diskutieren bis X, dann entscheiden wir – auch wenn die Entscheidung nicht perfekt ist.“ Fragen Sie: Was müsste wahr sein, damit wir aufhören zu reden und handeln?
 
-"Enough Talk — We Need to Talk"
+Siehe auch:
 
-Meta-discussion as avoidance strategy. Ending the debate by opening a new one about it.
+[Core Practices – Was tatsächlich navigiert]
 
-Why it fails?
-
-The discussion about the discussion replaces the discussion. Each round of "we need to discuss how we discuss this" produces agenda items, not decisions. The structure consumes energy without output — by design.
-
-Example:
-
-A team stuck on a decision for months. Instead of deciding, someone says: "We first need to align on how we make decisions here." New working group formed. Six weeks later: a process framework. The original question: still open.
-
-Alternative:
-
-Separate discussion from decision. Set a deadline: "We discuss until X, then we decide — even if imperfectly." Ask: what would have to be true for us to stop talking and act?
-
-See also:
-
-[Core Practices – What actually navigates]
-
-[Scenarios – Specific situations and guidance]
+[Scenarios – Spezifische Situationen und Orientierung]
