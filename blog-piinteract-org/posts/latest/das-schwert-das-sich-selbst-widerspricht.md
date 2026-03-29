@@ -1,7 +1,7 @@
 ---
 title: "Das Schwert, das sich selbst widerspricht"
 date: 2026-02-21T10:00:56
-modified: 2026-02-27T14:13:38
+modified: 2026-03-29T16:12:35
 slug: das-schwert-das-sich-selbst-widerspricht
 lang: de
 type: post
