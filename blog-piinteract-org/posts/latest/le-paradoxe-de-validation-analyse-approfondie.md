@@ -581,8 +581,6 @@ Connexes :
 
 Le Mécanisme Nostradamus. Le Prophète Qui Comprit la Structure de la Prophétie.
 
-La Dé-paradoxation de la Dé-paradoxation.
-
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
@@ -602,6 +600,8 @@ Quand l’observation de la fermeture devient fermeture
 La polarisation qui n’a pas été choisie
 
 Le Gardien Articulé
+
+Peter Steinberger – L’homme qui a provoqué l’inondation, puis construit la digue
 
 No results found.
 
