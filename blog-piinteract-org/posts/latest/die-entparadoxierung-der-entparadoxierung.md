@@ -1,7 +1,7 @@
 ---
 title: "Die Entparadoxierung der Entparadoxierung."
 date: 2026-03-20T11:52:59
-modified: 2026-03-20T12:33:19
+modified: 2026-03-29T16:52:36
 slug: die-entparadoxierung-der-entparadoxierung
 lang: de
 type: post
@@ -11,9 +11,6 @@ url: https://blog.piinteract.org/de/die-entparadoxierung-der-entparadoxierung/
 ---
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
-
-
-
 
 
 
@@ -269,8 +266,6 @@ Die Entparadoxierung der Entparadoxierung ist vollständig.
 
 
 
-
-
 Verwandte Beiträge
 
 
@@ -327,6 +322,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 
 
+
 Peter Senner
 
 Thinking beyond the Tellerrand
@@ -334,8 +330,6 @@ Thinking beyond the Tellerrand
 contact@piinteract.org
 
 www.piinteract.org
-
-
 
 
 
