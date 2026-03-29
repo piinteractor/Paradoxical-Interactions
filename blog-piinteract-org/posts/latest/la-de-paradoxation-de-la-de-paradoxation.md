@@ -1,7 +1,7 @@
 ---
 title: "La Dé-paradoxation de la Dé-paradoxation."
 date: 2026-03-20T11:52:59
-modified: 2026-03-29T16:51:09
+modified: 2026-03-29T17:59:33
 slug: la-de-paradoxation-de-la-de-paradoxation
 lang: fr
 type: post
@@ -18,7 +18,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 20 mars 2026
 
-Peter Senner co-created with Anthropic Claude
+Peter Senner co-creé avec Anthropic Claude
 
 Le Choix
 
