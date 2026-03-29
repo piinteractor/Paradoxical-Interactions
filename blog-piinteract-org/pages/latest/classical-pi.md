@@ -30,14 +30,6 @@ The structures were already there. The myths just named them first.
 
 All are guilty. None are at fault.
 
-The Cassandra Paradox
-
-26. January 2026
-
-Apollo gives Cassandra the gift of prophecy. She rejects him. He curses her: she'll speak truth, but no one will believe her. She warns Troy about the wooden horse. Troy burns anyway.
-
-Read More
-
 The Prophet Paradox
 
 28. January 2026
