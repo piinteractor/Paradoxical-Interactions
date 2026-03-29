@@ -1,7 +1,7 @@
 ---
 title: "Drei Teilchen wandern in eine Struktur"
 date: 2026-02-23T10:00:56
-modified: 2026-02-27T14:13:42
+modified: 2026-03-29T19:55:46
 slug: drei-teilchen-wandern-in-eine-struktur
 lang: de
 type: post
@@ -26,7 +26,7 @@ Der Unterschied ist nicht Physik. Es ist Struktur.
 
 I. Das Gluon — ehrliches Confinement
 
-Beginnen wir mit dem, das funktioniert.
+Beginnen wir mit dem, was funktioniert.
 
 Gluonen halten Quarks zusammen. Sie sind die Träger der starken Kernkraft — der Kraft, die Protonen, Neutronen und damit jedes Atom in deinem Körper aufbaut. Ohne Gluonen existiert Materie nicht. Nicht metaphorisch. Buchstäblich.
 
