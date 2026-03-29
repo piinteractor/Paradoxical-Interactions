@@ -192,10 +192,6 @@ Sehr menschlich. Sehr Quizmaster.
 
  
 
-Das Kassandra Paradox
-
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
-
 Borniertheit statt Weisheit – Die PI des Philosophen
 
 Warum Richard David Precht im Alter nicht weiser, sondern engstirniger wird
