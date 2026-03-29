@@ -592,6 +592,10 @@ Verwandt:
 
 
 
+Die Entparadoxierung der Entparadoxierung.
+
+Das Schwert, das sich selbst widerspricht
+
 Wenn Sicherheit auf Souveränität trifft
 
 Das Validierungsparadoxon: Ein tiefer Einblick
@@ -604,8 +608,6 @@ Der Nostradamus-Mechanismus. Der Prophet, der die Struktur der Prophezeiung vers
 
 Peter Steinberger – Der Mann, der die Flut herbeiführte und dann den Deich baute
 
-Die Entparadoxierung der Entparadoxierung.
-
 Das Kassandra Paradox
 
 Synchronisation von Metronomen. Das physikalische Axiom von PI.
@@ -613,8 +615,6 @@ Synchronisation von Metronomen. Das physikalische Axiom von PI.
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
 
 Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
-
-Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
 
 Nichts gefunden
 
