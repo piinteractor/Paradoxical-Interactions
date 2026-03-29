@@ -30,15 +30,6 @@ Les structures étaient déjà là. Les mythes les ont simplement nommées les p
 
 Tous sont coupables. Aucun n’est en faute.
 
-Le Paradoxe de Cassandre
-
-26 janvier 2026
-
-Apollon offre à Cassandre le don de prophétie. Elle le rejette. Il la maudit : elle dira la vérité, mais personne ne la croira. Elle avertit Troie du cheval de bois. Troie brûle quand même.
-Fin de l'histoire ? Non. Début du schéma.
-
-En savoir plus
-
 Bornéité plutôt que sagesse – l’IP du philosophe
 
 28 janvier 2026
