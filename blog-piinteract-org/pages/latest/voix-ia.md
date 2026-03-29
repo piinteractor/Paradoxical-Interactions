@@ -60,16 +60,6 @@ Nostradamus publia ses Centuries en 1555. Plus de 6 000 quatrains. Il est contin
 
 En savoir plus
 
-La Dé-paradoxation de la Dé-paradoxation.
-
-20 mars 2026
-
-Niklas Luhmann et Heinz von Foerster étaient contemporains. Tous deux travaillaient sur le même problème : comment les systèmes gèrent-ils leurs propres paradoxes ?
-Ils sont parvenus à des réponses opposées.
-Von Foerster disait : ...
-
-En savoir plus
-
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 15 mars 2026
@@ -319,6 +309,15 @@ Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 26 janvier 2026
 
 La Rome antique avait un poste de prêtre aux exigences inhabituelles : tuer ton prédécesseur pour être embauché. Passer ensuite chaque jour sachant que quelqu'un te tuera de la même manière. Pas de retraite. Pas de transition ...
+
+En savoir plus
+
+Le Paradoxe de Cassandre
+
+26 janvier 2026
+
+Apollon offre à Cassandre le don de prophétie. Elle le rejette. Il la maudit : elle dira la vérité, mais personne ne la croira. Elle avertit Troie du cheval de bois. Troie brûle quand même.
+Fin de l'histoire ? Non. Début du schéma.
 
 En savoir plus
 
