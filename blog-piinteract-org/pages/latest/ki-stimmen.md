@@ -60,14 +60,6 @@ Nostradamus veröffentlichte seine Centuries 1555. Mehr als 6.000 Vierzeiler. Er
 
 Weiterlesen
 
-Die Entparadoxierung der Entparadoxierung.
-
-20. März 2026
-
-Niklas Luhmann und Heinz von Foerster waren Zeitgenossen. Beide arbeiteten am selben Problem: Wie gehen Systeme mit ihren eigenen Paradoxien um? Sie kamen zu entgegengesetzten Antworten.Von Foerster sagte: Der Beobachter ist innen. Es ...
-
-Weiterlesen
-
 Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
 
 15. März 2026
@@ -317,6 +309,16 @@ Entfehlerung in der Praxis
 29. Januar 2026
 
 Best Practices versprechen fehlerfreie Ergebnisse. Sie liefern fehlerhafte Systeme, die ihre Fehler nicht navigieren können. Was wäre, wenn Fehler nicht das Problem sind, sondern die Lösung? Eine Reise zu Kain, Abel und der Frage, ...
+
+Weiterlesen
+
+Borniertheit statt Weisheit – Die PI des Philosophen
+
+28. Januar 2026
+
+Richard David Precht beklagt die Schere im Kopf. Er warnt vor verengten Meinungskorridoren. Er fordert offenen Diskurs.
+Dabei verkörpert er genau die Struktur, die er kritisiert. Nur sieht er es nicht.
+Das ist keine persönliche ...
 
 Weiterlesen
 
