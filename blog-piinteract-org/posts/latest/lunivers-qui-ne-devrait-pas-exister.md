@@ -1,7 +1,7 @@
 ---
 title: "L’Univers qui ne devrait pas exister"
 date: 2026-02-23T10:00:56
-modified: 2026-02-27T14:14:11
+modified: 2026-03-29T18:41:04
 slug: lunivers-qui-ne-devrait-pas-exister
 lang: fr
 type: post
@@ -160,9 +160,7 @@ Vous êtes là quand même.
 
 Tous sont coupables. Personne n'y peut rien. Tout existe. Rien ne le devrait.
 
-Related Posts:
-
-Structural sacrifice mechanisms:
+Articles connexes :
 
 Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meilleure idée
 
