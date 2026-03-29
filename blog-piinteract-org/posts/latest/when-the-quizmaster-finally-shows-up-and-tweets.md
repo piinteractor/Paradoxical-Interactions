@@ -198,10 +198,6 @@ The quiz never ends. The Quizmaster tweets and leaves. The prophet gets his sign
 
 Very human. Very Quizmaster.
 
-The Cassandra Paradox
-
-Why truth-tellers get ignored until it's too late
-
 The Prophet Paradox
 
 Why proximity destroys authority
