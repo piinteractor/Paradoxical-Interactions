@@ -156,6 +156,10 @@ Die PI der Dunklen Materie
 
 Wie materiell ist die Dunkle Materie?
 
+Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
+
+Wie Luhmann sich selbst widerlegt. Und warum es dringend nötig ist.
+
 No results found.
 
 On piinteract.org:
