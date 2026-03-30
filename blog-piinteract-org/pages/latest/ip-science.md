@@ -42,6 +42,14 @@ L'auto-organisation est le grand espoir de la théorie de la complexité. Pas d'
 
 Read More
 
+Synchronisation des métronomes. L’axiome physique de PI.
+
+7 mars 2026
+
+Imaginez une rangée de métronomes mécaniques identiques. Vous les mettez en marche un par un. Ils forment un spectacle chaotique, un désordre mimétique. Chacun est un acteur souverain, battant à son propre rythme unique et frénétique. ...
+
+Read More
+
 Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meilleure idée
 
 23 février 2026
