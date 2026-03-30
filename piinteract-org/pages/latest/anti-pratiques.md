@@ -1,7 +1,7 @@
 ---
 title: "Anti-Pratiques"
 date: 2025-12-17T22:10:00
-modified: 2026-02-28T10:39:49
+modified: 2026-03-30T08:07:21
 slug: anti-pratiques
 lang: fr
 type: page
@@ -375,6 +375,40 @@ Une équipe bloquée sur une décision depuis des mois. Au lieu de décider, que
 Alternative :
 
 Séparer discussion et décision. Fixer une échéance : « On discute jusqu'à X, puis on décide — même imparfaitement. » Demander : qu'est-ce qui devrait être vrai pour qu'on arrête de parler et qu'on agisse ?
+
+« La majorité comme vérité »
+
+Considérer le consensus comme une preuve. Ce que tout le monde croit doit forcément être vrai.
+
+Pourquoi cela ne tient-il pas la route ?
+
+Le consensus est un fait social, pas un fait épistémique. Il décrit ce que la plupart des gens croient — pas ce qui est vrai. Dans les structures IP, le consensus est souvent le mécanisme qui génère l’angle mort : lorsque tout le monde occupe la même position structurelle, la limite commune devient invisible. Non pas parce qu’elle n’existe pas, mais parce qu’il n’y a pas de contraste.
+
+Si tout le monde a le même angle mort, celui-ci ne peut être vu. Si une personne ne l'a pas, c'est elle qui devient celle qui a l'angle mort.
+
+L'Allemand qui conduit en Angleterre et crie depuis le pont de l'autoroute : « Vous roulez tous du mauvais côté ! » — a objectivement raison. La majorité le rend faux par définition — et non par argumentation. Il n'est pas réfuté. Il est en minorité.
+
+La structure se moque de la justesse. Elle se stabilise par le volume.
+
+Exemple :
+
+Chaque changement de paradigme en science a commencé par une position minoritaire. Semmelweis a été détruit par l’institution pour avoir eu raison. Le consensus n’était pas ignorant — il était structurellement incapable de voir ce qu’il voyait, car il ne partageait pas sa position. Son erreur n’était pas son analyse. C’était de supposer que la justesse suffirait.
+
+Ce n’est jamais le cas.
+
+Le piège dans le piège :
+
+L'erreur inverse est tout aussi dangereuse : considérer la position minoritaire comme une preuve de justesse. « Personne ne me comprend » n'est pas une preuve de perspicacité. Cela peut l'être. Ou bien cela peut être une erreur sans public. L'ambiguïté structurelle est irréductible.
+
+Lequel des deux ? Exactement.
+
+Alternative :
+
+Séparer la question de la justesse de celle de la position. Demander : Quelle position structurelle rendrait ce consensus rationnel ? Puis demander : Quelle position rendrait la dissidence rationnelle ?
+
+Aucune de ces questions ne résout l'ambiguïté. Mais elles remplacent la recherche de la vérité par le vote par la recherche d'une explication structurelle.
+
+→ Voir aussi : Reconnaître l'angle mort partagé — Pratiques fondamentales: la même structure que l'outil de navigation.
 
 Voir aussi :
 
