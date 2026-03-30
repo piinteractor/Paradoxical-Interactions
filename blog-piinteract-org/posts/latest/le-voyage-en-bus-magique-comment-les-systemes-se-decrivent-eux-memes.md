@@ -1,7 +1,7 @@
 ---
 title: "Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes"
 date: 2026-03-24T09:20:34
-modified: 2026-03-26T15:48:29
+modified: 2026-03-30T19:20:39
 slug: le-voyage-en-bus-magique-comment-les-systemes-se-decrivent-eux-memes
 lang: fr
 type: post
