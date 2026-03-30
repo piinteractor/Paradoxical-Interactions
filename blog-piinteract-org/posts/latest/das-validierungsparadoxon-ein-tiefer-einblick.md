@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Universum, das nicht existieren dürfte
+
 Die Entparadoxierung der Entparadoxierung.
 
 Das Schwert, das sich selbst widerspricht
@@ -602,19 +604,17 @@ Das Validierungsparadoxon: Ein tiefer Einblick
 
 Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
 
-Der Nostradamus-Mechanismus. Der Prophet, der die Struktur der Prophezeiung verstand.
-
 „Macht wächst schneller als Kontrolle“
 
 Peter Steinberger – Der Mann, der die Flut herbeiführte und dann den Deich baute
 
 Das Kassandra Paradox
 
-Synchronisation von Metronomen. Das physikalische Axiom von PI.
-
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
 
 Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
+
+Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
 
 Nichts gefunden
 
