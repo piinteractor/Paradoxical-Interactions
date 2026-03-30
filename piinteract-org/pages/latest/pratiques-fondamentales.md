@@ -1,7 +1,7 @@
 ---
 title: "Pratiques Fondamentales"
 date: 2025-12-17T22:09:59
-modified: 2026-03-30T07:41:50
+modified: 2026-03-30T08:17:56
 slug: pratiques-fondamentales
 lang: fr
 type: page
