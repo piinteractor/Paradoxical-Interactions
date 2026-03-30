@@ -1,7 +1,7 @@
 ---
 title: "Pratiques Fondamentales"
 date: 2025-12-17T22:09:59
-modified: 2026-02-22T13:30:22
+modified: 2026-03-30T07:41:50
 slug: pratiques-fondamentales
 lang: fr
 type: page
@@ -445,6 +445,50 @@ Attendez-vous à ceci
 Frustration. Le besoin de clôture. L'envie de choisir une vérité et de rejeter l'autre. Accusations de malhonnêteté intellectuelle. Tout normal. PI n'est pas sans espoir. Mais c'est toujours contradictoire.
 
 Celui qui nous surprend en contradiction a raison.
+
+16. Reconnaître l’angle mort commun
+
+De quoi s’agit-il ?
+
+Accepter que ce soit votre position — et non votre erreur — qui détermine ce que vous pouvez voir. Et que le consensus de la majorité n’est pas une preuve de vérité. Seulement une preuve de majorité.
+
+Pourquoi cela pose-t-il problème ?
+
+Si tout le monde a le même angle mort, celui-ci ne peut être perçu. Si une seule personne n’en a pas, c’est elle qui devient celle qui a l’angle mort.
+
+Il n’existe pas de position neutre à partir de laquelle juger qui a raison. Seulement le fait structurel que s’écarter du consensus est perçu comme une erreur — que ce consensus soit correct ou non.
+
+Ce n’est pas du relativisme. C’est la condition structurelle de toute perspective extérieure. L’Allemand qui conduit en Angleterre et crie depuis le pont de l’autoroute : « Vous roulez tous du mauvais côté ! » — a objectivement raison. Et structurellement, c’est le problème.
+
+La majorité ne lui donne pas tort. Elle le rend hors de propos. Jusqu’à ce que la structure change — ou que l’on impose sa reconnaissance depuis l’extérieur.
+
+Si vous êtes ici
+
+Votre analyse est correcte, mais personne ne la confirme
+
+Plus vous expliquez avec précision, plus vous semblez suspect
+
+On vous traite comme le problème, et non la structure que vous décrivez
+
+Le consensus ressemble à un mur, pas à un argument
+
+Ce mouvement est possible
+
+Cessez d’exiger que votre position soit reconnue comme correcte. Elle l’est peut-être. Peut-être pas. Vous ne pouvez pas le déterminer de l’intérieur de la dynamique.
+
+Demandez plutôt : Qu’est-ce qui devrait changer structurellement pour que cela devienne visible ? Pas : Comment puis-je les convaincre ?
+
+Naviguez à partir de votre position — sans la confondre avec la seule valable. Et sans y renoncer parce que les autres ne la partagent pas.
+
+Attendez-vous à ceci
+
+Pas de résolution. C’est là tout l’intérêt.
+
+« Eh bien, qu'en est-il ? » — n'est pas une question en attente d'une réponse. C'est le moment où l'IP devient expérientielle plutôt que théorique. La structure ne se résout pas. Elle se révèle.
+
+Quiconque demande « Eh bien, qu'en est-il ? » vient de comprendre l'IP. Il ne le sait tout simplement pas encore.
+
+→ Voir aussi : L'ambiguïté de la position — Anti-pratiques: la même structure que le mode d'échec.
 
 Voir aussi :
 
