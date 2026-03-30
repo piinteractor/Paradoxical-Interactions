@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Rennen, das von selbst läuft.
+
 Das Validierungsparadoxon: Ein tiefer Einblick
 
 Das Universum, das nicht existieren dürfte
@@ -613,8 +615,6 @@ Das Kassandra Paradox
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
 
 Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
-
-Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
 
 Nichts gefunden
 
