@@ -52,4 +52,12 @@ In January 2024, OpenAI declared it had built the first AGI systems. The announc
 
 Read More
 
+The Nostradamus Mechanism. The Prophet Who Understood the Structure of Prophecy.
+
+24. March 2026
+
+Nostradamus published his Centuries in 1555. More than 6,000 quatrains. He has been continuously in print for nearly five centuries. Every generation finds its own wars, its own tyrants, its own catastrophes in his verses. Napoleon ...
+
+Read More
+
 No results found.
