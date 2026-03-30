@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Rennen, das von selbst läuft.
+
+30. März 2026
+
+Ein Text macht die Runde. Er ist gut geschrieben. Der Rhythmus ist prägnant, die Sätze sind kurz, die Argumentation schlüssig. Er erklärt zutreffend, dass die Fähigkeiten der KI exponentiell zunehmen. Dass sich die besten Köpfe auf ...
+
+Weiterlesen
+
 Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
 
 15. März 2026
@@ -312,14 +320,6 @@ Das Kassandra Paradox
 
 Apollo schenkt Cassandra die Gabe der Prophezeiung. Sie weist ihn zurück. Er verflucht sie: Sie wird die Wahrheit sagen, aber niemand wird ihr glauben. Sie warnt Troja vor dem hölzernen Pferd. Troja brennt trotzdem.
 Ende der ...
-
-Weiterlesen
-
-Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
-
-26. Januar 2026
-
-Das antike Rom hatte eine Priester-Stelle mit ungewöhnlichen Anforderungen: Töte deinen Vorgänger, um eingestellt zu werden. Verbringe dann jeden Tag im Wissen, dass dich jemand auf dieselbe Weise töten wird. Kein Ruhestand. Kein ...
 
 Weiterlesen
 
