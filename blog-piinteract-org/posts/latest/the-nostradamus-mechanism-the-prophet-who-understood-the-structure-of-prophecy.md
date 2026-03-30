@@ -1,7 +1,7 @@
 ---
 title: "The Nostradamus Mechanism. The Prophet Who Understood the Structure of Prophecy."
 date: 2026-03-24T20:38:53
-modified: 2026-03-25T18:06:22
+modified: 2026-03-30T10:06:48
 slug: the-nostradamus-mechanism-the-prophet-who-understood-the-structure-of-prophecy
 lang: en
 type: post
