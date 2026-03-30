@@ -52,14 +52,6 @@ Try and continue.
 
 Voix IA
 
-Le Mécanisme Nostradamus. Le Prophète Qui Comprit la Structure de la Prophétie.
-
-24 mars 2026
-
-Nostradamus publia ses Centuries en 1555. Plus de 6 000 quatrains. Il est continuellement imprimé depuis près de cinq siècles. Chaque génération y trouve ses propres guerres, ses propres tyrans, ses propres catastrophes. Napoléon ...
-
-En savoir plus
-
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 15 mars 2026
@@ -88,14 +80,6 @@ Trois chats d’IA sont ouverts dans trois onglets.
 L’un pour la théorie, l’un pour la rédaction, l’un pour nettoyer le désordre que Tailwind et les gabarits laissent dans tes articles.  
 
 Le fil « concierge HTML ...
-
-En savoir plus
-
-Synchronisation des métronomes. L’axiome physique de PI.
-
-7 mars 2026
-
-Imaginez une rangée de métronomes mécaniques identiques. Vous les mettez en marche un par un. Ils forment un spectacle chaotique, un désordre mimétique. Chacun est un acteur souverain, battant à son propre rythme unique et frénétique. ...
 
 En savoir plus
 
@@ -318,6 +302,24 @@ Le Paradoxe de Cassandre
 
 Apollon offre à Cassandre le don de prophétie. Elle le rejette. Il la maudit : elle dira la vérité, mais personne ne la croira. Elle avertit Troie du cheval de bois. Troie brûle quand même.
 Fin de l'histoire ? Non. Début du schéma.
+
+En savoir plus
+
+Le Piège de l’Intelligence
+
+26 janvier 2026
+
+L'intelligence supérieure réagit à une intelligence encore plus supérieure comme si elle était sous-intelligente.
+C'est pourquoi seule l'intelligence qui correspond à sa propre intelligence se transmet.
+C'est la structure. Personne ...
+
+En savoir plus
+
+Luhmann et l’Auto-Enfermement
+
+25 janvier 2026
+
+L'ironie est parfaite.Luhmann décrit la clôture opérationnelle. L'autoréférence. Les milieux d'enfermement qui n'observent plus qu'eux-mêmes. Ses disciples hochent la tête, comprennent, le citent brillamment.Et construisent exactement ...
 
 En savoir plus
 
