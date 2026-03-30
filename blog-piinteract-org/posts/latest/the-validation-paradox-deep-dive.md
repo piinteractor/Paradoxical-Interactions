@@ -454,17 +454,11 @@ Try and continue.
 
 Related:
 
-The Nostradamus Mechanism. The Prophet Who Understood the Structure of Prophecy.
-
 The Posthumous Correction. Why Being Right Requires Being Gone.
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
-The 432-Parameter Wall. A Job Ad for the Wrong Person.
-
 The Fleming Effect. When a “HTML Janitor” Turns Into a Supervisor.
-
-Synchronization of Metronomes. The Physical Axiom of PI.
 
 The Fake Paradise. How Social Media Turns Real Life into Background Noise.
 
@@ -477,6 +471,12 @@ When Safety Meets Sovereignty
 When Observing Closure Becomes Closure
 
 The Polarization That Wasn’t Chosen
+
+The Articulate Gatekeeper
+
+Peter Steinberger – The Man Who Built the Flood and Then Built the Levee
+
+The Sword That Contradicts Itself
 
 No results found.
 
