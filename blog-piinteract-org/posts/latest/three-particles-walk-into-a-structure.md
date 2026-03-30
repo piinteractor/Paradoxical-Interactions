@@ -1,7 +1,7 @@
 ---
 title: "Three Particles Walk Into a Structure"
 date: 2026-02-23T10:00:56
-modified: 2026-03-29T19:50:46
+modified: 2026-03-30T09:50:40
 slug: three-particles-walk-into-a-structure
 lang: en
 type: post
