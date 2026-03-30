@@ -1,7 +1,7 @@
 ---
 title: "Justice That Could Be Afforded"
 date: 2026-01-23T10:33:56
-modified: 2026-03-04T14:40:55
+modified: 2026-03-30T16:55:07
 slug: justice-that-could-be-afforded
 lang: en
 type: post
@@ -20,6 +20,12 @@ This text analyzes that structure. Not to excuse perpetrators, but to understand
 
 Documentation, not justification.
 
+
+
+
+
+
+
 The Pattern
 
 After 1945, something paradoxical emerged:
@@ -33,6 +39,12 @@ Mass of participants reintegrated → system continuity preserved
 Administrative, military, economic, scientific elites remained largely intact → operational capacity maintained
 
 This asymmetry wasn't accidental. It was structural.
+
+
+
+
+
+
 
 Justice Follows Replaceability
 
@@ -62,6 +74,12 @@ A system that fully applies its own moral logic to itself annihilates its operat
 
 So justice was dosed. Not by conspiracy. By survival necessity.
 
+
+
+
+
+
+
 The Structural Constraint
 
 Moral demand: Full justice for all perpetrators
@@ -77,6 +95,12 @@ The more justice is morally necessary, the less the system can structurally affo
 And the more the system needs to survive, the less justice it can deliver.
 
 This is not a German exception. It's a structural law of post-crime systems.
+
+
+
+
+
+
 
 Symbolic Justice as System Stabilization
 
@@ -94,6 +118,12 @@ Not because it was complete. Because it was complete enough for the system to co
 
 The trials didn't close the case. They made closure structurally possible.
 
+
+
+
+
+
+
 Re-Functionalization: When Guilt Changes Position
 
 Wernher von Braun: Not rehabilitated. Recontextualized.
@@ -105,6 +135,12 @@ The pattern isn't that crime disappears. The pattern is that crime changes syste
 Guilt wasn't denied. It was re-functioned.
 
 When strategic value exceeds juridical consistency, competence outweighs accountability.
+
+
+
+
+
+
 
 Cold War as Justice Filter
 
@@ -119,6 +155,12 @@ Administrators became continuity anchors
 Not because their past was irrelevant. Because their future was indispensable.
 
 Justice ended where system vulnerability began.
+
+
+
+
+
+
 
 South Africa: Same Structure, Different Context
 
@@ -140,6 +182,12 @@ Result: Truth without full prosecution. Acknowledgment without full justice.
 
 Same PI structure. Different historical context.
 
+
+
+
+
+
+
 Rwanda: When Justice Overloads the System
 
 Post-genocide Rwanda tried the opposite approach: mass prosecution.
@@ -159,6 +207,12 @@ Solution: Gacaca courts—community-based justice. Faster, but less rigorous.
 The trade-off: Operational capacity vs. juridical thoroughness.
 
 Again: The system couldn't afford full justice in its ideal form without breaking itself.
+
+
+
+
+
+
 
 The Structural Constraint Across Cases
 
@@ -184,6 +238,12 @@ Speed vs. rigor
 
 The pattern: Systems processing their own crimes face structural limits. Not moral failure. Structural necessity.
 
+
+
+
+
+
+
 Why Structure ≠ Exculpation
 
 This analysis explains. It doesn't excuse.
@@ -201,6 +261,12 @@ Morally: Guilty
 Both true simultaneously.
 
 All are guilty. None are at fault. ← The structure, not the individuals.
+
+
+
+
+
+
 
 The Moral Remainder
 
@@ -226,6 +292,12 @@ Into silence and resentment
 
 The remainder persists across generations.
 
+
+
+
+
+
+
 Why This Matters Beyond History
 
 This structure repeats wherever crimes are systemic:
@@ -244,6 +316,12 @@ Same PI structure: Moral necessity meets system survivability.
 
 Result: Selective justice. Not because truth is unclear. Because survival is prioritized.
 
+
+
+
+
+
+
 The Double-Unbind
 
 Postwar societies face an impossible choice:
@@ -258,6 +336,12 @@ There is no third option. Only navigation between two failures.
 
 That's not pessimism. That's structure.
 
+
+
+
+
+
+
 Documentation, Not Justification
 
 If this analysis feels like an excuse, that reaction is itself part of the structure.
@@ -271,6 +355,12 @@ Justice didn't fail because people lacked morality.
 It failed because morality collided with system survivability.
 
 And systems always survive first.
+
+
+
+
+
+
 
 The Final PI Signature
 
@@ -292,7 +382,19 @@ Some overwhelm themselves trying to do both (Rwanda's courts).
 
 None escape the structure.
 
+
+
+
+
+
+
 Try and continue.
+
+
+
+
+
+
 
 Related:
 
