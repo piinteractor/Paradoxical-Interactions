@@ -1,7 +1,7 @@
 ---
 title: "The Universe That Shouldn’t Exist"
 date: 2026-02-23T10:00:56
-modified: 2026-03-30T09:59:41
+modified: 2026-03-30T10:02:20
 slug: the-universe-that-shouldnt-exist
 lang: en
 type: post
@@ -179,6 +179,10 @@ The structure that predicts its own impossibility — and then exists anyway
 The Relevance Paradox: Why No One Cares About Your Best Idea
 
 How Sam Altman accidentally delivered the perfect PI — and proved it by delivering it.
+
+Synchronization of Metronomes. The Physical Axiom of PI.
+
+The Phenomenon of Coupled Oscillators
 
 Riding the Magic Bus. How Self-Organization Refers to Itself.
 
