@@ -1,7 +1,7 @@
 ---
 title: "Contrôle IA vs. Co-Opération. La Question que Personne ne Pose."
 date: 2026-03-28T04:33:33
-modified: 2026-03-28T04:33:33
+modified: 2026-03-30T19:19:42
 slug: controle-ia-vs-co-operation-la-question-que-personne-ne-pose
 lang: fr
 type: post
