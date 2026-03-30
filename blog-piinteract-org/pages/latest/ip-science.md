@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes
+
+24 mars 2026
+
+L'auto-organisation est le grand espoir de la théorie de la complexité. Pas d'autorité centrale. Pas de plan directeur. Des acteurs locaux, des règles locales, un ordre émergent. Le marché. Le cerveau. L'essaim d'étourneaux. La ville ...
+
+Read More
+
 Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meilleure idée
 
 23 février 2026
