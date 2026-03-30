@@ -1,7 +1,7 @@
 ---
 title: "L’Univers qui ne devrait pas exister"
 date: 2026-02-23T10:00:56
-modified: 2026-03-29T18:41:04
+modified: 2026-03-30T10:03:37
 slug: lunivers-qui-ne-devrait-pas-exister
 lang: fr
 type: post
@@ -173,6 +173,10 @@ La structure qui prédit sa propre impossibilité — et qui existe quand même
 Trois particules entrent dans une structure
 
 L'une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l'ignorer.
+
+Synchronisation des métronomes. L’axiome physique de PI.
+
+Le phénomène des oscillateurs couplés
 
 Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes
 
