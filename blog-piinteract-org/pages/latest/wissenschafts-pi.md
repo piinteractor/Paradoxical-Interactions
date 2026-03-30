@@ -43,6 +43,14 @@ Keine zentrale Autorität. Kein Masterplan. Lokale Akteure, lokale Regeln, emerg
 
 Read More
 
+Synchronisation von Metronomen. Das physikalische Axiom von PI.
+
+7. März 2026
+
+Stellen Sie sich eine Reihe identischer mechanischer Metronome vor. Sie starten sie einzeln nacheinander. Sie bilden ein chaotisches Spektakel – ein mimetisches Durcheinander. Jedes einzelne ist ein souveräner Akteur, der in seinem ...
+
+Read More
+
 Drei Teilchen wandern in eine Struktur
 
 23. Februar 2026
@@ -58,6 +66,15 @@ Das Universum, das nicht existieren dürfte
 
 Dieser hier ist anders.
 Dunkle Materie ist eine PI über die Suche nach etwas, das vielleicht nicht da ist. Das Graviton ist eine PI über den Bau von Theorie um etwas, das nicht testbar ist. Beides sind strukturelle Fallen innerhalb ...
+
+Read More
+
+Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
+
+23. Februar 2026
+
+Sam Altman wird gefragt, was ein Gründer tun sollte, der eine Idee hat, aber nicht darüber sprechen will, weil ein großes Unternehmen sie stehlen könnte.
+Seine Antwort: Keine Sorge. Niemand interessiert sich dafür.
 
 Read More
 
