@@ -152,9 +152,17 @@ Das Universum, das nicht existieren dürfte
 
 Die Struktur, die ihre eigene Unmöglichkeit vorhersagt — und dann trotzdem existiert
 
+Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
+
+Wie Sam Altman aus Versehen die perfekte PI lieferte — und sie bewies, indem er sie lieferte.
+
 Die PI der Dunklen Materie
 
 Wie materiell ist die Dunkle Materie?
+
+Synchronisation von Metronomen. Das physikalische Axiom von PI.
+
+Das Phänomen gekoppelter Oszillatoren
 
 Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
 
