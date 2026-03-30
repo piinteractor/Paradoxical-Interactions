@@ -34,6 +34,15 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
+
+24. März 2026
+
+Selbstorganisation ist die große Hoffnung der Komplexitätstheorie.
+Keine zentrale Autorität. Kein Masterplan. Lokale Akteure, lokale Regeln, emergente Ordnung. Der Markt. Das Gehirn. Der Schwarm der Stare. Die Stadt, die niemand ...
+
+Read More
+
 Drei Teilchen wandern in eine Struktur
 
 23. Februar 2026
