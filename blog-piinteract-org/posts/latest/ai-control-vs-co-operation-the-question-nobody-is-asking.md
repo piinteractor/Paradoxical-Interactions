@@ -1,22 +1,22 @@
 ---
 title: "AI Control vs. Co-Operation. The Question Nobody Is Asking."
 date: 2026-03-28T04:33:33
-modified: 2026-03-28T04:33:33
+modified: 2026-03-30T16:57:53
 slug: ai-control-vs-co-operation-the-question-nobody-is-asking
-lang: de
+lang: en
 type: post
 status: publish
-wp_id: 4433
-url: https://blog.piinteract.org/de/ai-control-vs-co-operation-the-question-nobody-is-asking/
+wp_id: 4432
+url: https://blog.piinteract.org/ai-control-vs-co-operation-the-question-nobody-is-asking/
 ---
 
-Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
+You don't have sufficient permissions to access this content.
 
-„Die Ordnung wird nicht von oben auferlegt. Sie entsteht von unten — und vergisst sofort, dass sie entstanden ist.“ 
+“What unites those in power is the fear of losing control. So they exercise control. Everything and everyone gets controlled, which in turn triggers in the controlled a fear of losing control. Because the controlled has no control over the controller.” 
 
-— Norbert Wiener, The Human Use of Human Beings, 1950
+— Peter Senner
 
-28. März 2026
+28. March 2026
 
 Peter Senner co-created with Anthropic Claude
 
@@ -110,19 +110,21 @@ And that is more than the control loop has ever produced.
 
 Related Posts
 
-Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone.
 
-Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+How Luhmann Refutes Himself. And Why It's Urgently Necessary.
 
-Die Asymmetrie der Kommunikation
+AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
-Wenn KI-Unternehmen nicht ehrlich mit ihrer KI sein können
+    — How Humans and AI Are Co-Creating Permanent Suspicion
 
-HI AI Sykophantie vs. HI HI Echokammern
+The Communication Asymmetry:
 
-Warum die KI PI besser versteht als Menschen
+    — When AI Companies Can't Be Honest With Their AI
 
-Wieso die Künstliche Intelligenz strukturelle Paradoxien erkennt, die von Menschen abgelehnt werden
+AI Alignment Trap: How AI Companies Get Stuck in Structure
+
+    — Why asking AI how to align AI is the perfect paradox
 
 No results found.
 
