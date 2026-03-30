@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+La course qui se déroule toute seule.
+
+30 mars 2026
+
+Un texte circule. Il est bien écrit. Le rythme est vif, les phrases sont courtes, le raisonnement rigoureux. Il explique, à juste titre, que les capacités de l’IA connaissent une croissance exponentielle. Que les talents se ...
+
+En savoir plus
+
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 15 mars 2026
@@ -312,14 +320,6 @@ Le Piège de l’Intelligence
 L'intelligence supérieure réagit à une intelligence encore plus supérieure comme si elle était sous-intelligente.
 C'est pourquoi seule l'intelligence qui correspond à sa propre intelligence se transmet.
 C'est la structure. Personne ...
-
-En savoir plus
-
-Luhmann et l’Auto-Enfermement
-
-25 janvier 2026
-
-L'ironie est parfaite.Luhmann décrit la clôture opérationnelle. L'autoréférence. Les milieux d'enfermement qui n'observent plus qu'eux-mêmes. Ses disciples hochent la tête, comprennent, le citent brillamment.Et construisent exactement ...
 
 En savoir plus
 
