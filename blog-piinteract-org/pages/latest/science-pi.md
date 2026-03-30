@@ -1,7 +1,7 @@
 ---
 title: "Science PI"
 date: 2026-03-18T16:53:03
-modified: 2026-03-18T17:25:27
+modified: 2026-03-30T10:09:44
 slug: science-pi
 lang: en
 type: page
@@ -39,6 +39,14 @@ Riding the Magic Bus. How Self-Organization Refers to Itself.
 24. March 2026
 
 Self-organization is the great hope of complexity theory. No central authority. No master plan. Local actors, local rules, emergent order. The market. The brain. The flock of starlings. The city that nobody designed but everybody navigates.
+
+Read More
+
+Synchronization of Metronomes. The Physical Axiom of PI.
+
+7. March 2026
+
+Imagine a row of identical mechanical metronomes. One by one, you start them. They form a chaotic spectacle—a mimetical mess. Each one is a sovereign actor, beating in its own unique and frantic rhythm. It is a field of noise, of ...
 
 Read More
 
