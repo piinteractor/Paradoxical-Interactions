@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+Riding the Magic Bus. How Self-Organization Refers to Itself.
+
+24. March 2026
+
+Self-organization is the great hope of complexity theory. No central authority. No master plan. Local actors, local rules, emergent order. The market. The brain. The flock of starlings. The city that nobody designed but everybody navigates.
+
+Read More
+
 The Dark Matter PI
 
 23. February 2026
