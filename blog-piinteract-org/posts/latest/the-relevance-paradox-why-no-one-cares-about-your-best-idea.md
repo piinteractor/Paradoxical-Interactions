@@ -309,6 +309,10 @@ The Relevance Paradox: Why No One Cares About Your Best Idea
 
 How Sam Altman accidentally delivered the perfect PI — and proved it by delivering it.
 
+Riding the Magic Bus. How Self-Organization Refers to Itself.
+
+How Luhmann Refutes Himself. And Why It's Urgently Necessary.
+
 No results found.
 
 
