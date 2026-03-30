@@ -579,15 +579,11 @@ Connexes :
 
 
 
-Le Mécanisme Nostradamus. Le Prophète Qui Comprit la Structure de la Prophétie.
-
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
 
 L’effet Fleming. Quand un « concierge HTML » devient superviseur.
-
-Synchronisation des métronomes. L’axiome physique de PI.
 
 Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
 
@@ -602,6 +598,10 @@ La polarisation qui n’a pas été choisie
 Le Gardien Articulé
 
 Peter Steinberger – L’homme qui a provoqué l’inondation, puis construit la digue
+
+L’Épée Qui Se Contredit Elle-Même
+
+Le Schéma Gaveston :
 
 No results found.
 
