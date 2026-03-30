@@ -162,6 +162,17 @@ Antimatter ...
 
 Read More
 
+The Fake Paradise. How Social Media Turns Real Life into Background Noise.
+
+7. March 2026
+
+The Newsfeed Party
+It is a birthday party that never ends.
+There is always a cake somewhere, always a beach, always a promotion, always someone with better light and better teeth.
+You open the app in a quiet kitchen at 23:17, still ...
+
+Read More
+
 The Posthumous Correction. Why Being Right Requires Being Gone.
 
 15. March 2026
@@ -180,14 +191,6 @@ The Deparadoxification of the Deparadoxification.
 Niklas Luhmann and Heinz von Foerster were contemporaries. Both worked on the same problem: how do systems deal with their own paradoxes?
 They arrived at opposite answers.
 Von Foerster said: the observer is inside. There is no ...
-
-Read More
-
-The Nostradamus Mechanism. The Prophet Who Understood the Structure of Prophecy.
-
-24. March 2026
-
-Nostradamus published his Centuries in 1555. More than 6,000 quatrains. He has been continuously in print for nearly five centuries. Every generation finds its own wars, its own tyrants, its own catastrophes in his verses. Napoleon ...
 
 Read More
 
