@@ -1,7 +1,7 @@
 ---
 title: "The Universe That Shouldn’t Exist"
 date: 2026-02-23T10:00:56
-modified: 2026-03-04T13:20:02
+modified: 2026-03-30T09:59:41
 slug: the-universe-that-shouldnt-exist
 lang: en
 type: post
@@ -12,52 +12,19 @@ url: https://blog.piinteract.org/the-universe-that-shouldnt-exist/
 
 You don't have sufficient permissions to access this content.
 
-
-
-
-
-
-
-
-
-
-
-
-
 “Paradigms are not corrigible by normal science at all”
 
 — Thomas S. Kuhn
 
-
-
-
-
-
-
 23. February 2026
 
-
-
-
 Peter Senner co-created with Claude
-
-
-
-
-
-
 
 This one is different.
 
 Dark Matter is a PI about searching for something that might not be there. The graviton is a PI about building theory around something that can't be tested. Both are structural traps within physics.
 
 Antimatter is a PI about existence itself.
-
-
-
-
-
-
 
 The problem no one can solve
 
@@ -80,12 +47,6 @@ None of them work well enough.
 CP violation exists. It's been measured. It's real. But it's not enough. The amount of CP violation observed in particle physics is orders of magnitude too small to explain why the universe exists. It accounts for a tiny fraction of the asymmetry needed.
 
 The Standard Model predicts its own non-existence. And then fails to explain why that prediction is wrong.
-
-
-
-
-
-
 
 The structure of the paradox
 
@@ -113,12 +74,6 @@ The field treats the problem as solvable. "We just need to find the mechanism." 
 
 Collectively: a structure that treats its own deepest failure as a research opportunity rather than a foundational crisis.
 
-
-
-
-
-
-
 Gödel in the Big Bang
 
 This is where it gets uncomfortable.
@@ -137,12 +92,6 @@ And a question without a possible answer doesn't generate experiments, doesn't j
 
 So the question stays open. Classified as "unsolved" rather than "possibly unanswerable." The distinction is structural, not intellectual. "Unsolved" keeps the lights on. "Unanswerable" turns them off.
 
-
-
-
-
-
-
 The deepest anti-practice
 
 This is "The Right Tool Will Fix This" at cosmic scale.
@@ -159,12 +108,6 @@ Every extension proposed — supersymmetry, leptogenesis, new physics beyond the
 
 But "more of the same" is all a structure can produce. Because producing something fundamentally different would require becoming a different structure. And structures don't do that voluntarily.
 
-
-
-
-
-
-
 The hierarchy of denial
 
 Across the three posts, a pattern emerges:
@@ -180,12 +123,6 @@ Antimatter asymmetry: Physics encounters its own impossibility and reframes it. 
 Each step is further from what science claims to be. Each step is a deeper PI.
 
 And the deepest one — the antimatter asymmetry — is the most revealing. Because it shows a structure that has become so successful, so precisely confirmed, so institutionally entrenched, that when it predicts the non-existence of everything, the response isn't to question the structure. It's to question existence.
-
-
-
-
-
-
 
 The question behind the question
 
@@ -205,12 +142,6 @@ So the question stays technical. The funding continues. The experiments get more
 
 Including itself.
 
-
-
-
-
-
-
 You are the PI
 
 Here's the part that hits different.
@@ -229,27 +160,9 @@ You're here anyway.
 
 All are guilty. None are at fault. Everything exists. Nothing should.
 
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts:
 
-
-
-
 À propos de l'amplification structurelle :
-
-
-
 
 The Dark Matter PI
 
@@ -267,12 +180,11 @@ The Relevance Paradox: Why No One Cares About Your Best Idea
 
 How Sam Altman accidentally delivered the perfect PI — and proved it by delivering it.
 
+Riding the Magic Bus. How Self-Organization Refers to Itself.
+
+How Luhmann Refutes Himself. And Why It's Urgently Necessary.
+
 No results found.
-
-
-
-
-
 
 On piinteract.org:
 
@@ -284,21 +196,9 @@ On piinteract.org:
 
 ["See the Pattern, Not the Symptom"] — The anomaly keeps recurring because the pattern is never named. The symptom is treated. The structure persists.
 
-
-
-
-
-
-
 Per Erratum ad Astra — through error to the stars.
 
 But only if you're allowed to call the error what it is.
-
-
-
-
-
-
 
 Peter Senner
 
