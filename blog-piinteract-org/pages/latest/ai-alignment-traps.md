@@ -1,7 +1,7 @@
 ---
 title: "AI Alignment Traps"
 date: 2026-03-18T18:12:55
-modified: 2026-03-26T10:01:49
+modified: 2026-03-30T19:23:30
 slug: ai-alignment-traps
 lang: en
 type: page
