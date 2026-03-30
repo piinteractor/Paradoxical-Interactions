@@ -300,6 +300,10 @@ Trois particules entrent dans une structure
 
 L'une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l'ignorer.
 
+Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes
+
+Pourquoi la solution la plus élégante de la théorie des systèmes est le problème qu'elle était censée résoudre — et pourquoi cela importe maintenant.
+
 No results found.
 
 
