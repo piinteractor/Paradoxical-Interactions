@@ -111,31 +111,3 @@ Exemple : tenter de se rendre complètement transparent ou contrôlable modifie 
 • Forme typique : paradoxe de l'observateur, autoréférentialité, double contrainte.
 
 • Exemple : dans les processus de développement de l'IA, une optimisation excessive de la « mesurabilité » étouffe l'apprentissage qualitatif.
-
-
-
-
-
-
-
-See PI in Action:
-
-[AI Alignment]
-
-[Democracy Erosion]
-
-[Organizational Paralysis]
-
-[Collective Absurdity]
-
-[When Knowledge blocks Knowledge]
-
-[All Examples]
-
-
-
-
-
-
-
-PI does not offer salvation. PI offers a torch in the dark.
