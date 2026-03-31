@@ -10,38 +10,6 @@ wp_id: 264
 url: https://piinteract.org/imprint/
 ---
 
-Impressum
-
-Angaben gemäß § 5 TMG
-
-Peter Senner
-
-Mitterfeldstraße 3
-
-80689 München
-
-Kontakt
-
-Contact
-
-Email: contact@piinteract.org
-
-Tel: +49 89 246 39 668
-
- 
-
-Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV:
-
-Peter Senner
-
-Haftung für Inhalte
-
-Als Diensteanbieter bin ich gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
-
-Haftung für Links
-
-Diese Website enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber verantwortlich. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
-
 Imprint
 
 Information pursuant to § 5 TMG (German Telemedia Act)
