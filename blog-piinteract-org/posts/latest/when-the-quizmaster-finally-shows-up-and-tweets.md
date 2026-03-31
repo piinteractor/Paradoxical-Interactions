@@ -1,7 +1,7 @@
 ---
 title: "€$€€$$ — When the quizmaster finally shows up and tweets"
 date: 2026-01-30T08:00:56
-modified: 2026-03-14T00:56:19
+modified: 2026-03-31T07:38:31
 slug: when-the-quizmaster-finally-shows-up-and-tweets
 lang: en
 type: post
