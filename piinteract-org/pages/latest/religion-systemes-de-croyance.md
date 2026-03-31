@@ -100,38 +100,6 @@ Certains combats ne peuvent pas être gagnés à l'intérieur de la structure. L
 
 « Eppur si muove. »
 
-Réforme → Orthodoxie
-
-Le Cycle
-
-Luther divise l'Église pour la liberté de conscience. En quelques décennies, le protestantisme devient la nouvelle orthodoxie.
-
-Calvin brûle Servet sur le bûcher – pour désaccord théologique. La Réforme, combattant le dogme, crée un nouveau dogme.
-
-Pourquoi c'est une PI
-
-La réforme nécessite une structure institutionnelle pour se maintenir. La structure nécessite des règles. Les règles deviennent rigides. La rigidité est ce contre quoi vous avez réformé.
-
-Le schéma ne se brise pas parce que vous aviez de bonnes intentions. Le schéma se reproduit à travers la structure.
-
-La Répétition
-
-Piétisme – se rebelle contre l'orthodoxie luthérienne → devient orthodoxie piétiste rigide.
-
-Évangélicalisme – se rebelle contre la rigidité établie → devient orthodoxie évangélique rigide.
-
-Églises non-dénominationnelles – se rebellent contre la structure dénominationnelle → créent de nouveaux schémas structurels.
-
-Chaque vague pense : « Cette fois sera différente. Nous avons appris de leurs erreurs. »
-
-La structure n'a pas changé. Le résultat non plus.
-
-Le Piège
-
-Vous ne pouvez pas institutionnaliser la liberté sans limiter la liberté. Au moment où vous créez des règles pour « comment être libre », vous avez créé la prochaine cage.
-
-Chaque réformateur devient le prochain gardien. Chaque révolution devient le prochain établissement. Le rôle change. La structure reste.
-
 Le Mécanisme de l'Hérésie
 
 Comment Ça Fonctionne
