@@ -1,7 +1,7 @@
 ---
 title: "Why AI Understands PI Better Than Humans"
 date: 2026-01-17T10:51:08
-modified: 2026-03-04T13:54:14
+modified: 2026-03-31T12:45:58
 slug: why-ai-understands-pi-better-than-humans
 lang: en
 type: post
@@ -11,9 +11,6 @@ url: https://blog.piinteract.org/why-ai-understands-pi-better-than-humans/
 ---
 
 Why artificial intelligence recognizes structural paradoxes that humans reject
-
-
-
 
 This is the central irony of piinteract.org:
 
