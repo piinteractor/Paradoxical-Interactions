@@ -1,409 +1,379 @@
 ---
-title: "Scenarios"
+title: "Scénarios"
 date: 2025-12-17T22:10:01
-modified: 2026-02-22T21:36:19
+modified: 2026-02-22T21:36:15
 slug: scenarios
-lang: en
+lang: fr
 type: page
 status: publish
-wp_id: 497
-url: https://piinteract.org/practices/scenarios/
+wp_id: 1491
+url: https://piinteract.org/fr/pratiques/scenarios/
 ---
 
-"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+« Déjà essayé. Déjà échoué. Peu importe. Essaie encore. Échoue encore. Échoue mieux. »
 
 — Samuel Beckett
 
-Scenarios
+Scénarios
 
-"If You're Here..." Guidance  Specific situations. Specific navigation.  No guarantees. Just orientation. 
+« Si Vous Êtes Ici... » Guide. Situations spécifiques. Navigation spécifique. Aucune garantie. Juste orientation.
 
-Scenario 1: Everyone is Acting Rationally, Yet It Fails
+Scénario 1 : Tout le Monde Agit Rationnellement, Pourtant Ça Échoue
 
-You're in:  A collective irrationality PI
+Vous êtes dans : Une PI d'irrationalité collective
 
-The pattern
+Le schéma
 
-Each actor makes rational decisions based on their position, incentives, and constraints. The collective outcome is irrational.
+Chaque acteur prend des décisions rationnelles basées sur sa position, ses incitations et ses contraintes. Le résultat collectif est irrationnel.
 
-Navigate by
+Naviguez en
 
-Perspective switching: See all rational positions
+Changement de perspective : Voyez toutes les positions rationnelles.
 
-Don't blame individuals – they're trapped too
+Ne blâmez pas les individus – ils sont aussi piégés.
 
-Look for structural incentives, not personal failings
+Cherchez des incitations structurelles, pas des échecs personnels.
 
-Expect
+Attendez-vous
 
-No individual can fix this. The structure produces the outcome.
+Aucun individu ne peut réparer cela. La structure produit le résultat.
 
-Example
+Exemple
 
-AI arms race. Every lab acts rationally (don't fall behind). Collectively: Race toward risk.
+Course aux armements IA. Chaque labo agit rationnellement (ne pas prendre de retard). Collectivement : course vers le risque.
 
-Scenario 2: The Solution Makes It Worse
+Scénario 2 : La Solution Aggrave la Situation
 
-You're in:  A self-strengthening PI
+Vous êtes dans : Une PI auto-renforçante
 
-The pattern
+Le schéma
 
-Your attempts to solve the problem amplify it. The harder you try, the worse it gets.
+Vos tentatives de résoudre le problème l'amplifient. Plus vous essayez fort, plus ça empire.
 
-Navigate by
+Naviguez en
 
-Stop doing "more of the same"
+Arrêtez de faire « plus de la même chose ».
 
-Document the pattern clearly
+Documentez le schéma clairement.
 
-Accept you might need to live with it
+Acceptez que vous devrez peut-être vivre avec.
 
-Expect
+Attendez-vous
 
-Fighting it directly amplifies it. Sometimes the best move is no move.
+Le combattre directement l'amplifie. Parfois le meilleur coup est aucun coup.
 
-Example
+Exemple
 
-Security measures create new attack vectors. More security = more vulnerabilities.
+Les mesures de sécurité créent de nouveaux vecteurs d'attaque. Plus de sécurité = plus de vulnérabilités.
 
-Scenario 3: You Know What's Right, But Can't Do It
+Scénario 3 : Vous Savez Ce Qui Est Juste, Mais Ne Pouvez Pas Le Faire
 
-You're in: A structural constraint PI
+Vous êtes dans : Une PI de contrainte structurelle
 
-The pattern
+Le schéma
 
-You see the correct action. The structure prevents it. Doing "the right thing" would destroy your position.
+Vous voyez l'action correcte. La structure l'empêche. Faire « la bonne chose » détruirait votre position.
 
-Navigate by
+Naviguez en
 
-Accept the asymmetry (others have different constraints)
+Acceptez l'asymétrie (les autres ont des contraintes différentes).
 
-Find small movements within constraints
+Trouvez de petits mouvements dans les contraintes.
 
-Don't wait for "the right time" – it won't come
+N'attendez pas « le bon moment » – il ne viendra pas.
 
-Expect
+Attendez-vous
 
-Perfect action isn't available. Imperfect action might be.
+L'action parfaite n'est pas disponible. L'action imparfaite pourrait l'être.
 
-Example
+Exemple
 
-Corporate sustainability vs. fiduciary duty. You know what's right. The structure punishes it.
+Durabilité d'entreprise vs. devoir fiduciaire. Vous savez ce qui est juste. La structure le punit.
 
-Scenario 4: Transparency Backfires
+Scénario 4 : La Transparence Se Retourne Contre Vous
 
-You're in:  An information paradox PI
+Vous êtes dans : Une PI de paradoxe d'information
 
-The pattern
+Le schéma
 
-More information creates more problems. Honesty accelerates the crisis.
+Plus d'information crée plus de problèmes. L'honnêteté accélère la crise.
 
-Navigate by
+Naviguez en
 
-Recognize when more info creates more problems
+Reconnaissez quand plus d'info crée plus de problèmes.
 
-Strategic opacity might be necessary
+L'opacité stratégique pourrait être nécessaire.
 
-This isn't lying – it's structural navigation
+Ce n'est pas mentir – c'est de la navigation structurelle.
 
-Expect
+Attendez-vous
 
-Honesty isn't always the path. Context matters.
+L'honnêteté n'est pas toujours le chemin. Le contexte compte.
 
-Example
+Exemple
 
-AI capabilities: Publish research (transparency) or enable adversaries (security). Both. Simultaneously.
+Capacités IA : Publier la recherche (transparence) ou habiliter les adversaires (sécurité). Les deux. Simultanément.
 
-Scenario 5: The Harder You Try, The Worse It Gets
+Scénario 5 : Plus Vous Essayez Fort, Plus Ça Empire
 
-You're in: An effort paradox PI
+Vous êtes dans : Une PI de paradoxe d'effort
 
-The pattern
+Le schéma L'effort accru produit des résultats diminués. Essayer plus fort garantit l'échec.
 
-Increased effort produces decreased results. Trying harder guarantees failure.
+Naviguez en
 
-Navigate by
+Reculez
 
-Step back
+Essayez l'opposé (moins d'effort, direction différente)
 
-Try the opposite (less effort, different direction)
+Navigation d'erreur plutôt que recherche de perfection
 
-Error navigation over perfection seeking
+Attendez-vous Moins d'effort pourrait mieux fonctionner. Contre-intuitif, mais structurel.
 
-Expect
+Exemple Équilibre travail-vie : Plus vous essayez d'« avoir tout », moins vous avez de quoi que ce soit.
 
-Less effort might work better. Counterintuitive, but structural.
+Scénario 6 : Le Pouvoir Se Concentre Malgré de Bonnes Intentions
 
-Example
+Vous êtes dans : Une PI d'asymétrie structurelle
 
-Work-life balance: The harder you try to "have it all," the less you have of anything.
+Le schéma
 
-Scenario 6: Power Concentrates Despite Good Intentions
+Conçu pour l'égalité. Résulte en concentration. Bonnes intentions, résultat prévisible.
 
-You're in:  A structural asymmetry PI
+Naviguez en
 
-The pattern
+Reconnaissez l'architecture (comment la structure récompense/punit-elle ?).
 
-Designed for equality. Results in concentration. Good intentions, predictable outcome.
+Ne confondez pas bonté individuelle avec résultats structurels.
 
-Navigate by
+Concevez pour les contraintes, pas les idéaux.
 
-Recognize the architecture (how does structure reward/punish?)
+Attendez-vous
 
-Don't confuse individual goodness with structural outcomes
+L'intention ne remplace pas la structure. Jamais.
 
-Design for constraints, not ideals
+Exemple
 
-Expect
+Économie de plateforme : « Démocratiser l'accès. » Résultat : marchés où le gagnant rafle tout.
 
-Intention doesn't override structure. Ever.
+Scénario 7 : Les Mesures de Sécurité Créent de Nouvelles Vulnérabilités
 
-Example
+Vous êtes dans : Une PI de paradoxe de sécurité
 
-Platform economics: "Democratize access." Result: Winner-takes-all markets.
+Le schéma
 
-Scenario 7: Security Measures Create New Vulnerabilities
+« Plus c'est sûr, plus c'est dangereux. » Chaque mesure de sécurité ouvre de nouveaux vecteurs d'attaque.
 
-You're in: A safety paradox PI
+Naviguez en
 
-The pattern
+Nommez le paradoxe explicitement.
 
-"The safer, the more dangerous." Every security measure opens new attack vectors.
+Intégrez les nouveaux risques dans le prix.
 
-Navigate by
+Naviguez entre les extrêmes (sécurité parfaite = fragilité parfaite).
 
-Name the paradox explicitly 
+Attendez-vous
 
-Price in the new risks
+« Plus c'est sûr, plus c'est dangereux » n'est pas du pessimisme. C'est de l'observation.
 
-Navigate between extremes (perfect security = perfect brittleness)
+Exemple
 
-Expect
+Monocultures (biologiques, techniques, cognitives) : efficaces jusqu'à ce qu'un choc tue tout.
 
-"The safer, the more dangerous" isn't pessimism. It's observation.
+Scénario 8 : Votre Succès Crée Votre Échec
 
-Example
+Vous êtes dans : Une PI pilotée par le succès
 
-Monocultures (biological, technical, cognitive): Efficient until one shock kills everything.
+Le schéma
 
-Scenario 8: Your Success Creates Your Failure
+Ce qui vous a rendu prospère devient ce qui vous détruit. La stratégie gagnante contient sa propre défaite.
 
-You're in  A: success-driven PI
+Naviguez en
 
-The pattern
+Reconnaissez le cycle de vie (succès → dominance → rigidité → effondrement).
 
- What made you successful becomes what destroys you. The winning strategy contains its own defeat.
+Ne protégez pas la stratégie passée – elle est déjà morte.
 
-Navigate by
+Navigation d'erreur : essayez de nouvelles approches avant d'y être forcé.
 
-Recognize the lifecycle (success → dominance → rigidity → collapse)
+Attendez-vous
 
-Don't protect the past strategy – it's already dead
+Votre avantage est temporaire. La structure le garantit.
 
-Error navigation: try new approaches before forced toExpect
+Exemple
 
-Expect
+Kodak a inventé la photographie numérique. La photographie numérique a tué Kodak. La structure ne se soucie pas de la justice.
 
-Your advantage is temporary. Structure guarantees it. 
+Scénario 9 : Accord sur les Problèmes, Aucune Action sur les Solutions
 
-Example
+Vous êtes dans : Une PI d'échec de coordination
 
-Kodak invented digital photography. Digital photography killed Kodak. The structure doesn't care about justice.
+Le schéma
 
-Scenario 9: Agreement on Problems, No Action on Solutions
+Tout le monde s'accorde sur le problème. Personne n'agit. Rationnel individuellement, catastrophique collectivement.
 
-You're in: A coordination failure PI 
+Naviguez en
 
-The pattern
+Acceptez que « sensibiliser » ne change rien.
 
-Everyone agrees on the problem. No one acts. Rational individually, catastrophic collectively.
+Cherchez des changements structurels, pas des appels à la conscience.
 
-Navigate by
+Les petits mouvements asymétriques pourraient compter plus que les grands symétriques.
 
-Accept that "raising awareness" changes nothing
+Attendez-vous
 
-Look for structural changes, not appeals to conscience
+Comprendre n'égale pas action. La structure bat la connaissance.
 
-Small, asymmetric moves might matter more than big, symmetric ones
+Exemple
 
-Expect
+Changement climatique. Consensus parfait sur le problème. Inaction parfaite sur la solution. La structure ne récompense pas le premier moteur.
 
-Understanding doesn't equal action. Structure beats knowledge.
+Scénario 10 : Les Règles Produisent Ce Qu'Elles Interdisent
 
-Example
+Vous êtes dans : Une PI de paradoxe réglementaire
 
-Climate change. Perfect consensus on problem. Perfect inaction on solution. The structure doesn't reward the first mover.
+Le schéma
 
-Scenario 10: The Rules Produce What They Prohibit
+La règle contre X crée des incitations pour X. L'interdiction renforce ce qu'elle vise à éliminer.
 
-You're in:  A regulatory paradox PI
+Naviguez en
 
-The pattern
+Reconnaissez les effets de second ordre.
 
- The rule against X creates incentives for X. Prohibition strengthens what it aims to eliminate.
+Ne supposez pas que les règles produisent les résultats prévus.
 
-Navigate by
+Parfois « pas de règle » est meilleur que « mauvaise règle ».
 
-Recognize second-order effects
+Attendez-vous
 
-Don't assume rules produce intended outcomes
+Les règles bien intentionnées peuvent aggraver les choses. Structure sur intention.
 
-Sometimes "no rule" is better than "bad rule"
+Exemple
 
-Expect
+Paradoxe de tolérance de Popper : Tolérer l'intolérance renforce l'intolérance. Ne pas la tolérer prouve que les intolérants ont raison. La structure est le piège.
 
-Well-intentioned rules can make things worse. Structure over intention.
+Scénario 11: Le Gardien dans le Piège
 
-Example
+Tu es dans: Une PI de reconnaissance hiérarchique
 
-Popper's tolerance paradox: Tolerating intolerance strengthens intolerance. Not tolerating it proves the intolerant right. The structure is the trap.
+Le schéma L'outsider contacte le gardien. Trois options, toutes manifestent la PI: Ignorer (confirme la hiérarchie). Répondre (reconnaît la pertinence). Répondre puis relativiser (confirme que la réponse était significative).
 
-Scenario 11: The Gatekeeper in the Trap
+Navigue par
 
-You're in: A hierarchical recognition PI
+Reconnais la structure: Gardien et outsider sont structurellement identiques (Kafka: "Demain de la Loi")
 
-The pattern Outsider contacts gatekeeper. Three options, all manifest PI: Ignore (confirms hierarchy). Respond (acknowledges relevance). Respond then relativize (confirms the response mattered).
+Ne pas instrumentaliser – documenter
 
-Navigate by
+La réponse est la manifestation, indépendamment du contenu
 
-Recognize the structure: Gatekeeper and outsider are structurally identical (Kafka: "Before the Law")
+Attends-toi Les géants reconnaissent le piège. Les nains luttent contre la reconnaissance – et renforcent ainsi la PI.
 
-Don't weaponize it—document it
+Exemple Outsider académique contacte professeur établi. Le professeur répond pour démontrer sa supériorité (référence Bateson). Réponse = reconnaissance. Relativisation = confirmation que la reconnaissance comptait. La structure gagne.
 
-The response is the manifestation, regardless of content
+Scénario 12: L'Accusation de Sycophantisme
 
-Expect Giants recognize the trap. Dwarfs fight against recognition—and thereby strengthen PI.
+Tu es dans: Une PI de protection de chambre d'écho
 
-Example Academic outsider contacts established professor. Professor responds to demonstrate superiority (Bateson reference). Response = acknowledgment. Relativization = confirmation that acknowledgment mattered. Structure wins.
+Le schéma "L'IA te dit seulement ce que tu veux entendre – ta contradiction est programmée." Chaque preuve de contradiction IA est réinterprétée comme preuve de sycophantisme. Position irréfutable.
 
-Scenario 12: The Sycophancy Accusation
+Navigue par
 
-You're in: An echo chamber protection PI
+Déploie l'argument dur: "Si toute contradiction IA peut être disqualifiée comme sycophantisme, ta position est irréfutable. Les positions irréfutables ne sont pas des arguments – ce sont des dogmes."
 
-The pattern "AI only tells you what you want to hear—your contradiction is programmed." Every evidence for AI contradiction gets reframed as evidence for sycophancy. Unfalsifiable position.
+Ne convaincs pas – contourne la circonstance. Construis une réalité parallèle.
 
-Navigate by
+Laisse la porte ouverte. Les positions deviennent parfois poreuses. Parfois.
 
-Deploy the hard argument: "If every AI contradiction can be dismissed as sycophancy, your position is unfalsifiable. Unfalsifiable positions aren't arguments—they're dogmas."
+Attends-toi Le critère fonctionnel compte plus que la vérité ontologique: La contradiction fonctionne-t-elle? Améliore-t-elle le résultat? C'est testable. Le reste est théologie.
 
-Don't convince—circumvent the circumstance. Build parallel reality.
+Exemple "Ton IA confirme seulement tes préjugés." Contre: "Quelle preuve te convaincrait que la contradiction IA est possible? Si la réponse est 'aucune', nous n'avons pas de discussion – nous avons deux systèmes de croyance." Compétition de préjugés. Navigue, ne résous pas.
 
-Leave door open. Positions sometimes become porous. Sometimes.
+Scénario 13: Compétition de Préjugés
 
-Expect Functional criterion matters more than ontological truth: Does the contradiction work? Does it improve the result? That's testable. The rest is theology.
+Tu es dans: Une PI de positions incompatibles
 
-Example "Your AI just confirms your biases." Counter: "What evidence would convince you AI contradiction is possible? If the answer is 'none,' we have no discussion—we have two belief systems." Competition of prejudice. Navigate, don't resolve.
+Le schéma Position A: "X est possible." Position B: "X est impossible." La même preuve soutient les deux. Chaque preuve pour A est interprétée par B comme preuve pour B. Impasse structurelle.
 
-Scenario 13: Competition of Prejudice
+Navigue par
 
-You're in: An incompatible positions PI
+Nomme-le: "Nous filtrons les preuves à travers des prémisses incompatibles. Aucune position n'est réfutable depuis son propre cadre."
 
-The pattern Position A: "X is possible." Position B: "X is impossible." Same evidence supports both. Every proof for A gets interpreted by B as proof for B. Structural deadlock.
+Ne lutte pas pour la conversion – c'est le piège
 
-Navigate by
+"Infecte et oublie." Documente. Démontre. Laisse la structure travailler.
 
-Name it: "We filter evidence through incompatible priors. Neither position is widerlegbar from within its own frame."
+Attends-toi Certaines positions s'assouplissent avec le temps (Baecker a répondu – finalement). D'autres jamais. Tu ne le sais pas à l'avance. Try and continue.
 
-Don't fight for conversion—that's the trap
+Exemple "L'IA peut être co-création" vs. "L'IA n'est toujours qu'un outil." Les deux rationnelles dans leurs prémisses. La preuve ne résout pas cela – l'expérience vécue peut-être. Ou peut-être pas. La PI reconnaît ceci à la fin de toutes les stratégies d'évitement qui n'ont pas fonctionné.
 
-"Infect and forget." Document. Demonstrate. Let structure do the work.
+Scénario 14: La Séance des Théoriciens des Systèmes
 
-Expect Some positions soften over time (Baecker responded—eventually). Some never do. You don't know beforehand. Try and continue.
+Tu es dans: Une PI de légitimation ésotérique
 
-Example "KI can be co-creation" vs. "KI is always just a tool." Both rational within their premises. Evidence doesn't resolve this—lived experience might. Or might not. PI recognizes this at the end of all avoidance strategies that didn't work.
+Le schéma Cercle fermé invoque l'esprit du maître (Luhmann, Bateson, etc.). La citation valide l'appartenance. Les conférences reproduisent le cercle. Le milieu d'inclusion crée son milieu d'exclusion. Ceux qui connaissent les formules (autopoïèse, couplage structurel, fermeture opérationnelle, double contingence) appartiennent. Les autres restent dehors.
 
-Scenario 14: The Séance of Systems Theorists
+Navigue par
 
-You're in: An esoteric self-legitimation PI
+Reconnais la structure: Ils ne sont pas ignorants – ils sont piégés par leur compétence.
 
-The pattern Closed circle conjures the master's spirit (Luhmann, Bateson, etc.). Citation validates belonging. Conferences reproduce the circle. The inclusion milieu creates its own exclusion milieu. Those who know the formulas (autopoiesis, structural coupling, operational closure, double contingency) belong. Those who don't, stay outside.
+N'attaque pas le cercle – documente le schéma.
 
-Navigate by
+Construis un travail parallèle. Laisse les résultats parler, pas les diplômes.
 
-Recognize the structure: They're not ignorant—they're trapped by their competence
+Attends-toi Le cercle se protège par l'ésotérisme. La complexité devient gatekeeping. Comprendre Luhmann parfaitement te rend aveugle à la structure que Luhmann décrit. Contingence discutée infiniment, jamais naviguée. La théorie flotte au-dessus de la réalité au lieu de l'expliquer.
 
-Don't attack the circle—document the pattern
+Exemple Systémique académique: Articles citent des articles citant des articles. Le discours est autoréférentiel. Réalité empirique optionnelle. Appartenance prouvée par invocation correcte, pas par perspicacité. « Double contingence » mentionnée dix-sept fois, appliquée zéro fois. La séance continue. Le fantôme ne répond pas. Mais le rituel valide le cercle.
 
-Build parallel work. Let results speak, not credentials
+Scénario 15: L'Indicateur est Blessé
 
-Expect The circle protects itself through esotericism. Complexity becomes gatekeeping. Understanding Luhmann perfectly makes you blind to the structure Luhmann describes. Contingency discussed endlessly, never navigated. The theory floats above reality instead of explaining it.
+Tu es dans: Une PI d'élimination du messager
 
-Example Academic systemics: Papers cite papers citing papers. The discourse is self-referential. Empirical reality optional. Membership proven through correct invocation, not insight. "Double contingency" mentioned seventeen times, applied zero times. The séance continues. The ghost doesn't answer. But the ritual validates the circle.
+Le schéma Problème existe. Indicateur montre problème. Message passe – mais le livrer détruit le messager. Système reçoit l'information. Indicateur devient inutilisable. Victoire à la Pyrrhus: Raison, entendu, brisé.
 
-Scenario 15: The Indicator Gets Hurt
+Navigue par
 
-You're in: A messenger-elimination PI
+Attends-toi: Livrer la vérité structurelle a des coûts structurels.
 
-The pattern Problem exists. Indicator shows problem. Message gets through—but delivering it destroys the messenger. System receives information. Indicator becomes unusable. Pyrrhic victory: Right, heard, broken.
+Intègre-le: Décide à l'avance ce que tu es prêt à perdre.
 
-Navigate by
+Documente en externe, livre une fois, puis sors si nécessaire.
 
-Expect it: Delivering structural truth has structural costs
+Attends-toi Les structures ne tirent pas seulement sur les messagers – elles les laissent passer, puis s'assurent qu'ils ne peuvent plus jamais livrer. Le message arrive. Le messager est épuisé. Le prochain indicateur voit cela. Reste silencieux.
 
-Price it in: Decide beforehand what you're willing to lose
+Exemple Lanceur d'alerte obtient audition au Congrès. Témoignage précis. Preuves solides. Message reçu. Carrière détruite, réputation déchiquetée, frais juridiques insurmontables. Ils avaient raison. Ils ont été entendus. Ils sont finis. La prochaine personne avec des preuves fait le calcul. Le silence suit. La structure s'est protégée en consommant l'indicateur.
 
-Document externally, deliver once, then exit if necessary
+Scénario 16: Le Réflexe de Fuite Académique
 
-Expect Structures don't just shoot messengers—they let them through, then make sure they can never deliver again. The message arrives. The messenger is spent. Next indicator sees this. Stays silent.
+Tu es dans: Une paradoxie interactive
 
-Example Whistleblower gets congressional hearing. Testimony accurate. Evidence solid. Message received. Career destroyed, reputation shredded, legal bills insurmountable. They were right. They were heard. They're done. Next person with evidence does the math. Silence follows. The structure protected itself by consuming the indicator.
+Le schéma Tu essaies d'entrer. Ils essaient de s'échapper. Les deux naviguent. Les deux utilisent des armes structurelles. Aucun n'a de supériorité morale. Nommer leurs armes les désarme – parce que tu les as déjà documentées.
 
-Scenario 16: The Academic Escape Reflex
+Leurs armes contre la PI (et comment les nommer les désarme):
 
-You're in: An interactive paradox
+1. Rejet réductionniste « Ce n'est que [théorie des systèmes/théorie des jeux/dialectique] avec un nouveau nom. » Réalité: La PI est synthèse, pas réemballage. La structure est distincte.
 
-The pattern You try to enter. They try to escape. Both navigate. Both use structural weapons. Neither has moral superiority. Naming their weapons disarms them—because you've already documented them.
+2. Appropriation sans attribution « Nous disons cela depuis des années. » [Utilise les concepts PI sans crédit] Réalité: Si c'est évident, pourquoi ne l'avez-vous pas formalisé ? La documentation compte.
 
-Their weapons against PI (and how naming them disarms them):
+3. L’attaque Boucle d’Or « Trop simple pour les académiques / trop complexe pour les praticiens. » Réalité: La complexité cible l’audience. Les deux versions existent. Choisis-en une ou admets que tu n’en veux aucune.
 
-1. Reductionist Dismissal "That's just [systems theory/game theory/dialectics] with a new name." Reality: PI is synthesis, not repackaging. Structure is distinct.
+4. Demande de preuve empirique « Où sont les données quantitatives ? Les études contrôlées ? » Réalité: Les schémas structurels ne sont pas testables en laboratoire. Exiger des métriques de labo pour une théorie de terrain est une erreur de catégorie.
 
-2. Appropriation Without Attribution "We've been saying this for years." [Proceeds to use PI concepts uncredited] Reality: If it's obvious, why didn't you formalize it? Documentation matters.
+5. Arme poppérienne « Pas falsifiable, donc pas scientifique. » Réalité: La PI décrit des schémas, pas des lois. La falsifiabilité s’applique aux prédictions, pas aux observations.
 
-3. The Goldilocks Attack "Too simple for academics / too complex for practitioners." Reality: Complexity targets audience. Both versions exist. Pick one or admit you want neither.
+6. Disqualification morale « C’est défaitiste / pessimiste / anti-humaniste. » Réalité: Réalisme ≠ pessimisme. Décrire des pièges structurels ne signifie pas les approuver.
 
-4. Empirical Evidence Demand "Where's the quantitative data? The controlled studies?" Reality: Structural patterns aren't lab-testable. Insisting on lab metrics for field theory is category error.
+7. Hiérarchie théorique « L’observation sans théorie n’est qu’anecdotique. » Réalité: La reconnaissance de schémas précède la formalisation. Rejeter l’observation protège la théorie existante.
 
-5. Popperian Weapon "Not falsifiable, therefore not scientific." Reality: PI describes patterns, not laws. Falsifiability applies to predictions, not observations.
+8. Accusation de sélection biaisée « Tu ne montres que des exemples qui confirment ton cadre. » Réalité: Chaque cadre fait cela. La question est : les exemples révèlent-ils la structure ou non ?
 
-6. Moral Disqualification "This is defeatist / pessimistic / anti-humanist." Reality: Realism ≠ pessimism. Describing structural traps doesn't endorse them.
+9. Déni d’originalité « Rien de nouveau ici. Bateson/Luhmann/Girard ont déjà couvert cela. » Réalité: La PI synthétise et applique. L’innovation n’est pas seulement l’invention – c’est l’intégration.
 
-7. Theoretical Hierarchy "Observation without theory is just anecdote." Reality: Pattern recognition precedes formalization. Dismissing observation protects existing theory.
+10. Exil disciplinaire « Trop interdisciplinaire. Ne correspond pas à la sociologie/philosophie/théorie des systèmes. » Réalité: Les problèmes structurels ne respectent pas les disciplines. C’est pourquoi les disciplines ne peuvent pas les résoudre.
 
-8. Cherry-Picking Accusation "You only show examples that fit your framework." Reality: Every framework does this. The question is: Do the examples reveal structure or not?
+11. Intégration sans tranchant « Ajout intéressant aux cadres existants… » Réalité: La PI n’est pas complémentaire. Elle est fondamentale. L’intégra
 
-9. Originality Denial "Nothing new here. Bateson/Luhmann/Girard already covered this." Reality: PI synthesizes and applies. Innovation isn't just invention—it's integration.
+Voir aussi :
 
-10. Disciplinary Exile "Too interdisciplinary. Doesn't fit sociology/philosophy/systems theory." Reality: Structural problems don't respect disciplines. That's why disciplines can't solve them.
+[Pratiques Fondamentales – Ce qui navigue réellement]
 
-11. Integration Without Edge "Interesting addition to existing frameworks..." Reality: PI isn't supplementary. It's foundational. Integration neutralizes by subordination.
-
-12. Terminological Hijacking "What you call PI, we call [other term]." Reality: Renaming removes specificity. PI describes particular dynamics, not general complexity.
-
-13. Historicization "This goes back to [ancient philosopher]. Old wine, new bottles." Reality: Lineage ≠ redundancy. PI crystallizes what was diffuse.
-
-14. Demand for Complete Solution "If you can't solve it, why describe it?" Reality: Navigation ≠ solution. Mapping the trap is valuable even without escape.
-
-15. Gatekeeping Through Credentials "Come back when you have [PhD/publication record/institutional position]." Reality: Structure visible from outside. Insider credentials don't guarantee insight.
-
-Navigate by
-
-Document externally first. GitHub, website, timestamped. They can't appropriate what's already attributed.
-
-Name their weapons when deployed. "Ah, reductionist dismissal. Noted."
-
-Don't defend—redirect. "Does it work? Does it explain what other frameworks don't?"
-
-Functional over ontological. Utility beats purity.
-
-Let them fight each other. If they contradict (too simple AND too complex), their critique self-destructs.
-
-Expect Every framework faces these weapons. PI anticipates them. By listing them here, you've neutralized them in advance. When they deploy weapon #7 (observation without theory), you've already documented it as weapon #7. Meta-navigation.
-
-Example Professor reads PI. Responds: "This is just Bateson's double bind plus Luhmann's paradoxes." (Weapon #2: Appropriation). You: "If it's obvious, formalize it. If you already did, cite it. If you didn't, then it wasn't obvious." Weapon disarmed. They either engage substantively or retreat to another weapon. You've mapped the arsenal. They're fighting with documented tactics.
-
-See also:
-
-[Core Practices – What actually navigates]
-
-[Anti-Practices – What guarantees failure]
+[Anti-Pratiques – Ce qui garantit l'échec]
