@@ -1,7 +1,7 @@
 ---
 title: "Riding the Magic Bus. How Self-Organization Refers to Itself."
 date: 2026-03-24T09:20:34
-modified: 2026-03-31T12:56:42
+modified: 2026-04-02T18:29:25
 slug: riding-the-magic-bus-how-self-organization-refers-to-itself
 lang: en
 type: post
@@ -11,9 +11,6 @@ url: https://blog.piinteract.org/riding-the-magic-bus-how-self-organization-refe
 ---
 
 You don't have sufficient permissions to access this content.
-
-
-
 
 
 
@@ -303,8 +300,6 @@ Try and continue.
 
 
 
-
-
 Related Posts
 
 
@@ -357,6 +352,7 @@ All are guilty. None are at fault.
 
 
 
+
 Peter Senner
 
 Thinking beyond the Tellerrand
@@ -364,8 +360,6 @@ Thinking beyond the Tellerrand
 contact@piinteract.org
 
 www.piinteract.org
-
-
 
 
 
