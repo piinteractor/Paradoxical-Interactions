@@ -1,7 +1,7 @@
 ---
 title: "IP historique"
 date: 2026-01-21T20:02:38
-modified: 2026-03-19T08:57:49
+modified: 2026-04-02T14:43:50
 slug: ip-historique
 lang: fr
 type: page
@@ -31,6 +31,14 @@ L'histoire ne se répète pas. Les historiens ne cessent de le répéter. Ils on
 Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonne foi et dans leur propre intérêt, ont produit des résultats qu’aucun d’entre eux ne souhaitait et qu’aucun d’entre eux ne pouvait empêcher. Non pas parce qu’ils ont échoué. Parce qu’ils ont réussi — au mauvais niveau.
 
 Tous sont coupables. Aucun n’est en tort.
+
+La PI de la Réforme. Plus la rupture est radicale, plus la chaîne est solide.
+
+2 avril 2026
+
+Wittenberg, 1517. Martin Luther cloue 95 thèses à la porte d'une église. L'argument : l'Église vend ce qu'elle ne possède pas. La grâce n'est pas une marchandise. Dieu n'est pas une franchise. Le diagnostic est juste. La structure ...
+
+Read More
 
 Le Schéma Gaveston :
 
