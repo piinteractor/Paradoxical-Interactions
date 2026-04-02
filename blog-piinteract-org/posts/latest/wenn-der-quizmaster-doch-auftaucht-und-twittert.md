@@ -208,6 +208,10 @@ Oder: Warum wir alle auf einen Quizmaster warten, der mit dem Preisgeld abgehaue
 
 Ein Follow-Up zu „Das Quiz, das niemals endet"
 
+Das Jona-Paradoxon
+
+Wenn erfolgreiche Warnungen den Propheten widerlegen
+
 No results found.
 
 See also:
