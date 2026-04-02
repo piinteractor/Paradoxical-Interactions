@@ -1,7 +1,7 @@
 ---
 title: "Le Paradoxe du Prophète"
 date: 2026-01-28T08:00:56
-modified: 2026-02-26T13:00:41
+modified: 2026-04-02T20:04:12
 slug: le-paradoxe-du-prophete
 lang: fr
 type: post
@@ -10,11 +10,11 @@ wp_id: 699
 url: https://blog.piinteract.org/fr/le-paradoxe-du-prophete/
 ---
 
+Pourquoi la proximité détruit le respect
+
 "Tu n'as pas besoin d'ennemis si tu as des amis."
 
-— Peter Senner
-
-Pourquoi la proximité détruit le respect
+— Anonyme
 
 Deux Mécanismes, Même Isolation
 
