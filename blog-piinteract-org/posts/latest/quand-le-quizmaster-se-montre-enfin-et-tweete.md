@@ -214,6 +214,10 @@ ou : Pourquoi nous attendons tous un quizmaster qui a pris l'argent et s'est enf
 
 —  Pourquoi nous attendons tous un quizmaster qui a pris l'argent et s'est enfui
 
+Le Paradoxe de Jonas
+
+Quand les avertissements réussis prouvent que le prophète a tort
+
 No results found.
 
 Sur piinteract.org :
