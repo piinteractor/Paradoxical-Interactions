@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Borniertheit statt Weisheit – Die PI des Philosophen
+
 Das Propheten-Paradox
 
 Das Rennen, das von selbst läuft.
@@ -613,8 +615,6 @@ Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
 Peter Steinberger – Der Mann, der die Flut herbeiführte und dann den Deich baute
 
 Das Kassandra Paradox
-
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
 
 Nichts gefunden
 
