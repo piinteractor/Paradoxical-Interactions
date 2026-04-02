@@ -1,7 +1,7 @@
 ---
 title: "The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone."
 date: 2026-03-26T20:19:12
-modified: 2026-03-28T04:11:41
+modified: 2026-04-02T07:00:39
 slug: the-two-idiot-theorem-why-two-incomplete-systems-produce-something-neither-could-alone
 lang: en
 type: post
