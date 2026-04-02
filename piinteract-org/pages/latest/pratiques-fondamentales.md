@@ -7,7 +7,7 @@ lang: fr
 type: page
 status: publish
 wp_id: 1431
-url: https://piinteract.org/fr/pratiques/pratiques-fondamentales/
+url: https://piinteract.org/fr/pratiques-de-pi/pratiques-fondamentales/
 ---
 
 « La situation est grave, mais pas désespérée. »
