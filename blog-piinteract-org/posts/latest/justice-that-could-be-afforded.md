@@ -1,7 +1,7 @@
 ---
 title: "Justice That Could Be Afforded"
 date: 2026-01-23T10:33:56
-modified: 2026-03-30T16:55:07
+modified: 2026-04-02T14:48:34
 slug: justice-that-could-be-afforded
 lang: en
 type: post
