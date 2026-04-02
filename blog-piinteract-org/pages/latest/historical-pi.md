@@ -1,7 +1,7 @@
 ---
 title: "Historical PI"
 date: 2026-01-21T20:02:38
-modified: 2026-03-19T08:49:32
+modified: 2026-04-02T14:42:26
 slug: historical-pi
 lang: en
 type: page
@@ -32,17 +32,19 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
-Justice That Could Be Afforded
+The Reformation PI. The Louder the Break, the Stronger the Chain.
 
-23. January 2026
+2. April 2026
+
+Wittenberg, 1517. Martin Luther nails 95 theses to a church door. The argument: the Church sells what it cannot own. Grace is not a commodity. God is not a franchise. The diagnosis is correct. The structure is not impressed.
 
 Read More
 
-The Economics of Justice
+The Gaveston Pattern:
 
-23. January 2026
+19. February 2026
 
-The economics of justice: Justice promises universality. Reality delivers selection. When crimes scale to millions, systems reach their limits.
+Medieval England, 1312. A favorite is murdered. A king takes revenge. A queen invades. A son seizes power. Seven hundred years later, the same structure runs every week in organizations, governments, and tech companies worldwide.
 
 Read More
 
@@ -54,11 +56,20 @@ How did Hitler's opponents become his enablers? Von Papen, Schleicher, and Hugen
 
 Read More
 
-The Gaveston Pattern:
+The Economics of Justice
 
-19. February 2026
+23. January 2026
 
-Medieval England, 1312. A favorite is murdered. A king takes revenge. A queen invades. A son seizes power. Seven hundred years later, the same structure runs every week in organizations, governments, and tech companies worldwide.
+The economics of justice: Justice promises universality. Reality delivers selection. When crimes scale to millions, systems reach their limits.
+
+Read More
+
+Justice That Could Be Afforded
+
+23. January 2026
+
+The Nazi regime was organized mass murder. The moral diagnosis was unambiguous. Yet postwar justice remained structurally incomplete.
+Not because perpetrators were innocent. Not because evidence was lacking. But because the system ...
 
 Read More
 
