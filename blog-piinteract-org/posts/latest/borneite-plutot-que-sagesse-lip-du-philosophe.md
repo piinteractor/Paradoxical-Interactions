@@ -1,7 +1,7 @@
 ---
 title: "Bornéité plutôt que sagesse – l’IP du philosophe"
 date: 2026-01-28T08:00:56
-modified: 2026-01-28T13:31:46
+modified: 2026-04-02T20:46:46
 slug: borneite-plutot-que-sagesse-lip-du-philosophe
 lang: fr
 type: post
@@ -10,11 +10,11 @@ wp_id: 662
 url: https://blog.piinteract.org/fr/borneite-plutot-que-sagesse-lip-du-philosophe/
 ---
 
+Pourquoi Richard David Precht devient plus borné avec l'âge, pas plus sage
+
 « Il y a ces deux jeunes poissons qui nagent et ils croisent un poisson plus âgé qui nage dans l'autre direction. Il leur fait un signe de tête et dit : “Bonjour, les gars. Comment est l'eau ?” Les deux jeunes poissons continuent à nager un moment, puis finalement l'un d'eux regarde l'autre et demande : “C'est quoi, bordel, l'eau ?” »
 
 — David Foster Wallace
-
-Pourquoi Richard David Precht devient plus borné avec l'âge, pas plus sage
 
 Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
 
