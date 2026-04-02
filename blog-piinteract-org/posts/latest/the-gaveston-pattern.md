@@ -1,7 +1,7 @@
 ---
 title: "The Gaveston Pattern:"
 date: 2026-02-19T10:00:56
-modified: 2026-02-27T14:13:38
+modified: 2026-04-02T14:45:51
 slug: the-gaveston-pattern
 lang: en
 type: post
