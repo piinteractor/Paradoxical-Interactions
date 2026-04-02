@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Propheten-Paradox
+
 Das Rennen, das von selbst läuft.
 
 Das Validierungsparadoxon: Ein tiefer Einblick
@@ -613,8 +615,6 @@ Peter Steinberger – Der Mann, der die Flut herbeiführte und dann den Deich ba
 Das Kassandra Paradox
 
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
-
-Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
 
 Nichts gefunden
 
