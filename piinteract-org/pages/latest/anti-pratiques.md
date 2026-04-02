@@ -7,7 +7,7 @@ lang: fr
 type: page
 status: publish
 wp_id: 1461
-url: https://piinteract.org/fr/pratiques/anti-pratiques/
+url: https://piinteract.org/fr/pratiques-de-pi/anti-pratiques/
 ---
 
 « La folie, c'est de faire toujours la même chose et de s'attendre à un résultat différent. »
