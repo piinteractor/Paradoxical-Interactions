@@ -1,7 +1,7 @@
 ---
 title: "Historische PI"
 date: 2026-01-21T20:02:38
-modified: 2026-03-19T08:50:31
+modified: 2026-04-02T14:43:01
 slug: historische-pi
 lang: de
 type: page
@@ -32,6 +32,22 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Die Reformations-PI. Je lauter der Bruch, desto fester die Kette.
+
+2. April 2026
+
+Wittenberg, 1517. Martin Luther nagelt 95 Thesen an eine Kirchentür. Das Argument: Die Kirche verkauft, was sie nicht besitzt. Gnade ist keine Ware. Gott ist kein Franchise. Die Diagnose ist richtig. Die Struktur ist unbeeindruckt.
+
+Read More
+
+Das Gaveston-Muster:
+
+19. Februar 2026
+
+England im Mittelalter, 1312. Ein Günstling wird ermordet. Ein König rächt sich. Eine Königin fällt ein. Ein Sohn greift nach der Macht. Siebenhundert Jahre später läuft dieselbe Struktur wöchentlich in Organisationen, Regierungen und ...
+
+Read More
+
 Die Ökonomie der Gerechtigkeit.
 
 23. Januar 2026
@@ -41,14 +57,6 @@ Die Realität liefert Auswahl.
 
 Wenn Verbrechen von Millionen begangen werden, geht es nicht mehr darum, wer schuldig ist —
 sondern darum, was das System verarbeiten kann.
-
-Read More
-
-Das Gaveston-Muster:
-
-19. Februar 2026
-
-England im Mittelalter, 1312. Ein Günstling wird ermordet. Ein König rächt sich. Eine Königin fällt ein. Ein Sohn greift nach der Macht. Siebenhundert Jahre später läuft dieselbe Struktur wöchentlich in Organisationen, Regierungen und ...
 
 Read More
 
