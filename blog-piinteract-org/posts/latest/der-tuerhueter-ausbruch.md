@@ -38,11 +38,11 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-<p>Was, wenn das eigentliche Gefängnis nicht das geschlossene Tor ist, sondern die ganz normale Person, die es genießt, dich draußen warten zu lassen?<br />
+Was, wenn das eigentliche Gefängnis nicht das geschlossene Tor ist, sondern die ganz normale Person, die es genießt, dich draußen warten zu lassen?
 
-​Der Türhüter-Ausbruch beschreibt, wie du dir deine Arbeit in dem Moment zurückholst, in dem du aufhörst, den Türhüter als Richter deiner Einsicht zu behandeln.<br />
+​Der Türhüter-Ausbruch beschreibt, wie du dir deine Arbeit in dem Moment zurückholst, in dem du aufhörst, den Türhüter als Richter deiner Einsicht zu behandeln.
 
-​</p>
+​
 
 
 
