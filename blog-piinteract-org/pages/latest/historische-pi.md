@@ -32,7 +32,7 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
-Die Reformations-PI. Je lauter der Bruch, desto fester die Kette.
+Die Reformations-PI. Je brutaler die Trennung, desto solider die Verbindung.
 
 2. April 2026
 
