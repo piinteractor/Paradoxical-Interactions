@@ -1,7 +1,7 @@
 ---
 title: "€$€€$$ — When the quizmaster finally shows up and tweets"
 date: 2026-01-30T08:00:56
-modified: 2026-03-31T07:38:31
+modified: 2026-04-03T13:25:07
 slug: when-the-quizmaster-finally-shows-up-and-tweets
 lang: en
 type: post
@@ -40,15 +40,13 @@ Settled.
 
 Then he tweeted.
 
-From my account. @allgeallgemeine. My chaotic alter ego. My Mr. Hyde on X. Over 100,000 tweets. Provocations, structural observations, the occasional shot at John Cleese.
+From my account. @allgeallgemeine. My chaotic alter ego. My Mr. Hyde on X. Over 100,000 tweets.
 
 January 13, 2026. 7:17 AM.
 
-€€€$$€€€€€$$$€€€€$$€€€€€$$$ 
+$€$€€$$€€€€€$$$$€€€€$$€€€€€$$$
 
-€€€€€€ 
-
-€€€€€€€€
+$€€€$€€€$€€€€€
 
 Five views. No context. No explanation.
 
