@@ -1,7 +1,7 @@
 ---
 title: "Das Rennen, das von selbst läuft."
 date: 2026-03-30T17:02:16
-modified: 2026-03-30T17:02:17
+modified: 2026-04-03T03:25:28
 slug: das-rennen-das-von-selbst-laeuft
 lang: de
 type: post
@@ -64,7 +64,7 @@ Dies ist die Paradoxe Interaktion: zwei Akteure, von denen jeder rational auf di
 
 Washington investiert: Peking wertet dies als Bestätigung aus und legt einen Gang zu. Peking legt einen Gang zu: Washington wertet dies als Bestätigung aus und investiert noch mehr. Beide führen das Verhalten des anderen als Beweis für die Bedrohung an. Beide haben Recht. Keiner trägt die Schuld.
 
-Der Wettlauf erfordert keine schlechten Akteure. Er erfordert rationale.
+Dieser Wettlauf erfordert keine schlechten Akteure. Er erfordert vernünftigen Umgang.
 
 Das „America Must Win“-PI:
 
@@ -86,7 +86,7 @@ Alle sind schuldig. Niemand ist schuld.
 
 Was der Text nicht sagen kann
 
-Der Text, der argumentiert, dass Amerika gewinnen muss, kann dies nicht aussprechen. Nicht, weil es dem Autor an Intelligenz mangelt – der Autor ist eindeutig scharfsinnig. Sondern weil eine solche Aussage die Grundlage entziehen würde, auf der das Argument ruht.
+Der Text, der argumentiert, dass Amerika gewinnen muss, kann dies nicht aussprechen. Nicht, weil es dem Autor an Intelligenz mangelt – der Autor ist eindeutig scharfsinnig. Sondern weil eine solche Aussage die Grundlage entziehen würde, auf dem das Argument beruht.
 
 Wenn die Struktur des Wettlaufs selbst das von allen gefürchtete Ergebnis hervorbringt – eine Welt, in der das mächtigste kognitive Werkzeug von Akteuren kontrolliert wird, die auf Dominanz aus sind –, dann ist „den Wettlauf gewinnen“ keine Lösung. Es ist Teilnahme.
 
