@@ -1,7 +1,7 @@
 ---
 title: "Le Quiz qui ne Finit Jamais"
 date: 2026-01-30T08:00:56
-modified: 2026-04-03T13:34:13
+modified: 2026-04-03T14:14:04
 slug: le-quiz-qui-ne-finit-jamais
 lang: fr
 type: post
@@ -9,6 +9,8 @@ status: publish
 wp_id: 833
 url: https://blog.piinteract.org/fr/le-quiz-qui-ne-finit-jamais/
 ---
+
+Pourquoi nous attendons tous un quizmaster qui a pris l'argent et s'est enfui
 
 « Allons-y. »
 
@@ -21,8 +23,6 @@ url: https://blog.piinteract.org/fr/le-quiz-qui-ne-finit-jamais/
 — Samuel Beckett, En attendant Godot
 
 Voir aussi : [€$€€$$ — Quand le quizmaster se montre enfin et tweete]
-
-Pourquoi nous attendons tous un quizmaster qui a pris l'argent et s'est enfui
 
 90% suivent les règles. 9% les brisent et les redéfinissent. 1% voient le schéma mais ne peuvent pas se coordonner. Tout le monde attend que le Quizmaster le résolve. Il ne vient pas. Il est parti avec l'argent du prix. Et le système nécessite son absence.
 
