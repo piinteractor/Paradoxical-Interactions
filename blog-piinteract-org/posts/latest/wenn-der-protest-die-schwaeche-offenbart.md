@@ -17,9 +17,9 @@ url: https://blog.piinteract.org/de/wenn-der-protest-die-schwaeche-offenbart/
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-<p>Nvidia zieht sich von einer $100-Milliarden-Investition in OpenAI zurück. Jensen Huang kritisiert privat OpenAIs „Business Discipline“. Tage später bekommt Reuters acht—acht—anonyme Quellen, die sich über Nvidia-Chips beschweren.<br />
+Nvidia zieht sich von einer $100-Milliarden-Investition in OpenAI zurück. Jensen Huang kritisiert privat OpenAIs „Business Discipline“. Tage später bekommt Reuters acht—acht—anonyme Quellen, die sich über Nvidia-Chips beschweren.
 
-Das Timing ist nicht subtil. Das ist Vergeltung. Und wie die Königin in Hamlet, die übertrieben Treue schwört, entlarvt das Protestieren selbst, was OpenAI verbergen wollte.</p>
+Das Timing ist nicht subtil. Das ist Vergeltung. Und wie die Königin in Hamlet, die übertrieben Treue schwört, entlarvt das Protestieren selbst, was OpenAI verbergen wollte.
 
 Die Ausgangslage
 
