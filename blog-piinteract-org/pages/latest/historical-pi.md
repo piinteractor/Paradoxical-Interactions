@@ -32,7 +32,7 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
-The Reformation PI. The Louder the Break, the Stronger the Chain.
+The Reformation PI. The more violent the separation, the more solid the connection.
 
 2. April 2026
 
