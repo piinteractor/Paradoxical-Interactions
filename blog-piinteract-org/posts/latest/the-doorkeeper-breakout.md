@@ -20,7 +20,7 @@ Peter Senner co-created with Perplexity
 
 You don't have sufficient permissions to access this content.
 
-<p>What if the real prison isn’t the closed gate, but the ordinary person who enjoys keeping you waiting outside? The Doorkeeper Breakout maps how you reclaim your work the moment you stop treating gatekeepers as judges of your insight.</p>
+What if the real prison isn’t the closed gate, but the ordinary person who enjoys keeping you waiting outside? The Doorkeeper Breakout maps how you reclaim your work the moment you stop treating gatekeepers as judges of your insight.
 
 When the Door Is Open and You Still Don’t Move
 
