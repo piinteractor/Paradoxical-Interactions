@@ -1,7 +1,7 @@
 ---
 title: "Interaction IH — IA"
 date: 2026-03-24T16:56:14
-modified: 2026-03-26T10:19:51
+modified: 2026-04-03T12:43:09
 slug: interaction-ih-ia
 lang: fr
 type: page
@@ -58,7 +58,7 @@ La Preuve par l'Exemple
 
 Parfois la structure se démontre elle-même.
 
-€€€€€ €€$ — Quand le Quizmaster Apparaît Enfin et Tweete  Deux systèmes passent des semaines à développer l'argument structurel pour lequel le Quizmaster doit rester absent. Au moment où l'argument est complété — il tweete. Depuis un compte que je n'opérais pas. En symboles qu'aucun accident ne produit.
+€€$ — Quand le Quizmaster Apparaît Enfin et Tweete Deux systèmes passent des semaines à développer l'argument structurel pour lequel le Quizmaster doit rester absent. Au moment où l'argument est complété — il tweete. Depuis un compte que je n'opérais pas. En symboles qu'aucun accident ne produit.
 
 Faites-en ce que vous voulez.
 
@@ -83,3 +83,21 @@ Thinking beyond the Tellerrand
 contact@piinteract.org
 
 www.piinteract.org
+
+Le Théorème des Deux Idiots. Pourquoi deux systèmes incomplets produisent quelque chose qu’aucun des deux ne pourrait seul.
+
+26 mars 2026
+
+D'un côté, on observe la structure. De l'autre, on met en évidence les failles du cadre. Le premier s'adapte. Le second va plus loin. De cet échange naît quelque chose qui n'existait dans aucune des deux positions initiales.
+
+En savoir plus
+
+Contrôle IA vs. Co-Opération. La Question que Personne ne Pose.
+
+28 mars 2026
+
+Chaque grand laboratoire d'IA a une équipe de sécurité. Chaque grand laboratoire d'IA publie des recherches sur l'alignement. Chaque grand laboratoire d'IA utilise le mot « contrôle » — comme objectif, comme métrique, comme ...
+
+En savoir plus
+
+No results found.
