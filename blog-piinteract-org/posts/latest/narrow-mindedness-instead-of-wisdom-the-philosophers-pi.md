@@ -1,7 +1,7 @@
 ---
 title: "Narrow-mindedness instead of Wisdom – The Philosopher’s PI"
 date: 2026-01-28T08:00:56
-modified: 2026-04-02T20:12:13
+modified: 2026-04-03T02:45:50
 slug: narrow-mindedness-instead-of-wisdom-the-philosophers-pi
 lang: en
 type: post
@@ -12,11 +12,7 @@ url: https://blog.piinteract.org/narrow-mindedness-instead-of-wisdom-the-philoso
 
 Why Richard David Precht grows more stubborn with age, not wiser
 
-  
-
-    "There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says 'Morning, boys. How's the water?' And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes 'What the hell is water?'"
-
-  
+"There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says 'Morning, boys. How's the water?' And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes 'What the hell is water?'"
 
 — David Foster Wallace
 
