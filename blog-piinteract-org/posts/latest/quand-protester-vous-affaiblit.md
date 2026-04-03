@@ -26,9 +26,9 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 
 
-<p>Nvidia se retire d’un investissement de 100 milliards de dollars dans OpenAI. Jensen Huang critique en privé la « discipline commerciale » d’OpenAI. Quelques jours plus tard, Reuters obtient huit—huit—sources anonymes se plaignant des puces Nvidia.<br />
+Nvidia se retire d’un investissement de 100 milliards de dollars dans OpenAI. Jensen Huang critique en privé la « discipline commerciale » d’OpenAI. Quelques jours plus tard, Reuters obtient huit—huit—sources anonymes se plaignant des puces Nvidia.
 
-Le timing n’est pas subtil. C’est une vengeance. Et comme la Reine dans Hamlet qui jure une fidélité exagérée, la protestation elle-même révèle ce qu’OpenAI voulait cacher.</p>
+Le timing n’est pas subtil. C’est une vengeance. Et comme la Reine dans Hamlet qui jure une fidélité exagérée, la protestation elle-même révèle ce qu’OpenAI voulait cacher.
 
 
 
