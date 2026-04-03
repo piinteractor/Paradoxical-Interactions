@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent.
+
+4 avril 2026
+
+L'encre de la loi sur les prix du carburant était à peine sèche. Une seule hausse de prix par jour, à midi, sans exception. La logique était claire : limiter le chaos des fluctuations horaires, forcer la transparence, protéger les ...
+
+Read More
+
 L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
 
 3 avril 2026
