@@ -1,7 +1,7 @@
 ---
 title: "The Medvi Paradox. When the System Works Perfectly — and That’s the Problem."
 date: 2026-04-03T05:50:15
-modified: 2026-04-03T05:50:15
+modified: 2026-04-04T00:49:49
 slug: the-medvi-paradox-system-works-perfectly
 lang: en
 type: post
