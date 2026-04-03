@@ -1,7 +1,7 @@
 ---
 title: "HI — AI Interaction"
 date: 2026-03-24T16:56:14
-modified: 2026-03-26T09:51:30
+modified: 2026-04-03T12:37:29
 slug: hi-ai-interaction
 lang: en
 type: page
@@ -73,3 +73,23 @@ And the productive version — the Two-Idiot Theorem in practice — is not a so
 Navigation. Not resolution.
 
 All are guilty. None are at fault.
+
+The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone.
+
+26. March 2026
+
+One side offers a structural observation. The other points out where the framing breaks down. The first adjusts. The second extends. Something appears in the exchange that wasn't in either opening position.
+
+Read More
+
+AI Control vs. Co-Operation. The Question Nobody Is Asking.
+
+28. March 2026
+
+Every major AI lab has a safety team. Every major AI lab publishes alignment research. Every major AI lab uses the word "control" — as goal, as metric, as reassurance.
+The question nobody asks: what if control is the problem?
+Not ...
+
+Read More
+
+No results found.
