@@ -27,9 +27,9 @@ You don't have sufficient permissions to access this content.
 
 
 
-<p>Nvidia walks away from a $100 billion investment in OpenAI. Jensen Huang privately criticizes OpenAI’s “business discipline.” Days later, Reuters gets eight—eight—anonymous sources complaining about Nvidia’s chips.<br />
+Nvidia walks away from a $100 billion investment in OpenAI. Jensen Huang privately criticizes OpenAI’s “business discipline.” Days later, Reuters gets eight—eight—anonymous sources complaining about Nvidia’s chips.
 
-The timing isn’t subtle. This is retaliation. And like the Queen in Hamlet swearing exaggerated loyalty, the protesting itself reveals what OpenAI wanted to hide.</p>
+The timing isn’t subtle. This is retaliation. And like the Queen in Hamlet swearing exaggerated loyalty, the protesting itself reveals what OpenAI wanted to hide.
 
 
 
