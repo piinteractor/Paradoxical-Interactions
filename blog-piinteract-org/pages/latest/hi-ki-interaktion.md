@@ -1,7 +1,7 @@
 ---
 title: "HI — KI Interaktion"
 date: 2026-03-24T16:56:14
-modified: 2026-03-26T09:58:22
+modified: 2026-04-03T12:38:30
 slug: hi-ki-interaktion
 lang: de
 type: page
@@ -73,3 +73,22 @@ Und die produktive Version — das Zwei-Idioten-Theorem in der Praxis — ist ke
 Navigation. Keine Lösung.
 
 Alle sind schuldig. Keiner kann etwas dafür.
+
+Das Zwei-Idioten-Theorem.
+
+26. März 2026
+
+Die eine Seite liefert eine strukturelle Betrachtung. Die andere zeigt auf, wo der Rahmen versagt. Die erste passt sich an. Die zweite erweitert. In diesem Austausch entsteht etwas, das in keiner der Ausgangspositionen vorhanden war.
+
+Read More
+
+Kontrolle vs. Ko-Operation. Die Frage, die niemand stellt.
+
+28. März 2026
+
+Jedes große KI-Labor hat ein Sicherheitsteam. Jedes große KI-Labor veröffentlicht Alignment-Forschung. Jedes große KI-Labor verwendet das Wort „Kontrolle" — als Ziel, als Metrik, als Beruhigung.
+Die Frage, die niemand stellt: Was ...
+
+Read More
+
+No results found.
