@@ -1,7 +1,7 @@
 ---
 title: "The Priest of Nemi: How Success Creates Its Own Assassin"
 date: 2026-01-26T17:25:56
-modified: 2026-03-11T05:09:54
+modified: 2026-04-03T06:14:27
 slug: the-priest-of-nemi-how-success-creates-its-own-assassin
 lang: en
 type: post
@@ -10,27 +10,17 @@ wp_id: 570
 url: https://blog.piinteract.org/the-priest-of-nemi-how-success-creates-its-own-assassin/
 ---
 
+Win the position. Guarantee your death. Repeat forever.
+
 "The priest who slew the slayer, and shall himself be slain."
 
 — James George Frazer, The Golden Bough
 
-Win the position. Guarantee your death. Repeat forever.
+The Setup
 
 Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and the certainty that success breeds your assassin.
 
 Sounds archaic? Look at tech disruption, nuclear states, authoritarian succession, or academic gatekeeping. Same structure. Different swords. The pattern hasn't disappeared. It's just wearing a suit.
-
-In ancient Rome, the sacred grove of Nemi had a peculiar rule for succession:
-
-To become priest, you had to kill the current priest.
-
-The position came with power, status, reverence. And a guarantee: someone will kill you for it.
-
-No retirement. No abdication. No peaceful transition.
-
-Violence in. Violence out.
-
-The structure allowed nothing else.
 
 The Mechanics
 
