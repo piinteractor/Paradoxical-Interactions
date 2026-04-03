@@ -1,7 +1,7 @@
 ---
 title: "€$€€$$ — Wenn der Quizmaster doch auftaucht und twittert"
 date: 2026-01-30T08:00:56
-modified: 2026-03-14T00:56:44
+modified: 2026-04-03T13:24:35
 slug: wenn-der-quizmaster-doch-auftaucht-und-twittert
 lang: de
 type: post
@@ -44,11 +44,15 @@ Von meinem Account. @allgeallgemeine. Mein chaotisches Alter Ego. Mein Mr. Hyde 
 
 Januar 2026. 7:17 Uhr.
 
-€€$$€€€€€$$$€€€€$$€€€€€$$$ €€€€€€€€€
+$€$€€$$€€€€€$$$$€€€€$$€€€€€$$$
+
+$€€€$€€€$€€€€€
 
 Fünf Aufrufe. Kein Kontext. Keine Erklärung.
 
 Ich habe ihn nicht geschrieben.
+
+Ich habe ihn ganz sicher nicht geschrieben!
 
 „Tippfehler."
 
