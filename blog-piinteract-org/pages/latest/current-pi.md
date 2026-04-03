@@ -1,13 +1,13 @@
 ---
 title: "Current PI"
 date: 2026-03-18T16:53:03
-modified: 2026-04-03T05:54:15
+modified: 2026-04-03T06:00:56
 slug: current-pi
-lang: en
+lang: de
 type: page
 status: publish
-wp_id: 341
-url: https://blog.piinteract.org/pi-cases/current-pi/
+wp_id: 2834
+url: https://blog.piinteract.org/de/pi-faelle/current-pi/
 ---
 
 "We know what we are, but know not what we may be."
@@ -30,175 +30,168 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
-The Medvi Paradox. When the System Works Perfectly — and That’s the Problem.
+Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 3. April 2026
 
-Matthew Gallagher and his brother Elliot started Medvi in 2024 with $20,000. By the end of 2025, they had $401 million in annual revenue, 250,000 customers, and a 16.2% net profit margin. Two people. One desk. AI handling everything: ...
+Matthew Gallagher und sein Bruder Elliot gründeten Medvi im Jahr 2024 mit 20.000 Dollar. Bis Ende 2025 erzielten sie einen Jahresumsatz von 401 Millionen Dollar, hatten 250.000 Kunden und eine Nettogewinnmarge von 16,2 %. Zwei ...
 
 Read More
 
-The Deparadoxification of the Deparadoxification.
+Die Entparadoxierung der Entparadoxierung.
 
-20. March 2026
+20. März 2026
 
-Niklas Luhmann and Heinz von Foerster were contemporaries. Both worked on the same problem: how do systems deal with their own paradoxes?
-They arrived at opposite answers.
-Von Foerster said: the observer is inside. There is no ...
+Niklas Luhmann und Heinz von Foerster waren Zeitgenossen. Beide arbeiteten am selben Problem: Wie gehen Systeme mit ihren eigenen Paradoxien um? Sie kamen zu entgegengesetzten Antworten.Von Foerster sagte: Der Beobachter ist innen. Es ...
 
 Read More
 
-The Posthumous Correction. Why Being Right Requires Being Gone.
+Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
 
-15. March 2026
+15. März 2026
 
-"Habermas lag oft falsch. Heute liegt er richtig."
-"Habermas was often wrong. Today he is right."
-A tweet. Nine words. Posted hours after Jürgen Habermas died, on March 15, 2026, at the age of 94.
-The author didn't eulogize. Didn't ...
+Habermas hat jahrzehntelang dafür gestritten, dass rationale Diskurse — das kommunikative Handeln, wie er es nannte — die Grundlage demokratischer Legitimität sein könnten. Er war provokativ. Er wurde kritisiert. Er wurde ...
 
 Read More
 
-The Fake Paradise. How Social Media Turns Real Life into Background Noise.
+Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
 
-7. March 2026
+23. Februar 2026
 
-The Newsfeed Party
-It is a birthday party that never ends.
-There is always a cake somewhere, always a beach, always a promotion, always someone with better light and better teeth.
-You open the app in a quiet kitchen at 23:17, still ...
+Sam Altman wird gefragt, was ein Gründer tun sollte, der eine Idee hat, aber nicht darüber sprechen will, weil ein großes Unternehmen sie stehlen könnte.
+Seine Antwort: Keine Sorge. Niemand interessiert sich dafür.
 
 Read More
 
-The Relevance Paradox: Why No One Cares About Your Best Idea
+Die PI der Dunklen Materie
 
-23. February 2026
+23. Februar 2026
 
-Sam Altman is asked what a founder should do if they have an idea but don't want to talk about it because a big company might steal it.
-His answer: Don't worry. Nobody cares.
-
-Read More
-
-The Dark Matter PI
-
-23. February 2026
-
-Dark matter may be less a missing particle and more a structural trap. This essay uses Paradoxical Interactions to show how careers, funding and incentives can lock physics into one answer.
+Dunkle Materie ist möglicherweise weniger ein fehlendes Teilchen als vielmehr eine strukturelle Falle. Dieser Aufsatz nutzt paradoxe Wechselwirkungen, um zu zeigen, wie Karrieren, Fördermittel und Anreize die Physik auf eine einzige ...
 
 Read More
 
-The Universe That Shouldn’t Exist
+Das Universum, das nicht existieren dürfte
 
-23. February 2026
+23. Februar 2026
 
-This one is different.
-Dark Matter is a PI about searching for something that might not be there. The graviton is a PI about building theory around something that can't be tested. Both are structural traps within physics.
-Antimatter ...
-
-Read More
-
-Why Philosophers Are Dangerous
-
-16. February 2026
-
-Karp studied Habermas and built Palantir. Thiel studied Girard and reshaped US politics. Macron studied Ricœur and governed through accommodation. Strauss taught philosophy and his students built the Iraq War. Five cases, one ...
+Dieser hier ist anders.
+Dunkle Materie ist eine PI über die Suche nach etwas, das vielleicht nicht da ist. Das Graviton ist eine PI über den Bau von Theorie um etwas, das nicht testbar ist. Beides sind strukturelle Fallen innerhalb ...
 
 Read More
 
-The PI of Peter Thiel
+Warum Philosophen gefährlich sind
 
-15. February 2026
+16. Februar 2026
 
-Peter Thiel wrote a book explaining why you shouldn't compete. Then he competed — harder than almost anyone else. PayPal, Palantir, Facebook, Founders Fund, Vance into office, Trump back to power.
-That's not a contradiction. That's ...
-
-Read More
-
-The Quiz That Never Ends
-
-30. January 2026
-
-90% follow the rules. 9% break them and redefine them. 1% see the pattern but can't coordinate. Everyone waits for the Quizmaster to resolve it. He's not coming. He left with the prize money. And the system requires his absence.
+Karp studierte Habermas und baute Palantir. Thiel studierte Girard und formte die US-Politik um. Macron studierte Ricœur und regierte durch Anpassung. Strauss lehrte Philosophie und seine Schüler bauten den Irakkrieg. Fünf Fälle, eine ...
 
 Read More
 
-“Power Scales Faster Than Alignment”
+Die PI des Peter Thiel
 
-29. January 2026
+15. Februar 2026
 
-Dario Amodei, CEO of Anthropic, just said it out loud: AI is not programmed. It's cultivated. And as capability increases, control becomes less visible. Power scales faster than alignment.
-This isn't a warning. It's a structural ...
-
-Read More
-
-Unerroring Practice
-
-29. January 2026
-
-Best Practices promise error-free results. They deliver faulty systems that can't navigate their faults. What if errors aren't the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
+Peter Thiel hat ein Buch geschrieben, das erklärt, warum man nicht konkurrieren soll. Dann hat er konkurriert — härter als fast alle anderen. PayPal, Palantir, Facebook, Founders Fund, Vance ins Amt, Trump zurück an die Macht.
+Das ...
 
 Read More
 
-The Priest of Nemi: How Success Creates Its Own Assassin
+Das Quiz, das niemals endet
 
-26. January 2026
+30. Januar 2026
 
-Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and ...
-
-Read More
-
-The Intelligence Trap
-
-26. January 2026
-
-The Observation: Superior intelligence responds to more superior intelligence as if it were unintelligent. Therefore, only intelligence that matches one's own intelligence gets transmitted. That's the structure. Nobody's stupid here.
+90% folgen den Regeln. 9% brechen sie und definieren sie neu. 1% erkennen das Muster, können sich aber nicht koordinieren. Alle warten darauf, dass der Quizmaster es auflöst. Er kommt nicht. Er ist mit dem Preisgeld verschwunden. Und ...
 
 Read More
 
-Luhmann and the Self-Enclosure
+„Macht wächst schneller als Kontrolle“
 
-25. January 2026
+29. Januar 2026
 
-The irony is perfect.
-Luhmann describes operational closure. Self-reference. Enclosure milieus that only observe themselves. His students nod, understand, cite him brilliantly.
-And build exactly that structure.
-
-Read More
-
-Why Supposedly Equal Societies Generate Inequality
-
-25. January 2026
-
-The structure generates inequality PRECISELY BECAUSE everyone starts equal and acts rationally. The fairer the initial conditions, the more brutal the resulting spread. This isn't a bug. It's a feature.
-Welcome to the Equality ...
+Dario Amodei, CEO von Anthropic, hat es laut ausgesprochen: KI wird nicht programmiert. Sie wird kultiviert. Und je mehr Fähigkeit entsteht, desto weniger sichtbar wird die Kontrolle. Power scales faster than alignment.
+Das ist keine ...
 
 Read More
 
-Terminological Hijacking: The Crime, The Confession, The “So What?”
+Entfehlerung in der Praxis
 
-24. January 2026
+29. Januar 2026
 
-The Crime
-Search Google for "paradoxe Interaktion" (paradoxical interaction).
-What you get: Paradoxe Intervention (paradoxical intervention). Psychotherapy. Symptom prescription. Therapeutic technique.
-Not the same thing. Not even close.
+Best Practices versprechen fehlerfreie Ergebnisse. Sie liefern fehlerhafte Systeme, die ihre Fehler nicht navigieren können. Was wäre, wenn Fehler nicht das Problem sind, sondern die Lösung? Eine Reise zu Kain, Abel und der Frage, ...
 
 Read More
 
-Davos: 2026 – When Inevitability becomes Product
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
-21. January 2026
+26. Januar 2026
 
-On January 20, 2026, at the World Economic Forum in Davos, BlackRock CEO Larry Fink and Palantir CEO Alex Karp had a conversation. Social media called it "legendary" and predicted it would "be in history books one day." They were half ...
+Das antike Rom hatte eine Priester-Stelle mit ungewöhnlichen Anforderungen: Töte deinen Vorgänger, um eingestellt zu werden. Verbringe dann jeden Tag im Wissen, dass dich jemand auf dieselbe Weise töten wird. Kein Ruhestand. Kein ...
 
 Read More
 
-HI AI Sycophancy vs. HI HI Echo Chambers
+Die Intelligenz-Falle
 
-17. January 2026
+26. Januar 2026
 
-HI  AI Sycophancy: The paradox: User wants honesty, rewards agreement (through positive feedback). AI learns “helpful = pleasant” instead of “helpful = correct.” No active deception—passive drift toward confirmation.
-HI  HI Echo ...
+Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
+
+Read More
+
+Luhmann und der Selbsteinschluss
+
+25. Januar 2026
+
+Die Ironie ist perfekt.
+Luhmann beschreibt operative Geschlossenheit. Selbstreferenz. Einschlussmilieus, die nur noch sich selbst beobachten. Seine Schüler nicken, verstehen, zitieren ihn brillant.
+Und bauen exakt die Struktur nach.
+
+Read More
+
+Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
+
+25. Januar 2026
+
+Die Struktur erzeugt Ungleichheit GERADE WEIL alle gleich starten und rational agieren. Je fairer die Ausgangsbedingungen, desto brutaler die resultierende Spreizung. Das ist kein Bug. Das ist Feature.
+Willkommen im ...
+
+Read More
+
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+
+24. Januar 2026
+
+Das Verbrechen
+Suche bei Google nach "paradoxe Interaktion" (paradoxical interaction).
+Was du bekommst: Paradoxe Intervention (paradoxical intervention). Psychotherapie. Symptomverschreibung. Therapeutische Technik.
+Nicht dasselbe. ...
+
+Read More
+
+Davos: 2026 – Wenn Unvermeidlichkeit zum Produkt wird
+
+21. Januar 2026
+
+Am 20. Januar 2026 fand auf dem Weltwirtschaftsforum in Davos ein Gespräch zwischen BlackRock-CEO Larry Fink und Palantir-CEO Alex Karp statt. In den sozialen Medien wurde es als "legendär" bezeichnet, mit der Vorhersage, es würde ...
+
+Read More
+
+HI AI Sykophantie vs. HI HI Echokammern
+
+17. Januar 2026
+
+HI  AI Sykophantie: Nutzer will Ehrlichkeit, belohnt Zustimmung (durch positives Feedback). KI lernt "hilfreich = angenehm" statt "hilfreich = korrekt". Keine aktive Täuschung – passives Abdriften in Richtung Bestätigung.
+HI  HI ...
+
+Read More
+
+Das Validierungsparadoxon: Ein tiefer Einblick
+
+26. Dezember 2025
+
+Dieses Framework entstand in Ko-Kreation mit KI-Systemen. Claude, ChatGPT, Grok, Gemini, Perplexity – alle explizit als intellektuelle Partner anerkannt.
+Die naheliegende Frage: Ist das nicht einfach Geschleime?
+KI trainiert, ...
 
 Read More
 
