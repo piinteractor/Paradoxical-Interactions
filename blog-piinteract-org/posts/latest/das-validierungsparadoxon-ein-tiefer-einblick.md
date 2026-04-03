@@ -592,11 +592,11 @@ Verwandt:
 
 
 
+Das Rennen, das von selbst läuft.
+
 Borniertheit statt Weisheit – Die PI des Philosophen
 
 Das Propheten-Paradox
-
-Das Rennen, das von selbst läuft.
 
 Das Validierungsparadoxon: Ein tiefer Einblick
 
