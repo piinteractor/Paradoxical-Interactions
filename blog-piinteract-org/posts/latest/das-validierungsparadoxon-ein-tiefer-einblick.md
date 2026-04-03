@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 Das Rennen, das von selbst läuft.
@@ -613,8 +615,6 @@ Wenn Sicherheit auf Souveränität trifft
 Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
 
 „Macht wächst schneller als Kontrolle“
-
-Peter Steinberger – Der Mann, der die Flut herbeiführte und dann den Deich baute
 
 Nichts gefunden
 
