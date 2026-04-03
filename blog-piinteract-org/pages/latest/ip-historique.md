@@ -32,7 +32,7 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
-La PI de la Réforme. Plus la rupture est radicale, plus la chaîne est solide.
+La PI de la Réforme. Plus la séparation est brutale, plus la connexion est solide.
 
 2 avril 2026
 
