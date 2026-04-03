@@ -30,6 +30,14 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
+The Second Law. Every Measure Smarter Than the Last. The Result Dumber Than the Last.
+
+4. April 2026
+
+Germany. April 1, 2026. Fuel prices have been at their highest since the 2022 energy crisis. Super E10: €2.08 per liter. Diesel: €2.28. The cause — an Iran war, the Strait of Hormuz blockade, oil at $117 per barrel. The political ...
+
+Read More
+
 The Synchronized Clock. How a Law Against Price Chaos Created a Price Cartel.
 
 3. April 2026
