@@ -1,7 +1,7 @@
 ---
-title: "La PI de la Réforme. Plus la rupture est radicale, plus la chaîne est solide."
+title: "La PI de la Réforme. Plus la séparation est brutale, plus la connexion est solide."
 date: 2026-04-02T14:41:02
-modified: 2026-04-02T14:41:21
+modified: 2026-04-03T03:43:10
 slug: la-pi-de-la-reforme
 lang: fr
 type: post
