@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
+
+3 avril 2026
+
+Wittenberg, 1517. Martin Luther cloue 95 thèses à la porte d'une église. L'argument : l'Église vend ce qu'elle ne possède pas. La grâce n'est pas une marchandise. Dieu n'est pas une franchise. Le diagnostic est juste. La structure ...
+
+Read More
+
 Le Paradoxe Medvi. Quand le système fonctionne parfaitement — et c’est justement le problème.
 
 3 avril 2026
