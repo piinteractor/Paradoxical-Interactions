@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Quiz, das niemals endet
+
 €$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
 
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
@@ -613,8 +615,6 @@ Das Universum, das nicht existieren dürfte
 Die Entparadoxierung der Entparadoxierung.
 
 Das Schwert, das sich selbst widerspricht
-
-Wenn Sicherheit auf Souveränität trifft
 
 Nichts gefunden
 
