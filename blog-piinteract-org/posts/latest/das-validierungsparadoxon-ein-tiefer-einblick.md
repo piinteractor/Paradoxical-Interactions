@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+€$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
+
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
 
 Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
@@ -613,8 +615,6 @@ Die Entparadoxierung der Entparadoxierung.
 Das Schwert, das sich selbst widerspricht
 
 Wenn Sicherheit auf Souveränität trifft
-
-Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
 
 Nichts gefunden
 
