@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das zweite Gesetz. Jede Maßnahme klüger als die letzte. Das Ergebnis dümmer als das letzte.
+
 Das Quiz, das niemals endet
 
 €$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
@@ -613,8 +615,6 @@ Das Validierungsparadoxon: Ein tiefer Einblick
 Das Universum, das nicht existieren dürfte
 
 Die Entparadoxierung der Entparadoxierung.
-
-Das Schwert, das sich selbst widerspricht
 
 Nichts gefunden
 
