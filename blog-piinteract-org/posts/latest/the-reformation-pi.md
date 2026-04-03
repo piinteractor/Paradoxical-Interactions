@@ -1,7 +1,7 @@
 ---
-title: "The Reformation PI. The Louder the Break, the Stronger the Chain."
+title: "The Reformation PI. The more violent the separation, the more solid the connection."
 date: 2026-04-02T14:41:02
-modified: 2026-04-02T14:41:02
+modified: 2026-04-03T03:36:37
 slug: the-reformation-pi
 lang: en
 type: post
