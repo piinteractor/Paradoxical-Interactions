@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
+
+3. April 2026
+
+Deutschland. 1. April 2026. Die Kraftstoffpreise haben den höchsten Stand seit der Energiekrise 2022 erreicht. Super E10: 2,08 € pro Liter. Diesel: 2,28 €. Die Ursache — ein Krieg im Iran, die Blockade der Straße von Hormus, Öl bei ...
+
+Read More
+
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 3. April 2026
