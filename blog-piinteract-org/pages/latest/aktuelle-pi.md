@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das zweite Gesetz. Jede Maßnahme klüger als die letzte. Das Ergebnis dümmer als das letzte.
+
+4. April 2026
+
+Die Tinte auf dem Tankgesetz war kaum trocken. Eine Preiserhöhung pro Tag, um 12 Uhr, keine Ausnahmen. Die Logik war klar: das Chaos stündlicher Preisschwankungen begrenzen, Transparenz erzwingen, Verbraucher schützen.Drei Tage ...
+
+Read More
+
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
 
 3. April 2026
