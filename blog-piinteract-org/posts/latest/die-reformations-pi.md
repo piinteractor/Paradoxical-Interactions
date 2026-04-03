@@ -1,7 +1,7 @@
 ---
-title: "Die Reformations-PI. Je lauter der Bruch, desto fester die Kette."
+title: "Die Reformations-PI. Je brutaler die Trennung, desto solider die Verbindung."
 date: 2026-04-02T14:41:02
-modified: 2026-04-02T14:41:15
+modified: 2026-04-03T03:39:49
 slug: die-reformations-pi
 lang: de
 type: post
