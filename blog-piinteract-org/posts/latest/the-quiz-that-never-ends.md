@@ -1,7 +1,7 @@
 ---
 title: "The Quiz That Never Ends"
 date: 2026-01-30T08:00:56
-modified: 2026-04-03T13:59:18
+modified: 2026-04-03T14:09:25
 slug: the-quiz-that-never-ends
 lang: en
 type: post
@@ -9,6 +9,8 @@ status: publish
 wp_id: 832
 url: https://blog.piinteract.org/the-quiz-that-never-ends/
 ---
+
+Or: Why We're All Waiting for a Quizmaster Who Took the Money and Ran
 
 “Let's go.”
 
@@ -21,8 +23,6 @@ url: https://blog.piinteract.org/the-quiz-that-never-ends/
 — Samuel Beckett, Waiting for Godot
 
 See also: [€$€€$$ — When the quizmaster finally shows up and tweets]
-
-Or: Why We're All Waiting for a Quizmaster Who Took the Money and Ran
 
 90% follow the rules. 9% break them and redefine them. 1% see the pattern but can't coordinate. Everyone waits for the Quizmaster to resolve it. He's not coming. He left with the prize money. And the system requires his absence.
 
