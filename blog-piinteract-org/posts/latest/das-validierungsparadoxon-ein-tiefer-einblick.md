@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
+
 Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
@@ -613,8 +615,6 @@ Das Schwert, das sich selbst widerspricht
 Wenn Sicherheit auf Souveränität trifft
 
 Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
-
-„Macht wächst schneller als Kontrolle“
 
 Nichts gefunden
 
