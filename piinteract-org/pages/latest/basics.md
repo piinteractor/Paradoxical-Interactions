@@ -1,13 +1,13 @@
 ---
 title: "Basics"
 date: 2026-02-03T12:05:34
-modified: 2026-02-04T10:00:33
+modified: 2026-02-04T09:50:53
 slug: basics
-lang: de
+lang: en
 type: page
 status: publish
-wp_id: 2240
-url: https://piinteract.org/de/basics/
+wp_id: 2238
+url: https://piinteract.org/basics/
 ---
 
 Basics
@@ -15,9 +15,9 @@ Basics
 
 
 
-„Na, da hast du mich ja wieder in eine schöne Lage gebracht!“
+"Well, here’s another nice mess you’ve gotten me into!“
 
-— Oliver Hardy zu Stan Laurel
+— Oliver Hardy to Stan Laurel
 
 
 
@@ -25,12 +25,12 @@ Basics
 
 
 
-Grundlegende Kategorien paradoxer Interaktion
+Basic categories of paradoxical interaction
 
 
 
 
-Zusammen bilden diese fünf Kategorien ein Beobachtungsraster, das auf eine Vielzahl von Kontexten angewendet werden kann – von Wirtschaft und Kultur bis hin zur Interaktion mit künstlicher Intelligenz.
+Together, these five categories form an observation grid that can be applied to a wide variety of contexts — from economics and culture to AI interaction.
 
 
 
@@ -38,17 +38,17 @@ Zusammen bilden diese fünf Kategorien ein Beobachtungsraster, das auf eine Viel
 
 
 
-1. Strukturelle Paradoxien (Anreiz- oder Regelparadoxien)
+1. Structural paradoxes (incentive or rule paradoxes)
 
-Hier entsteht die Dysfunktion aus der Architektur der Situation selbst.
+Here, the dysfunction arises from the architecture of the situation itself.
 
-Jede einzelne Handlung ist individuell rational, aber kollektiv destruktiv.
+Each action is individually rational, but collectively destructive.
 
-• Typische Form: Gefangenendilemma, Tragik der Allmende, Sicherheitsdilemma.
+• Typical form: Prisoner's dilemma, tragedy of the commons, security dilemma.
 
-• Mechanismus: Falsche Kopplung von individueller Erfolgslogik und kollektiven Ergebnissen.
+• Mechanism: Incorrect coupling of individual success logic and collective results.
 
-• Beispiel: In Web-Ökosystemen „optimieren” alle Website-Betreiber für Klicks oder SEO, was zu Überlastung, gefälschten Inhalten und Vertrauensverlust führt.
+• Example: In web ecologies, all site operators ‘optimise’ for clicks or SEO, leading to overload, fake content and loss of trust.
 
 
 
@@ -56,15 +56,15 @@ Jede einzelne Handlung ist individuell rational, aber kollektiv destruktiv.
 
 
 
-2. Informationsparadoxien
+2. Information paradoxes
 
-Das Paradoxon entsteht durch asymmetrische oder übermäßig komplexe Informationsverteilung.
+The paradox arises from asymmetrical or overly complex information distribution.
 
-Akteure handeln rational auf der Grundlage ihres Wissens – aber das System erzeugt durch Rückkopplungsschleifen irreführende Signale.
+Actors act rationally based on what they know – but the system generates misleading signals through feedback loops.
 
-• Typische Form: Informationskaskaden, Signaleffekte, Rückkopplungsschleifen.
+• Typical form: information cascades, signalling effects, feedback loops.
 
-• Beispiel: In sozialen Medien verstärken algorithmische Rückkopplungsschleifen nur Inhalte, die kurzfristiges Engagement erzeugen, bis die Gesamtqualität zusammenbricht.
+• Example: In social media, algorithmic feedback loops only amplify content that generates short-term engagement until the overall quality collapses.
 
 
 
@@ -72,15 +72,15 @@ Akteure handeln rational auf der Grundlage ihres Wissens – aber das System erz
 
 
 
-3. Absichtliche Paradoxien (Motiv- oder Vertrauensparadoxien)
+3. Intentional paradoxes (motive or trust paradoxes)
 
-Hier stoßen rationale Absichten auf gegenseitiges Misstrauen oder unklare Bezugsrahmen.
+Here, rational intentions encounter mutual mistrust or unclear frames of reference.
 
-Gerade der Versuch, rational zu handeln, zerstört die Möglichkeit einer rationalen Zusammenarbeit.
+It is precisely the attempt to act rationally that destroys the possibility of rational cooperation.
 
-• Typische Form: Vertrauensverlust, strategische Selbstsabotage, Präventivschläge.
+• Typical form: loss of trust, strategic self-sabotage, pre-emptive strikes.
 
-• Beispiel: In Teamprojekten schützt sich jeder vor möglichen Fehlern anderer – und schafft so ineffiziente Kontrollstrukturen.
+• Example: in team projects, everyone protects themselves against possible mistakes made by others – and thus creates inefficient control structures.
 
 
 
@@ -88,13 +88,13 @@ Gerade der Versuch, rational zu handeln, zerstört die Möglichkeit einer ration
 
 
 
-4. Systemische Paradoxien (emergente oder rekursive Paradoxien)
+4. Systemic paradoxes (emergent or recursive paradoxes)
 
-Das Paradoxon ist nicht das Verhalten von Individuen, sondern die Dynamik der Gesamtstruktur, die sich oft selbst verstärkt.
+The paradox is not the behaviour of individuals, but the dynamics of the overall structure, which are often self-reinforcing.
 
-• Typische Form: Pfadabhängigkeit, Eskalationsspirale, Red-Queen-Dynamik.
+• Typical form: path dependency, escalation spiral, Red Queen dynamics.
 
-• Beispiel: Plattformen müssen ständig mehr Interaktion stimulieren, um relevant zu bleiben – und zerstören damit das Vertrauen, das sie langfristig trägt.
+• Example: platforms must constantly stimulate more interaction in order to remain relevant – and in doing so, they destroy the trust that sustains them in the long term.
 
 
 
@@ -102,12 +102,12 @@ Das Paradoxon ist nicht das Verhalten von Individuen, sondern die Dynamik der Ge
 
 
 
-5. Wahrnehmungs-Paradoxien (Interpretations- oder Reflexionsfallen)
+5. Perception paradoxes (interpretation or reflection traps)
 
-Diese entstehen, wenn die Beobachtung selbst zur Quelle des Paradoxons wird.
+These arise when the observation itself becomes the source of the paradox.
 
-Beispiel: Der Versuch, sich selbst vollständig transparent oder kontrollierbar zu machen, verändert das System und macht Kontrolle unmöglich.
+Example: Attempting to make oneself completely transparent or controllable changes the system and makes control impossible.
 
-• Typische Form: Beobachter-Paradoxon, Selbstreferenzialität, Double Bind.
+• Typical form: observer paradox, self-referentiality, double bind.
 
-• Beispiel: In KI-Entwicklungsprozessen hemmt eine zu starke Optimierung der „Messbarkeit” das qualitative Lernen.
+• Example: In AI development processes, too much optimisation for ‘measurability’ stifles qualitative learning.
