@@ -592,7 +592,7 @@ Verwandt:
 
 
 
-Das zweite Gesetz. Jede Maßnahme klüger als die letzte. Das Ergebnis dümmer als das letzte.
+Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
 
 Das Quiz, das niemals endet
 
