@@ -1,7 +1,7 @@
 ---
 title: "La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent."
 date: 2026-04-04T00:47:50
-modified: 2026-04-04T00:47:50
+modified: 2026-04-04T01:22:05
 slug: la-deuxieme-loi-chaque-mesure-plus-intelligente-que-la-precedente-le-resultat-plus-stupide-que-le-precedent
 lang: fr
 type: post
