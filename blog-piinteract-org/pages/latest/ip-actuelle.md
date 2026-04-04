@@ -42,7 +42,7 @@ L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un 
 
 3 avril 2026
 
-Wittenberg, 1517. Martin Luther cloue 95 thèses à la porte d'une église. L'argument : l'Église vend ce qu'elle ne possède pas. La grâce n'est pas une marchandise. Dieu n'est pas une franchise. Le diagnostic est juste. La structure ...
+Allemagne. 1er avril 2026. Les prix du carburant atteignent leur niveau le plus élevé depuis la crise énergétique de 2022. Super E10 : 2,08 € le litre. Diesel : 2,28 €. La cause — une guerre en Iran, le blocus du détroit d'Ormuz, le ...
 
 Read More
 
