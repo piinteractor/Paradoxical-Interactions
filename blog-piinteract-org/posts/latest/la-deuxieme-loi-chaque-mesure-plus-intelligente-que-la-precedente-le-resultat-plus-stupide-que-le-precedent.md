@@ -1,7 +1,7 @@
 ---
 title: "La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent."
 date: 2026-04-04T00:47:50
-modified: 2026-04-04T01:22:05
+modified: 2026-04-04T06:57:01
 slug: la-deuxieme-loi-chaque-mesure-plus-intelligente-que-la-precedente-le-resultat-plus-stupide-que-le-precedent
 lang: fr
 type: post
@@ -12,35 +12,11 @@ url: https://blog.piinteract.org/fr/la-deuxieme-loi-chaque-mesure-plus-intellige
 
 Pourquoi deux interventions réglementaires individuellement rationnelles, empilées l'une sur l'autre, produisent un résultat structurellement aggravé qu'aucune d'elles n'aurait pu générer seule.
 
-
-
-
-
-
-
 « Pour chaque problème complexe, il existe une réponse claire, simple et fausse. »
 
 — H.L. Mencken
 
-
-
-
 4 avril 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Le contexte
 
@@ -48,15 +24,9 @@ L'encre de la loi sur les prix du carburant était à peine sèche. Une seule ha
 
 Trois jours plus tard : une limitation de vitesse. 120 km/h sur les autoroutes. La logique était tout aussi claire : des vitesses plus basses signifient une consommation de carburant plus faible, une demande moindre, moins de pression sur un marché pétrolier déjà tendu par une guerre dans le Golfe Persique.
 
-Les deux mesures sont défendables. Les deux ont été adoptées avec des majorités parlementaires. Les deux sont le genre de politique qu'on décrit comme « pragmatique » et « fondée sur des données probantes ».
+Les deux mesures sont défendables. Les deux sont le genre de politique qu'on décrit comme « pragmatique » et « fondée sur des données probantes ».
 
 Ensemble, elles sont autre chose.
-
-
-
-
-
-
 
 La Première Loi
 
@@ -65,12 +35,6 @@ Le règlement du 1er avril a synchronisé le marché sans le coordonner. Chaque 
 L'horloge a fait le travail du cartel. Sans réunion. Sans responsabilité.
 
 Ce que la première loi a laissé intact : la structure oligopolistique du marché du carburant. L'intérêt commun des raffineurs et des distributeurs à préserver leurs marges. La logique fondamentale de tarification d'un marché à demande inélastique — où moins d'acheteurs ne signifient pas automatiquement des prix plus bas, mais des prix plus élevés par transaction.
-
-
-
-
-
-
 
 La Deuxième Loi
 
@@ -83,12 +47,6 @@ Le marché allemand du carburant n'est pas ce marché.
 C'est un oligopole avec des coûts fixes élevés, des infrastructures partagées et une structure tarifaire déjà optimisée — par la première loi — pour extraire la marge maximale d'une seule fenêtre quotidienne. Lorsque les volumes baissent, l'incitation à protéger la marge par litre augmente. Les raffineurs n'absorbent pas la perte de volume. Ils la répercutent dans les prix.
 
 La limitation de vitesse retire des acheteurs du marché. La loi sur les prix du carburant garantit que les acheteurs restants paient le prix optimisé.
-
-
-
-
-
-
 
 Le Retournement Structurel
 
@@ -103,12 +61,6 @@ Le résultat n'est pas la somme de deux interventions. C'est leur produit struct
 C'est à cela que ressemblent les Interactions Paradoxales à grande échelle : non pas un seul acteur rationnel faisant quelque chose d'irrationnel, mais deux décisions politiques rationnelles, chacune adoptée par une majorité, chacune défendue par des experts, produisant un résultat combiné qu'aucune analyse n'avait prévu et qu'aucune institution ne revendique.
 
 Personne n'a commis d'erreur. C'est précisément pourquoi rien ne peut être corrigé.
-
-
-
-
-
-
 
 L'Interaction Paradoxale Nommée
 
@@ -130,12 +82,6 @@ Le Bundeskartellamt — applique correctement les deux lois et ne peut poursuivr
 
 Tous sont coupables. Personne n'est fautif.
 
-
-
-
-
-
-
 Navigation
 
 Le mot pour cela n'est pas « stupidité ». La stupidité implique un échec de l'intelligence. Ce qui se passe ici est un échec de structure — ce qui est pire, car il n'est pas corrigeable par des personnes plus intelligentes.
@@ -150,22 +96,7 @@ Une troisième mesure est déjà en discussion. Une taxe sur les superprofits de
 
 Try and continue.
 
-
-
-
-
-
-
-
-
-
-
-
-
 Articles Connexes
-
-
-
 
 L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
 
@@ -185,9 +116,6 @@ Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
 
 No results found.
 
-
-
-
 Sur piinteract.org
 
 Exemples : Systèmes & Gouvernance — Les conditions structurelles dans lesquelles les interventions réglementaires produisent les résultats qu'elles étaient censées prévenir.
@@ -198,21 +126,9 @@ Framework — Pourquoi acteurs rationnels et irrationalité collective ne sont p
 
 ​
 
-
-
-
-
-
-
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non par échec, mais par structure.
 
 Tous sont coupables. Personne n'est fautif.
-
-
-
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
