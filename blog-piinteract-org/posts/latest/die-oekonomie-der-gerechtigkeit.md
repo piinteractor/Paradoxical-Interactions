@@ -1,7 +1,7 @@
 ---
 title: "Die Ökonomie der Gerechtigkeit."
 date: 2026-01-23T11:57:56
-modified: 2026-04-05T02:45:50
+modified: 2026-04-05T03:54:26
 slug: die-oekonomie-der-gerechtigkeit
 lang: de
 type: post
@@ -10,15 +10,15 @@ wp_id: 3913
 url: https://blog.piinteract.org/de/die-oekonomie-der-gerechtigkeit/
 ---
 
-Warum die Justiz zusammenbricht, wenn die Kriminalität zunimmt
+Warum die Gerechtigkeit versagt, wenn Verbrechen von vielen Menschen begangen werden: Eine strukturelle Analyse von Nachkriegsprozessen, Entnazifizierung und den Grenzen der Justiz.
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-Gerechtigkeit verspricht Universalität.
+Gerechtigkeit verspricht Gleichheit.
 
-Die Realität bringt Selektion.
+Die Realität schafft Selektion.
 
-Wenn Verbrechen von Millionen begangen werden, geht es nicht mehr darum, wer schuldig ist –
+Wenn Verbrechen von vielen begangen werden, geht es nicht mehr darum, wer schuldig ist –
 
 sondern darum, was das System bewältigen kann.
 
