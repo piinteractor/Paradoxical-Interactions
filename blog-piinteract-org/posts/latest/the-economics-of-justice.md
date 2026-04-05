@@ -1,7 +1,7 @@
 ---
 title: "The Economics of Justice"
 date: 2026-01-23T11:57:56
-modified: 2026-04-05T03:46:38
+modified: 2026-04-05T04:17:16
 slug: the-economics-of-justice
 lang: en
 type: post
@@ -16,13 +16,13 @@ Why Judicial Systems Fail When Crimes Affect Millions of People: A Structural An
 
 — Anatole France
 
-Justice promises universality.
+Justice promises equality.
 
-Reality delivers selection.
+Reality creates selection.
 
-When crimes are committed by millions, the question is no longer who is guilty —
+When crimes are committed by many, it is no longer a question of who is guilty—
 
-but what the system can process.
+but rather of what the system can handle.
 
 When Prosecution Becomes a Capacity Problem
 
