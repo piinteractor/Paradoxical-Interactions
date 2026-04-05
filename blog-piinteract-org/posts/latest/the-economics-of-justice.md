@@ -1,7 +1,7 @@
 ---
 title: "The Economics of Justice"
 date: 2026-01-23T11:57:56
-modified: 2026-03-20T16:28:17
+modified: 2026-04-05T02:42:10
 slug: the-economics-of-justice
 lang: en
 type: post
@@ -10,11 +10,11 @@ wp_id: 378
 url: https://blog.piinteract.org/the-economics-of-justice/
 ---
 
+Why accountability collapses when crime scales
+
 “The law, in its majestic equality, forbids the rich as well as the poor to sleep under bridges.”
 
 — Anatole France
-
-Why accountability collapses when crime scales
 
 Justice promises universality.
 
