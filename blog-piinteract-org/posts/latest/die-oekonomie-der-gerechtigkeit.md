@@ -1,7 +1,7 @@
 ---
 title: "Die Ökonomie der Gerechtigkeit."
 date: 2026-01-23T11:57:56
-modified: 2026-04-05T03:54:26
+modified: 2026-04-05T04:17:30
 slug: die-oekonomie-der-gerechtigkeit
 lang: de
 type: post
@@ -30,7 +30,7 @@ Nürnberg: 24 Angeklagte. Beherrschbar.
 
 Folgeprozesse: 185 Angeklagte. Immer noch beherrschbar.
 
-Entnazifizierungsgerichte: 950.000 Fälle. Zusammenbruch des Systems.
+Entnazifizierungsgerichte: 950.000 Fälle. Das System kollabiert.
 
 Das Muster:
 
