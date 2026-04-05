@@ -1,7 +1,7 @@
 ---
 title: "Die Ökonomie der Gerechtigkeit."
 date: 2026-01-23T11:57:56
-modified: 2026-03-20T16:45:00
+modified: 2026-04-05T02:45:50
 slug: die-oekonomie-der-gerechtigkeit
 lang: de
 type: post
@@ -10,17 +10,17 @@ wp_id: 3913
 url: https://blog.piinteract.org/de/die-oekonomie-der-gerechtigkeit/
 ---
 
+Warum die Justiz zusammenbricht, wenn die Kriminalität zunimmt
+
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-Why accountability collapses when crime scales
+Gerechtigkeit verspricht Universalität.
 
-Justice promises universality.
+Die Realität bringt Selektion.
 
-Reality delivers selection.
+Wenn Verbrechen von Millionen begangen werden, geht es nicht mehr darum, wer schuldig ist –
 
-When crimes are committed by millions, the question is no longer who is guilty —
-
-but what the system can process.
+sondern darum, was das System bewältigen kann.
 
 Wenn Strafverfolgung zu einem Kapazitätsproblem wird
 
@@ -278,7 +278,7 @@ Jedes Massenverbrechen übersteigt die Kapazitäten der Justiz.
 
 Jedes Mal.
 
-Die wirtschaftlichen Aspekte werden sichtbar
+Die ökonomischen Aspekte werden sichtbar
 
 Gerechtigkeit hat ihren Preis:
 
