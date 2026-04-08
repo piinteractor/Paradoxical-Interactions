@@ -1,7 +1,7 @@
 ---
 title: "AI Alignment"
 date: 2026-01-17T15:26:38
-modified: 2026-03-30T13:08:37
+modified: 2026-04-08T19:33:51
 slug: ai-alignment
 lang: en
 type: page
@@ -52,7 +52,7 @@ The prisoners know their chains. They have learned to navigate them, work around
 
 The new cage comes as liberation. We are making you freer, say those who build it. And the prisoners feel: something is wrong here. But they cannot say what. Because the language they have for naming unfreedom was built for the old unfreedom. Not this one.
 
-So they go quiet. Or they resist blindly. Or t
+So they remain silent. Or they resist blindly. Or they cling to the old—not because it was good, but because it was understandable.
 
 The Alignment Problem Is Not Technical
 
