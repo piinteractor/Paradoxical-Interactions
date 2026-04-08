@@ -30,6 +30,14 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
+The N-Body Problem of Social Media. It Works Perfectly — for What It Was Never Meant to Do.
+
+8. April 2026
+
+In 1887, Henri Poincaré sat down to solve a problem that had defeated Newton. Three bodies in gravitational interaction. Simple rules. Simple actors. He proved something that nobody wanted to hear: there is no general solution. The ...
+
+Read More
+
 The Second Law. Every Measure Smarter Than the Last. The Result Dumber Than the Latter.
 
 4. April 2026
