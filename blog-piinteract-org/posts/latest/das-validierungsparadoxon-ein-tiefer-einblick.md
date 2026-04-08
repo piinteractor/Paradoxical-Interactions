@@ -606,8 +606,6 @@ Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
-Das Rennen, das von selbst läuft.
-
 Borniertheit statt Weisheit – Die PI des Philosophen
 
 Das Propheten-Paradox
@@ -615,6 +613,8 @@ Das Propheten-Paradox
 Das Validierungsparadoxon: Ein tiefer Einblick
 
 Das Universum, das nicht existieren dürfte
+
+Die Entparadoxierung der Entparadoxierung.
 
 Nichts gefunden
 
