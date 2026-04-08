@@ -454,8 +454,6 @@ Try and continue.
 
 Related:
 
-The Race That Runs Itself.
-
 The Posthumous Correction. Why Being Right Requires Being Gone.
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
@@ -477,6 +475,8 @@ The Polarization That Wasn’t Chosen
 The Articulate Gatekeeper
 
 Peter Steinberger – The Man Who Built the Flood and Then Built the Levee
+
+The Sword That Contradicts Itself
 
 No results found.
 
