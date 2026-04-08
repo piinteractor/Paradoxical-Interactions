@@ -34,7 +34,7 @@ Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwa
 
 8. April 2026
 
-In 1887, Henri Poincaré sat down to solve a problem that had defeated Newton. Three bodies in gravitational interaction. Simple rules. Simple actors. He proved something that nobody wanted to hear: there is no general solution. The ...
+Im Jahr 1887 machte sich Henri Poincaré daran, ein Problem zu lösen, an dem sich schon Newton die Zähne ausgebissen hatte. Drei Körper in gravitationsbeeinflusster Wechselwirkung. Einfache Regeln. Einfache Akteure. Er bewies etwas, ...
 
 Read More
 
