@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pour Ce qu’il N’était Jamais Censé Faire.
+
+8 avril 2026
+
+In 1887, Henri Poincaré sat down to solve a problem that had defeated Newton. Three bodies in gravitational interaction. Simple rules. Simple actors. He proved something that nobody wanted to hear: there is no general solution. The ...
+
+Read More
+
 La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent.
 
 4 avril 2026
