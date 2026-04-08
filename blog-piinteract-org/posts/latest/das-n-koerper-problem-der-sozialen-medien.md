@@ -1,7 +1,7 @@
 ---
 title: "Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War."
 date: 2026-04-08T13:16:45
-modified: 2026-04-08T13:16:46
+modified: 2026-04-08T14:31:54
 slug: das-n-koerper-problem-der-sozialen-medien
 lang: de
 type: post
