@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
+
+8. April 2026
+
+In 1887, Henri Poincaré sat down to solve a problem that had defeated Newton. Three bodies in gravitational interaction. Simple rules. Simple actors. He proved something that nobody wanted to hear: there is no general solution. The ...
+
+Read More
+
 Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
 
 4. April 2026
