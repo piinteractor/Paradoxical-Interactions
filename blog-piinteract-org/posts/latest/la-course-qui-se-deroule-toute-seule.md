@@ -1,7 +1,7 @@
 ---
 title: "La course qui se déroule toute seule."
 date: 2026-03-30T17:02:16
-modified: 2026-03-30T19:19:16
+modified: 2026-04-08T14:34:50
 slug: la-course-qui-se-deroule-toute-seule
 lang: fr
 type: post
@@ -14,15 +14,48 @@ url: https://blog.piinteract.org/fr/la-course-qui-se-deroule-toute-seule/
 
 — Walt Kelly, Pogo, 1970
 
+
+
+
+
+
+
 30 mars 2026
+
+
+
 
 Peter Senner a co-créé avec Claude
 
+
+
+
 La course qui se déroule toute seule.
+
+
+
 
 Chaque argument en faveur de la victoire rend celle-ci plus difficile.
 
+
+
+
 Pourquoi l'argument le plus convaincant en faveur de la victoire dans la course à l'IA est aussi le plus efficace pour la perdre — d'un point de vue structurel, et non politique.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Le contexte
 
@@ -31,6 +64,12 @@ Un texte circule. Il est bien écrit. Le rythme est vif, les phrases sont courte
 Puis il ajoute : « Les États-Unis doivent gagner. »
 
 L’argument n’est pas faux. Mais il est incomplet sur un point essentiel.
+
+
+
+
+
+
 
 L'argument auquel on ne peut se soustraire
 
@@ -43,6 +82,12 @@ C’est un argument rationnel. Chaque étape découle de la précédente. Il est
 C’est précisément là le problème.
 
 Un argument que l’on ne peut refuser sans paraître naïf n’est pas seulement de la persuasion. C’est une contrainte structurelle.
+
+
+
+
+
+
 
 Le miroir de l'autre côté de la barrière
 
@@ -57,6 +102,12 @@ Chaque étape découle de la précédente.
 Cet argument n’est pas avancé par des méchants. Il est avancé par des personnes qui font le même calcul, mais dans le sens inverse.
 
 Les deux arguments sont rationnels. Les deux arguments sont convaincants. Pris ensemble, ces deux arguments rendent la course structurellement inévitable.
+
+
+
+
+
+
 
 La structure que personne n’a choisie
 
@@ -84,6 +135,12 @@ Résultat — une course que personne n'a conçue, que personne ne contrôle et 
 
 Tous sont coupables. Personne n'est en tort.
 
+
+
+
+
+
+
 Ce que le texte ne peut pas dire
 
 Le texte qui soutient que l’Amérique doit gagner ne peut pas le dire. Non pas parce que l’auteur manque d’intelligence — il est manifestement brillant. Mais parce que le dire saperait les fondements mêmes de son argumentation.
@@ -97,6 +154,12 @@ C’est vrai.
 C’est aussi une description du problème, pas la réponse à celui-ci.
 
 Une civilisation qui fait passer ses décisions par un système conçu pour remporter une course à la domination a déjà décidé de ce que l’avenir est autorisé à penser. Les valeurs encodées dans une IA gagnante ne sont pas seulement les valeurs du pays vainqueur. Ce sont les valeurs de la victoire elle-même.
+
+
+
+
+
+
 
 Navigation
 
@@ -120,7 +183,22 @@ Voir la structure ne vous en libère pas.
 
 Mais c'est le début pour ne pas être surpris par là où elle mène.
 
+
+
+
+
+
+
+
+
+
+
+
+
 Articles connexes
+
+
+
 
 « Le pouvoir évolue plus rapidement que l’alignement »
 
@@ -140,6 +218,9 @@ Gagne la position. Garantis ta mort. Répète à l'infini.
 
 No results found.
 
+
+
+
 Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
 
 Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
@@ -158,9 +239,21 @@ L’équilibre de la méfiance mutuelle :
 
 No results found.
 
+
+
+
+
+
+
 Interactions paradoxales (IP) : lorsque des acteurs rationnels aboutissent systématiquement à des résultats collectivement irrationnels – non pas à cause d'une défaillance, mais en raison de la structure.
 
 Tout le monde est coupable. Personne n'y est pour rien.
+
+
+
+
+
+
 
 Peter Senner Thinking beyond the Tellerrand
 
