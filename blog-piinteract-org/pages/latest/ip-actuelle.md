@@ -34,7 +34,7 @@ Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pou
 
 8 avril 2026
 
-In 1887, Henri Poincaré sat down to solve a problem that had defeated Newton. Three bodies in gravitational interaction. Simple rules. Simple actors. He proved something that nobody wanted to hear: there is no general solution. The ...
+En 1887, Henri Poincaré s’est attelé à résoudre un problème qui avait donné du fil à retordre à Newton. Trois corps en interaction gravitationnelle. Des règles simples. Des acteurs simples. Il a démontré une chose que personne ne ...
 
 Read More
 
