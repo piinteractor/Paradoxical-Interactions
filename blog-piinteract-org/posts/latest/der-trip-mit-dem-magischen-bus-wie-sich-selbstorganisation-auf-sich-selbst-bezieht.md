@@ -1,7 +1,7 @@
 ---
 title: "Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht."
 date: 2026-03-24T09:20:34
-modified: 2026-03-31T04:42:23
+modified: 2026-04-09T11:12:36
 slug: der-trip-mit-dem-magischen-bus-wie-sich-selbstorganisation-auf-sich-selbst-bezieht
 lang: de
 type: post
@@ -128,7 +128,7 @@ Das ist kein Problem schlechter Wissenschaft oder unzureichender Daten. Es ist k
 
 Jeder Akt der Selbstreferenz verändert, worauf verwiesen wird. Das System, das sich selbst beschreibt, ist nicht dasselbe System, das es vor der Beschreibung war. Das neue System erfordert nun eine neue Beschreibung. Die das System wieder verändert. Das ist kein Prozess, der konvergiert. Es ist ein Prozess, der weitergeht.
 
-Die Stare können nicht über ihre Murmuration nachdenken, ohne aufzuhören zu murmeln. Das ist ihre strukturelle Gnade: Sie sind von der Referenzschleife verschont. Sie bleiben im Wunder.
+Die Stare können nicht über ihre Schwarmbildung nachdenken, ohne aufzuhören zu schwärmen. Das ist ihre strukturelle Gnade: Sie sind von der Referenzschleife verschont. Sie bleiben im Wunder.
 
 Wir sind nicht verschont. Wir können über unsere Murmurations nachdenken. Wir können sie benennen, modellieren, theoretisieren, darüber publizieren, sie lehren, die Lehre institutionalisieren, Bürokratien um die Institutionalisierung herum aufbauen, die Bürokratisierung theoretisieren, darüber publizieren, sie lehren —
 
