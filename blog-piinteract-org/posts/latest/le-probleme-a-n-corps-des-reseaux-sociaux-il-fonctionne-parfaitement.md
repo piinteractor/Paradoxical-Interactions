@@ -1,7 +1,7 @@
 ---
 title: "Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pour Ce qu’il N’était Jamais Censé Faire."
 date: 2026-04-08T13:16:45
-modified: 2026-04-08T13:16:45
+modified: 2026-04-10T06:19:41
 slug: le-probleme-a-n-corps-des-reseaux-sociaux-il-fonctionne-parfaitement
 lang: fr
 type: post
