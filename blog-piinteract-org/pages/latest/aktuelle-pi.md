@@ -87,6 +87,16 @@ Habermas hat jahrzehntelang dafür gestritten, dass rationale Diskurse — das k
 
 Read More
 
+Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
+
+7. März 2026
+
+Es ist eine Geburtstagsfeier, die niemals endet.
+Es gibt immer irgendwo einen Kuchen, immer einen Strand, immer eine Beförderung, immer jemanden mit besserem Licht und schöneren Zähnen.
+Du öffnest die App um 23:17 Uhr in einer ...
+
+Read More
+
 Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
 
 23. Februar 2026
