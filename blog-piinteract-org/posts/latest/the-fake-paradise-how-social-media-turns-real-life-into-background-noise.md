@@ -1,7 +1,7 @@
 ---
 title: "The Fake Paradise. How Social Media Turns Real Life into Background Noise."
 date: 2026-03-07T10:00:56
-modified: 2026-03-30T10:08:53
+modified: 2026-04-17T20:37:13
 slug: the-fake-paradise-how-social-media-turns-real-life-into-background-noise
 lang: en
 type: post
@@ -29,7 +29,7 @@ You don't have sufficient permissions to access this content.
 
 “We live in a world where we have to hide to make love, while violence is practiced in broad daylight.”
 
- — John Lennon
+— John Lennon
 
 
 
