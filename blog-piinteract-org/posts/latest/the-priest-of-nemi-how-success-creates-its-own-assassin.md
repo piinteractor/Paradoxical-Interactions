@@ -1,7 +1,7 @@
 ---
 title: "The Priest of Nemi: How Success Creates Its Own Assassin"
 date: 2026-01-26T17:25:56
-modified: 2026-04-03T06:14:27
+modified: 2026-04-17T22:01:29
 slug: the-priest-of-nemi-how-success-creates-its-own-assassin
 lang: en
 type: post
@@ -12,15 +12,33 @@ url: https://blog.piinteract.org/the-priest-of-nemi-how-success-creates-its-own-
 
 Win the position. Guarantee your death. Repeat forever.
 
+
+
+
+
+
+
 "The priest who slew the slayer, and shall himself be slain."
 
 — James George Frazer, The Golden Bough
+
+
+
+
+
+
 
 The Setup
 
 Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and the certainty that success breeds your assassin.
 
 Sounds archaic? Look at tech disruption, nuclear states, authoritarian succession, or academic gatekeeping. Same structure. Different swords. The pattern hasn't disappeared. It's just wearing a suit.
+
+
+
+
+
+
 
 The Mechanics
 
@@ -54,6 +72,12 @@ The cycle continues.
 
 Winner becomes priest. Pattern repeats. Forever.
 
+
+
+
+
+
+
 Why It's a PI
 
 Locally rational, globally insane.
@@ -70,6 +94,12 @@ All are guilty. None are at fault.
 
 The first priest? Maybe he was power-hungry. But by generation three, everyone's in self-defense. The structure reproduces through its victims.
 
+
+
+
+
+
+
 The Cruel Logic
 
 Paranoia isn't a bug. It's the winning strategy.
@@ -81,6 +111,12 @@ The structure selects for violence. Not because people are violent. Because the 
 Success breeds the conditions for failure.
 
 Winning the position guarantees you'll lose it the same way you won it.
+
+
+
+
+
+
 
 Modern Equivalents
 
@@ -126,6 +162,12 @@ PhD survives exploitation. Gets tenure. Now defends the system that nearly broke
 
 Pattern: Success as gatekeeping. The gauntlet becomes the guard.
 
+
+
+
+
+
+
 Structural Properties
 
 All share:
@@ -154,6 +196,12 @@ Self-perpetuation
 
 Survivors defend the system. Because it worked for them. Once.
 
+
+
+
+
+
+
 Why You Can't Just Walk Away
 
 Because leaving looks like plotting.
@@ -167,6 +215,12 @@ Modern equivalent:
 Try leaving a zero-sum competition gracefully. Your competitors assume you're repositioning. Your allies assume betrayal. The market assumes weakness.
 
 The structure interprets "I'm stepping back" as "I'm planning something worse."
+
+
+
+
+
+
 
 Why Awareness Doesn't Help
 
@@ -186,6 +240,12 @@ Awareness doesn't break structure. It just makes the entrapment conscious.
 
 That's worse, not better.
 
+
+
+
+
+
+
 What Actually Changes the Pattern
 
 External intervention that removes the incentive structure.
@@ -197,6 +257,12 @@ When Rome expanded, the grove lost relevance. Power shifted elsewhere. No one ca
 The structure broke because the stakes disappeared.
 
 Not because someone woke up and chose differently.
+
+
+
+
+
+
 
 Navigation Principles
 
@@ -234,6 +300,12 @@ The priest isn't evil. The passerby isn't innocent. The structure is.
 
 Understanding that won't save you. But it might stop you from wasting energy on blame.
 
+
+
+
+
+
+
 The Modern Trap
 
 We think we've evolved past this. Ancient Rome, savage rituals, primitive violence.
@@ -259,6 +331,12 @@ Prevention requires preemption.
 Everyone acts in self-defense.
 
 The cycle continues.
+
+
+
+
+
+
 
 Why This Matters for PI
 
@@ -288,6 +366,12 @@ You'll find Nemi.
 
 Maybe not with literal swords. But the pattern holds.
 
+
+
+
+
+
+
 The Question You Should Ask
 
 "Am I the priest, the passerby, or the observer?"
@@ -304,11 +388,23 @@ All three are trapped. Just differently.
 
 The observer thinks they're safe until they need something from the grove.
 
+
+
+
+
+
+
 All are guilty. None are at fault.
 
 Even the priest. Especially the priest.
 
 The priest has to die, the structure survives.
+
+
+
+
+
+
 
 See also:
 
@@ -319,5 +415,11 @@ Success as Gatekeeping — The gauntlet becomes the guard
 Nuclear Deterrence as PI — Mutual Assured Destruction at scale
 
 Framework — Why structures beat intentions
+
+
+
+
+
+
 
 This analysis emerged through collaboration with Claude (Anthropic). Make of that what you will.
