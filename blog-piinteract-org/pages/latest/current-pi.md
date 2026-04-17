@@ -30,6 +30,15 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
+The Messenger PI. When the message calls for the messenger’s destruction.
+
+17. April 2026
+
+A new account. Two posts. Topic: structural patterns in social systems. The account is suspended within hours. The platform cites authenticity guidelines. No appeal is necessary. The structure has already demonstrated itself.
+That is ...
+
+Read More
+
 The N-Body Problem of Social Media. It Works Perfectly — for What It Was Never Meant to Do.
 
 8. April 2026
