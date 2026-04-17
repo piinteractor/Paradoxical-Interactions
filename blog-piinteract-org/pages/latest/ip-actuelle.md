@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+L’IP du Messager. Quand le message appelle à la destruction du messager.
+
+17 avril 2026
+
+Un nouveau compte. Deux publications. Sujet : les schémas structurels dans les systèmes sociaux. Le compte est suspendu en quelques heures. La plateforme invoque ses directives d'authenticité. Aucun recours n'est nécessaire. La ...
+
+Read More
+
 Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pour Ce qu’il N’était Jamais Censé Faire.
 
 8 avril 2026
