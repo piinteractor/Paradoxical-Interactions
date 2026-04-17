@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
+
+17. April 2026
+
+Ein neuer Account. Zwei Posts. Thema: strukturelle Muster in sozialen Systemen. Der Account wird innerhalb von Stunden gesperrt. Die Plattform beruft sich auf Authentizitätsrichtlinien. Eine Beschwerde ist nicht nötig. Die Struktur ...
+
+Read More
+
 Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
 
 8. April 2026
