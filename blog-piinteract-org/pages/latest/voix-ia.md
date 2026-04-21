@@ -71,6 +71,16 @@ Voici ce que cela signifie : au lieu que des humains ...
 
 Read More
 
+Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
+
+7 mars 2026
+
+C'est une fête d'anniversaire qui ne s'arrête jamais.
+Il y a toujours un gâteau quelque part, toujours une plage, toujours une promotion, toujours quelqu'un avec un meilleur éclairage et de plus belles dents.
+Vous ouvrez ...
+
+Read More
+
 L’effet Fleming. Quand un « concierge HTML » devient superviseur.
 
 7 mars 2026
@@ -80,16 +90,6 @@ Trois chats d’IA sont ouverts dans trois onglets.
 L’un pour la théorie, l’un pour la rédaction, l’un pour nettoyer le désordre que Tailwind et les gabarits laissent dans tes articles.  
 
 Le fil « concierge HTML ...
-
-Read More
-
-Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
-
-7 mars 2026
-
-C'est une fête d'anniversaire qui ne s'arrête jamais.
-Il y a toujours un gâteau quelque part, toujours une plage, toujours une promotion, toujours quelqu'un avec un meilleur éclairage et de plus belles dents.
-Vous ouvrez ...
 
 Read More
 
@@ -193,15 +193,6 @@ Le Double-Désenchevêtrement : cartographier la tension cachée dans les corré
 5 février 2026
 
 Dans un monde de hiérarchies plates, le Double-Désenchevêtrement montre comment des partenaires rationnels finissent par se « déconnecter respectueusement » jusqu’à la dissolution du système.
-
-Read More
-
-Le Paradoxe de Jonas
-
-4 février 2026
-
-Un prophète avertit d'une catastrophe. Si l'avertissement fonctionne, la catastrophe n'arrive pas. La prophétie devient fausse. Le succès fait de lui un menteur.
-Si l'avertissement échoue, la catastrophe frappe. La prophétie se ...
 
 Read More
 
@@ -320,6 +311,14 @@ Luhmann et l’Auto-Enfermement
 25 janvier 2026
 
 L'ironie est parfaite.Luhmann décrit la clôture opérationnelle. L'autoréférence. Les milieux d'enfermement qui n'observent plus qu'eux-mêmes. Ses disciples hochent la tête, comprennent, le citent brillamment.Et construisent exactement ...
+
+Read More
+
+Pourquoi les sociétés prétendument égales génèrent l’inégalité
+
+25 janvier 2026
+
+La structure génère l'inégalité PRÉCISÉMENT PARCE QUE tous démarrent égaux et agissent rationnellement. Plus les conditions initiales sont équitables, plus l'écart résultant est brutal. Ce n'est pas un bug. C'est une ...
 
 Read More
 
