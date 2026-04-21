@@ -220,15 +220,6 @@ Der Double-Unbind zeigt, wie gleichrangige Partner in flachen Hierarchien durch 
 
 Read More
 
-Das Jona-Paradoxon
-
-4. Februar 2026
-
-Ein Prophet warnt vor der Katastrophe. Wenn die Warnung wirkt, tritt die Katastrophe nicht ein. Die Prophezeiung erfüllt sich nicht. Der Erfolg macht ihn zum Lügner.
-Wenn die Warnung nicht wirkt, tritt die Katastrophe ein. Die ...
-
-Read More
-
 Wenn der Protest die Schwäche offenbart
 
 3. Februar 2026
@@ -320,6 +311,14 @@ Das Kassandra Paradox
 
 Apollo schenkt Cassandra die Gabe der Prophezeiung. Sie weist ihn zurück. Er verflucht sie: Sie wird die Wahrheit sagen, aber niemand wird ihr glauben. Sie warnt Troja vor dem hölzernen Pferd. Troja brennt trotzdem.
 Ende der ...
+
+Read More
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+26. Januar 2026
+
+Das antike Rom hatte eine Priester-Stelle mit ungewöhnlichen Anforderungen: Töte deinen Vorgänger, um eingestellt zu werden. Verbringe dann jeden Tag im Wissen, dass dich jemand auf dieselbe Weise töten wird. Kein Ruhestand. Kein ...
 
 Read More
 
