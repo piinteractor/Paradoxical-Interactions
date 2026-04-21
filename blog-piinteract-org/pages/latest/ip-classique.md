@@ -32,6 +32,15 @@ Tous sont coupables. Aucun n’est en faute.
 
 Article connexes
 
+Le Paradoxe de Jonas
+
+4 février 2026
+
+Un prophète avertit d'une catastrophe. Si l'avertissement fonctionne, la catastrophe n'arrive pas. La prophétie devient fausse. Le succès fait de lui un menteur.
+Si l'avertissement échoue, la catastrophe frappe. La prophétie se ...
+
+Read More
+
 Bornéité plutôt que sagesse – l’IP du philosophe
 
 28 janvier 2026
