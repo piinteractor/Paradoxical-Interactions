@@ -60,6 +60,14 @@ This isn't personal weakness. ...
 
 Read More
 
+The Priest of Nemi: How Success Creates Its Own Assassin
+
+26. January 2026
+
+Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and ...
+
+Read More
+
 No results found.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
