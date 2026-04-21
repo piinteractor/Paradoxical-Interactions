@@ -1,7 +1,7 @@
 ---
 title: "IP historique"
 date: 2026-01-21T20:02:38
-modified: 2026-04-02T14:43:50
+modified: 2026-04-21T19:49:30
 slug: ip-historique
 lang: fr
 type: page
@@ -38,7 +38,7 @@ La PI de la Réforme. Plus la séparation est brutale, plus la connexion est sol
 
 Wittenberg, 1517. Martin Luther cloue 95 thèses à la porte d'une église. L'argument : l'Église vend ce qu'elle ne possède pas. La grâce n'est pas une marchandise. Dieu n'est pas une franchise. Le diagnostic est juste. La structure ...
 
-Read More
+En savoir plus
 
 Le Schéma Gaveston :
 
@@ -46,7 +46,7 @@ Le Schéma Gaveston :
 
 Angleterre, 1312. Un favori est assassiné. Un roi se venge. Une reine envahit le pays. Un fils s'empare du pouvoir. Sept cents ans plus tard, la même structure se reproduit chaque semaine dans des organisations, des gouvernements et ...
 
-Read More
+En savoir plus
 
 L’économie de la justice
 
@@ -57,6 +57,6 @@ La réalité n'offre que la sélection.
 Lorsque des millions de personnes commettent des crimes, la question n'est plus de savoir qui est coupable —
 mais ce que le système est capable de traiter.
 
-Read More
+En savoir plus
 
 No results found.
