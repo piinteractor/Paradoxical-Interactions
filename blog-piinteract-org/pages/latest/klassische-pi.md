@@ -1,7 +1,7 @@
 ---
 title: "Klassische PI"
 date: 2026-03-18T16:53:01
-modified: 2026-04-21T17:54:06
+modified: 2026-04-21T19:31:05
 slug: klassische-pi
 lang: de
 type: page
@@ -39,7 +39,7 @@ Das Jona-Paradoxon
 Ein Prophet warnt vor der Katastrophe. Wenn die Warnung wirkt, tritt die Katastrophe nicht ein. Die Prophezeiung erfüllt sich nicht. Der Erfolg macht ihn zum Lügner.
 Wenn die Warnung nicht wirkt, tritt die Katastrophe ein. Die ...
 
-Read More
+Mehr erfahren
 
 Borniertheit statt Weisheit – Die PI des Philosophen
 
@@ -49,7 +49,7 @@ Richard David Precht beklagt die Schere im Kopf. Er warnt vor verengten Meinungs
 Dabei verkörpert er genau die Struktur, die er kritisiert. Nur sieht er es nicht.
 Das ist keine persönliche ...
 
-Read More
+Mehr erfahren
 
 Das Propheten-Paradox
 
@@ -58,7 +58,15 @@ Das Propheten-Paradox
 Der Fremde mit Referenzen wird gehört. Der Freund oder Verwandte, der das Muster kennt, wird abgetan.
 Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet ungetestet. Ungetestet kann falsch liegen – aber könnte ...
 
-Read More
+Mehr erfahren
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+26. Januar 2026
+
+Das antike Rom hatte eine Priester-Stelle mit ungewöhnlichen Anforderungen: Töte deinen Vorgänger, um eingestellt zu werden. Verbringe dann jeden Tag im Wissen, dass dich jemand auf dieselbe Weise töten wird. Kein Ruhestand. Kein ...
+
+Mehr erfahren
 
 No results found.
 
@@ -73,6 +81,14 @@ contact@piinteract.org
 https://piinteract.org
 
 Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+26. Januar 2026
+
+Das antike Rom hatte eine Priester-Stelle mit ungewöhnlichen Anforderungen: Töte deinen Vorgänger, um eingestellt zu werden. Verbringe dann jeden Tag im Wissen, dass dich jemand auf dieselbe Weise töten wird. Kein Ruhestand. Kein ...
+
+Weiterlesen
 
 Borniertheit statt Weisheit – Die PI des Philosophen
 
