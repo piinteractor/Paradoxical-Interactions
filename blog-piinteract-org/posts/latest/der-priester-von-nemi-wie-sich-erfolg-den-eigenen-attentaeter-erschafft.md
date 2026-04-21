@@ -1,7 +1,7 @@
 ---
 title: "Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft"
 date: 2026-01-26T17:25:56
-modified: 2026-04-03T06:19:48
+modified: 2026-04-21T19:14:55
 slug: der-priester-von-nemi-wie-sich-erfolg-den-eigenen-attentaeter-erschafft
 lang: de
 type: post
