@@ -1,7 +1,7 @@
 ---
 title: "The Jonah Paradox"
 date: 2026-02-04T07:00:56
-modified: 2026-04-03T03:04:26
+modified: 2026-04-21T18:45:44
 slug: the-jonah-paradox
 lang: en
 type: post
