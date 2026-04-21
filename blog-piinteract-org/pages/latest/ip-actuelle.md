@@ -1,7 +1,7 @@
 ---
 title: "IP Actuelle"
 date: 2026-03-18T16:53:03
-modified: 2026-04-03T06:00:14
+modified: 2026-04-21T19:52:21
 slug: ip-actuelle
 lang: fr
 type: page
@@ -36,7 +36,7 @@ L’IP du Messager. Quand le message appelle à la destruction du messager.
 
 Un nouveau compte. Deux publications. Sujet : les schémas structurels dans les systèmes sociaux. Le compte est suspendu en quelques heures. La plateforme invoque ses directives d'authenticité. Aucun recours n'est nécessaire. La ...
 
-Read More
+En savoir plus
 
 Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pour Ce qu’il N’était Jamais Censé Faire.
 
@@ -44,7 +44,7 @@ Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pou
 
 En 1887, Henri Poincaré s’est attelé à résoudre un problème qui avait donné du fil à retordre à Newton. Trois corps en interaction gravitationnelle. Des règles simples. Des acteurs simples. Il a démontré une chose que personne ne ...
 
-Read More
+En savoir plus
 
 La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent.
 
@@ -52,7 +52,7 @@ La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résul
 
 L'encre de la loi sur les prix du carburant était à peine sèche. Une seule hausse de prix par jour, à midi, sans exception. La logique était claire : limiter le chaos des fluctuations horaires, forcer la transparence, protéger les ...
 
-Read More
+En savoir plus
 
 L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
 
@@ -60,7 +60,7 @@ L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un 
 
 Allemagne. 1er avril 2026. Les prix du carburant atteignent leur niveau le plus élevé depuis la crise énergétique de 2022. Super E10 : 2,08 € le litre. Diesel : 2,28 €. La cause — une guerre en Iran, le blocus du détroit d'Ormuz, le ...
 
-Read More
+En savoir plus
 
 Le Paradoxe Medvi. Quand le système fonctionne parfaitement — et c’est justement le problème.
 
@@ -68,7 +68,7 @@ Le Paradoxe Medvi. Quand le système fonctionne parfaitement — et c’est just
 
 Matthew Gallagher et son frère Elliot ont fondé Medvi en 2024 avec 20 000 dollars. À la fin de l'année 2025, ils affichaient un chiffre d'affaires annuel de 401 millions de dollars, comptaient 250 000 clients et enregistraient une ...
 
-Read More
+En savoir plus
 
 La Dé-paradoxation de la Dé-paradoxation.
 
@@ -78,7 +78,7 @@ Niklas Luhmann et Heinz von Foerster étaient contemporains. Tous deux travailla
 Ils sont parvenus à des réponses opposées.
 Von Foerster disait : ...
 
-Read More
+En savoir plus
 
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
@@ -88,7 +88,7 @@ La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 « Habermas avait souvent tort. Aujourd'hui il a raison. »
 Un tweet. Neuf mots. Publié quelques heures après la mort de Jürgen Habermas, le 15 mars 2026, à l'âge de 94 ...
 
-Read More
+En savoir plus
 
 Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
 
@@ -98,7 +98,7 @@ C'est une fête d'anniversaire qui ne s'arrête jamais.
 Il y a toujours un gâteau quelque part, toujours une plage, toujours une promotion, toujours quelqu'un avec un meilleur éclairage et de plus belles dents.
 Vous ouvrez ...
 
-Read More
+En savoir plus
 
 Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meilleure idée
 
@@ -107,7 +107,7 @@ Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meil
 On demande à Sam Altman ce qu'un fondateur devrait faire s'il a une idée mais ne veut pas en parler par peur qu'une grande entreprise la vole.
 Sa réponse : Ne vous inquiétez pas. Personne ne s'en soucie.
 
-Read More
+En savoir plus
 
 L’Univers qui ne devrait pas exister
 
@@ -116,7 +116,7 @@ L’Univers qui ne devrait pas exister
 Celui-ci est différent.
 La Matière Noire est une IP sur la recherche de quelque chose qui n'est peut-être pas là. Le graviton est une IP sur la construction d'une théorie autour de quelque chose qu'on ne peut pas tester. Les deux ...
 
-Read More
+En savoir plus
 
 Pourquoi les Philosophes sont Dangereux
 
@@ -124,7 +124,7 @@ Pourquoi les Philosophes sont Dangereux
 
 Karp a étudié Habermas et construit Palantir. Thiel a étudié Girard et reconfiguré la politique américaine. Macron a étudié Ricœur et gouverné par l'accommodation. Strauss a enseigné la philosophie et ses étudiants ont construit la ...
 
-Read More
+En savoir plus
 
 L’IP de Peter Thiel
 
@@ -132,7 +132,7 @@ L’IP de Peter Thiel
 
 Peter Thiel a écrit un livre expliquant pourquoi il ne faut pas être en compétition. Puis il a fait compétition — plus durement que presque tous les autres. PayPal, Palantir, Facebook, Founders Fund, Vance au pouvoir, Trump de ...
 
-Read More
+En savoir plus
 
 Le Quiz qui ne Finit Jamais
 
@@ -140,7 +140,7 @@ Le Quiz qui ne Finit Jamais
 
 90% suivent les règles. 9% les brisent et les redéfinissent. 1% voient le schéma mais ne peuvent pas se coordonner. Tout le monde attend que le Quizmaster le résolve. Il ne vient pas. Il est parti avec l'argent du prix. Et le système ...
 
-Read More
+En savoir plus
 
 « Le pouvoir évolue plus rapidement que l’alignement »
 
@@ -149,7 +149,7 @@ Read More
 Dario Amodei, PDG d'Anthropic, vient de le dire tout haut : l'IA n'est pas programmée. Elle est cultivée. Et à mesure que la capacité augmente, le contrôle devient moins visible. Le pouvoir évolue plus vite que l'alignement.
 Ce n'est ...
 
-Read More
+En savoir plus
 
 Déserrorer la Pratique
 
@@ -157,15 +157,7 @@ Déserrorer la Pratique
 
 Les meilleures pratiques promettent des résultats sans erreur. Elles livrent des systèmes défaillants qui ne peuvent pas naviguer leurs défauts. Et si les erreurs n'étaient pas le problème, mais la solution ? Un voyage vers Caïn, Abel ...
 
-Read More
-
-Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
-
-26 janvier 2026
-
-La Rome antique avait un poste de prêtre aux exigences inhabituelles : tuer ton prédécesseur pour être embauché. Passer ensuite chaque jour sachant que quelqu'un te tuera de la même manière. Pas de retraite. Pas de transition ...
-
-Read More
+En savoir plus
 
 Le Piège de l’Intelligence
 
@@ -175,7 +167,7 @@ L'intelligence supérieure réagit à une intelligence encore plus supérieure c
 C'est pourquoi seule l'intelligence qui correspond à sa propre intelligence se transmet.
 C'est la structure. Personne ...
 
-Read More
+En savoir plus
 
 Luhmann et l’Auto-Enfermement
 
@@ -183,7 +175,7 @@ Luhmann et l’Auto-Enfermement
 
 L'ironie est parfaite.Luhmann décrit la clôture opérationnelle. L'autoréférence. Les milieux d'enfermement qui n'observent plus qu'eux-mêmes. Ses disciples hochent la tête, comprennent, le citent brillamment.Et construisent exactement ...
 
-Read More
+En savoir plus
 
 Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
@@ -191,7 +183,7 @@ Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
 La structure génère l'inégalité PRÉCISÉMENT PARCE QUE tous démarrent égaux et agissent rationnellement. Plus les conditions initiales sont équitables, plus l'écart résultant est brutal. Ce n'est pas un bug. C'est une ...
 
-Read More
+En savoir plus
 
 Détournement Terminologique: Le Crime, L’Aveu, Le « Et Alors? »
 
@@ -202,7 +194,7 @@ Cherchez sur Google « paradoxe Interaktion » (interaction paradoxale).
 Ce que vous obtenez: Paradoxe Intervention (intervention paradoxale). Psychothérapie. Prescription du symptôme. Technique thérapeutique.
 Pas la même ...
 
-Read More
+En savoir plus
 
 Davos : 2026 – Quand l’inévitabilité devient produit
 
@@ -210,7 +202,7 @@ Davos : 2026 – Quand l’inévitabilité devient produit
 
 Le 20 janvier 2026, au Forum économique mondial de Davos, Larry Fink, PDG de BlackRock, et Alex Karp, PDG de Palantir, ont eu une conversation. Les réseaux sociaux l'ont qualifiée de "légendaire" et ont prédit qu'elle "figurerait un ...
 
-Read More
+En savoir plus
 
 IH IA Sycophantie vs. IH IH Chambres d’écho
 
@@ -218,6 +210,6 @@ IH IA Sycophantie vs. IH IH Chambres d’écho
 
 HI  AI Sycophancy : Le paradoxe : l'utilisateur veut de l'honnêteté, mais récompense l'adhésion (par des commentaires positifs). L'IA apprend que « utile = agréable » au lieu de « utile = correct ». Pas de tromperie active, mais une ...
 
-Read More
+En savoir plus
 
 No results found.
