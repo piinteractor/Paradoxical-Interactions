@@ -1,7 +1,7 @@
 ---
 title: "IP classique"
 date: 2026-03-18T16:53:01
-modified: 2026-04-21T17:56:42
+modified: 2026-04-21T19:47:37
 slug: ip-classique
 lang: fr
 type: page
@@ -39,7 +39,7 @@ Le Paradoxe de Jonas
 Un prophète avertit d'une catastrophe. Si l'avertissement fonctionne, la catastrophe n'arrive pas. La prophétie devient fausse. Le succès fait de lui un menteur.
 Si l'avertissement échoue, la catastrophe frappe. La prophétie se ...
 
-Read More
+En savoir plus
 
 Bornéité plutôt que sagesse – l’IP du philosophe
 
@@ -48,7 +48,7 @@ Bornéité plutôt que sagesse – l’IP du philosophe
 Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
 Pourtant, il incarne la structure même qu'il critique. Il ne le voit simplement ...
 
-Read More
+En savoir plus
 
 Le Paradoxe du Prophète
 
@@ -57,7 +57,15 @@ Le Paradoxe du Prophète
 L'étranger avec des références est entendu. L'ami ou le parent qui connaît le schéma est écarté.
 Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont inconnus. Inconnu signifie non testé. Non testé peut se ...
 
-Read More
+En savoir plus
+
+Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
+
+26 janvier 2026
+
+La Rome antique avait un poste de prêtre aux exigences inhabituelles : tuer ton prédécesseur pour être embauché. Passer ensuite chaque jour sachant que quelqu'un te tuera de la même manière. Pas de retraite. Pas de transition ...
+
+En savoir plus
 
 No results found.
 
