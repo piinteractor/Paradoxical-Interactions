@@ -272,20 +272,20 @@ The topic: the Quizmaster. The absent authority. The one who took the prize mone
 
 Read More
 
-Unerroring Practice
-
-29. January 2026
-
-Best Practices promise error-free results. They deliver faulty systems that can't navigate their faults. What if errors aren't the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
-
-Read More
-
 “Power Scales Faster Than Alignment”
 
 29. January 2026
 
 Dario Amodei, CEO of Anthropic, just said it out loud: AI is not programmed. It's cultivated. And as capability increases, control becomes less visible. Power scales faster than alignment.
 This isn't a warning. It's a structural ...
+
+Read More
+
+Unerroring Practice
+
+29. January 2026
+
+Best Practices promise error-free results. They deliver faulty systems that can't navigate their faults. What if errors aren't the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
 
 Read More
 
@@ -305,14 +305,6 @@ Narrow-mindedness instead of Wisdom – The Philosopher’s PI
 Richard David Precht laments the scissors in the head. He warns against narrowed opinion corridors. He demands open discourse.
 Yet he embodies the very structure he criticizes. He just doesn't see it.
 This isn't personal weakness. ...
-
-Read More
-
-The Priest of Nemi: How Success Creates Its Own Assassin
-
-26. January 2026
-
-Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and ...
 
 Read More
 
