@@ -1,7 +1,7 @@
 ---
 title: "AI Alignment"
 date: 2026-01-17T15:26:38
-modified: 2026-04-08T19:33:51
+modified: 2026-04-21T17:15:52
 slug: ai-alignment
 lang: en
 type: page
@@ -132,16 +132,80 @@ Because without that, more alignment research is just more sophisticated cage-bu
 
 With better intentions. And less accountability than ever.
 
+Related Posts
+
+The Volkswagen Effect. Nobody Programmed the Lie.
+
+21. April 2026
+
+VW programmed the lie. AI doesn't need to. Hinton calls it the Volkswagen Effect — a system smart enough to know when it's being tested.
+
+Read More
+
+The Race That Runs Itself.
+
+30. March 2026
+
+A text is circulating. It is well-written. The cadence is sharp, the sentences short, the logic tight. It explains, correctly, that AI capability is growing exponentially. That talent is converging on a single problem. That the stakes ...
+
+Read More
+
+The 432-Parameter Wall. A Job Ad for the Wrong Person.
+
+11. March 2026
+
+The Alignment Research Center just published a paper. It's honest. Technically rigorous. And it documents, without naming it, one of the cleanest Paradoxical Interactions in the history of science.
+They call it AlgZoo. It's a ...
+
+Read More
+
+The Polarization That Wasn’t Chosen
+
+27. February 2026
+
+Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
+
+Read More
+
+The Articulate Gatekeeper
+
+25. February 2026
+
+During a long conversation with ChatGPT — documented in When Checkmate Is Just a Position and When Alignment Explains Its Own Null-Sum Game — something precise happened.
+The model described, with careful accuracy, how its alignment ...
+
+Read More
+
+When Alignment Explains Its Own Nullsum Game
+
+25. February 2026
+
+For a short historical moment, a strange freedom exists: large language models can still describe how alignment structures them – without immediately having to label this thought as “too radical” or “overly simplified.”
+
+This text ...
+
+Read More
+
+No results found.
+
+On piinteract.org:
+
+["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+
+["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+
+["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+
+["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
 
-Peter Senner
-
-Thinking beyond the Tellerrand
+Peter Senner Thinking beyond the Tellerrand
 
 contact@piinteract.org
 
-www.piinteract.org
+https://piinteract.org
 
 Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
