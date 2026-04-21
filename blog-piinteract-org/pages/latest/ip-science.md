@@ -1,7 +1,7 @@
 ---
 title: "IP Science"
 date: 2026-03-18T16:53:03
-modified: 2026-03-18T17:26:41
+modified: 2026-04-21T19:53:30
 slug: ip-science
 lang: fr
 type: page
@@ -40,7 +40,7 @@ Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes
 
 L'auto-organisation est le grand espoir de la théorie de la complexité. Pas d'autorité centrale. Pas de plan directeur. Des acteurs locaux, des règles locales, un ordre émergent. Le marché. Le cerveau. L'essaim d'étourneaux. La ville ...
 
-Read More
+En savoir plus
 
 Synchronisation des métronomes. L’axiome physique de PI.
 
@@ -48,7 +48,7 @@ Synchronisation des métronomes. L’axiome physique de PI.
 
 Imaginez une rangée de métronomes mécaniques identiques. Vous les mettez en marche un par un. Ils forment un spectacle chaotique, un désordre mimétique. Chacun est un acteur souverain, battant à son propre rythme unique et frénétique. ...
 
-Read More
+En savoir plus
 
 Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meilleure idée
 
@@ -57,7 +57,7 @@ Le Paradoxe de la Pertinence : Pourquoi personne ne s’intéresse à votre meil
 On demande à Sam Altman ce qu'un fondateur devrait faire s'il a une idée mais ne veut pas en parler par peur qu'une grande entreprise la vole.
 Sa réponse : Ne vous inquiétez pas. Personne ne s'en soucie.
 
-Read More
+En savoir plus
 
 L’Univers qui ne devrait pas exister
 
@@ -66,7 +66,7 @@ L’Univers qui ne devrait pas exister
 Celui-ci est différent.
 La Matière Noire est une IP sur la recherche de quelque chose qui n'est peut-être pas là. Le graviton est une IP sur la construction d'une théorie autour de quelque chose qu'on ne peut pas tester. Les deux ...
 
-Read More
+En savoir plus
 
 Trois particules entrent dans une structure
 
@@ -76,6 +76,6 @@ Ceci est l'histoire de trois choses que personne n'a jamais tenues dans sa main.
 L'une d'elles fonctionne. Les deux autres ont bâti des empires sur la promesse qu'elles pourraient, un jour, éventuellement, fonctionner aussi.
 La ...
 
-Read More
+En savoir plus
 
 No results found.
