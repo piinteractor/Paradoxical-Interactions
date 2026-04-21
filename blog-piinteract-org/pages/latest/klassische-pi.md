@@ -1,7 +1,7 @@
 ---
 title: "Klassische PI"
 date: 2026-03-18T16:53:01
-modified: 2026-03-20T19:01:36
+modified: 2026-04-21T17:54:06
 slug: klassische-pi
 lang: de
 type: page
@@ -29,6 +29,41 @@ Das sind keine Moralgeschichten. Es sind Feldbeobachtungen. Die Griechen hatten 
 Die Strukturen waren bereits da. Die Mythologie hat sie nur als Erstes benannt.
 
 Alle sind schuldig. Keiner kann was dafür
+
+Verwandte Beiträge
+
+Borniertheit statt Weisheit – Die PI des Philosophen
+
+28. Januar 2026
+
+Richard David Precht beklagt die Schere im Kopf. Er warnt vor verengten Meinungskorridoren. Er fordert offenen Diskurs.
+Dabei verkörpert er genau die Struktur, die er kritisiert. Nur sieht er es nicht.
+Das ist keine persönliche ...
+
+Read More
+
+Das Propheten-Paradox
+
+28. Januar 2026
+
+Der Fremde mit Referenzen wird gehört. Der Freund oder Verwandte, der das Muster kennt, wird abgetan.
+Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet ungetestet. Ungetestet kann falsch liegen – aber könnte ...
+
+Read More
+
+No results found.
+
+Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
+
+Alle sind schuldig. Keiner kann etwas dafür.
+
+Peter Senner Thinking beyond the Tellerrand
+
+contact@piinteract.org
+
+https://piinteract.org
+
+Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
 
 Borniertheit statt Weisheit – Die PI des Philosophen
 
