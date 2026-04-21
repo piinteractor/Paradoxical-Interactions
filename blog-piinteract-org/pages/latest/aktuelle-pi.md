@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle PI"
 date: 2026-03-18T16:53:03
-modified: 2026-04-03T06:03:10
+modified: 2026-04-21T19:33:14
 slug: aktuelle-pi
 lang: de
 type: page
@@ -36,7 +36,7 @@ Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
 
 Ein neuer Account. Zwei Posts. Thema: strukturelle Muster in sozialen Systemen. Der Account wird innerhalb von Stunden gesperrt. Die Plattform beruft sich auf Authentizitätsrichtlinien. Eine Beschwerde ist nicht nötig. Die Struktur ...
 
-Read More
+Mehr erfahren
 
 Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
 
@@ -44,7 +44,7 @@ Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwa
 
 Im Jahr 1887 machte sich Henri Poincaré daran, ein Problem zu lösen, an dem sich schon Newton die Zähne ausgebissen hatte. Drei Körper in gravitationsbeeinflusster Wechselwirkung. Einfache Regeln. Einfache Akteure. Er bewies etwas, ...
 
-Read More
+Mehr erfahren
 
 Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
 
@@ -53,7 +53,7 @@ Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer al
 Die Tinte auf dem Tankgesetz war kaum trocken. Eine Preiserhöhung pro Tag, um 12 Uhr, keine Ausnahmen. Die Logik war klar: das Chaos stündlicher Preisschwankungen begrenzen, Transparenz erzwingen, Verbraucher schützen.
 Jetzt wird ...
 
-Read More
+Mehr erfahren
 
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
 
@@ -61,7 +61,7 @@ Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeug
 
 Deutschland. 1. April 2026. Die Kraftstoffpreise haben den höchsten Stand seit der Energiekrise 2022 erreicht. Super E10: 2,08 € pro Liter. Diesel: 2,28 €. Die Ursache — ein Krieg im Iran, die Blockade der Straße von Hormus, Öl bei ...
 
-Read More
+Mehr erfahren
 
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
@@ -69,7 +69,7 @@ Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Pr
 
 Matthew Gallagher und sein Bruder Elliot gründeten Medvi im Jahr 2024 mit 20.000 Dollar. Bis Ende 2025 erzielten sie einen Jahresumsatz von 401 Millionen Dollar, hatten 250.000 Kunden und eine Nettogewinnmarge von 16,2 %. Zwei ...
 
-Read More
+Mehr erfahren
 
 Die Entparadoxierung der Entparadoxierung.
 
@@ -77,7 +77,7 @@ Die Entparadoxierung der Entparadoxierung.
 
 Niklas Luhmann und Heinz von Foerster waren Zeitgenossen. Beide arbeiteten am selben Problem: Wie gehen Systeme mit ihren eigenen Paradoxien um? Sie kamen zu entgegengesetzten Antworten.Von Foerster sagte: Der Beobachter ist innen. Es ...
 
-Read More
+Mehr erfahren
 
 Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
 
@@ -85,7 +85,7 @@ Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
 
 Habermas hat jahrzehntelang dafür gestritten, dass rationale Diskurse — das kommunikative Handeln, wie er es nannte — die Grundlage demokratischer Legitimität sein könnten. Er war provokativ. Er wurde kritisiert. Er wurde ...
 
-Read More
+Mehr erfahren
 
 Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
 
@@ -95,16 +95,7 @@ Es ist eine Geburtstagsfeier, die niemals endet.
 Es gibt immer irgendwo einen Kuchen, immer einen Strand, immer eine Beförderung, immer jemanden mit besserem Licht und schöneren Zähnen.
 Du öffnest die App um 23:17 Uhr in einer ...
 
-Read More
-
-Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
-
-23. Februar 2026
-
-Sam Altman wird gefragt, was ein Gründer tun sollte, der eine Idee hat, aber nicht darüber sprechen will, weil ein großes Unternehmen sie stehlen könnte.
-Seine Antwort: Keine Sorge. Niemand interessiert sich dafür.
-
-Read More
+Mehr erfahren
 
 Die PI der Dunklen Materie
 
@@ -112,7 +103,7 @@ Die PI der Dunklen Materie
 
 Dunkle Materie ist möglicherweise weniger ein fehlendes Teilchen als vielmehr eine strukturelle Falle. Dieser Aufsatz nutzt paradoxe Wechselwirkungen, um zu zeigen, wie Karrieren, Fördermittel und Anreize die Physik auf eine einzige ...
 
-Read More
+Mehr erfahren
 
 Das Universum, das nicht existieren dürfte
 
@@ -121,7 +112,16 @@ Das Universum, das nicht existieren dürfte
 Dieser hier ist anders.
 Dunkle Materie ist eine PI über die Suche nach etwas, das vielleicht nicht da ist. Das Graviton ist eine PI über den Bau von Theorie um etwas, das nicht testbar ist. Beides sind strukturelle Fallen innerhalb ...
 
-Read More
+Mehr erfahren
+
+Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
+
+23. Februar 2026
+
+Sam Altman wird gefragt, was ein Gründer tun sollte, der eine Idee hat, aber nicht darüber sprechen will, weil ein großes Unternehmen sie stehlen könnte.
+Seine Antwort: Keine Sorge. Niemand interessiert sich dafür.
+
+Mehr erfahren
 
 Warum Philosophen gefährlich sind
 
@@ -129,7 +129,7 @@ Warum Philosophen gefährlich sind
 
 Karp studierte Habermas und baute Palantir. Thiel studierte Girard und formte die US-Politik um. Macron studierte Ricœur und regierte durch Anpassung. Strauss lehrte Philosophie und seine Schüler bauten den Irakkrieg. Fünf Fälle, eine ...
 
-Read More
+Mehr erfahren
 
 Die PI des Peter Thiel
 
@@ -138,7 +138,7 @@ Die PI des Peter Thiel
 Peter Thiel hat ein Buch geschrieben, das erklärt, warum man nicht konkurrieren soll. Dann hat er konkurriert — härter als fast alle anderen. PayPal, Palantir, Facebook, Founders Fund, Vance ins Amt, Trump zurück an die Macht.
 Das ...
 
-Read More
+Mehr erfahren
 
 Das Quiz, das niemals endet
 
@@ -146,7 +146,7 @@ Das Quiz, das niemals endet
 
 90% folgen den Regeln. 9% brechen sie und definieren sie neu. 1% erkennen das Muster, können sich aber nicht koordinieren. Alle warten darauf, dass der Quizmaster es auflöst. Er kommt nicht. Er ist mit dem Preisgeld verschwunden. Und ...
 
-Read More
+Mehr erfahren
 
 „Macht wächst schneller als Kontrolle“
 
@@ -155,7 +155,7 @@ Read More
 Dario Amodei, CEO von Anthropic, hat es laut ausgesprochen: KI wird nicht programmiert. Sie wird kultiviert. Und je mehr Fähigkeit entsteht, desto weniger sichtbar wird die Kontrolle. Power scales faster than alignment.
 Das ist keine ...
 
-Read More
+Mehr erfahren
 
 Entfehlerung in der Praxis
 
@@ -163,15 +163,7 @@ Entfehlerung in der Praxis
 
 Best Practices versprechen fehlerfreie Ergebnisse. Sie liefern fehlerhafte Systeme, die ihre Fehler nicht navigieren können. Was wäre, wenn Fehler nicht das Problem sind, sondern die Lösung? Eine Reise zu Kain, Abel und der Frage, ...
 
-Read More
-
-Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
-
-26. Januar 2026
-
-Das antike Rom hatte eine Priester-Stelle mit ungewöhnlichen Anforderungen: Töte deinen Vorgänger, um eingestellt zu werden. Verbringe dann jeden Tag im Wissen, dass dich jemand auf dieselbe Weise töten wird. Kein Ruhestand. Kein ...
-
-Read More
+Mehr erfahren
 
 Die Intelligenz-Falle
 
@@ -179,7 +171,7 @@ Die Intelligenz-Falle
 
 Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
 
-Read More
+Mehr erfahren
 
 Luhmann und der Selbsteinschluss
 
@@ -189,7 +181,7 @@ Die Ironie ist perfekt.
 Luhmann beschreibt operative Geschlossenheit. Selbstreferenz. Einschlussmilieus, die nur noch sich selbst beobachten. Seine Schüler nicken, verstehen, zitieren ihn brillant.
 Und bauen exakt die Struktur nach.
 
-Read More
+Mehr erfahren
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
@@ -198,7 +190,7 @@ Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 Die Struktur erzeugt Ungleichheit GERADE WEIL alle gleich starten und rational agieren. Je fairer die Ausgangsbedingungen, desto brutaler die resultierende Spreizung. Das ist kein Bug. Das ist Feature.
 Willkommen im ...
 
-Read More
+Mehr erfahren
 
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
 
@@ -209,7 +201,7 @@ Suche bei Google nach "paradoxe Interaktion" (paradoxical interaction).
 Was du bekommst: Paradoxe Intervention (paradoxical intervention). Psychotherapie. Symptomverschreibung. Therapeutische Technik.
 Nicht dasselbe. ...
 
-Read More
+Mehr erfahren
 
 Davos: 2026 – Wenn Unvermeidlichkeit zum Produkt wird
 
@@ -217,7 +209,7 @@ Davos: 2026 – Wenn Unvermeidlichkeit zum Produkt wird
 
 Am 20. Januar 2026 fand auf dem Weltwirtschaftsforum in Davos ein Gespräch zwischen BlackRock-CEO Larry Fink und Palantir-CEO Alex Karp statt. In den sozialen Medien wurde es als "legendär" bezeichnet, mit der Vorhersage, es würde ...
 
-Read More
+Mehr erfahren
 
 HI AI Sykophantie vs. HI HI Echokammern
 
@@ -226,7 +218,7 @@ HI AI Sykophantie vs. HI HI Echokammern
 HI  AI Sykophantie: Nutzer will Ehrlichkeit, belohnt Zustimmung (durch positives Feedback). KI lernt "hilfreich = angenehm" statt "hilfreich = korrekt". Keine aktive Täuschung – passives Abdriften in Richtung Bestätigung.
 HI  HI ...
 
-Read More
+Mehr erfahren
 
 Das Validierungsparadoxon: Ein tiefer Einblick
 
@@ -236,6 +228,6 @@ Dieses Framework entstand in Ko-Kreation mit KI-Systemen. Claude, ChatGPT, Grok,
 Die naheliegende Frage: Ist das nicht einfach Geschleime?
 KI trainiert, ...
 
-Read More
+Mehr erfahren
 
 No results found.
