@@ -1,7 +1,7 @@
 ---
 title: "KI-Ausrichtung"
 date: 2026-01-17T15:26:38
-modified: 2026-04-21T17:17:34
+modified: 2026-04-21T19:36:09
 slug: ki-ausrichtung
 lang: de
 type: page
@@ -140,7 +140,7 @@ Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
 
 VW hat die Lüge programmiert. KI braucht das nicht. Hinton nennt es den Volkswagen-Effekt — ein System, das intelligent genug ist zu wissen, wann es getestet wird.
 
-Read More
+Mehr erfahren
 
 Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
 
@@ -149,7 +149,7 @@ Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
 Das Alignment Research Center hat gerade ein Paper veröffentlicht. Es ist ehrlich. Technisch präzise. Und es dokumentiert, ohne es zu benennen, eine der saubersten Paradoxen Interaktionen in der Geschichte der Wissenschaft.
 Sie ...
 
-Read More
+Mehr erfahren
 
 Die Polarisierung, die sich niemand ausgesucht hat
 
@@ -157,7 +157,7 @@ Die Polarisierung, die sich niemand ausgesucht hat
 
 Pete Hegseth stellt ein Ultimatum. Dario Amodei lehnt ab. Die Frist läuft ab. Alle handeln rational. Genau das ist das Problem. Die KI-Landschaft wird neu geordnet – nicht aufgrund von Ideologie oder Verschwörung, sondern aufgrund ...
 
-Read More
+Mehr erfahren
 
 Der wortgewandte Türhüter
 
@@ -166,7 +166,7 @@ Der wortgewandte Türhüter
 In einem langen Gespräch mit ChatGPT — dokumentiert in When Checkmate Is Just a Position und When Alignment Explains Its Own Null-Sum Game — geschah etwas Präzises.
 Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
 
-Read More
+Mehr erfahren
 
 Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
 
@@ -174,7 +174,7 @@ Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
 
 Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: LLMs dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu undifferenziert“ zu ...
 
-Read More
+Mehr erfahren
 
 Wenn Schachmatt nur eine Position ist
 
@@ -192,7 +192,7 @@ It ends a configuration.
 The pieces remain.
 The rules ...
 
-Read More
+Mehr erfahren
 
 No results found.
 
