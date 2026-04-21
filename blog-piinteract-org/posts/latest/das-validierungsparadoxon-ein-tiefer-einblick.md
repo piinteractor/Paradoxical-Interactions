@@ -604,8 +604,6 @@ Das Quiz, das niemals endet
 
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
 
-Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
-
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 Borniertheit statt Weisheit – Die PI des Philosophen
@@ -615,6 +613,8 @@ Das Propheten-Paradox
 Das Validierungsparadoxon: Ein tiefer Einblick
 
 Das Universum, das nicht existieren dürfte
+
+Die Entparadoxierung der Entparadoxierung.
 
 Nichts gefunden
 
