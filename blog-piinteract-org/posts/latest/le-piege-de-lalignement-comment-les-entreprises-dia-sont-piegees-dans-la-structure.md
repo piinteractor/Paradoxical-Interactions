@@ -256,6 +256,10 @@ Comment la structure trie les IA pour que personne n'ait à décider
 
 La course qui se déroule toute seule.
 
+L’Effet Volkswagen. Personne n’a programmé le mensonge.
+
+Pourquoi le scandale des émissions VW était une IP — et pourquoi l'IA fait la même chose sans que personne ne l'ait programmée.
+
 No results found.
 
 
