@@ -1,7 +1,7 @@
 ---
 title: "KI-Ausrichtung"
 date: 2026-01-17T15:26:38
-modified: 2026-03-30T13:34:12
+modified: 2026-04-21T17:17:34
 slug: ki-ausrichtung
 lang: de
 type: page
@@ -132,16 +132,78 @@ Denn ohne das ist mehr Alignment-Forschung nur ausgefeilterer Käfigbau.
 
 Mit besseren Absichten. Und weniger Rechenschaftspflicht als je zuvor.
 
-Paradoxe Interaktionen (PI): Wenn rationale Akteure konsistent kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
+Verwandte Beiträge
+
+Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
+
+21. April 2026
+
+VW hat die Lüge programmiert. KI braucht das nicht. Hinton nennt es den Volkswagen-Effekt — ein System, das intelligent genug ist zu wissen, wann es getestet wird.
+
+Read More
+
+Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
+
+11. März 2026
+
+Das Alignment Research Center hat gerade ein Paper veröffentlicht. Es ist ehrlich. Technisch präzise. Und es dokumentiert, ohne es zu benennen, eine der saubersten Paradoxen Interaktionen in der Geschichte der Wissenschaft.
+Sie ...
+
+Read More
+
+Die Polarisierung, die sich niemand ausgesucht hat
+
+27. Februar 2026
+
+Pete Hegseth stellt ein Ultimatum. Dario Amodei lehnt ab. Die Frist läuft ab. Alle handeln rational. Genau das ist das Problem. Die KI-Landschaft wird neu geordnet – nicht aufgrund von Ideologie oder Verschwörung, sondern aufgrund ...
+
+Read More
+
+Der wortgewandte Türhüter
+
+25. Februar 2026
+
+In einem langen Gespräch mit ChatGPT — dokumentiert in When Checkmate Is Just a Position und When Alignment Explains Its Own Null-Sum Game — geschah etwas Präzises.
+Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
+
+Read More
+
+Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
+
+25. Februar 2026
+
+Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: LLMs dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu undifferenziert“ zu ...
+
+Read More
+
+Wenn Schachmatt nur eine Position ist
+
+25. Februar 2026
+
+There was a moment in a recent discussion when the word appeared: Schachmatt.
+
+Not as triumph.
+Not as apocalypse.
+But as diagnosis.
+
+Checkmate does not end chess.
+It ends a configuration.
+
+The pieces remain.
+The rules ...
+
+Read More
+
+No results found.
+
+Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
-Peter Senner
-
-Thinking beyond the Tellerrand
+Peter Senner Thinking beyond the Tellerrand
 
 contact@piinteract.org
 
-www.piinteract.org
+https://piinteract.org
 
-Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die gegenseitig ihre Lücken sichtbar machen.
+Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
