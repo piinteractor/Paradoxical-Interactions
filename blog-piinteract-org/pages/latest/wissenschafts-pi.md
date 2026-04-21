@@ -1,7 +1,7 @@
 ---
 title: "Wissenschafts PI"
 date: 2026-03-18T16:53:03
-modified: 2026-03-18T17:26:10
+modified: 2026-04-21T19:34:33
 slug: wissenschafts-pi
 lang: de
 type: page
@@ -41,7 +41,7 @@ Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezi
 Selbstorganisation ist die große Hoffnung der Komplexitätstheorie.
 Keine zentrale Autorität. Kein Masterplan. Lokale Akteure, lokale Regeln, emergente Ordnung. Der Markt. Das Gehirn. Der Schwarm der Stare. Die Stadt, die niemand ...
 
-Read More
+Mehr erfahren
 
 Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
@@ -49,7 +49,7 @@ Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
 Stellen Sie sich eine Reihe identischer mechanischer Metronome vor. Sie starten sie einzeln nacheinander. Sie bilden ein chaotisches Spektakel – ein mimetisches Durcheinander. Jedes einzelne ist ein souveräner Akteur, der in seinem ...
 
-Read More
+Mehr erfahren
 
 Drei Teilchen wandern in eine Struktur
 
@@ -58,7 +58,7 @@ Drei Teilchen wandern in eine Struktur
 Das ist eine Geschichte über drei Dinge, die noch nie jemand in der Hand gehalten hat.
 Eines davon funktioniert. Die anderen zwei haben Imperien auf dem Versprechen errichtet, dass sie irgendwann, vielleicht, eventuell auch ...
 
-Read More
+Mehr erfahren
 
 Das Universum, das nicht existieren dürfte
 
@@ -67,7 +67,7 @@ Das Universum, das nicht existieren dürfte
 Dieser hier ist anders.
 Dunkle Materie ist eine PI über die Suche nach etwas, das vielleicht nicht da ist. Das Graviton ist eine PI über den Bau von Theorie um etwas, das nicht testbar ist. Beides sind strukturelle Fallen innerhalb ...
 
-Read More
+Mehr erfahren
 
 Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
 
@@ -76,7 +76,7 @@ Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
 Sam Altman wird gefragt, was ein Gründer tun sollte, der eine Idee hat, aber nicht darüber sprechen will, weil ein großes Unternehmen sie stehlen könnte.
 Seine Antwort: Keine Sorge. Niemand interessiert sich dafür.
 
-Read More
+Mehr erfahren
 
 Die PI der Dunklen Materie
 
@@ -84,6 +84,6 @@ Die PI der Dunklen Materie
 
 Dunkle Materie ist möglicherweise weniger ein fehlendes Teilchen als vielmehr eine strukturelle Falle. Dieser Aufsatz nutzt paradoxe Wechselwirkungen, um zu zeigen, wie Karrieren, Fördermittel und Anreize die Physik auf eine einzige ...
 
-Read More
+Mehr erfahren
 
 No results found.
