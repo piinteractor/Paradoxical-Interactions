@@ -32,6 +32,15 @@ Alle sind schuldig. Keiner kann was dafür
 
 Verwandte Beiträge
 
+Das Jona-Paradoxon
+
+4. Februar 2026
+
+Ein Prophet warnt vor der Katastrophe. Wenn die Warnung wirkt, tritt die Katastrophe nicht ein. Die Prophezeiung erfüllt sich nicht. Der Erfolg macht ihn zum Lügner.
+Wenn die Warnung nicht wirkt, tritt die Katastrophe ein. Die ...
+
+Read More
+
 Borniertheit statt Weisheit – Die PI des Philosophen
 
 28. Januar 2026
@@ -81,6 +90,15 @@ Das Propheten-Paradox
 
 Der Fremde mit Referenzen wird gehört. Der Freund oder Verwandte, der das Muster kennt, wird abgetan.
 Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet ungetestet. Ungetestet kann falsch liegen – aber könnte ...
+
+Weiterlesen
+
+Das Jona-Paradoxon
+
+4. Februar 2026
+
+Ein Prophet warnt vor der Katastrophe. Wenn die Warnung wirkt, tritt die Katastrophe nicht ein. Die Prophezeiung erfüllt sich nicht. Der Erfolg macht ihn zum Lügner.
+Wenn die Warnung nicht wirkt, tritt die Katastrophe ein. Die ...
 
 Weiterlesen
 
