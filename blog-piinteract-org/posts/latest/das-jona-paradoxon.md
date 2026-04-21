@@ -1,7 +1,7 @@
 ---
 title: "Das Jona-Paradoxon"
 date: 2026-02-04T07:00:56
-modified: 2026-02-06T01:40:48
+modified: 2026-04-21T18:47:16
 slug: das-jona-paradoxon
 lang: de
 type: post
