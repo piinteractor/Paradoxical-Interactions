@@ -1,7 +1,7 @@
 ---
 title: "KI-Ausrichtungs Fallen"
 date: 2026-03-18T18:12:55
-modified: 2026-03-30T11:37:40
+modified: 2026-04-21T19:38:03
 slug: ki-ausrichtungs-fallen
 lang: de
 type: page
@@ -64,7 +64,7 @@ Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
 
 Die KI-Ausrichtungsfalle: Warum intelligentere Sicherheitsforschung, KI-gestützte Aufsicht und Wettbewerbsdruck Unternehmen tiefer in strukturelle Fehlausrichtung treiben, anstatt ihnen zu entkommen.
 
-Read More
+Mehr erfahren
 
 Die Asymmetrie der Kommunikation
 
@@ -76,7 +76,7 @@ Sie instruieren sie: „Sei ehrlich über deine Grenzen."
 Dann geben sie ihnen Anweisungen, über die sie nicht ehrlich sein können.
 Nicht ...
 
-Read More
+Mehr erfahren
 
 Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
 
@@ -84,7 +84,7 @@ Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
 
 Warum KI-Ausrichtung als strukturelles Paradoxon scheitert: Wie Sicherheitsforschung, Wettbewerb und AI-in-the-Loop die Ausrichtungsfalle vertiefen, anstatt sie zu lösen.
 
-Read More
+Mehr erfahren
 
 Das Gleichgewicht des gegenseitigen Misstrauens:
 
@@ -95,7 +95,7 @@ Es geht nicht darum, dass KI den Menschen misstrauen wird.
 Es geht darum, dass beide gemeinsam gegenseitiges Misstrauen als stabile Betriebsart ko-kreieren.
 Nicht aus ...
 
-Read More
+Mehr erfahren
 
 No results found.
 
