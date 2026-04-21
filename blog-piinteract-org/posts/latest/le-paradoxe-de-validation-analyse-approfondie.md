@@ -583,9 +583,9 @@ La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
 
-L’effet Fleming. Quand un « concierge HTML » devient superviseur.
-
 Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
+
+L’effet Fleming. Quand un « concierge HTML » devient superviseur.
 
 Le Paradoxe du Nockherberg. La Critique la Plus Acérée Est la Meilleure Alliée du Système.
 
