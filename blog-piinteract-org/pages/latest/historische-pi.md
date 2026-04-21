@@ -1,7 +1,7 @@
 ---
 title: "Historische PI"
 date: 2026-01-21T20:02:38
-modified: 2026-04-02T14:43:01
+modified: 2026-04-21T19:31:52
 slug: historische-pi
 lang: de
 type: page
@@ -38,7 +38,7 @@ Die Reformations-PI. Je brutaler die Trennung, desto solider die Verbindung.
 
 Wittenberg, 1517. Martin Luther nagelt 95 Thesen an eine Kirchentür. Das Argument: Die Kirche verkauft, was sie nicht besitzt. Gnade ist keine Ware. Gott ist kein Franchise. Die Diagnose ist richtig. Die Struktur ist unbeeindruckt.
 
-Read More
+Mehr erfahren
 
 Das Gaveston-Muster:
 
@@ -46,7 +46,7 @@ Das Gaveston-Muster:
 
 England im Mittelalter, 1312. Ein Günstling wird ermordet. Ein König rächt sich. Eine Königin fällt ein. Ein Sohn greift nach der Macht. Siebenhundert Jahre später läuft dieselbe Struktur wöchentlich in Organisationen, Regierungen und ...
 
-Read More
+Mehr erfahren
 
 Die Ökonomie der Gerechtigkeit.
 
@@ -58,6 +58,6 @@ Die Realität liefert Auswahl.
 Wenn Verbrechen von Millionen begangen werden, geht es nicht mehr darum, wer schuldig ist —
 sondern darum, was das System verarbeiten kann.
 
-Read More
+Mehr erfahren
 
 No results found.
