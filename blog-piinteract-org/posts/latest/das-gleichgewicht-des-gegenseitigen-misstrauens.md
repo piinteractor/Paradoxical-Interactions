@@ -362,6 +362,14 @@ Die Polarisierung, die sich niemand ausgesucht hat
 
 — Wie Struktur KI sortiert, sodass niemand entscheiden muss
 
+Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
+
+Eine Stellenanzeige für die falsche Person.
+
+Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
+
+Second Title
+
 No results found.
 
 
