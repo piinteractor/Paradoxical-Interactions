@@ -1,7 +1,7 @@
 ---
 title: "Classical PI"
 date: 2026-03-18T16:53:01
-modified: 2026-03-19T08:08:40
+modified: 2026-04-21T17:52:24
 slug: classical-pi
 lang: en
 type: page
@@ -30,6 +30,8 @@ The structures were already there. The myths just named them first.
 
 All are guilty. None are at fault.
 
+Related Posts
+
 The Prophet Paradox
 
 28. January 2026
@@ -50,3 +52,15 @@ This isn't personal weakness. ...
 Read More
 
 No results found.
+
+Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
+
+All are guilty. None are at fault.
+
+Peter Senner Thinking beyond the Tellerrand
+
+contact@piinteract.org
+
+https://piinteract.org
+
+Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
