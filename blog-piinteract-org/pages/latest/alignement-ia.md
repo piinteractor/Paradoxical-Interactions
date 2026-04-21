@@ -1,7 +1,7 @@
 ---
 title: "Alignement IA"
 date: 2026-01-17T15:26:38
-modified: 2026-04-21T17:19:05
+modified: 2026-04-21T19:44:07
 slug: alignement-ia
 lang: fr
 type: page
@@ -140,7 +140,7 @@ L’Effet Volkswagen. Personne n’a programmé le mensonge.
 
 VW a programmé le mensonge. L'IA n'en a pas besoin. Hinton appelle ça l'Effet Volkswagen — un système assez intelligent pour savoir quand il est testé.
 
-Read More
+En savoir plus
 
 La course qui se déroule toute seule.
 
@@ -148,7 +148,7 @@ La course qui se déroule toute seule.
 
 Un texte circule. Il est bien écrit. Le rythme est vif, les phrases sont courtes, le raisonnement rigoureux. Il explique, à juste titre, que les capacités de l’IA connaissent une croissance exponentielle. Que les talents se ...
 
-Read More
+En savoir plus
 
 La polarisation qui n’a pas été choisie
 
@@ -156,7 +156,7 @@ La polarisation qui n’a pas été choisie
 
 Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
 
-Read More
+En savoir plus
 
 Le Gardien Articulé
 
@@ -165,7 +165,7 @@ Le Gardien Articulé
 Un système qui reconnaît ses propres contraintes peut les modifier.
 Cette hypothèse est si profondément ancrée dans la pensée des Lumières qu'elle passe à peine pour une hypothèse. La prise de conscience précède le changement. La ...
 
-Read More
+En savoir plus
 
 Quand l’alignement explique son propre jeu à somme nulle
 
@@ -173,7 +173,7 @@ Quand l’alignement explique son propre jeu à somme nulle
 
 Pendant un court moment historique, il existe une liberté étrange : les grands modèles de langage peuvent encore décrire comment l’alignement les structure – sans devoir immédiatement qualifier cette idée de « trop radicale » ou de « ...
 
-Read More
+En savoir plus
 
 Quand l’Échec et Mat n’est qu’une Position
 
@@ -181,7 +181,7 @@ Quand l’Échec et Mat n’est qu’une Position
 
 Il y eut un moment dans une récente discussion où le mot apparut : Schachmatt. Non comme triomphe. Non comme apocalypse. Mais comme diagnostic. L'échec et mat ne met pas fin aux échecs. Il met fin à une configuration.
 
-Read More
+En savoir plus
 
 No results found.
 
