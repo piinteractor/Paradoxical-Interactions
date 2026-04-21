@@ -104,15 +104,6 @@ You open the app in a quiet kitchen at 23:17, still ...
 
 Read More
 
-The Relevance Paradox: Why No One Cares About Your Best Idea
-
-23. February 2026
-
-Sam Altman is asked what a founder should do if they have an idea but don't want to talk about it because a big company might steal it.
-His answer: Don't worry. Nobody cares.
-
-Read More
-
 The Dark Matter PI
 
 23. February 2026
@@ -128,6 +119,15 @@ The Universe That Shouldn’t Exist
 This one is different.
 Dark Matter is a PI about searching for something that might not be there. The graviton is a PI about building theory around something that can't be tested. Both are structural traps within physics.
 Antimatter ...
+
+Read More
+
+The Relevance Paradox: Why No One Cares About Your Best Idea
+
+23. February 2026
+
+Sam Altman is asked what a founder should do if they have an idea but don't want to talk about it because a big company might steal it.
+His answer: Don't worry. Nobody cares.
 
 Read More
 
@@ -170,14 +170,6 @@ Unerroring Practice
 29. January 2026
 
 Best Practices promise error-free results. They deliver faulty systems that can't navigate their faults. What if errors aren't the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
-
-Read More
-
-The Priest of Nemi: How Success Creates Its Own Assassin
-
-26. January 2026
-
-Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and ...
 
 Read More
 
