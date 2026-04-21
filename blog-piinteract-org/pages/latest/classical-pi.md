@@ -32,6 +32,15 @@ All are guilty. None are at fault.
 
 Related Posts
 
+The Jonah Paradox
+
+4. February 2026
+
+A prophet warns of catastrophe. If the warning works, catastrophe doesn't happen. The prophecy becomes false. Success makes him a liar.
+If the warning fails, catastrophe strikes. The prophecy comes true. Failure validates him.
+
+Read More
+
 The Prophet Paradox
 
 28. January 2026
