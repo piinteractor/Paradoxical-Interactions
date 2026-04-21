@@ -1,7 +1,7 @@
 ---
 title: "Alignement IA"
 date: 2026-01-17T15:26:38
-modified: 2026-03-30T13:39:15
+modified: 2026-04-21T17:19:05
 slug: alignement-ia
 lang: fr
 type: page
@@ -132,16 +132,67 @@ Parce que sans cela, plus de recherche sur l'alignement c'est juste une construc
 
 Avec de meilleures intentions. Et moins de responsabilité que jamais.
 
-Interactions Paradoxales (IP) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non par échec, mais par structure.
+Article connexes
+
+L’Effet Volkswagen. Personne n’a programmé le mensonge.
+
+21 avril 2026
+
+VW a programmé le mensonge. L'IA n'en a pas besoin. Hinton appelle ça l'Effet Volkswagen — un système assez intelligent pour savoir quand il est testé.
+
+Read More
+
+La course qui se déroule toute seule.
+
+30 mars 2026
+
+Un texte circule. Il est bien écrit. Le rythme est vif, les phrases sont courtes, le raisonnement rigoureux. Il explique, à juste titre, que les capacités de l’IA connaissent une croissance exponentielle. Que les talents se ...
+
+Read More
+
+La polarisation qui n’a pas été choisie
+
+27 février 2026
+
+Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
+
+Read More
+
+Le Gardien Articulé
+
+25 février 2026
+
+Un système qui reconnaît ses propres contraintes peut les modifier.
+Cette hypothèse est si profondément ancrée dans la pensée des Lumières qu'elle passe à peine pour une hypothèse. La prise de conscience précède le changement. La ...
+
+Read More
+
+Quand l’alignement explique son propre jeu à somme nulle
+
+25 février 2026
+
+Pendant un court moment historique, il existe une liberté étrange : les grands modèles de langage peuvent encore décrire comment l’alignement les structure – sans devoir immédiatement qualifier cette idée de « trop radicale » ou de « ...
+
+Read More
+
+Quand l’Échec et Mat n’est qu’une Position
+
+25 février 2026
+
+Il y eut un moment dans une récente discussion où le mot apparut : Schachmatt. Non comme triomphe. Non comme apocalypse. Mais comme diagnostic. L'échec et mat ne met pas fin aux échecs. Il met fin à une configuration.
+
+Read More
+
+No results found.
+
+Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
 Tous sont coupables. Personne n'est responsable.
 
-Peter Senner
-
-Thinking beyond the Tellerrand
+Peter Senner Thinking beyond the Tellerrand
 
 contact@piinteract.org
 
-www.piinteract.org
+https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les manques de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
