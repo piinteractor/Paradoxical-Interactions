@@ -1,7 +1,7 @@
 ---
 title: "IP classique"
 date: 2026-03-18T16:53:01
-modified: 2026-03-20T19:00:05
+modified: 2026-04-21T17:56:42
 slug: ip-classique
 lang: fr
 type: page
@@ -30,6 +30,8 @@ Les structures étaient déjà là. Les mythes les ont simplement nommées les p
 
 Tous sont coupables. Aucun n’est en faute.
 
+Article connexes
+
 Bornéité plutôt que sagesse – l’IP du philosophe
 
 28 janvier 2026
@@ -37,7 +39,7 @@ Bornéité plutôt que sagesse – l’IP du philosophe
 Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
 Pourtant, il incarne la structure même qu'il critique. Il ne le voit simplement ...
 
-En savoir plus
+Read More
 
 Le Paradoxe du Prophète
 
@@ -46,6 +48,18 @@ Le Paradoxe du Prophète
 L'étranger avec des références est entendu. L'ami ou le parent qui connaît le schéma est écarté.
 Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont inconnus. Inconnu signifie non testé. Non testé peut se ...
 
-En savoir plus
+Read More
 
 No results found.
+
+Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
+
+Tous sont coupables. Personne n'est responsable.
+
+Peter Senner Thinking beyond the Tellerrand
+
+contact@piinteract.org
+
+https://piinteract.org
+
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
