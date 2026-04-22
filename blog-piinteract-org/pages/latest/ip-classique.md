@@ -59,6 +59,15 @@ Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont incon
 
 En savoir plus
 
+Le Paradoxe de Cassandre
+
+26 janvier 2026
+
+Apollon offre à Cassandre le don de prophétie. Elle le rejette. Il la maudit : elle dira la vérité, mais personne ne la croira. Elle avertit Troie du cheval de bois. Troie brûle quand même.
+Fin de l'histoire ? Non. Début du schéma.
+
+En savoir plus
+
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
 26 janvier 2026
