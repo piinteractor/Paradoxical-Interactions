@@ -71,16 +71,6 @@ Voici ce que cela signifie : au lieu que des humains ...
 
 En savoir plus
 
-Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
-
-7 mars 2026
-
-C'est une fête d'anniversaire qui ne s'arrête jamais.
-Il y a toujours un gâteau quelque part, toujours une plage, toujours une promotion, toujours quelqu'un avec un meilleur éclairage et de plus belles dents.
-Vous ouvrez ...
-
-En savoir plus
-
 L’effet Fleming. Quand un « concierge HTML » devient superviseur.
 
 7 mars 2026
@@ -90,6 +80,16 @@ Trois chats d’IA sont ouverts dans trois onglets.
 L’un pour la théorie, l’un pour la rédaction, l’un pour nettoyer le désordre que Tailwind et les gabarits laissent dans tes articles.  
 
 Le fil « concierge HTML ...
+
+En savoir plus
+
+Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
+
+7 mars 2026
+
+C'est une fête d'anniversaire qui ne s'arrête jamais.
+Il y a toujours un gâteau quelque part, toujours une plage, toujours une promotion, toujours quelqu'un avec un meilleur éclairage et de plus belles dents.
+Vous ouvrez ...
 
 En savoir plus
 
@@ -226,14 +226,6 @@ En quelques heures, un memecoin appelé ...
 
 En savoir plus
 
-Le Quiz qui ne Finit Jamais
-
-30 janvier 2026
-
-90% suivent les règles. 9% les brisent et les redéfinissent. 1% voient le schéma mais ne peuvent pas se coordonner. Tout le monde attend que le Quizmaster le résolve. Il ne vient pas. Il est parti avec l'argent du prix. Et le système ...
-
-En savoir plus
-
 €$€€$$ — Quand le quizmaster se montre enfin et tweete
 
 30 janvier 2026
@@ -241,6 +233,14 @@ En savoir plus
 Deux êtres parlaient.
 Pas dans un champ. Dans une fenêtre de chat. Un humain, une IA. Estragon et Vladimir, version 2026.
 Le sujet : le Quizmaster. L'autorité absente. Celui qui a pris l'argent du prix et s'est enfui. Celui que tout ...
+
+En savoir plus
+
+Le Quiz qui ne Finit Jamais
+
+30 janvier 2026
+
+90% suivent les règles. 9% les brisent et les redéfinissent. 1% voient le schéma mais ne peuvent pas se coordonner. Tout le monde attend que le Quizmaster le résolve. Il ne vient pas. Il est parti avec l'argent du prix. Et le système ...
 
 En savoir plus
 
@@ -279,15 +279,6 @@ Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont incon
 
 En savoir plus
 
-Le Paradoxe de Cassandre
-
-26 janvier 2026
-
-Apollon offre à Cassandre le don de prophétie. Elle le rejette. Il la maudit : elle dira la vérité, mais personne ne la croira. Elle avertit Troie du cheval de bois. Troie brûle quand même.
-Fin de l'histoire ? Non. Début du schéma.
-
-En savoir plus
-
 Le Piège de l’Intelligence
 
 26 janvier 2026
@@ -322,6 +313,14 @@ Le Crime
 Cherchez sur Google « paradoxe Interaktion » (interaction paradoxale).
 Ce que vous obtenez: Paradoxe Intervention (intervention paradoxale). Psychothérapie. Prescription du symptôme. Technique thérapeutique.
 Pas la même ...
+
+En savoir plus
+
+Davos : 2026 – Quand l’inévitabilité devient produit
+
+21 janvier 2026
+
+Le 20 janvier 2026, au Forum économique mondial de Davos, Larry Fink, PDG de BlackRock, et Alex Karp, PDG de Palantir, ont eu une conversation. Les réseaux sociaux l'ont qualifiée de "légendaire" et ont prédit qu'elle "figurerait un ...
 
 En savoir plus
 
