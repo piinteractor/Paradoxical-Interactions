@@ -1,7 +1,7 @@
 ---
 title: "Drawing the red line – without knowing exactly where it runs."
 date: 2026-02-28T10:00:56
-modified: 2026-03-08T11:02:47
+modified: 2026-04-22T20:59:36
 slug: drawing-the-red-line-without-knowing-exactly-where-it-runs
 lang: en
 type: post
