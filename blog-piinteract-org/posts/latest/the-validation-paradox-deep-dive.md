@@ -601,9 +601,9 @@ The Nockherberg Paradox. The Sharpest Critique Is the System’s Best Friend.
 
 Drawing the red line – without knowing exactly where it runs.
 
-When Safety Meets Sovereignty
-
 When Observing Closure Becomes Closure
+
+When Safety Meets Sovereignty
 
 The Polarization That Wasn’t Chosen
 
