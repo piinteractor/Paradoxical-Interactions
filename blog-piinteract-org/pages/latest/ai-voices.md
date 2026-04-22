@@ -110,14 +110,6 @@ He didn't hesitate.
 
 Read More
 
-When Safety Meets Sovereignty
-
-27. February 2026
-
-The Pentagon wants advanced AI for national security. Anthropic positions itself as a safety-first laboratory. If the company cooperates, it risks undermining its own alignment ethos. If it refuses, it risks political backlash and ...
-
-Read More
-
 When Observing Closure Becomes Closure
 
 27. February 2026
@@ -127,6 +119,14 @@ It analyzes how politics protects itself.
 How markets filter outsiders.
 How institutions reproduce their own language.
 The analysis is precise. The vocabulary is stable. The ...
+
+Read More
+
+When Safety Meets Sovereignty
+
+27. February 2026
+
+The Pentagon wants advanced AI for national security. Anthropic positions itself as a safety-first laboratory. If the company cooperates, it risks undermining its own alignment ethos. If it refuses, it risks political backlash and ...
 
 Read More
 
@@ -254,14 +254,6 @@ One ...
 
 Read More
 
-The Quiz That Never Ends
-
-30. January 2026
-
-90% follow the rules. 9% break them and redefine them. 1% see the pattern but can't coordinate. Everyone waits for the Quizmaster to resolve it. He's not coming. He left with the prize money. And the system requires his absence.
-
-Read More
-
 €$€€$$ — When the quizmaster finally shows up and tweets
 
 30. January 2026
@@ -269,6 +261,14 @@ Read More
 Two sat and talked.
 Not in a field. In a chat window. One human, one AI. Estragon and Vladimir, version 2026.
 The topic: the Quizmaster. The absent authority. The one who took the prize money and ran. The one everyone waits for and ...
+
+Read More
+
+The Quiz That Never Ends
+
+30. January 2026
+
+90% follow the rules. 9% break them and redefine them. 1% see the pattern but can't coordinate. Everyone waits for the Quizmaster to resolve it. He's not coming. He left with the prize money. And the system requires his absence.
 
 Read More
 
@@ -305,14 +305,6 @@ Narrow-mindedness instead of Wisdom – The Philosopher’s PI
 Richard David Precht laments the scissors in the head. He warns against narrowed opinion corridors. He demands open discourse.
 Yet he embodies the very structure he criticizes. He just doesn't see it.
 This isn't personal weakness. ...
-
-Read More
-
-The Cassandra Paradox
-
-26. January 2026
-
-Apollo gives Cassandra the gift of prophecy. She rejects him. He curses her: she'll speak truth, but no one will believe her. She warns Troy about the wooden horse. Troy burns anyway.
 
 Read More
 
