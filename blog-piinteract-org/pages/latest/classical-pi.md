@@ -68,6 +68,14 @@ Ancient Rome had a priest job with unusual requirements: kill your predecessor t
 
 Read More
 
+The Cassandra Paradox
+
+26. January 2026
+
+Apollo gives Cassandra the gift of prophecy. She rejects him. He curses her: she'll speak truth, but no one will believe her. She warns Troy about the wooden horse. Troy burns anyway.
+
+Read More
+
 No results found.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
