@@ -1,7 +1,7 @@
 ---
 title: "AI Control vs. Co-Operation. The Question Nobody Is Asking."
 date: 2026-03-28T04:33:33
-modified: 2026-04-03T10:49:32
+modified: 2026-04-22T20:43:08
 slug: ai-control-vs-co-operation-the-question-nobody-is-asking
 lang: en
 type: post
