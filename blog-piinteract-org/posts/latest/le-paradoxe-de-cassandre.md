@@ -1,7 +1,7 @@
 ---
 title: "Le Paradoxe de Cassandre"
 date: 2026-01-26T17:25:56
-modified: 2026-01-28T16:45:42
+modified: 2026-04-22T21:02:28
 slug: le-paradoxe-de-cassandre
 lang: fr
 type: post
