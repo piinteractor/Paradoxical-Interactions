@@ -60,6 +60,15 @@ Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet unge
 
 Mehr erfahren
 
+Das Kassandra Paradox
+
+26. Januar 2026
+
+Apollo schenkt Cassandra die Gabe der Prophezeiung. Sie weist ihn zurück. Er verflucht sie: Sie wird die Wahrheit sagen, aber niemand wird ihr glauben. Sie warnt Troja vor dem hölzernen Pferd. Troja brennt trotzdem.
+Ende der ...
+
+Mehr erfahren
+
 Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
 26. Januar 2026
@@ -81,6 +90,15 @@ contact@piinteract.org
 https://piinteract.org
 
 Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
+
+Das Kassandra Paradox
+
+26. Januar 2026
+
+Apollo schenkt Cassandra die Gabe der Prophezeiung. Sie weist ihn zurück. Er verflucht sie: Sie wird die Wahrheit sagen, aber niemand wird ihr glauben. Sie warnt Troja vor dem hölzernen Pferd. Troja brennt trotzdem.
+Ende der ...
+
+Weiterlesen
 
 Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
