@@ -77,6 +77,16 @@ Das bedeutet: Anstatt dass Menschen verstehen, was ein neuronales Netz ...
 
 Mehr erfahren
 
+Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
+
+7. März 2026
+
+Es ist eine Geburtstagsfeier, die niemals endet.
+Es gibt immer irgendwo einen Kuchen, immer einen Strand, immer eine Beförderung, immer jemanden mit besserem Licht und schöneren Zähnen.
+Du öffnest die App um 23:17 Uhr in einer ...
+
+Mehr erfahren
+
 Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
 
 7. März 2026
@@ -86,16 +96,6 @@ Drei KI‑Chats sind in drei verschiedenen Tabs geöffnet.
 Einer für Theorie, einer fürs Schreiben, einer für das Aufräumen des Chaos, das Tailwind und Templates in deinen Blogposts hinterlassen.  
 
 Der ...
-
-Mehr erfahren
-
-Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
-
-7. März 2026
-
-Es ist eine Geburtstagsfeier, die niemals endet.
-Es gibt immer irgendwo einen Kuchen, immer einen Strand, immer eine Beförderung, immer jemanden mit besserem Licht und schöneren Zähnen.
-Du öffnest die App um 23:17 Uhr in einer ...
 
 Mehr erfahren
 
@@ -305,20 +305,21 @@ Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet unge
 
 Mehr erfahren
 
-Das Kassandra Paradox
-
-26. Januar 2026
-
-Apollo schenkt Cassandra die Gabe der Prophezeiung. Sie weist ihn zurück. Er verflucht sie: Sie wird die Wahrheit sagen, aber niemand wird ihr glauben. Sie warnt Troja vor dem hölzernen Pferd. Troja brennt trotzdem.
-Ende der ...
-
-Mehr erfahren
-
 Die Intelligenz-Falle
 
 26. Januar 2026
 
 Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
+
+Mehr erfahren
+
+Luhmann und der Selbsteinschluss
+
+25. Januar 2026
+
+Die Ironie ist perfekt.
+Luhmann beschreibt operative Geschlossenheit. Selbstreferenz. Einschlussmilieus, die nur noch sich selbst beobachten. Seine Schüler nicken, verstehen, zitieren ihn brillant.
+Und bauen exakt die Struktur nach.
 
 Mehr erfahren
 
