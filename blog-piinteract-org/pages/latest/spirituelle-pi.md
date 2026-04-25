@@ -1,7 +1,7 @@
 ---
 title: "Spirituelle PI"
 date: 2026-03-19T17:24:18
-modified: 2026-03-19T20:35:18
+modified: 2026-04-25T16:34:01
 slug: spirituelle-pi
 lang: de
 type: page
@@ -16,17 +16,17 @@ url: https://blog.piinteract.org/de/pi-faelle/spirituelle-pi/
 
 Spirituelle PI
 
-Wenn der Umweg die Abkürzung ist — und wer die Struktur erkannte, dafür bestraft wurde.
+Wenn der Umweg die Abkürzung ist — und wer die Struktur erkannte, wurde dafür bestraft.
 
-Der Umweg ist die Abkürzung.
+„Der Umweg ist die Abkürzung.“
 
 Wissenschaft und Spiritualität gingen lange denselben Weg. Newton schrieb mehr Theologie als Physik. Kepler suchte die Harmonie der Sphären. Leibniz baute Kalkül und Theodizee im selben Atemzug. Die Fragen waren größer als die Methoden — also reisten beide gemeinsam.
 
-Dann wurde die Methode scharf genug, um zu schneiden.
+Dann wurde die Methode scharf genug, um zu verletzen.
 
-Der erste Schnitt war nicht feindlich. Er war strukturell notwendig. Um präzise zu messen, muss man das Feld einschränken. Um das Feld einzuschränken, muss man ausschließen. Was nicht messbar ist, fällt heraus — nicht als Feind, sondern als methodisch irrelevant.
+Der erste Schnitt war nicht feindselig. Er war strukturell notwendig. Um präzise zu messen, muss man das Feld einschränken. Um das Feld einzuschränken, muss man ausschließen. Was nicht messbar ist, fällt heraus — nicht als Feind, sondern als methodisch irrelevant.
 
-Aber „methodisch irrelevant" wurde mit der Zeit zu „nicht existent". Und da begann die Feindschaft.
+Aber „methodisch irrelevant" wurde mit der Zeit zu „nicht existent". Und hier begann die Feindschaft.
 
 Die Wissenschaft erklärte den Ausschluss zur Befreiung. Das Spirituelle erklärte ihn zum Verrat. Beide hatten recht. Beide hatten unrecht. Die Trennung war strukturell erzwungen — und beide Seiten interpretierten sie als Entscheidung.
 
@@ -40,7 +40,7 @@ Wer die Struktur klar sah, hatte drei Möglichkeiten: schweigen, verfolgt werden
 
 Der Umweg war immer der kürzeste Weg. Die Struktur hat dafür gesorgt.
 
-Die Abkürzung ist der Umweg.
+„Die Abkürzung ist der Umweg.“
 
 Die Schlussglocke. Wir haben das Experiment gebaut. Wir waren das Experiment.
 
