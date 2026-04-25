@@ -1,7 +1,7 @@
 ---
 title: "IP spirituelle"
 date: 2026-03-19T17:24:18
-modified: 2026-03-19T20:36:24
+modified: 2026-04-25T16:42:30
 slug: ip-spirituelle
 lang: fr
 type: page
@@ -18,7 +18,7 @@ IP Spirituelle
 
 Où le détour est le raccourci — et ceux qui ont clairement vu la structure en ont été punis.
 
-Le détour est le raccourci.
+« Le détour est le raccourci. »
 
 La science et le Spirituel ont longtemps parcouru le même chemin. Newton écrivait plus de théologie que de physique. Kepler cherchait l'harmonie des sphères. Leibniz construisait le calcul infinitésimal et la théodicée dans le même souffle. Les questions étaient plus grandes que les méthodes — alors les deux voyageaient ensemble.
 
@@ -42,7 +42,7 @@ Le détour a toujours été le chemin le plus court. La structure s'en est assur
 
 Tous sont coupables. Personne n'est en faute.
 
-Le raccourci est le détour.
+« Le raccourci est le détour. »
 
 La Cloche de Fin. Nous avons construit l’expérience. Nous étions l’expérience.
 
