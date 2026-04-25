@@ -1,7 +1,7 @@
 ---
 title: "Why Supposedly Equal Societies Generate Inequality"
 date: 2026-01-25T08:50:58
-modified: 2026-04-10T06:25:12
+modified: 2026-04-25T15:04:34
 slug: why-supposedly-equal-societies-generate-inequality
 lang: en
 type: post
@@ -11,6 +11,8 @@ url: https://blog.piinteract.org/why-supposedly-equal-societies-generate-inequal
 ---
 
 Or: The Equality Paradox
+
+25. January 2026
 
 Take a hundred people. Same education, same starting capital, same abilities. Let them interact under fair rules. What happens?
 
