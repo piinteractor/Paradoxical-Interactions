@@ -1,7 +1,7 @@
 ---
 title: "Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen"
 date: 2026-01-25T08:50:58
-modified: 2026-04-25T14:59:11
+modified: 2026-04-25T15:06:13
 slug: warum-vermeintlich-gleiche-gesellschaften-ungleichheit-erzeugen
 lang: de
 type: post
@@ -12,7 +12,9 @@ url: https://blog.piinteract.org/de/warum-vermeintlich-gleiche-gesellschaften-un
 
 Oder: Das Gleichheitsparadox
 
-Du nimmst hundert Menschen. Gleiche Bildung, gleiches Startkapital, gleiche Fähigkeiten. Du lässt sie unter fairen Regeln interagieren. Was passiert?
+25. Januar 2026
+
+Nimm hundert Menschen. Gleiche Bildung, gleiches Startkapital, gleiche Fähigkeiten. Du lässt sie unter fairen Regeln interagieren. Was passiert?
 
 Nach zwanzig Jahren hast du drei Superreiche, fünfzehn Wohlhabende, fünfzig die gerade so durchkommen und zweiunddreißig am Existenzminimum.
 
