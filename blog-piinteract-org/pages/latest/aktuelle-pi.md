@@ -1,7 +1,7 @@
 ---
 title: "Aktuelle PI"
 date: 2026-03-18T16:53:03
-modified: 2026-04-21T19:33:14
+modified: 2026-04-25T18:01:51
 slug: aktuelle-pi
 lang: de
 type: page
@@ -10,7 +10,7 @@ wp_id: 2834
 url: https://blog.piinteract.org/de/pi-faelle/aktuelle-pi/
 ---
 
-"We know what we are, but know not what we may be."
+„Wir wissen, was wir sind, aber wir wissen nicht, was wir sein können“.
 
 — William Shakespeare, Hamlet
 
