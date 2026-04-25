@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
+
 Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
 
 Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
@@ -613,8 +615,6 @@ Das Propheten-Paradox
 Das Validierungsparadoxon: Ein tiefer Einblick
 
 Das Universum, das nicht existieren dürfte
-
-Die Entparadoxierung der Entparadoxierung.
 
 Nichts gefunden
 
