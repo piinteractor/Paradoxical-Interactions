@@ -1,7 +1,7 @@
 ---
 title: "Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen"
 date: 2026-01-25T08:50:58
-modified: 2026-04-25T15:06:13
+modified: 2026-04-25T16:22:11
 slug: warum-vermeintlich-gleiche-gesellschaften-ungleichheit-erzeugen
 lang: de
 type: post
@@ -258,16 +258,50 @@ Nicht: "Das können wir nicht ändern."
 
 Sondern: "Das ist die Struktur. Wir sehen sie. Wir navigieren sie. Wir versuchen, sie zu verschieben. Aber wir erwarten keine Wunder."
 
-Das Gleichheitsparadox ist real. Vermeintlich gleiche Gesellschaften erzeugen Ungleichheit. Nicht trotz, sondern wegen rationalen Verhaltens.
+Das Gleichheitsparadox ist real. Vermeintlich gleiche Gesellschaften erzeugen Ungleichheit. Nicht trotz, sondern wegen des rationalen Verhaltens aller Beteiligten.
 
 Das zu verstehen ist der erste Schritt. Nicht zur Lösung. Sondern zur Navigation.
 
-Try and continue.
+Versuchen und weitermachen.
 
-Peter Senner
+Verwandte Beiträge
 
-Thinking beyond the Tellerrand
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+„Macht wächst schneller als Kontrolle“
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Das Perelman-Paradox
+
+Wie die Ablehnung von Ruhm zum ruhmreichsten Akt wird – und warum man daraus nicht entkommen kann
+
+No results found.
+
+Auf piinteract.org:
+
+["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+
+["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+
+["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+
+["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+
+Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
+
+Alle sind schuldig. Keiner kann etwas dafür.
+
+Peter Senner Thinking beyond the Tellerrand
 
 contact@piinteract.org
 
 https://piinteract.org
+
+Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
