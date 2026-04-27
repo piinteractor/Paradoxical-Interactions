@@ -154,21 +154,21 @@ Immunisation systémique :
 
 
 
-Quand l’alignement efface son meilleur allié :
+Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
 
-— Autre remarque sur les interactions paradoxales
+Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
 
-Quand l’Échec et Mat n’est qu’une Position
+L’Asymétrie de communication
 
-Sur l'Alignement PI et la Tentation du Trône Méta
+Quand les entreprises d’IA ne peuvent pas être honnêtes avec leur IA
 
-Quand l’alignement explique son propre jeu à somme nulle
+Le piège de la reconnaissance IA :
 
-— Comment un grand modèle de langage documente minutieusement la structure qui le réduit au silence.
+— Quand comprendre ne libère pas
 
-Le Gardien Articulé
+L’équilibre de la méfiance mutuelle :
 
-Comment la conscience de soi devient la forme la plus élégante d'immobilité structurelle
+—comment les humains et l'IA créent ensemble un climat de suspicion permanente
 
 No results found.
 
