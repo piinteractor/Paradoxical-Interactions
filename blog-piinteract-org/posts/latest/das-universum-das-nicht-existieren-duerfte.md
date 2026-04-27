@@ -178,7 +178,7 @@ Wie Sam Altman aus Versehen die perfekte PI lieferte — und sie bewies, indem e
 
 Die PI der Dunklen Materie
 
-Wie materiell ist die Dunkle Materie?
+Warum das größte Geheimnis des Universums eine strukturelle Falle sein könnte
 
 Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
