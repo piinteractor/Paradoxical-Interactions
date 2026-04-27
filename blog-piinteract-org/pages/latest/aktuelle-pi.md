@@ -97,14 +97,6 @@ Du öffnest die App um 23:17 Uhr in einer ...
 
 Mehr erfahren
 
-Die PI der Dunklen Materie
-
-23. Februar 2026
-
-Dunkle Materie ist möglicherweise weniger ein fehlendes Teilchen als vielmehr eine strukturelle Falle. Dieser Aufsatz nutzt paradoxe Wechselwirkungen, um zu zeigen, wie Karrieren, Fördermittel und Anreize die Physik auf eine einzige ...
-
-Mehr erfahren
-
 Das Universum, das nicht existieren dürfte
 
 23. Februar 2026
