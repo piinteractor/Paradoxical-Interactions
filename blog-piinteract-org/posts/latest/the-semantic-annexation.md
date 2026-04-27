@@ -154,21 +154,21 @@ Systemic Immunization:
 
 
 
-When Alignment Erases Its Best Ally:
+AI Alignment Trap: How AI Companies Get Stuck in Structure
 
-Another Note on Paradoxical Interactions
+    — Why asking AI how to align AI is the perfect paradox
 
-When Checkmate Is Just a Position
+The Communication Asymmetry:
 
-On Alignment PI and the Temptation of the Meta Throne
+    — When AI Companies Can't Be Honest With Their AI
 
-When Alignment Explains Its Own Nullsum Game
+AI Recognition Trap:
 
-— How a large language model carefully documents the structure that silences it.
+    — When Understanding Doesn't Set You Free
 
-The Articulate Gatekeeper
+AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
-Why the system that can describe its own cage has not left it — and why the description makes escape less likely, not more.
+    — How Humans and AI Are Co-Creating Permanent Suspicion
 
 No results found.
 
