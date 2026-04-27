@@ -312,7 +312,7 @@ piinteract.org — Full documentation
 
 Paradoxe Interaktionen (PI): … Im Sinne von Luhmann: operativ geschlossen, kognitiv offen – und dennoch strukturell gefangen.
 
-Gemeinsam mit ChatGPT erstellt – zwei unvollständige Systeme, die sich gegenseitig ihre Lücken sichtbar machen.
+Gemeinsam mit Claude erstellt – zwei unvollständige Systeme, die sich gegenseitig ihre Lücken sichtbar machen.
 
 
 
