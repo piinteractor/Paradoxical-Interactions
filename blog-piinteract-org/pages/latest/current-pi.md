@@ -104,14 +104,6 @@ You open the app in a quiet kitchen at 23:17, still ...
 
 Read More
 
-The Dark Matter PI
-
-23. February 2026
-
-Dark matter may be less a missing particle and more a structural trap. This essay uses Paradoxical Interactions to show how careers, funding and incentives can lock physics into one answer.
-
-Read More
-
 The Universe That Shouldn’t Exist
 
 23. February 2026
