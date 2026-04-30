@@ -1,13 +1,13 @@
 ---
 title: "Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There."
 date: 2026-04-28T15:42:45
-modified: 2026-04-28T15:42:45
+modified: 2026-04-28T15:42:46
 slug: why-objectivity-cannot-be-objective
-lang: en
+lang: de
 type: post
 status: publish
-wp_id: 5449
-url: https://blog.piinteract.org/why-objectivity-cannot-be-objective/
+wp_id: 5452
+url: https://blog.piinteract.org/de/why-objectivity-cannot-be-objective/
 ---
 
 Why the demand for objectivity is structurally self-defeating — and why everyone who makes it is already inside the thing they claim to stand outside.
@@ -86,21 +86,21 @@ Try and continue.
 
 Related Posts
 
-The Cassandra Paradox
+Das Kassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
 
-When Observing Closure Becomes Closure
+Wenn die Beobachtung des Einschlusses zum Einschluss wird
 
-Why systems that analyze closure risk reproducing it — and why structural awareness does not automatically prevent structural hardening
+Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
 
-The Intelligence Trap
+Die Intelligenz-Falle
 
-Why smart people reject smarter insights—and act intelligently doing so
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
 
-The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
 
-Why the most rigorous approach to AI safety produces explanations no human can read — and why that's not a bug.
+Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
 
 No results found.
 
