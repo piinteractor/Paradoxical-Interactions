@@ -118,6 +118,10 @@ Die nächste Runde hat keine vorgegebene Länge. Die Glocke dafür hat noch nich
 
 Verwandte Posts
 
+Blog Post Standard Template
+
+Second Title
+
 Das Universum, das nicht existieren dürfte
 
 Die Struktur, die ihre eigene Unmöglichkeit vorhersagt — und dann trotzdem existiert
