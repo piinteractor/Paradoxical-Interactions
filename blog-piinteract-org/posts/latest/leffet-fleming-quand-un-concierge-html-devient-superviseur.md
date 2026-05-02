@@ -347,6 +347,10 @@ Les liens thématiques les plus proches :
 
 
 
+Blog Post Standard Template
+
+Second Title
+
 Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
 
 Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
