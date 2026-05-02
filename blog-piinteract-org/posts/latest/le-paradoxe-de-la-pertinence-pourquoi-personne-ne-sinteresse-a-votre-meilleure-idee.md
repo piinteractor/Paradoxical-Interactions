@@ -244,6 +244,10 @@ Related Posts:
 
 
 
+Blog Post Standard Template
+
+Second Title
+
 Le Piège de l’Intelligence
 
 Pourquoi les gens intelligents rejettent les idées plus intelligentes – et agissent intelligemment ce faisant
@@ -269,6 +273,10 @@ Sur les structures qui transforment l'absence en continuation :
 
 
 
+
+Blog Post Standard Template
+
+Second Title
 
 Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
