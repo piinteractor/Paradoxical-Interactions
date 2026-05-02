@@ -112,6 +112,10 @@ Le round suivant n'a pas de durée prédéterminée. La cloche pour celui-là n'
 
 Articles connexes
 
+Blog Post Standard Template
+
+Second Title
+
 L’Univers qui ne devrait pas exister
 
 La structure qui prédit sa propre impossibilité — et qui existe quand même
