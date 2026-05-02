@@ -110,10 +110,6 @@ Articles connexes :
 
 ​Mécanismes de sacrifice structurel :
 
-Blog Post Standard Template
-
-Second Title
-
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
 Gagne la position. Garantis ta mort. Répète à l'infini.
@@ -123,10 +119,6 @@ Comment Elon Musk a pompé un memecoin sans dire un mot – Et pourquoi personne
 No results found.
 
 Avertissements qui échouent :
-
-Blog Post Standard Template
-
-Second Title
 
 Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
