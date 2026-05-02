@@ -225,10 +225,6 @@ See Also:
 
 
 
-Blog Post Standard Template
-
-Second Title
-
 Le Paradoxe de Validation : Analyse Approfondie
 
 Ou : Comment prouver un cadre théorique sur l'impossibilité structurelle lorsque la méthode de preuve est elle-même structurellement impossible ?
