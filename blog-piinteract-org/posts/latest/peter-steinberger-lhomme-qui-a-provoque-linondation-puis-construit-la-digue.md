@@ -152,6 +152,10 @@ Articles connexes :
 
 Les liens thématiques les plus proches :
 
+Blog Post Standard Template
+
+Second Title
+
 L’équilibre de la méfiance mutuelle :
 
 —comment les humains et l'IA créent ensemble un climat de suspicion permanente
