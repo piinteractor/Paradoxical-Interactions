@@ -264,6 +264,10 @@ Try and continue.
 
 Article connexes
 
+Blog Post Standard Template
+
+Second Title
+
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
 Gagne la position. Garantis ta mort. Répète à l'infini.
