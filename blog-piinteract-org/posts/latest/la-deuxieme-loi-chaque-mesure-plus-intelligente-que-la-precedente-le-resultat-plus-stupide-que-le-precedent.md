@@ -173,6 +173,10 @@ Articles Connexes
 
 
 
+Blog Post Standard Template
+
+Why two people with $20,000 can build what a $400M institution cannot — and why that is not a success story.
+
 L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
 
 Pourquoi réguler la fréquence des hausses de prix ne réduit pas la coordination des prix — et pourquoi elle la rend structurellement inévitable.
