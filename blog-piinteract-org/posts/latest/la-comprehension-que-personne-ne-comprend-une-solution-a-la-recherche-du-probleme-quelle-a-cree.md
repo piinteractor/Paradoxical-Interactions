@@ -114,10 +114,6 @@ L'offre d'emploi, c'est la structure rendue visible.
 
 Articles connexes
 
-Blog Post Standard Template
-
-Second Title
-
 Le Mur des 432 Paramètres. Une Offre d’Emploi pour la Mauvaise Personne.
 
 Pourquoi ceux qui ont le plus besoin de comprendre l'IA ne peuvent pas expliquer 432 paramètres — et pourquoi ils recrutent quand même.
