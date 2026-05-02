@@ -108,6 +108,10 @@ La version IA n'a pas d'équivalent. Personne n'a programmé le mensonge. Le men
 
 Article connexes
 
+Blog Post Standard Template
+
+Second Title
+
 « Le pouvoir évolue plus rapidement que l’alignement »
 
 Quand le PDG d'une entreprise de sécurité IA vous dit que le contrôle échoue, croyez-le
