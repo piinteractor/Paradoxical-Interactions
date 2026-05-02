@@ -796,10 +796,6 @@ Voir aussi :
 
 Connexes :
 
-Blog Post Standard Template
-
-Second Title
-
 Déserrorer la Pratique
 
 Ou: Pourquoi les systèmes sans erreur meurent plus vite que les systèmes défaillants
