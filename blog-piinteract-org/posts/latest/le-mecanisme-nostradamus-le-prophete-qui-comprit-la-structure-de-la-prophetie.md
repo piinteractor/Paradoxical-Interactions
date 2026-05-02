@@ -134,10 +134,6 @@ Essayez et continuez.
 
 Related Posts
 
-Blog Post Standard Template
-
-Second Title
-
 Le Paradoxe de Cassandre
 
 Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
