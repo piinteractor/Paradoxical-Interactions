@@ -106,10 +106,6 @@ Le pissenlit ne négocie pas avec le vent.
 
 Article connexes
 
-Blog Post Standard Template
-
-Second Title
-
 Le Paradoxe de Cassandre
 
 Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
