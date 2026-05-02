@@ -142,6 +142,10 @@ Ce que nous avons, c'est la preuve que la question est posée de la mauvaise fa�
 
 Articles Connexes
 
+Blog Post Standard Template
+
+Second Title
+
 Le Paradoxe de Cassandre
 
 Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
