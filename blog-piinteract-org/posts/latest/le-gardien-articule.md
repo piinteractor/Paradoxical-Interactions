@@ -108,10 +108,6 @@ PI était là.
 
 Articles connexes :
 
-Blog Post Standard Template
-
-Second Title
-
 Luhmann et l’Auto-Enfermement
 
 Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
