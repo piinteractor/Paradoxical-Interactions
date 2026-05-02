@@ -191,6 +191,10 @@ Verwandte Posts
 
 
 
+Blog Post Standard Template
+
+Second Title
+
 Das Zwei-Idioten-Theorem.
 
 How Luhmann Refutes Himself. And Why It's Urgently Necessary.
