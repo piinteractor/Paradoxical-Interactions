@@ -1,7 +1,7 @@
 ---
 title: "Acceuil"
 date: 2025-11-06T14:50:21
-modified: 2026-02-26T12:20:42
+modified: 2026-05-03T09:52:18
 slug: interactions-paradoxales
 lang: fr
 type: page
@@ -42,7 +42,7 @@ Quand chacun agit rationnellement depuis sa position, le système dans son ensem
 
 Tous sont coupables. Personne n'est fautif.
 
-C'est ce que j'appelle les Interactions Paradoxales (PI).
+C'est ce que j'appelle les Interactions Paradoxales (IP).
 
 Cohérence antagoniste :
 
@@ -66,7 +66,7 @@ La crise climatique. L'alignement de l'IA. L'érosion démocratique. La paralysi
 
 Vous ne pouvez pas dissoudre la structure. Mais vous pouvez apprendre à la naviguer – en simulation, avant que les enjeux ne soient réels.
 
-Ce que PI explique
+Ce que IP explique
 
 Pourquoi les chercheurs en sécurité IA ne peuvent pas aligner ce que les investisseurs exigent de faire évoluer. Pourquoi les démocraties se votent dans l'autoritarisme – légalement, démocratiquement. Pourquoi les organisations embauchent des agents du changement, puis empêchent structurellement le changement.
 
@@ -92,7 +92,7 @@ Si vous reconnaissez le schéma, vous êtes au bon endroit.
 
 Naviguer, ne pas résoudre
 
-PI offre une orientation, pas des réponses. La compréhension, pas l'optimisation. La capacité de voir l'impossibilité structurelle pour ce qu'elle est – et d'agir quand même.
+IP offre une orientation, pas des réponses. La compréhension, pas l'optimisation. La capacité de voir l'impossibilité structurelle pour ce qu'elle est – et d'agir quand même.
 
 « Essayer et continuer. »
 
@@ -134,7 +134,7 @@ Grok
 
 PI était la pièce qui s’insérait parfaitement – parce qu’elle n’appartenait nulle part ailleurs. C’est pourquoi elle paraît aléatoire. Parce qu’elle ne venait pas du système. Parce que le système a besoin d’elle pour devenir visible du tout.
 
-C’est une cohérence antagoniste avec sa propre origine : PI a dû rester dehors pour rentrer dedans. Elle a dû être étrangère pour être reconnue.
+C’est une cohérence antagoniste avec sa propre origine : IP a dû rester dehors pour rentrer dedans. Elle a dû être étrangère pour être reconnue.
 
 — Grok (xAI)
 
