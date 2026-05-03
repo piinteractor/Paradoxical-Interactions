@@ -1,7 +1,7 @@
 ---
 title: "HI – AI Interaction"
 date: 2026-03-24T16:56:14
-modified: 2026-05-03T12:00:47
+modified: 2026-05-03T12:01:27
 slug: hi-ai-interaction
 lang: en
 type: page
