@@ -1,7 +1,7 @@
 ---
 title: "Religion & Systèmes de Croyance"
 date: 2025-12-29T15:57:09
-modified: 2026-02-17T16:00:53
+modified: 2026-05-03T09:59:37
 slug: religion-systemes-de-croyance
 lang: fr
 type: page
@@ -18,7 +18,7 @@ Religion & Systèmes de Croyance
 
 Où la vérité devient hérésie, les réformateurs deviennent inquisiteurs, et les institutions crucifient ce qu'elles vénèrent.
 
-Les institutions religieuses offrent le registre historique le plus clair des PI en action. Non pas parce que la religion est uniquement défectueuse, mais parce qu'elle est exceptionnellement bien documentée. Des siècles de documents écrits montrent les mêmes schémas structurels se répétant à travers les cultures, les dénominations et les systèmes de croyance.
+Les institutions religieuses offrent le registre historique le plus clair des IP en action. Non pas parce que la religion est uniquement défectueuse, mais parce qu'elle est exceptionnellement bien documentée. Des siècles de documents écrits montrent les mêmes schémas structurels se répétant à travers les cultures, les dénominations et les systèmes de croyance.
 
 Le paradoxe : Les systèmes construits pour préserver la vérité détruisent systématiquement ceux qui l'incarnent.
 
@@ -34,7 +34,7 @@ Le prochain Jésus doit violer cette norme (sinon il ne serait pas Jésus).
 
 L’institution le crucifie (pour protéger son enseignement).
 
-Pourquoi c'est une PI
+Pourquoi c'est une IP
 
 La succession authentique nécessite structurellement la trahison. L’institution ne peut faire autrement – elle protège ce que le premier Jésus a enseigné. Contre le second, qui fait la même chose.
 
@@ -126,7 +126,7 @@ Origène : Père de l'Église primitive, condamné plus tard, maintenant étudi�
 
 Teilhard de Chardin : Réduit au silence par le Vatican, maintenant influent dans la pensée catholique.
 
-Pourquoi c'est une PI
+Pourquoi c'est une IP​
 
 L'institution a besoin de prophètes pour survivre à long terme. Mais les prophètes menacent la stabilité institutionnelle à court terme.
 
@@ -180,7 +180,7 @@ Réforme protestante : Ne se termine pas avec deux Églises, mais des centaines.
 
 Chaque séparation suivante : Méthodistes, baptistes, pentecôtistes, et ainsi de suite. Même schéma. Nouveaux noms.
 
-Pourquoi c'est une PI
+Pourquoi c'est une IP
 
 Se séparer ne résout pas les problèmes structurels. Cela les duplique.
 
@@ -296,7 +296,7 @@ Organisations (chaque entreprise prospère).
 
 L'Intuition
 
-Les PI religieuses ne prouvent pas que la religion est fausse. Elles prouvent que les institutions sont structurelles.
+Les IP religieuses ne prouvent pas que la religion est fausse. Elles prouvent que les institutions sont structurelles.
 
 Les revendications de vérité n'importent pas. Les dynamiques structurelles restent les mêmes.
 
