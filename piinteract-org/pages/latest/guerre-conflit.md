@@ -1,7 +1,7 @@
 ---
 title: "Guerre & Conflit"
 date: 2025-12-30T19:32:39
-modified: 2026-02-22T20:32:17
+modified: 2026-05-03T09:56:09
 slug: guerre-conflit
 lang: fr
 type: page
@@ -148,7 +148,7 @@ La mutinerie se propage. Devient révolution. Kaiser abdique le 9 novembre.
 
 La guerre se termine.
 
-La Structure PI Complète
+La Structure IP Complète
 
 Flotte Tirpitz aide à causer la guerre (course aux armements, hostilité britannique)
 
