@@ -1,7 +1,7 @@
 ---
 title: "Anti-Pratiques"
 date: 2025-12-17T22:10:00
-modified: 2026-03-30T08:07:21
+modified: 2026-05-03T10:12:03
 slug: anti-pratiques
 lang: fr
 type: page
@@ -18,7 +18,7 @@ Anti-Pratiques
 
 Ce qui garantit l'Échec
 
-Ces approches renforcent systématiquement les PI. Évitez-les. Ou pas. Mais ne soyez pas surpris quand elles échouent.
+Ces approches renforcent systématiquement les IP. Évitez-les. Ou pas. Mais ne soyez pas surpris quand elles échouent.
 
 « Plus de la Même Chose »
 
@@ -194,10 +194,6 @@ Alternative:
 
 Nomme l'asymétrie. Montre qui paie. Prétendre que tout le monde gagne crée du ressentiment quand la réalité frappe. Les compromis honnêtes battent les fausses promesses.
 
-Test Block
-
-Simple content without special characters.
-
 « Parlons Simplement »
 
 La communication résout les problèmes structurels.
@@ -292,10 +288,6 @@ Alternative:
 
 Demande ce que tu optimises avant de le rendre plus efficace. Perfectionner un mauvais système le rend pire, pas meilleur.
 
-Buridan's Donkey Test
-
-Simple content.
-
 « Trop de bonne volonté »
 
 Aide tellement fort que ça fait mal. Résous leur problème mieux qu’ils ne l’ont demandé.
@@ -322,7 +314,7 @@ Les nouvelles idées menacent les cadres existants. Il est plus facile de rédui
 
 Exemple:
 
-Un universitaire rencontre le cadre PI. « Ce n'est que le double lien de Bateson. » Réduction terminée. Aucun engagement avec ce qui est réellement nouveau : la dynamisation, l'inévitabilité structurelle, les principes de navigation. Bateson référencé, position sécurisée, apprentissage évité. Ou dans le monde des affaires : chaque innovation devient « essentiellement Uber pour X ». La complexité est réduite à un modèle. La compréhension est contournée. Le cadre est protégé.
+Un universitaire rencontre le cadre IP. « Ce n'est que le double lien de Bateson. » Réduction terminée. Aucun engagement avec ce qui est réellement nouveau : la dynamisation, l'inévitabilité structurelle, les principes de navigation. Bateson référencé, position sécurisée, apprentissage évité. Ou dans le monde des affaires : chaque innovation devient « essentiellement Uber pour X ». La complexité est réduite à un modèle. La compréhension est contournée. Le cadre est protégé.
 
 Alternative:
 
