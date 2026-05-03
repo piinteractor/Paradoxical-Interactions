@@ -1,7 +1,7 @@
 ---
 title: "Pratiques Fondamentales"
 date: 2025-12-17T22:09:59
-modified: 2026-03-30T08:17:56
+modified: 2026-05-03T10:21:12
 slug: pratiques-fondamentales
 lang: fr
 type: page
@@ -32,7 +32,7 @@ Basculer entre « je suis dans la structure » et « j'observe la structure de l
 
 Pourquoi ça navigue
 
-Du système A, l'action X est rationnelle. Du système B, la même action est irrationnelle. Quand vous êtes coincé dans une PI, vous ne voyez qu'un côté. Changer montre l'autre – et donc la structure elle-même.
+Du système A, l'action X est rationnelle. Du système B, la même action est irrationnelle. Quand vous êtes coincé dans une IP, vous ne voyez qu'un côté. Changer montre l'autre – et donc la structure elle-même.
 
 Si vous êtes ici
 
@@ -96,7 +96,7 @@ Distinguer entre problèmes de surface et structures sous-jacentes. La crise vis
 
 Pourquoi ça navigue
 
-Traiter les symptômes renforce la structure. Combattre ce que tu vois renforce ce que tu ne vois pas. Les structures PI génèrent des symptômes infinis. Si tu ne reconnais pas la structure, tu combats éternellement.
+Traiter les symptômes renforce la structure. Combattre ce que tu vois renforce ce que tu ne vois pas. Les structures IP génèrent des symptômes infinis. Si tu ne reconnais pas la structure, tu combats éternellement.
 
 Si tu es ici
 
@@ -124,7 +124,7 @@ Embrasser l'erreur comme méthode, pas comme échec.
 
 Pourquoi ça navigue
 
-Les PI sont structurellement opaques. Ceux qui cherchent la « correction » se figent. Ceux qui intègrent l'erreur restent mobiles.
+Les IP sont structurellement opaques. Ceux qui cherchent la « correction » se figent. Ceux qui intègrent l'erreur restent mobiles.
 
 Si vous êtes ici
 
@@ -176,7 +176,7 @@ Chercher la contradiction, pas la confirmation.
 
 Pourquoi ça navigue
 
-Les PI se renforcent dans les chambres d'écho. Les antagonistes révèlent les angles morts. Pas comme ennemis, mais comme correctifs structurels.
+Les IP se renforcent dans les chambres d'écho. Les antagonistes révèlent les angles morts. Pas comme ennemis, mais comme correctifs structurels.
 
 Si vous êtes ici
 
@@ -202,7 +202,7 @@ Ce que c'est
 
 Pourquoi ça navigue
 
-Les PI sont nébuleuses. Écrire force la précision. Ce que vous ne pouvez pas écrire, vous ne l'avez pas compris.
+Les IP sont nébuleuses. Écrire force la précision. Ce que vous ne pouvez pas écrire, vous ne l'avez pas compris.
 
 Si vous êtes ici
 
@@ -252,7 +252,7 @@ Clarté sans confort. Le paradoxe ne disparaît pas quand on le nomme. Mais vous
 
 Ce que c'est
 
-Reconnaître que les PI sont toujours asymétriques. Le pouvoir, les ressources et les options sont inégalement distribués. L'équité est structurellement impossible.
+Reconnaître que les IP sont toujours asymétriques. Le pouvoir, les ressources et les options sont inégalement distribués. L'équité est structurellement impossible.
 
 Pourquoi ça navigue
 
@@ -282,7 +282,7 @@ Reconnaître quand votre navigation devient trop confiante – et changer délib
 
 Pourquoi ça navigue
 
-Les structures PI absorbent les stratégies réussies. Ce qui fonctionnait hier devient le piège de demain. La certitude dans la navigation PI est un aveuglement structurel. Quand vous vous sentez en sécurité, vous faites probablement partie du schéma.
+Les structures IP absorbent les stratégies réussies. Ce qui fonctionnait hier devient le piège de demain. La certitude dans la navigation IP est un aveuglement structurel. Quand vous vous sentez en sécurité, vous faites probablement partie du schéma.
 
 Si vous êtes ici
 
@@ -320,7 +320,7 @@ Certains schémas se nourrissent de confrontation directe. Plus vous poussez fro
 
 Si vous êtes ici
 
-Vous essayez de briser la PI par la force directe.
+Vous essayez de briser la IP par la force directe.
 
 Plus vous poussez frontalement, pire ça devient.
 
@@ -390,19 +390,19 @@ Attendez-vous à ceci
 
 Lâcher prise ressemble à perdre le contrôle. Parce que vous le perdez. Mais l'attachement tue la distribution. Plus vous tenez fermement, moins ça se propage.
 
-14. PI n'est pas le désespoir
+14. IP n'est pas le désespoir
 
 Ce que c'est
 
-Reconnaître que naviguer sans illusion n'est pas la même chose que la résignation. PI ne dit pas « rien n'a de sens » – il dit « les structures persistent malgré les bonnes intentions ».
+Reconnaître que naviguer sans illusion n'est pas la même chose que la résignation. IP ne dit pas « rien n'a de sens » – il dit « les structures persistent malgré les bonnes intentions ».
 
 Pourquoi ça navigue
 
-L'espoir qui ignore la structure mène à l'épuisement. Le nihilisme qui nie l'action mène à la paralysie. PI navigue entre les deux : action persistante sans résultats garantis.
+L'espoir qui ignore la structure mène à l'épuisement. Le nihilisme qui nie l'action mène à la paralysie. IP navigue entre les deux : action persistante sans résultats garantis.
 
 Si vous êtes ici
 
-Tu lis PI et tu penses : « Donc tout est inutile ? »
+Tu lis IP et tu penses : « Donc tout est inutile ? »
 
 Tu confonds « pas de solution » avec « pas d'action possible »
 
@@ -412,13 +412,13 @@ Ce mouvement est possible
 
 « Tous sont coupables. Personne n'y peut rien » n'est pas du défaitisme – c'est de la clarté.
 
-« Try and continue » n'est pas de la résignation – c'est de la persistance sans illusion.
+« Essayez et continuez » n'est pas de la résignation – c'est de la persistance sans illusion.
 
 Pas de solution ≠ pas de navigation.
 
 Attendez-vous à ceci
 
-PI retire les narratifs réconfortants. Ça peut sembler être du désespoir. Ça ne l'est pas. C'est retirer le faux espoir pour voir ce qui est réellement navigable.
+IP retire les narratifs réconfortants. Ça peut sembler être du désespoir. Ça ne l'est pas. C'est retirer le faux espoir pour voir ce qui est réellement navigable.
 
 15. Les Contradictions Sont des Fonctionnalités, Pas des Bugs
 
@@ -428,7 +428,7 @@ Nous nous contredisons. Souvent. Nous disons "pas de solutions" puis suggérons 
 
 Pourquoi ça navigue
 
-Tout framework revendiquant la cohérence dans des structures paradoxales ment—ou n'a pas encore compris. PI ne peut pas être systématique. Les contradictions ne sont pas des erreurs à corriger. Ce sont des signaux que tu vois la structure clairement. Quand quelqu'un nous prend en contradiction—il a raison. C'est la navigation qui fonctionne.
+Tout framework revendiquant la cohérence dans des structures paradoxales ment—ou n'a pas encore compris. IP ne peut pas être systématique. Les contradictions ne sont pas des erreurs à corriger. Ce sont des signaux que tu vois la structure clairement. Quand quelqu'un nous prend en contradiction—il a raison. C'est la navigation qui fonctionne.
 
 Si vous êtes ici
 
@@ -442,7 +442,7 @@ Maintiens les contradictions. Ne les résous pas. Utilise les deux parties—mê
 
 Attendez-vous à ceci
 
-Frustration. Le besoin de clôture. L'envie de choisir une vérité et de rejeter l'autre. Accusations de malhonnêteté intellectuelle. Tout normal. PI n'est pas sans espoir. Mais c'est toujours contradictoire.
+Frustration. Le besoin de clôture. L'envie de choisir une vérité et de rejeter l'autre. Accusations de malhonnêteté intellectuelle. Tout normal. IP n'est pas sans espoir. Mais c'est toujours contradictoire.
 
 Celui qui nous surprend en contradiction a raison.
 
