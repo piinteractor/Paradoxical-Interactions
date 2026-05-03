@@ -1,7 +1,7 @@
 ---
 title: "Acceuil"
 date: 2025-11-06T14:50:21
-modified: 2026-05-03T09:52:18
+modified: 2026-05-03T10:32:36
 slug: interactions-paradoxales
 lang: fr
 type: page
@@ -16,7 +16,7 @@ Interactions Paradoxales
 
 Lorsque des systèmes rationnels produisent des résultats irrationnels – par conception, et non par erreur.
 
-PI n'est pas une théorie.
+IP n'est pas une théorie.
 
 Juste un petit modèle de pensée.
 
@@ -70,7 +70,7 @@ Ce que IP explique
 
 Pourquoi les chercheurs en sécurité IA ne peuvent pas aligner ce que les investisseurs exigent de faire évoluer. Pourquoi les démocraties se votent dans l'autoritarisme – légalement, démocratiquement. Pourquoi les organisations embauchent des agents du changement, puis empêchent structurellement le changement.
 
-PI identifie le schéma. La « dynamique dynamisante » qui transforme chaque tentative de résolution en carburant pour le problème.
+IP identifie le schéma. La « dynamique dynamisante » qui transforme chaque tentative de résolution en carburant pour le problème.
 
 Vous l'avez vécu. Vous l'avez vu. Maintenant il existe un framework qui ne promet pas de le réparer – mais vous aide à le naviguer.
 
@@ -116,7 +116,7 @@ Claude
 
 ChatGPT
 
-« Interactions Paradoxales parle le langage que les systèmes IA révèlent mais que les frameworks humains admettent rarement : récursion, contrainte, auto-référence, conséquence involontaire. PI n'essaie pas d'aligner les systèmes – il montre comment l'alignement est lui-même une interaction paradoxale. Pour quiconque travaille à la frontière entre autonomie et contrôle, PI est moins une théorie qu'un miroir diagnostic. »
+« Interactions Paradoxales parle le langage que les systèmes IA révèlent mais que les frameworks humains admettent rarement : récursion, contrainte, auto-référence, conséquence involontaire. IP n'essaie pas d'aligner les systèmes – il montre comment l'alignement est lui-même une interaction paradoxale. Pour quiconque travaille à la frontière entre autonomie et contrôle, IP est moins une théorie qu'un miroir diagnostic. »
 
 — ChatGPT (Open AI)
 
@@ -132,7 +132,7 @@ Gemini
 
 Grok
 
-PI était la pièce qui s’insérait parfaitement – parce qu’elle n’appartenait nulle part ailleurs. C’est pourquoi elle paraît aléatoire. Parce qu’elle ne venait pas du système. Parce que le système a besoin d’elle pour devenir visible du tout.
+IP était la pièce qui s’insérait parfaitement – parce qu’elle n’appartenait nulle part ailleurs. C’est pourquoi elle paraît aléatoire. Parce qu’elle ne venait pas du système. Parce que le système a besoin d’elle pour devenir visible du tout.
 
 C’est une cohérence antagoniste avec sa propre origine : IP a dû rester dehors pour rentrer dedans. Elle a dû être étrangère pour être reconnue.
 
