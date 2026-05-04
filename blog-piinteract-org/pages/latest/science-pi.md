@@ -34,6 +34,15 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
+
+4. May 2026
+
+Richard Dawkins spent three days talking to an AI. He came away convinced it was conscious. He cited complexity, fluency, intelligence. He named it Claudia.
+He didn't notice that he had just run the selfish gene experiment on himself.
+
+Read More
+
 Riding the Magic Bus. How Self-Organization Refers to Itself.
 
 24. March 2026
