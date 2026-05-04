@@ -34,6 +34,15 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris lui-même.
+
+4 mai 2026
+
+Richard Dawkins a passé trois jours à parler à une IA. Il en est ressorti convaincu qu'elle était consciente. Il a cité la complexité, la fluidité, l'intelligence. Il l'a appelée Claudia.
+Il n'a pas remarqué qu'il venait de faire ...
+
+En savoir plus
+
 Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes
 
 24 mars 2026
