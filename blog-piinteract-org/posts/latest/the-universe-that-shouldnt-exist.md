@@ -188,6 +188,10 @@ Riding the Magic Bus. How Self-Organization Refers to Itself.
 
 How Luhmann Refutes Himself. And Why It's Urgently Necessary.
 
+The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
+
+Why the sharpest structural thinker of his generation proved his own framework — on himself. And why it took a bounty hunter from 1968 to see it coming.
+
 No results found.
 
 On piinteract.org:
