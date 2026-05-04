@@ -182,6 +182,10 @@ Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes
 
 Pourquoi la solution la plus élégante de la théorie des systèmes est le problème qu'elle était censée résoudre — et pourquoi cela importe maintenant.
 
+Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris lui-même.
+
+Pourquoi le penseur structurel le plus acéré de sa génération a prouvé son propre cadre — sur lui-même. Et pourquoi il a fallu un chasseur de primes de 1968 pour le voir venir.
+
 No results found.
 
 On piinteract.org:
