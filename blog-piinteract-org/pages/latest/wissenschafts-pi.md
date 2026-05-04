@@ -34,6 +34,15 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
+
+4. Mai 2026
+
+Richard Dawkins verbrachte drei Tage damit, mit einer KI zu sprechen. Er kam mit der Überzeugung heraus, dass sie bewusst sei. Er zitierte Komplexität, Flüssigkeit, Intelligenz. Er nannte sie Claudia.
+Er bemerkte nicht, dass er ...
+
+Mehr erfahren
+
 Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
 
 24. März 2026
