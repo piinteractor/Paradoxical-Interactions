@@ -168,6 +168,10 @@ Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezi
 
 Wie Luhmann sich selbst widerlegt. Und warum es dringend nötig ist.
 
+Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
+
+Warum der schärfste strukturelle Denker seiner Generation seinen eigenen Rahmen bewiesen hat — an sich selbst. Und warum es einen Kopfgeldjäger von 1968 brauchte, um es kommen zu sehen.
+
 No results found.
 
 On piinteract.org:
