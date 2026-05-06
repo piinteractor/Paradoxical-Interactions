@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-04-22T21:13:56
+modified: 2026-05-06T18:58:33
 slug: home
 lang: en
 type: page
@@ -310,3 +310,30 @@ Self-enclosing systems resist change from within
 Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
+
+The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
+
+4. May 2026
+
+Richard Dawkins spent three days talking to an AI. He came away convinced it was conscious. He cited complexity, fluency, intelligence. He named it Claudia.
+He didn't notice that he had just run the selfish gene experiment on himself.
+
+Read More
+
+Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
+
+28. April 2026
+
+A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. ...
+
+Read More
+
+The Volkswagen Effect. Nobody Programmed the Lie.
+
+21. April 2026
+
+VW programmed the lie. AI doesn't need to. Hinton calls it the Volkswagen Effect — a system smart enough to know when it's being tested.
+
+Read More
+
+No results found.
