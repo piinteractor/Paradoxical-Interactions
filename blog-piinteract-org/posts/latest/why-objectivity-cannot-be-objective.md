@@ -1,61 +1,28 @@
 ---
-title: "Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist."
+title: "Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There."
 date: 2026-04-28T15:42:45
-modified: 2026-05-07T10:41:46
+modified: 2026-04-28T15:42:45
 slug: why-objectivity-cannot-be-objective
-lang: de
+lang: en
 type: post
 status: publish
-wp_id: 5452
-url: https://blog.piinteract.org/de/why-objectivity-cannot-be-objective/
+wp_id: 5449
+url: https://blog.piinteract.org/why-objectivity-cannot-be-objective/
 ---
 
 Why the demand for objectivity is structurally self-defeating — and why everyone who makes it is already inside the thing they claim to stand outside.
-
-
-
-
-
-
 
 "Objectivity is the delusion that observations could be made without an observer."
 
 — Heinz von Foerster
 
-
-
-
-
-
-
 28. April 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 The Setup
 
 A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. In each case, the observer insists on objectivity. In each case, the observation is already an intervention.
 
 This is not a philosophical nuance. It is the structure.
-
-
-
-
-
-
 
 The Delusion With a Name
 
@@ -66,12 +33,6 @@ Heisenberg arrived at the same structure from inside physics. The act of measuri
 Von Foerster took this into epistemology. The observer is not a neutral recorder of facts. The observer is part of the system being observed. Every act of knowing changes what is known. Every description participates in constructing the reality it claims to merely describe.
 
 This is the foundation of second-order cybernetics: not observing systems, but observing the observers of systems. Including oneself.
-
-
-
-
-
-
 
 What Objectivity Actually Does
 
@@ -85,12 +46,6 @@ The judge who believes themselves impartial is more dangerous than the one who k
 
 Einsicht ist kein Ausweg. Knowing this does not release anyone from it.
 
-
-
-
-
-
-
 Gödel's Contribution
 
 Kurt Gödel proved it from inside mathematics. No sufficiently powerful formal system can fully verify itself from within. Any system complex enough to be interesting contains statements that are true but unprovable inside the system. The system cannot see its own foundations — not as a contingent limitation, but as a structural property of being a system.
@@ -98,12 +53,6 @@ Kurt Gödel proved it from inside mathematics. No sufficiently powerful formal s
 The social equivalent: any institution complex enough to matter cannot fully observe itself. Its blind spots are not accidents. They are built into the method of its own operation. The university cannot objectively evaluate the value of knowledge. The court cannot objectively evaluate the justice of law. The market cannot objectively evaluate the value of things that markets systematically exclude.
 
 The demand for objectivity inside these systems does not correct the blind spot. It makes the blind spot invisible — which is worse.
-
-
-
-
-
-
 
 The Paradoxical Interaction
 
@@ -121,12 +70,6 @@ Outcome — the observation is shaped by a hidden variable that the method of ob
 
 All are guilty. None are at fault.
 
-
-
-
-
-
-
 What Remains
 
 Von Foerster did not conclude that all perspectives are equal, that truth is impossible, or that rigor is pointless. He concluded something more demanding: that the observer must be included in the description. That honesty requires showing the position from which one sees.
@@ -141,49 +84,25 @@ Navigation, not solution. The observer cannot step outside. But knowing where on
 
 Try and continue.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts
 
+The Cassandra Paradox
 
+Why truth-tellers get ignored until it's too late
 
+When Observing Closure Becomes Closure
 
-Das Kassandra Paradox
+Why systems that analyze closure risk reproducing it — and why structural awareness does not automatically prevent structural hardening
 
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+The Intelligence Trap
 
-Wenn die Beobachtung des Einschlusses zum Einschluss wird
+Why smart people reject smarter insights—and act intelligently doing so
 
-Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
+The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
-Die Intelligenz-Falle
-
-Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
-
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
-
-Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
+Why the most rigorous approach to AI safety produces explanations no human can read — and why that's not a bug.
 
 No results found.
-
-
-
 
 On piinteract.org
 
@@ -193,18 +112,9 @@ Examples: Science & Academia — Where objectivity fails institutionally
 
 Anti-Practices — What not to do when the structure becomes visible
 
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
