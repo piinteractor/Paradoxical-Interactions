@@ -195,10 +195,6 @@ Related Posts
 
 
 
-Blog Post Standard Template
-
-Second Title
-
 Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
 
 Eine Stellenanzeige für die falsche Person.
