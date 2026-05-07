@@ -190,10 +190,6 @@ Verwandte Beiträge
 
 
 
-Blog Post Standard Template
-
-Second Title
-
 Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
 Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
