@@ -320,11 +320,11 @@ Er bemerkte nicht, dass er ...
 
 Read More
 
-Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 
 28. April 2026
 
-A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. ...
+Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Manager bewertet ein ...
 
 Read More
 
