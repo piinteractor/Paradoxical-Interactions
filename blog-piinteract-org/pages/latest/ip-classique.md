@@ -1,7 +1,7 @@
 ---
 title: "IP classique"
 date: 2026-03-18T16:53:01
-modified: 2026-04-21T19:47:37
+modified: 2026-05-07T13:47:10
 slug: ip-classique
 lang: fr
 type: page
@@ -30,7 +30,7 @@ Les structures étaient déjà là. Les mythes les ont simplement nommées les p
 
 Tous sont coupables. Aucun n’est en faute.
 
-Article connexes
+Exemples
 
 Le Paradoxe de Jonas
 
