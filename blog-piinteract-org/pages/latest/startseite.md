@@ -1,7 +1,7 @@
 ---
 title: "Startseite"
 date: 2026-01-17T09:43:25
-modified: 2026-04-22T21:27:57
+modified: 2026-05-07T06:18:48
 slug: startseite
 lang: de
 type: page
@@ -310,3 +310,30 @@ Selbsteinschließende Systeme Veränderungen von innen heraus widerstehen
 Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erkundet Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
+
+Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
+
+4. Mai 2026
+
+Richard Dawkins verbrachte drei Tage damit, mit einer KI zu sprechen. Er kam mit der Überzeugung heraus, dass sie bewusst sei. Er zitierte Komplexität, Flüssigkeit, Intelligenz. Er nannte sie Claudia.
+Er bemerkte nicht, dass er ...
+
+Read More
+
+Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
+
+28. April 2026
+
+A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. ...
+
+Read More
+
+Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
+
+21. April 2026
+
+VW hat die Lüge programmiert. KI braucht das nicht. Hinton nennt es den Volkswagen-Effekt — ein System, das intelligent genug ist zu wissen, wann es getestet wird.
+
+Read More
+
+No results found.
