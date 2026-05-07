@@ -1,7 +1,7 @@
 ---
 title: "Classical PI"
 date: 2026-03-18T16:53:01
-modified: 2026-04-21T17:52:24
+modified: 2026-05-07T13:47:54
 slug: classical-pi
 lang: en
 type: page
@@ -30,7 +30,7 @@ The structures were already there. The myths just named them first.
 
 All are guilty. None are at fault.
 
-Related Posts
+Examples
 
 The Jonah Paradox
 
