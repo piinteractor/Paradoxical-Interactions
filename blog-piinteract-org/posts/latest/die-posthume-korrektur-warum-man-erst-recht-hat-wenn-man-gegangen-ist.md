@@ -221,10 +221,6 @@ Verwandte Beiträge
 
 
 
-Blog Post Standard Template
-
-Second Title
-
 Das Kassandra Paradox
 
 Warum Wahrheitssager ignoriert werden – bis es zu spät ist
