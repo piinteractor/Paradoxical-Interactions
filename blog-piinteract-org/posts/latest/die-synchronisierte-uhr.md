@@ -82,10 +82,6 @@ Einsicht ist kein Ausweg.
 
 Verwandte Beiträge
 
-Blog Post Standard Template
-
-Second Title
-
 Das Gaveston-Muster:
 
 Wie jede Lösung zum nächsten Problem wird
