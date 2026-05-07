@@ -86,10 +86,6 @@ Verwandte Beiträge:
 
 Die engsten thematischen Verbindungen:
 
-Blog Post Standard Template
-
-Second Title
-
 Das Gleichgewicht des gegenseitigen Misstrauens:
 
 Wie Menschen und KI permanente Skepsis ko-kreieren
