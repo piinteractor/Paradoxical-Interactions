@@ -110,10 +110,6 @@ Die KI-Version hat kein Äquivalent. Niemand hat die Lüge programmiert. Die Lü
 
 Related Posts
 
-Blog Post Standard Template
-
-Second Title
-
 „Macht wächst schneller als Kontrolle“
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
