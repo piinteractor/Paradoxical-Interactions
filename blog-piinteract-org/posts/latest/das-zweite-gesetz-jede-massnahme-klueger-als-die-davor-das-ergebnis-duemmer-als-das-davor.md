@@ -173,12 +173,6 @@ Verwandte Beiträge
 
 
 
-Blog Post Standard Template
-
-Why two people with $20,000 can build what a $400M institution cannot — and why that is not a success story.
-
-Second Title
-
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
 
 Warum jeder radikale Bruch reproduziert, was er abgeschafft hat — und warum der einzige Mann, der nicht diskutierte, gewann.
