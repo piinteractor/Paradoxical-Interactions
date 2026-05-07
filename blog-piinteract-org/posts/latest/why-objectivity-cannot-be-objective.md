@@ -1,140 +1,120 @@
 ---
-title: "Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist."
+title: "Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There."
 date: 2026-04-28T15:42:45
-modified: 2026-05-07T12:08:40
+modified: 2026-04-28T15:42:45
 slug: why-objectivity-cannot-be-objective
-lang: de
+lang: en
 type: post
 status: publish
-wp_id: 5452
-url: https://blog.piinteract.org/de/why-objectivity-cannot-be-objective/
+wp_id: 5449
+url: https://blog.piinteract.org/why-objectivity-cannot-be-objective/
 ---
 
-Warum die Forderung nach Objektivität strukturell selbstzerstörerisch ist — und warum jeder, der sie stellt, bereits in dem steckt, was er vorgibt, von außen zu betrachten.
+Why the demand for objectivity is structurally self-defeating — and why everyone who makes it is already inside the thing they claim to stand outside.
 
-„Objektivität ist die Illusion, daß Beobachtungen ohne einen Beobachter gemacht werden können.“
+"Objectivity is the delusion that observations could be made without an observer."
 
 — Heinz von Foerster
 
 28. April 2026
 
-Das Setting
+The Setup
 
-Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Manager bewertet ein Team. Die Bewertung verändert das Team. In jedem Fall besteht der Beobachter auf Objektivität. In jedem Fall ist die Beobachtung bereits eine Intervention.
+A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. In each case, the observer insists on objectivity. In each case, the observation is already an intervention.
 
-Das ist keine philosophische Nuance. Es ist die Struktur.
+This is not a philosophical nuance. It is the structure.
 
-Die Illusion mit Namen
+The Delusion With a Name
 
-Heinz von Foerster hat es präzise benannt: Objektivität ist eine Illusion. Kein Fehler. Keine Annäherung. Eine Illusion — der Glaube, es gebe eine Position, von der aus die Welt betrachtet werden kann, ohne durch das Betrachten verändert zu werden.
+Heinz von Foerster named it precisely: objectivity is a delusion. Not a mistake. Not an approximation. A delusion — the belief that a position exists from which the world can be seen without being altered by the seeing.
 
-Heisenberg ist von innen der Physik zur selben Struktur gelangt. Der Akt der Messung der Position eines Teilchens stört seinen Impuls. Es gibt keine Beobachtung ohne Eingriff. Die externe, neutrale Position existiert nicht — nicht als Beschränkung heutiger Instrumente, sondern als strukturelle Unmöglichkeit.
+Heisenberg arrived at the same structure from inside physics. The act of measuring a particle's position disturbs its momentum. There is no observation without interference. The external, neutral position does not exist — not as a limitation of current instruments, but as a structural impossibility.
 
-Von Foerster hat das in die Erkenntnistheorie überführt. Der Beobachter ist kein neutraler Protokollant von Fakten. Der Beobachter ist Teil des beobachteten Systems. Jeder Erkenntnisakt verändert das Erkannte. Jede Beschreibung nimmt teil an der Konstruktion der Wirklichkeit, die sie nur zu beschreiben vorgibt.
+Von Foerster took this into epistemology. The observer is not a neutral recorder of facts. The observer is part of the system being observed. Every act of knowing changes what is known. Every description participates in constructing the reality it claims to merely describe.
 
-Das ist die Grundlage der Kybernetik zweiter Ordnung: nicht Systeme beobachten, sondern die Beobachter von Systemen beobachten. Einschließlich sich selbst.
+This is the foundation of second-order cybernetics: not observing systems, but observing the observers of systems. Including oneself.
 
-Was Objektivität tatsächlich tut
+What Objectivity Actually Does
 
-Die Forderung nach Objektivität erzeugt keine Neutralität. Sie erzeugt eine spezifische Art von Blindheit.
+The demand for objectivity does not produce neutrality. It produces a specific kind of blindness.
 
-Wer darauf besteht, objektiv zu sein, hat bereits eine Wahl getroffen: sich selbst aus der Analyse auszuschließen. Die eigene Position als transparent, als gegeben, als irrelevant zu behandeln. Dieser Ausschluss ist nicht neutral. Er ist ein Zug — einer, der die folgenreichste Variable im System verbirgt: den eigenen Standort, das eigene Interesse, die eigene Methode des Blickens.
+The person who insists on being objective has already made a choice: to exclude themselves from the analysis. To treat their own position as transparent, as given, as irrelevant. This exclusion is not neutral. It is a move — one that hides the most consequential variable in the system: the observer's own location, interest, and method of looking.
 
-Objektivität, wie sie praktiziert wird, ist nicht die Abwesenheit von Perspektive. Es ist die Abwesenheit des Bewusstseins über Perspektive. Wodurch sie strukturell verzerrender wirkt als anerkannte Subjektivität.
+Objectivity, as practiced, is not the absence of perspective. It is the absence of awareness of perspective. Which makes it structurally more distorting than acknowledged subjectivity.
 
-Der Richter, der sich für unparteiisch hält, ist gefährlicher als jener, der seine Voreingenommenheiten kennt. Der Wissenschaftler, der sein Paradigma mit der Wirklichkeit verwechselt, ist gefangener als jener, der es mit leichter Hand hält. Die Institution, die ihre eigene Perspektive mit der Wahrheit verwechselt, ist zu dem geworden, was sie verhindern sollte.
+The judge who believes themselves impartial is more dangerous than the one who knows their biases. The scientist who mistakes their paradigm for reality is more captured than the one who holds it lightly. The institution that mistakes its own perspective for truth has become the thing it was designed to prevent.
 
-Einsicht ist kein Ausweg. Das zu wissen entlässt niemanden daraus.
+Einsicht ist kein Ausweg. Knowing this does not release anyone from it.
 
-Gödels Beitrag
+Gödel's Contribution
 
-Kurt Gödel hat es von innen der Mathematik bewiesen. Kein hinreichend mächtiges formales System kann sich vollständig von innen überprüfen. Jedes System, das komplex genug ist, um interessant zu sein, enthält Aussagen, die wahr, aber innerhalb des Systems unbeweisbar sind. Das System kann seine eigenen Grundlagen nicht sehen — nicht als zufällige Einschränkung, sondern als strukturelle Eigenschaft, ein System zu sein.
+Kurt Gödel proved it from inside mathematics. No sufficiently powerful formal system can fully verify itself from within. Any system complex enough to be interesting contains statements that are true but unprovable inside the system. The system cannot see its own foundations — not as a contingent limitation, but as a structural property of being a system.
 
-Das soziale Äquivalent: Jede Institution, die komplex genug ist, um zu zählen, kann sich nicht vollständig selbst beobachten. Ihre blinden Flecken sind keine Zufälle. Sie sind in die Methode ihres eigenen Betriebs eingebaut. Die Universität kann den Wert von Wissen nicht objektiv bewerten. Das Gericht kann die Gerechtigkeit des Rechts nicht objektiv bewerten. Der Markt kann den Wert von Dingen nicht objektiv bewerten, die Märkte systematisch ausschließen.
+The social equivalent: any institution complex enough to matter cannot fully observe itself. Its blind spots are not accidents. They are built into the method of its own operation. The university cannot objectively evaluate the value of knowledge. The court cannot objectively evaluate the justice of law. The market cannot objectively evaluate the value of things that markets systematically exclude.
 
-Die Forderung nach Objektivität innerhalb dieser Systeme korrigiert den blinden Fleck nicht. Sie macht den blinden Fleck unsichtbar — was schlimmer ist.
+The demand for objectivity inside these systems does not correct the blind spot. It makes the blind spot invisible — which is worse.
 
-Die zweite Richtung
+The Paradoxical Interaction
 
-Von Foerster hat eine Richtung beschrieben: Der Beobachter verändert das Beobachtete. Das ist bereits genug, um Objektivität strukturell unmöglich zu machen.
+The Objectivity PI: Every system that demands objectivity from its participants produces, through that demand, a specific and systematic distortion — because the demand for objectivity excludes the observer from the analysis, thereby hiding the most consequential variable.
 
-Aber es gibt eine zweite Richtung. Und die ist die schärfere.
+Everyone acts rationally:
 
-Das Beobachtete verändert den Beobachter.
+The observer demands objectivity — to ensure reliability and trust
 
-Der Wissenschaftler, der jahrelang ein System beobachtet, wird durch dieses System geformt. Seine Kategorien, seine Fragestellungen, seine Wahrnehmungsschwellen — alles trägt die Handschrift des Gegenstands. Der Journalist, der über Krisen berichtet, entwickelt einen Krisenblick: Er sieht Krise, wo andere Alltag sehen, weil die Krise ihn geformt hat. Der Manager, der ein Team bewertet, beginnt das Team durch seine Bewertungskategorien zu sehen — und kann irgendwann nicht mehr anders.
+The observer excludes themselves from the observation — because that is what objectivity requires
 
-Wer sich mit Paradoxen Interaktionen beschäftigt, sieht nur noch paradoxe Interaktionen.
+The system treats the observer's position as transparent — because acknowledging it would violate the standard
 
-Beide Richtungen zusammen erzeugen eine Wechselwirkung ohne stabilen Ausgangspunkt. Der Beobachter verändert das Beobachtete — das veränderte Beobachtete verändert den Beobachter — der veränderte Beobachter beobachtet anders — das Beobachtete verändert sich wieder. Kein fester Referenzpunkt. Keine neutrale Nulllage. Keine Objektivität — nicht einmal als regulative Idee.
+Outcome — the observation is shaped by a hidden variable that the method of objectivity guarantees will never be examined
 
-Von Foerster hat das nicht ausformuliert. Vermutlich nicht, weil er es nicht sah — sondern weil die zweite Richtung seinen eigenen Rahmen aufgelöst hätte. Kybernetik zweiter Ordnung setzt noch einen Beobachter voraus, der beobachtet. Einer, der seinerseits geformt wird durch das, was er beobachtet, ist kein Beobachter mehr im klassischen Sinn. Das Messsystem kollabiert. Der wissenschaftliche Betrieb — das Beobachtete, das Von Foerster täglich beobachtete — hatte ihn bereits geformt. Er konnte nur so weit gehen, wie die Struktur ihn ließ.
+All are guilty. None are at fault.
 
-Das ist keine Kritik. Es ist die Struktur, die er selbst beschrieben hat — angewandt auf den, der sie beschrieben hat.
+What Remains
 
-Die Paradoxe Interaktion
+Von Foerster did not conclude that all perspectives are equal, that truth is impossible, or that rigor is pointless. He concluded something more demanding: that the observer must be included in the description. That honesty requires showing the position from which one sees.
 
-Die Objektivitäts-PI: Jedes System, das von seinen Teilnehmern Objektivität fordert, erzeugt durch diese Forderung eine spezifische und systematische Verzerrung — weil Beobachter und Beobachtetes sich wechselseitig konstituieren und damit jede Außenposition strukturell ausgeschlossen ist.
+This is harder than objectivity. Objectivity is a posture — clean, credentialed, above the fray. Acknowledged perspective requires exposure. It requires saying: I see this from here, with these instruments, shaped by these interests and these limits. That is what I can offer.
 
-Alle handeln rational:
+PI does not claim objectivity. It claims structural consistency — which is different. A framework can be tested against itself. It either holds or it doesn't. The test is not: does it come from nowhere? The test is: does it apply to itself?
 
-Der Beobachter fordert Objektivität — um Verlässlichkeit und Vertrauen zu gewährleisten
+It does. This post is written from inside the structure it describes.
 
-Der Beobachter schließt sich selbst aus der Beobachtung aus — weil Objektivität genau das verlangt
+Navigation, not solution. The observer cannot step outside. But knowing where one stands is not nothing.
 
-Das Beobachtete formt den Beobachter — ohne dass dieser es bemerkt oder benennen kann
+Try and continue.
 
-Das System behandelt die Position des Beobachters als transparent — weil ihre Anerkennung den Standard verletzen würde
+Related Posts
 
-Ergebnis — die Beobachtung wird durch eine verborgene Wechselwirkung geprägt, die die Methode der Objektivität garantiert, niemals zu untersuchen
+The Cassandra Paradox
 
-Alle sind schuldig. Keiner kann etwas dafür.
+Why truth-tellers get ignored until it's too late
 
-Was bleibt
+When Observing Closure Becomes Closure
 
-Von Foerster hat nicht geschlossen, dass alle Perspektiven gleich seien, Wahrheit unmöglich sei oder Strenge sinnlos sei. Er hat etwas Anspruchsvolleres geschlossen: dass der Beobachter in die Beschreibung eingeschlossen werden muss.
+Why systems that analyze closure risk reproducing it — and why structural awareness does not automatically prevent structural hardening
 
-Die zweite Richtung verschärft das. Es reicht nicht, den Beobachter einzuschließen. Man muss fragen, wer den Beobachter geformt hat. Und wer den geformt hat. Irgendwo in dieser Kette sitzt das Beobachtete — und hat längst zurückgewirkt.
+The Intelligence Trap
 
-PI beansprucht keine Objektivität. Es beansprucht strukturelle Konsistenz — was ein Unterschied ist. Der Test lautet nicht: Kommt dieser Rahmen von nirgendwo? Der Test lautet: Gilt er für sich selbst?
+Why smart people reject smarter insights—and act intelligently doing so
 
-Er gilt. Dieser Post ist innerhalb der Struktur geschrieben, die er beschreibt. Und die Struktur hat denjenigen geschrieben, der die Struktur beschreibt.
+The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
-Navigation, keine Lösung. Der Beobachter kann nicht nach außen treten. Aber zu wissen, wo man steht — und was einen dorthin gebracht hat — ist nicht nichts.
-
-Versuchen und weitermachen.
-
-Verwandte Beiträge
-
-Das Kassandra Paradox
-
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
-
-Wenn die Beobachtung des Einschlusses zum Einschluss wird
-
-Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
-
-Die Intelligenz-Falle
-
-Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
-
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
-
-Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
+Why the most rigorous approach to AI safety produces explanations no human can read — and why that's not a bug.
 
 No results found.
 
-Auf piinteract.org
+On piinteract.org
 
-[Framework] — Die strukturelle Eigenschaft, die Heisenberg, Gödel und PI verbindet
+Framework — The structural property that connects Heisenberg, Gödel, and PI
 
-[Beispiele: Science & Academia] — Wo Objektivität institutionell versagt
+Examples: Science & Academia — Where objectivity fails institutionally
 
-[Anti-Practices] — Was nicht zu tun ist, wenn die Struktur sichtbar wird
+Anti-Practices — What not to do when the structure becomes visible
 
-Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
+Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
-Alle sind schuldig. Keiner kann etwas dafür.
+All are guilty. None are at fault.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -142,4 +122,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
+Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
