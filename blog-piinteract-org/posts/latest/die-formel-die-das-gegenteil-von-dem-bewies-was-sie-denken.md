@@ -114,10 +114,6 @@ Verwandte Posts
 
 Structural sacrifice mechanisms:
 
-Blog Post Standard Template
-
-Second Title
-
 Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
 Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
@@ -127,10 +123,6 @@ Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum nieman
 No results found.
 
 Warnings that fail:
-
-Blog Post Standard Template
-
-Second Title
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
