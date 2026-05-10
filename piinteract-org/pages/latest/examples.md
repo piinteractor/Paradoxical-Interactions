@@ -1,7 +1,7 @@
 ---
 title: "Examples"
 date: 2025-12-17T22:09:55
-modified: 2026-05-10T09:46:10
+modified: 2026-05-10T10:33:41
 slug: examples
 lang: en
 type: page
@@ -34,7 +34,7 @@ Every action forces reaction.
 
 Even ignorance is relationship
 
-Every action enforces a reaction.
+Every action, passive or active, enforces a reaction.
 
 There is no neutral position. You are always already part of the pattern.´
 
@@ -60,7 +60,7 @@ Skepticism becoming dogma. Quality control preventing innovation. Peer review as
 
 Religion & Belief Systems
 
-Where truth becomes heresy, reformers become inquisitors, and institutions crucify what they worship.
+Where truth becomes heresy, reformers become inquisitors, and churches crucify what they worship.
 
 War & Conflict
 
