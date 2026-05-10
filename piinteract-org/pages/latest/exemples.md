@@ -1,7 +1,7 @@
 ---
 title: "Exemples"
 date: 2025-12-17T22:09:55
-modified: 2026-05-10T09:38:05
+modified: 2026-05-10T10:36:10
 slug: exemples
 lang: fr
 type: page
@@ -58,7 +58,7 @@ Le scepticisme devient dogme. Le contrôle qualité empêche l'innovation. L'év
 
 Religion & Systèmes de Croyance
 
-Où la vérité devient hérésie, les réformateurs deviennent inquisiteurs, et les institutions crucifient ce qu'elles vénèrent.
+Où la vérité devient hérésie, où les réformateurs se transforment en inquisiteurs et où les Églises crucifient ce qu’elles vénèrent.
 
 Guerre & Conflit
 
