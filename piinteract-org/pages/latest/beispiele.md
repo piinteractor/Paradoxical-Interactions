@@ -1,7 +1,7 @@
 ---
 title: "Beispiele"
 date: 2025-12-17T22:09:55
-modified: 2026-05-10T09:34:41
+modified: 2026-05-10T10:32:13
 slug: beispiele
 lang: de
 type: page
@@ -18,21 +18,21 @@ Nach PI: Wo ist es nicht?
 
 Beispiele
 
-PI existieren überall. Sobald du das Muster einmal gesehen hast, kannst du es nicht mehr nicht sehen.
+PI existieren überall. Hat man das Muster einmal gesehen, kann man es nicht mehr nicht sehen.
 
-Dies sind keine isolierten Fehler. Es handelt sich um strukturelle Merkmale der Interaktion rationaler Akteure, wenn ihre Ziele, Einschränkungen und Perspektiven kollidieren.
+Dies sind keine isolierten Fehler. Es handelt sich um strukturelle Merkmale der Interaktion rationaler Akteure, wenn ihre Ziele, Einschränkungen und Perspektiven miteinander kollidieren.
 
 Du kannst nicht nicht interagieren.
 
-Auch Nicht-Handeln ist Handeln.
+Selbst Nicht-Handeln ist Handeln.
 
-Auch Schweigen ist Lärm.
+Selbst Schweigen ist Lärm.
 
-Auch Vermeiden ist Teilnahme.
+Selbst Vermeiden ist Teilnahme.
 
-Auch Ignoranz ist eine Beziehung.
+Selbst Ignoranz ist Beziehung.
 
-Jede Aktion erzwingt Reaktion.
+Jede Aktion, ob passiv oder aktiv erzwingt eine Reaktion.
 
 Es gibt keine neutrale Position. Man ist immer auch Teil des Musters.
 
@@ -58,7 +58,7 @@ Skepsis wird zum Dogma. Qualitätskontrolle verhindert Innovation. Peer Review a
 
 Religion & Glaubenssysteme
 
-Wo Wahrheit zur Ketzerei wird, Reformierende zu Inquisitoren werden und Institutionen das kreuzigen, was sie verehren.
+Wo Wahrheit zur Ketzerei wird, Reformatoren zu Inquisitoren werden und Kirchen kreuzigen, was sie anbeten.
 
 Krieg & Konflikt
 
