@@ -1,7 +1,7 @@
 ---
 title: "Exemples"
 date: 2025-12-17T22:09:55
-modified: 2026-05-03T10:29:40
+modified: 2026-05-10T09:38:05
 slug: exemples
 lang: fr
 type: page
@@ -30,7 +30,9 @@ Même le silence est bruit.
 
 Même l'évitement est participation.
 
-Chaque action force réaction.
+Même l'ignorance est une relation
+
+Toute action, passive ou active, entraîne une réaction
 
 Il n'y a pas de position neutre. Vous faites toujours partie du schéma.
 
