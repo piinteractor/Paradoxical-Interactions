@@ -1,7 +1,7 @@
 ---
 title: "Anti-Pratiques"
 date: 2025-12-17T22:10:00
-modified: 2026-05-03T10:12:03
+modified: 2026-05-10T12:58:22
 slug: anti-pratiques
 lang: fr
 type: page
@@ -351,6 +351,54 @@ Campagnes marketing qui crient « Écoutez-nous ! ». Mouvements politiques qui
 Alternative :
 
 Pose des marqueurs. Laisse-les te rencontrer quand la structure les y force.
+
+« L'équilibre de l'incompétence »
+
+La médiocrité mutuelle stabilise le système. La compétence menace cet équilibre.
+
+Pourquoi cela échoue-t-il ?
+
+La structure favorise l'incompétence. Ceux qui en savent trop sont exclus. Ceux qui remettent trop en question sont isolés. Il en résulte un système auto-stabilisateur où personne n'a intérêt à changer, car tout le monde tire profit de ce dysfonctionnement.
+
+Exemple :
+
+Organisations bureaucratiques : chaque service est incompétent à sa manière, mais les lacunes s’alignent. Le service des achats ne comprend pas l’informatique. L’informatique ne comprend pas la conformité. La conformité ne comprend pas les opérations. Ensemble, ils provoquent la paralysie. Quiconque est compétent dans tous les domaines devient une menace : il voit l’ensemble du schéma, exige le changement. Il est mis à l’écart. L’équilibre se rétablit.
+
+Alternative :
+
+Importer des compétences de l'extérieur de l'équilibre. La structure fait obstacle à la compréhension — contourner ce filtre. L'expertise externe n'est pas encore capturée.
+
+« Reste là où on a besoin de toi »
+
+La compétence acquise à un poste te lie à ce poste.
+
+Pourquoi cela ne fonctionne-t-il pas ?
+
+La promotion nécessite de prendre de la distance. Plus tu excelles là où tu es, plus tu deviens indispensable — et l’indispensabilité est l’antithèse structurelle de l’avancement. L’organisation ne peut pas se permettre de te muter. Tu ne peux pas te permettre de partir. La loyauté devient un plafond.
+
+La même dynamique s’applique aux relations personnelles. Les amis qui vous disent « reste comme tu es » le pensent sincèrement. Ce ne sont pas des ennemis. Ce sont des parties prenantes d’une version de vous-même qui ne sert plus votre trajectoire. Leur amour est réel. Son effet est conservateur. Les mains les plus chaleureuses sont celles qui serrent le plus fort.
+
+Exemple
+
+Le médecin de famille qui devient irremplaçable dans une petite ville. Le chef d’équipe qui ne peut pas être promu car l’équipe s’effondrerait. Le groupe d’amis qui se désagrège dès qu’un de ses membres part — car ce départ a prouvé que la structure tenait par inertie, et non par affection. Celui qui est parti est qualifié de « changé ». Ceux qui sont restés sont qualifiés de « loyaux ».
+
+Les deux descriptions sont exactes. Aucune n’est un compliment
+
+« Ne comptez pas sur une promotion simplement parce que vous êtes fidèle »
+
+La fidélité est la preuve. La sentence est le maintien en poste.
+
+Pourquoi cela échoue-t-il ?
+
+Les organisations promeuvent ceux qui arrivent, pas ceux qui restent. Celui qui vient de l’extérieur n’a ni passé, ni dette, ni lien. Celui qui est resté porte ces trois fardeaux. La fidélité est perçue comme une incapacité à partir — et cette incapacité à partir est perçue comme un manque d’options.
+
+La structure ne récompense pas l'engagement. Elle récompense la rareté. Et vous n'êtes jamais plus rare que le jour où vous démissionnez.
+
+Exemple
+
+Vingt ans de service. Un dossier impeccable. Écarté au profit d'un candidat embauché il y a six mois chez un concurrent. Non pas parce que ce candidat est meilleur. Mais parce qu'il n'a pas d'histoire ici. Personne ne lui doit rien. Personne ne craint ce qu'il sait.
+
+L'employé loyal n'a jamais été un candidat. Il faisait partie du mobilier.
 
 « Assez Parlé — Il Faut qu'on en Parle »
 
