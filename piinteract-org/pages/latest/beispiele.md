@@ -1,7 +1,7 @@
 ---
 title: "Beispiele"
 date: 2025-12-17T22:09:55
-modified: 2026-02-04T10:32:32
+modified: 2026-05-10T09:34:41
 slug: beispiele
 lang: de
 type: page
@@ -16,16 +16,7 @@ Nach PI: Wo ist es nicht?
 
 — Anonymous
 
-
-
-
 Beispiele
-
-
-
-
-
-
 
 PI existieren überall. Sobald du das Muster einmal gesehen hast, kannst du es nicht mehr nicht sehen.
 
@@ -39,91 +30,39 @@ Auch Schweigen ist Lärm.
 
 Auch Vermeiden ist Teilnahme.
 
+Auch Ignoranz ist eine Beziehung.
+
 Jede Aktion erzwingt Reaktion.
 
 Es gibt keine neutrale Position. Man ist immer auch Teil des Musters.
-
-
-
-
-
-
-
-
-
-
-
-
 
 Systeme & Macht
 
 Demokratie untergräbt sich selbst. Klimagipfel produzieren Emissionen. Rechtsprozesse untergraben Legalität.
 
-
-
-
-
-
-
 Technologie & KI
 
 Sicherheitsmaßnahmen erzeugen Schwachstellen. Wettbewerb verhindert Kooperation. Optimierung verlangsamt Systeme.
-
-
-
-
-
-
 
 Organisationen
 
 Abteilungen sind lokal erfolgreich, während das Ganze scheitert. Change-Initiativen erzeugen Widerstand. Best Practices blockieren Anpassung.
 
-
-
-
-
-
-
 Gesellschaft & Kultur
 
 Vier Busse im Kreisverkehr. Rettungsgassen blockieren Krankenwagen. Rationale Entscheidungen erzeugen kollektiven Stillstand.
-
-
-
-
-
-
 
 Wissenschaft & Akademie
 
 Skepsis wird zum Dogma. Qualitätskontrolle verhindert Innovation. Peer Review als Gatekeeping.
 
-
-
-
-
-
-
 Religion & Glaubenssysteme
 
 Wo Wahrheit zur Ketzerei wird, Reformierende zu Inquisitoren werden und Institutionen das kreuzigen, was sie verehren.
 
-
-
-
-
-
-
 Krieg & Konflikt
 
 Kriege beginnen aus Gründen, werden durch Strukturen fortgeführt und durch Erschöpfung beendet. Der Friedensstifter wird zum Verräter. Der Zyklus wiederholt sich.
-
-
-
-
-
-
 
 Lerne zu navigieren
 
