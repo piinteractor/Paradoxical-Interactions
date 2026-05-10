@@ -1,7 +1,7 @@
 ---
 title: "Science & Academia"
 date: 2025-12-17T22:09:58
-modified: 2026-05-10T13:49:38
+modified: 2026-05-10T15:33:17
 slug: science-academia
 lang: en
 type: page
@@ -40,27 +40,27 @@ The Church's rationality (defend doctrinal authority) and Galileo's rationality 
 
 The trap: The system designed to preserve truth cannot recognize new truth without destroying itself.
 
-Peer-Review-Gatekeeping
+Peer Review Gatekeeping
 
-Die Struktur:
+The structure:
 
-Fachzeitschriften nutzen Peer-Review, um Qualität zu gewährleisten. Gutachter sind Experten auf ihrem Gebiet. Experten verfügen über etablierte Positionen, Denkansätze und Karrieren, die auf aktuellen Paradigmen basieren. Einreichungen, die diese Paradigmen in Frage stellen, werden von Personen begutachtet, die an deren Gültigkeit festhalten. Radikale Ideen scheitern im Peer-Review-Verfahren nicht, weil sie falsch sind, sondern weil sie zu anders sind.
+Journals use peer review to ensure quality. Reviewers are experts in the field. Experts have established positions, frameworks, careers built on current paradigms. Submissions challenging those paradigms get reviewed by people invested in their validity. Radical ideas fail review not because they're wrong, but because they're too different.
 
-Warum jeder Akteur rational handelt: Warum es kollektiv scheitert:
+Why each actor is rational:Why it fails collectively:
 
-Zeitschriften: Wollen glaubwürdige Inhalte (Reputation ist wichtig)
+Journals: Want credible content (reputation matters)
 
-Gutachter: Wenden Fachstandards an (das ist Fachkompetenz)
+Reviewers: Apply field standards (that's expertise)
 
-Herausgeber: Vertrauen auf das Urteil von Experten (wer sonst könnte bewerten?)
+Editors: Trust expert judgment (who else can evaluate?)
 
-Etablierte Forscher: Verteidigen Rahmenkonzepte, die funktionieren (nicht böswillig, sondern schützend)
+Established researchers: Defend frameworks that work (not malicious, protective)
 
-Förderinstitutionen: Unterstützen peer-reviewte Forschung (wo sonst sollten sie Mittel vergeben?)
+Funding bodies: Support peer-reviewed research (where else to allocate?)
 
-Das System ist auf inkrementelle Fortschritte innerhalb akzeptierter Paradigmen optimiert. Paradigmenwechsel verstoßen – per Definition – gegen aktuelle Standards. Die Türhüter sind nicht voreingenommen, sie sind kompetent. Ihre Kompetenz ist das Problem.
+The system optimizes for incremental advances within accepted paradigms. Paradigm shifts—by definition—violate current standards. Gatekeepers aren't biased, they're competent. Their competence is the problem.
 
-Die Falle: Qualitätskontrolle wird zu Innovationskontrolle.
+The trap: Quality control becomes innovation control.
 
 Publish or Perish
 
