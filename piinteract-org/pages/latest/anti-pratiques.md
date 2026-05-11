@@ -1,7 +1,7 @@
 ---
 title: "Anti-Pratiques"
 date: 2025-12-17T22:10:00
-modified: 2026-05-10T12:58:22
+modified: 2026-05-11T13:47:58
 slug: anti-pratiques
 lang: fr
 type: page
@@ -200,9 +200,11 @@ La communication résout les problèmes structurels.
 
 Pourquoi ça échoue?
 
-Parler ne supplante pas les incitations. La structure bat le dialogue.
+Parler ne supplante pas les incitations. L'étroitesse d'esprit refuse tout argument. La structure bat le dialogue.
 
-Exemple: Réunions du conseil sur la « culture toxique ». Tout le monde est d'accord que c'est mauvais. Tout le monde y contribue le lendemain. Parce que la structure de promotion récompense le comportement toxique.
+Exemple:
+
+Réunions du conseil sur la « culture toxique ». Tout le monde est d'accord que c'est mauvais. Tout le monde y contribue le lendemain. Parce que la structure de promotion récompense le comportement toxique.
 
 Alternative:
 
