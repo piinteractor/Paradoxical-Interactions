@@ -1,7 +1,7 @@
 ---
 title: "The Intelligence Trap"
 date: 2026-01-26T12:10:46
-modified: 2026-05-11T16:52:53
+modified: 2026-05-11T17:02:02
 slug: the-intelligence-trap
 lang: en
 type: post
