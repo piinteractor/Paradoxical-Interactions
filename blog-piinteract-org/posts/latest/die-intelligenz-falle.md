@@ -1,7 +1,7 @@
 ---
 title: "Die Intelligenz-Falle"
 date: 2026-01-26T12:10:46
-modified: 2026-05-11T12:36:23
+modified: 2026-05-11T16:43:54
 slug: die-intelligenz-falle
 lang: de
 type: post
@@ -14,11 +14,11 @@ Warum intelligente Menschen intelligentere Erkenntnisse ablehnen – und dabei i
 
 26. Januar 2026
 
+Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
+
 „Die eigentliche Ursache der Probleme liegt darin, dass in der heutigen Welt die Dummköpfe von sich überzeugt sind, während die Intelligenten voller Zweifel sind“
 
 — Bertrand Russell
-
-Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
 
 Die Struktur
 
