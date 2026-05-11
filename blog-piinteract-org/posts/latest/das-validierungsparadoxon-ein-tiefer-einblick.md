@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die Intelligenz-Falle
+
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
 Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
@@ -613,8 +615,6 @@ Borniertheit statt Weisheit – Die PI des Philosophen
 Das Propheten-Paradox
 
 Das Validierungsparadoxon: Ein tiefer Einblick
-
-Das Universum, das nicht existieren dürfte
 
 Nichts gefunden
 
