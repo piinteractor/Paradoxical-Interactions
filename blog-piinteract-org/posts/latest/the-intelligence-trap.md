@@ -1,7 +1,7 @@
 ---
 title: "The Intelligence Trap"
 date: 2026-01-26T12:10:46
-modified: 2026-02-03T06:56:09
+modified: 2026-05-11T13:22:33
 slug: the-intelligence-trap
 lang: en
 type: post
@@ -12,7 +12,9 @@ url: https://blog.piinteract.org/the-intelligence-trap/
 
 You don't have sufficient permissions to access this content.
 
-You don't have sufficient permissions to access this content.
+The fundamental cause of the trouble is that in the modern world the stupid are cocksure while the intelligent are full of doubt.
+
+— Bertrand Russell
 
 26. January 2026
 
