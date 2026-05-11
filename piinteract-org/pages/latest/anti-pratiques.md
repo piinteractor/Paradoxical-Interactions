@@ -1,7 +1,7 @@
 ---
 title: "Anti-Pratiques"
 date: 2025-12-17T22:10:00
-modified: 2026-05-11T13:47:58
+modified: 2026-05-11T14:27:27
 slug: anti-pratiques
 lang: fr
 type: page
@@ -290,6 +290,38 @@ Alternative:
 
 Demande ce que tu optimises avant de le rendre plus efficace. Perfectionner un mauvais système le rend pire, pas meilleur.
 
+« L'âne de Buridan »
+
+Informez tout le monde sur tout. Plus d'informations, de meilleures décisions.
+
+Pourquoi cela échoue-t-il ?
+
+La surabondance d'informations engendre la paralysie, pas la clarté. Chaque élément supplémentaire censé aider rend le choix plus difficile. Les gens cessent de lire. Ils cessent de prendre des décisions. Le flot de données se transforme en bruit de fond. Les acteurs rationnels se noient dans la rationalité.
+
+Exemple :
+
+Une entreprise met en place une « transparence radicale » : chaque réunion est enregistrée, chaque décision documentée, chaque mise à jour partagée à l'échelle de l'entreprise. La boîte mail explose. Les canaux Slack se multiplient. Tout le monde sait tout – ce qui signifie que personne ne sait ce qui est important. Les décisions ralentissent. Les gens se déconnectent. L'âne meurt de faim au milieu d'innombrables meules de foin.
+
+Alternative :
+
+Filtre sans pitié. N'informe que ceux qui doivent agir. Distingue le signal du bruit avant d'envoyer quoi que ce soit. La plupart des informations ne sont pas pertinentes pour l'action – ne fais pas comme si elles l'étaient. La clarté l'emporte sur l'exhaustivité.
+
+« Nous avons besoin de plus de conscience »
+
+Si seulement les gens comprenaient…
+
+Pourquoi cela échoue-t-il ?
+
+La compréhension ne l'emporte pas sur les incitations structurelles. Tout le monde comprend le changement climatique. Rien ne change. La structure ne récompense pas l'action.
+
+Exemple :
+
+Tabac, sucre, combustibles fossiles – la prise de conscience n'arrête pas la dynamique structurelle.
+
+Alternative :
+
+La prise de conscience sans modification des incitations, c’est de la culpabilité sans action. Ne te contente pas d’éduquer – change ce que la structure récompense. Puis observe comment les comportements évoluent.
+
 « Trop de bonne volonté »
 
 Aide tellement fort que ça fait mal. Résous leur problème mieux qu’ils ne l’ont demandé.
@@ -305,6 +337,38 @@ Assistant IA demandé pour une liste simple. Réécrit tout le document. Trop de
 Alternative :
 
 Donne ce qui est demandé. Rien de plus. Respecte leur autonomie.
+
+« Réinterpréter l'échec comme une réussite »
+
+La réalité contredit le récit. Changez le récit, pas la réalité.
+
+Pourquoi cela échoue-t-il ?
+
+La dissonance cognitive se résout par la redéfinition, pas par la correction. Le problème persiste. L'histoire change. La structure reste intacte.
+
+Exemple :
+
+« Nous connectons les gens. » Réalité : radicalisation amplifiée par des algorithmes, désinformation, érosion de la démocratie. Réinterprété comme « engagement », « liberté d’expression », « neutralité de la plateforme ». Les dégâts persistent. Le récit évolue. On évite de rendre des comptes.
+
+Alternative :
+
+Des faits plutôt que des récits. L'histoire ne change pas le résultat. Une évaluation honnête plutôt que des mensonges commodes. La structure se moque de la manipulation.
+
+« Tirez sur le messager »
+
+Problème identifié. Accusez celui qui l'a signalé, pas la structure.
+
+Pourquoi cela échoue-t-il ?
+
+Isoler ceux qui disent la vérité permet au problème de perdurer. La structure se protège en sanctionnant ceux qui le signalent. Le prochain messager en tire la leçon : tais-toi ou tu seras banni.
+
+Exemple :
+
+Un lanceur d’alerte signale des failles de sécurité. La direction le licencie pour « déloyauté ». Le problème persiste. D’autres employés s’en rendent compte. Le silence s’installe. La prochaine catastrophe ne surprendra personne – sauf le grand public.
+
+Alternative :
+
+Rendez la dénonciation sûre ou admettez qu’elle n’est pas la bienvenue. Canaux anonymes. Surveillance externe. Une protection des lanceurs d’alerte qui fonctionne réellement – ou un silence honnête sur ce que vous choisissez.
 
 « Le lit de Procuste »
 
@@ -418,7 +482,7 @@ Alternative :
 
 Séparer discussion et décision. Fixer une échéance : « On discute jusqu'à X, puis on décide — même imparfaitement. » Demander : qu'est-ce qui devrait être vrai pour qu'on arrête de parler et qu'on agisse ?
 
-« La majorité comme vérité »
+« L'opinion majoritaire comme vérité absolue »
 
 Considérer le consensus comme une preuve. Ce que tout le monde croit doit forcément être vrai.
 
