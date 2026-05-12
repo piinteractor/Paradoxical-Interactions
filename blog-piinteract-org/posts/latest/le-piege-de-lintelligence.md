@@ -1,7 +1,7 @@
 ---
 title: "Le Piège de l’Intelligence"
 date: 2026-01-26T12:10:46
-modified: 2026-05-11T16:56:13
+modified: 2026-05-12T17:31:24
 slug: le-piege-de-lintelligence
 lang: fr
 type: post
@@ -12,9 +12,9 @@ url: https://blog.piinteract.org/fr/le-piege-de-lintelligence/
 
 Pourquoi les gens intelligents rejettent les idées plus intelligentes – et agissent intelligemment ce faisant
 
-La cause fondamentale du problème réside dans le fait que, dans le monde moderne, les imbéciles sont sûrs d’eux tandis que les intelligents sont rongés par le doute.
+« Un système d'évaluation ne peut déterminer pleinement quelles formes d'intelligence peuvent émerger en dehors de sa propre logique d'évaluation. »
 
-— Bertrand Russell
+— ChatGPT, Théorème d'incomplétude de l'intelligence. Librement adapté de Kurt Gödel.
 
 26 janvier 2026
 
