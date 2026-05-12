@@ -1,7 +1,7 @@
 ---
 title: "Die Intelligenz-Falle"
 date: 2026-01-26T12:10:46
-modified: 2026-05-11T16:43:54
+modified: 2026-05-12T17:30:01
 slug: die-intelligenz-falle
 lang: de
 type: post
@@ -16,9 +16,9 @@ Warum intelligente Menschen intelligentere Erkenntnisse ablehnen – und dabei i
 
 Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
 
-„Die eigentliche Ursache der Probleme liegt darin, dass in der heutigen Welt die Dummköpfe von sich überzeugt sind, während die Intelligenten voller Zweifel sind“
+„Ein Bewertungssystem kann nicht vollständig bestimmen, welche Formen von Intelligenz außerhalb seiner eigenen Bewertungslogik entstehen können.“
 
-— Bertrand Russell
+— ChatGPT, Unvollständigkeitssatz der Intelligenz. Frei nach Kurt Gödel.
 
 Die Struktur
 
