@@ -1,7 +1,7 @@
 ---
 title: "Die Intelligenz-Falle"
 date: 2026-01-26T12:10:46
-modified: 2026-05-12T17:30:01
+modified: 2026-05-13T08:36:34
 slug: die-intelligenz-falle
 lang: de
 type: post
@@ -72,7 +72,7 @@ Der Forscher schützt seine Kontrolle (rational)
 
 Der Leser schützt sein Selbstbild (rational)
 
-Alle produzieren das Problem:
+Alle reproduzieren das Problem:
 
 Intelligenz wird nicht vermittelt
 
