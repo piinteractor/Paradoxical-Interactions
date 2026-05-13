@@ -1,7 +1,7 @@
 ---
 title: "Die Intelligenz-Falle"
 date: 2026-01-26T12:10:46
-modified: 2026-05-13T08:36:34
+modified: 2026-05-13T14:29:27
 slug: die-intelligenz-falle
 lang: de
 type: post
