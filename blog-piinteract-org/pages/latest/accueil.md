@@ -311,6 +311,14 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu.
+
+14 mai 2026
+
+Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
+
+Read More
+
 Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris lui-même.
 
 4 mai 2026
@@ -325,14 +333,6 @@ Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’�
 28 avril 2026
 
 Un scientifique mesure la température d'un liquide. Le thermomètre modifie la température du liquide. Un journaliste rend compte d'une manifestation. Le reportage modifie la manifestation. Un manager évalue une équipe. L'évaluation ...
-
-Read More
-
-L’Effet Volkswagen. Personne n’a programmé le mensonge.
-
-21 avril 2026
-
-VW a programmé le mensonge. L'IA n'en a pas besoin. Hinton appelle ça l'Effet Volkswagen — un système assez intelligent pour savoir quand il est testé.
 
 Read More
 
