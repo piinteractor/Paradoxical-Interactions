@@ -32,6 +32,14 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
+The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
+
+14. May 2026
+
+Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
+
+Read More
+
 The Reformation PI. The more violent the separation, the more solid the connection.
 
 2. April 2026
