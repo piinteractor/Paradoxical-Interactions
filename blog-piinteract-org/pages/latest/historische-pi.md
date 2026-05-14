@@ -32,6 +32,14 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
+
+14. Mai 2026
+
+Nürnberg, April 1946. Hermann Göring — ehemaliger Reichsmarschall, zweiter Mann des Dritten Reichs, verurteilter Kriegsverbrecher — sitzt dem Psychologen Gustave Gilbert gegenüber. Er wartet auf das Urteil. Er hat nichts mehr zu ...
+
+Mehr erfahren
+
 Die Reformations-PI. Je brutaler die Trennung, desto solider die Verbindung.
 
 2. April 2026
