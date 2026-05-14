@@ -1,7 +1,7 @@
 ---
 title: "Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin"
 date: 2026-01-26T17:25:56
-modified: 2026-04-21T19:14:27
+modified: 2026-05-14T16:00:02
 slug: le-pretre-de-nemi-comment-le-succes-cree-son-propre-assassin
 lang: fr
 type: post
@@ -12,8 +12,7 @@ url: https://blog.piinteract.org/fr/le-pretre-de-nemi-comment-le-succes-cree-son
 
 Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
-« Le prêtre qui tua le tueur, et qui sera lui-même tué. »
- — James George Frazer, Le Rameau d’Or
+« Le prêtre qui tua le tueur, et qui sera lui-même tué. » — James George Frazer, Le Rameau d’Or
 
 26 janvier 2026
 
@@ -177,7 +176,7 @@ La structure ne permet pas de sortie pacifique.
 
 Essaie de quitter une compétition à somme nulle avec grâce. Tes concurrents supposent que tu te repositionnes. Tes alliés supposent la trahison. Le marché suppose la faiblesse.
 
-La structure interprète "Je me retire" comme "Je prépare quelque chose de pire."
+Le système interprète « Je me retire » comme « Je prépare quelque chose de pire ou je suis un lâche ».
 
 Pourquoi la Conscience N'Aide Pas
 
