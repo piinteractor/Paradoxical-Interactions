@@ -1,7 +1,7 @@
 ---
 title: "Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft"
 date: 2026-01-26T17:25:56
-modified: 2026-04-21T19:14:55
+modified: 2026-05-14T15:57:31
 slug: der-priester-von-nemi-wie-sich-erfolg-den-eigenen-attentaeter-erschafft
 lang: de
 type: post
@@ -10,7 +10,7 @@ wp_id: 1209
 url: https://blog.piinteract.org/de/der-priester-von-nemi-wie-sich-erfolg-den-eigenen-attentaeter-erschafft/
 ---
 
-Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
+Erlange die Position. Gewährleiste, dass du stirbst. Wiederhole das immer wieder.
 
 Der Priester, der den Schlächter erschlug, und selbst erschlagen werden wird.“
  — James George Frazer, Der Goldene Zweig
@@ -81,49 +81,49 @@ Erfolg züchtet die Bedingungen für Scheitern.
 
 Die Position zu gewinnen garantiert, dass man sie auf dieselbe Weise verliert, wie man sie gewann.
 
-Moderne Äquivalente
+Moderne Entsprechungen
 
 Du denkst, das antike Rom ist weit weg? Schau dich um.
 
-1. Tech-Disruption
+1. Technologische Disruption
 
-Startup tötet Platzhirsch. Ist jetzt selbst Platzhirsch. Fürchtet jeden neuen Player als existenzielle Bedrohung. Acqui-hired oder zerstört alles was sich bewegt. Zwingt Konkurrenten in Nullsummenspiele.
+Ein Start-up verdrängt den etablierten Marktführer. Jetzt ist es der etablierte Marktführer. Fürchtet jeden neuen Akteur als existenzielle Bedrohung. Übernimmt oder vernichtet alles, was sich bewegt. Zwingt Konkurrenten in Nullsummenkämpfe.
 
-Instagram fürchtete Snapchat. Kopierte Features. TikTok kam trotzdem. Jetzt fürchtet TikTok alle.
+Instagram fürchtete Snapchat. Kopierte Funktionen. TikTok kam trotzdem. Jetzt fürchtet TikTok jeden.
 
-Muster: Disrupt or be disrupted. Paranoia kodiert als Innovationskultur.
+Muster: Disruptieren oder disruptiert werden. Paranoia als Innovationskultur verpackt.
 
-2. Nuklearstaaten
+2. Atomstaaten
 
-Beschaffe Waffen um dich zu schützen. Jetzt sehen dich alle anderen als Bedrohung. Baue mehr. Sie bauen mehr. Präventivschlag-Doktrin = Nemi-Logik im Maßstab.
+Man beschafft sich Waffen, um sich zu schützen. Nun sieht dich jeder andere als Bedrohung an. Man baut mehr. Sie bauen mehr. Doktrin des Präventivschlags = Nemi-Logik im großen Maßstab.
 
-Pakistan bekam Atomwaffen weil Indien sie hatte. Nordkorea bekam sie weil alle Regimewechsel drohten. Israel hat sie und bestätigt es nicht. Iran will sie aus demselben Grund wie Israel sie hat.
+Pakistan hat Atomwaffen, weil Indien sie hatte. Nordkorea hat sie, weil alle mit einem Regimewechsel drohten. Israel hat sie und will es nicht bestätigen. Der Iran will sie aus demselben Grund, aus dem Israel sie hat.
 
-Muster: Sicherheitsmaßnahmen erschaffen die Unsicherheit, die sie verhindern sollen.
+Muster: Sicherheitsmaßnahmen schaffen genau die Unsicherheit, die sie angeblich verhindern sollen.
 
 3. Autoritäre Nachfolge
 
-Führer eliminiert Rivalen um Macht zu sichern. Erschafft Kultur, in der Kompetenz = Bedrohung. Nächster Führer muss sie eliminieren um zu überleben. Zyklus perpetuiert sich.
+Der Führer eliminiert Rivalen, um seine Macht zu sichern. Schafft eine Kultur, in der Kompetenz = Bedrohung ist. Der nächste Führer muss sie eliminieren, um zu überleben. Der Kreislauf setzt sich fort.
 
-Stalin säuberte alle in seiner Nähe. Xi säuberte potenzielle Nachfolger durch "Anti-Korruption". Jeder Diktator weiß: Je näher jemand ist, desto gefährlicher wird er.
+Stalin hat alle aus seinem Umfeld gesäubert. Xi hat potenzielle Nachfolger durch „Korruptionsbekämpfung“ beseitigt. Jeder Diktator weiß: Je näher jemand steht, desto gefährlicher wird er.
 
 Muster: Die Säuberung ist rational. Nicht paranoid. Die Struktur verlangt es.
 
-4. Social Media Pile-Ons
+4. Social-Media-Mob
 
-Jemand wird gecancelt. Teilnehmer fürchten, die Nächsten zu sein. Greifen zuerst an um Loyalität zu beweisen. Ziel gezwungen zu kämpfen oder sich zu unterwerfen. Beides scheitert. Nächstes Ziel taucht auf.
+Jemand wird „gecancelt“. Die Teilnehmer fürchten, als Nächste an der Reihe zu sein. Sie greifen zuerst an, um Loyalität zu beweisen. Das Ziel wird gezwungen, zu kämpfen oder sich zu unterwerfen. Beides scheitert. Das nächste Ziel taucht auf.
 
-Nicht Überzeugung. Überleben. Nicht-Teilnahme liest sich als Komplizenschaft. Die Struktur bestraft Neutralität.
+Keine Überzeugung. Überleben. Nichtteilnahme wird als Mittäterschaft gewertet. Die Struktur bestraft Neutralität.
 
-Muster: Virtue Signaling als präventive Selbstverteidigung.
+Muster: Tugendhaftigkeit als präventive Selbstverteidigung.
 
-5. Akademisches Hazing
+5. Akademische Schikane
 
-PhD überlebt Ausbeutung. Bekommt Tenure. Verteidigt jetzt das System, das sie fast gebrochen hat. "Ich habe gelitten, also musst du auch." Struktur reproduziert sich durch Überlebende.
+Doktorand überlebt Ausbeutung. Erhält Festanstellung. Nun verteidigt er das System, das ihn fast gebrochen hätte. „Ich habe gelitten, also musst du auch.“ Die Struktur reproduziert sich durch Überlebende.
 
-#IchBinHanna — deutsche Akademiker protestieren gegen systematische Prekarität. Die mit Macht überlebten dasselbe System. Jetzt sind sie Gatekeeper. Nicht Grausamkeit. Strukturelle Logik.
+#IchBinHanna – Deutsche Akademiker protestieren gegen systematische Prekarität. Die Mächtigen haben dasselbe System überlebt. Nun fungieren sie als Torwächter. Keine Grausamkeit. Strukturelle Logik.
 
-Muster: Erfolg als Gatekeeping. Der Spießrutenlauf wird zur Wache.
+Muster: Erfolg als Torwächter. Der Spießrutenlauf wird zum Wächter.
 
 Strukturelle Eigenschaften
 
@@ -165,7 +165,7 @@ Modernes Äquivalent:
 
 Versuch, eine Nullsummen-Konkurrenz würdevoll zu verlassen. Deine Konkurrenten nehmen an, du repositionierst dich. Deine Verbündeten nehmen Verrat an. Der Markt nimmt Schwäche an.
 
-Die Struktur interpretiert "Ich trete zurück" als "Ich plane etwas Schlimmeres."
+Die Struktur interpretiert "Ich trete zurück" als "Ich plane etwas Schlimmeres oder ich bin ein Feigling."
 
 Warum Aufmerksamkeit nicht hilft
 
