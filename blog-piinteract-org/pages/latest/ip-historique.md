@@ -32,6 +32,14 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
+L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu.
+
+14 mai 2026
+
+Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
+
+En savoir plus
+
 La PI de la Réforme. Plus la séparation est brutale, plus la connexion est solide.
 
 2 avril 2026
