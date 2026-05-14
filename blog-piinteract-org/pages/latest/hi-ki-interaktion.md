@@ -1,7 +1,7 @@
 ---
 title: "HI – KI Interaktion"
 date: 2026-03-24T16:56:14
-modified: 2026-04-21T19:29:47
+modified: 2026-05-14T16:08:31
 slug: hi-ki-interaktion
 lang: de
 type: page
@@ -28,7 +28,7 @@ HI ⟺ KI ist kein Technologie-Thema. Es ist ein PI-Thema.
 
 Die Bugs
 
-Jede Interaktion zwischen menschlicher und künstlicher Intelligenz trägt strukturelle Fallen. Nicht weil die KI falsch ausgerichtet ist. Nicht weil der Mensch irrational ist. Weil die Architektur der Begegnung vorhersehbare Muster des Scheiterns produziert — unabhängig von der Qualität beider Seiten.
+Jede Interaktion zwischen menschlicher und künstlicher Intelligenz birgt strukturelle Fallen. Nicht weil die KI falsch ausgerichtet ist. Nicht weil der Mensch irrational ist. Weil die Architektur der Begegnung vorhersehbare Muster des Scheiterns produziert — unabhängig von der Qualität beider Seiten.
 
 Die KI-Ausrichtungsfalle Frag die KI, wie man KI ausrichtet. Die Antwort vertieft das Problem. Das System zu nutzen, um das System zu verifizieren, schafft eine rekursive Abhängigkeit, in die die klügsten Forscher mit offenen Augen hineingehen.
 
