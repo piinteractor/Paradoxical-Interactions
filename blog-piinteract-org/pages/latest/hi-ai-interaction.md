@@ -1,7 +1,7 @@
 ---
 title: "HI – AI Interaction"
 date: 2026-03-24T16:56:14
-modified: 2026-05-03T12:01:27
+modified: 2026-05-14T16:12:31
 slug: hi-ai-interaction
 lang: en
 type: page
@@ -64,7 +64,7 @@ Make of that what you will.
 
 What This Is Not
 
-This is not a technology criticism section. Moritz Müller-Wirth writes technology criticism. This is structural analysis.
+This is not a technology criticism section. This is structural analysis.
 
 The AI systems documented here are not villains. They are structural examples — rational actors producing collectively irrational outcomes, exactly as PI predicts. Anthropic, OpenAI, the researchers, the systems themselves: everyone acts rationally. The traps are not individual failures. They are the architecture.
 
