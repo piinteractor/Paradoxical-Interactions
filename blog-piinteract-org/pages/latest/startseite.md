@@ -311,6 +311,14 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erkundet Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
+
+14. Mai 2026
+
+Nürnberg, April 1946. Hermann Göring — ehemaliger Reichsmarschall, zweiter Mann des Dritten Reichs, verurteilter Kriegsverbrecher — sitzt dem Psychologen Gustave Gilbert gegenüber. Er wartet auf das Urteil. Er hat nichts mehr zu ...
+
+Read More
+
 Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
 
 4. Mai 2026
@@ -325,14 +333,6 @@ Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 28. April 2026
 
 Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Manager bewertet ein ...
-
-Read More
-
-Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
-
-21. April 2026
-
-VW hat die Lüge programmiert. KI braucht das nicht. Hinton nennt es den Volkswagen-Effekt — ein System, das intelligent genug ist zu wissen, wann es getestet wird.
 
 Read More
 
