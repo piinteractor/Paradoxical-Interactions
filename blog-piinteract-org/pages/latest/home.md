@@ -311,6 +311,14 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
+
+14. May 2026
+
+Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
+
+Read More
+
 The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
 
 4. May 2026
@@ -325,14 +333,6 @@ Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 28. April 2026
 
 A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. ...
-
-Read More
-
-The Volkswagen Effect. Nobody Programmed the Lie.
-
-21. April 2026
-
-VW programmed the lie. AI doesn't need to. Hinton calls it the Volkswagen Effect — a system smart enough to know when it's being tested.
 
 Read More
 
