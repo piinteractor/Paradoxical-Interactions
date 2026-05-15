@@ -1,7 +1,7 @@
 ---
 title: "The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened."
 date: 2026-05-14T15:15:16
-modified: 2026-05-14T15:15:16
+modified: 2026-05-15T12:52:10
 slug: the-goering-pi
 lang: en
 type: post
@@ -12,15 +12,45 @@ url: https://blog.piinteract.org/the-goering-pi/
 
 Why wars happen without anyone wanting them — and why the form of government makes no difference.
 
+
+
+
+
+
+
 "Of course the people don't want war. Why would any poor wretch on a farm want to risk his life in a war when the best he can hope for is to return to his farm in one piece? Of course the common people don't want war. Neither in Russia, nor in England, nor in America, and just as little in Germany."
 
 - Hermann Göring, Nuremberg Diary, April 18, 1946
+
+
+
 
 Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, convicted war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he explains, with the calm of someone who has already played the game, how the game works.
 
 He does not describe evil. He describes mechanism.
 
+
+
+
+
+
+
 14. May 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The Admission That Wasn't One
 
@@ -38,6 +68,12 @@ Read that last line again. It works the same in any country. Not: it works bette
 
 This is not cynicism. It is structural observation.
 
+
+
+
+
+
+
 The Mechanism, Not the Monster
 
 The standard reading of Göring's statement is moral: here is an evil man, describing evil things, which we must prevent by being vigilant and good. This reading is understandable. It is also structurally blind.
@@ -51,6 +87,12 @@ No deception is technically necessary. The threat can be real, exaggerated, or f
 Everyone acts rationally. The farmer does not want war. The politician wants to survive. The general wants resources. The pacifist is silenced — not by force, but by the structure that reframes dissent as betrayal.
 
 The outcome — war — is what nobody wanted. It is what the structure produced.
+
+
+
+
+
+
 
 The Structural Turn
 
@@ -72,6 +114,12 @@ All are guilty. None are at fault.
 
 The mechanism does not require malice. It requires structure. The remarkable thing about Göring's testimony is not that he was evil — he was. It is that evil is not the explanation. The mechanism runs on rationality.
 
+
+
+
+
+
+
 Insight Is No Exit
 
 There is one more dimension to the Nuremberg scene. Göring understood the mechanism completely. He had used it. He knew exactly what he had done and why it had worked.
@@ -81,6 +129,12 @@ This did not free him. He was convicted and sentenced to death — by hanging, w
 This applies in both directions. The leaders who exploit the mechanism are not protected from its consequences by their understanding of it. And the populations who recognize the mechanism — in retrospect, in other countries, in history books — are not protected from entering it again.
 
 The mechanism does not require ignorance. It runs on structure.
+
+
+
+
+
+
 
 What Göring Didn't Say
 
@@ -96,7 +150,25 @@ He had not lost his understanding of how it worked.
 
 That, at least, was his
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Related Posts
+
+
+
 
 The Cassandra Paradox
 
@@ -116,6 +188,9 @@ When successful warnings prove the prophet wrong
 
 No results found.
 
+
+
+
 On piinteract.org:
 
 ["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
@@ -126,9 +201,18 @@ On piinteract.org:
 
 ["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
+
+
+
+
+
+
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
+
+
+
 
 Peter Senner Thinking beyond the Tellerrand
 
