@@ -1,7 +1,7 @@
 ---
 title: "HI – KI Interaktion"
 date: 2026-03-24T16:56:14
-modified: 2026-05-16T08:22:18
+modified: 2026-05-16T09:25:48
 slug: hi-ki-interaktion
 lang: de
 type: page
