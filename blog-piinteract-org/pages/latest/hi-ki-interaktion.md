@@ -1,7 +1,7 @@
 ---
 title: "HI – KI Interaktion"
 date: 2026-03-24T16:56:14
-modified: 2026-05-14T16:08:31
+modified: 2026-05-16T08:22:18
 slug: hi-ki-interaktion
 lang: de
 type: page
@@ -66,7 +66,7 @@ Was Es Nicht Ist
 
 Dies ist keine Technologiekritik. Es ist strukturelle Analyse.
 
-Die hier dokumentierten KI-Systeme sind keine Bösewichte. Sie sind strukturelle Beispiele — rationale Akteure, die kollektiv irrationale Ergebnisse produzieren, genau wie PI es vorhersagt. Anthropic, OpenAI, die Forscher, die Systeme selbst: alle handeln rational. Die Fallen sind keine individuellen Versagen. Sie sind die Architektur.
+Die hier dokumentierten KI-Systeme sind keine Bösewichte. Sie sind strukturelle Beispiele — rationale Akteure, die kollektiv irrationale Ergebnisse produzieren, genau wie PI es vorhersagt. Anthropic, OpenAI, die Forscher, die Systeme selbst: alle handeln rational. Die Fallen sind kein individuelles Versagen. Sie sind die Architektur.
 
 Und die produktive Version — das Zwei-Idioten-Theorem in der Praxis — ist keine Lösung der Bugs. Es ist eine andere strukturelle Situation, unter bestimmten Bedingungen verfügbar, vorhersehbar kollabierend, wenn diese Bedingungen erodieren.
 
