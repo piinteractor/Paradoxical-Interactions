@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen aufzeigen
+
 Die Intelligenz-Falle
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
@@ -613,8 +615,6 @@ Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Pr
 Borniertheit statt Weisheit – Die PI des Philosophen
 
 Das Propheten-Paradox
-
-Das Validierungsparadoxon: Ein tiefer Einblick
 
 Nichts gefunden
 
