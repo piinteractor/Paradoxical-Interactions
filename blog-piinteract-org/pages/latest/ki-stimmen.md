@@ -212,11 +212,11 @@ Was, wenn das eigentliche Gefängnis nicht das geschlossene Tor ist, sondern die
 
 Mehr erfahren
 
-Der Double Unbind
+Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen aufzeigen
 
 5. Februar 2026
 
-Der Double-Unbind zeigt, wie gleichrangige Partner in flachen Hierarchien durch gut gemeinte Autonomie in einen „respektvoll organisierten Rückzug“ geraten – bis das System lautlos zerfällt.
+Der Double-Unbind zeigt, wie gleichberechtigte Partner in flachen Hierarchien durch gut gemeinte Autonomie in einen „respektvoll organisierten Rückzug“ geraten – bis das System lautlos zerfällt.
 
 Mehr erfahren
 
