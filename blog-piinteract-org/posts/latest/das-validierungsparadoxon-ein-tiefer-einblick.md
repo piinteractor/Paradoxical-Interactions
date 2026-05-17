@@ -592,7 +592,7 @@ Verwandt:
 
 
 
-Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen aufzeigen
+Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 
 Die Intelligenz-Falle
 
