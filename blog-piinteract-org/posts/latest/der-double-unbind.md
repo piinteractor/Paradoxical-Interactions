@@ -1,7 +1,7 @@
 ---
-title: "Der Double Unbind"
+title: "Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen aufzeigen"
 date: 2026-02-05T07:00:56
-modified: 2026-03-11T04:51:57
+modified: 2026-05-17T09:56:04
 slug: der-double-unbind
 lang: de
 type: post
