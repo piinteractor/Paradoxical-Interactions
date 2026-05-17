@@ -212,7 +212,7 @@ Was, wenn das eigentliche Gefängnis nicht das geschlossene Tor ist, sondern die
 
 Mehr erfahren
 
-Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen aufzeigen
+Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 
 5. Februar 2026
 
