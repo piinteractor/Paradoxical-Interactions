@@ -1,7 +1,7 @@
 ---
 title: "Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen"
 date: 2026-02-05T07:00:56
-modified: 2026-05-17T10:58:24
+modified: 2026-05-17T11:48:12
 slug: der-double-unbind
 lang: de
 type: post
@@ -52,7 +52,7 @@ Kompression. Wie eine zusammengepresste Feder. Die Beteiligten sind zu eng gekop
 
 Das ist die Pathologie der Hierarchie.
 
-Die moderne Falle: das Double-Unbind
+Die moderne Falle: der Double-Unbind
 
 Schau dir deine Organisation an. Agile Teams. Holacracy. Co-Founder. Gleichrangige Partnerschaften.
 
