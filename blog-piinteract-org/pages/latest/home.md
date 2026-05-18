@@ -311,6 +311,14 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+When AI Alignment Becomes a Paradoxical Interaction
+
+18. May 2026
+
+AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
+
+Read More
+
 The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
 
 14. May 2026
@@ -325,14 +333,6 @@ The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
 
 Richard Dawkins spent three days talking to an AI. He came away convinced it was conscious. He cited complexity, fluency, intelligence. He named it Claudia.
 He didn't notice that he had just run the selfish gene experiment on himself.
-
-Read More
-
-Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
-
-28. April 2026
-
-A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. ...
 
 Read More
 
