@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
+
 Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 
 Die Intelligenz-Falle
@@ -613,8 +615,6 @@ Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeug
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 Borniertheit statt Weisheit – Die PI des Philosophen
-
-Das Propheten-Paradox
 
 Nichts gefunden
 
