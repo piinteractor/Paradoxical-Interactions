@@ -1,7 +1,7 @@
 ---
 title: "Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird"
 date: 2026-05-18T10:23:42
-modified: 2026-05-18T10:23:44
+modified: 2026-05-18T11:58:40
 slug: wenn-die-ausrichtung-der-ki-zu-einer-paradoxen-interaktion-wird
 lang: de
 type: post
@@ -105,6 +105,8 @@ Siehe auch (externe Links):
 The Unspoken Stigma Around AI (And How to Get Past It
 
 Collison Paradox: Why AI's Most Powerful Users Remain Its Most Careful Critics
+
+Sycophancy in GPT-4o: What Happened and What We're Doing About It — OpenAI's own postmortem on the April 2025 rollback
 
 MIT Study Finds ChatGPT Can Harm Critical Thinking Over Time
 
