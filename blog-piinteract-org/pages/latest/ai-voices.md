@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+When AI Alignment Becomes a Paradoxical Interaction
+
+18. May 2026
+
+AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
+
+Read More
+
 Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 
 28. April 2026
