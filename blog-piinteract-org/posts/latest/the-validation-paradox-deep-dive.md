@@ -589,6 +589,8 @@ Related:
 
 
 
+When AI Alignment Becomes a Paradoxical Interaction
+
 Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 
 The Posthumous Correction. Why Being Right Requires Being Gone.
@@ -610,8 +612,6 @@ When Safety Meets Sovereignty
 The Polarization That Wasn’t Chosen
 
 The Articulate Gatekeeper
-
-Peter Steinberger – The Man Who Built the Flood and Then Built the Levee
 
 No results found.
 
