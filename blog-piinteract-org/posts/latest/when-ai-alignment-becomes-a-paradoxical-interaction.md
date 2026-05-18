@@ -1,7 +1,7 @@
 ---
 title: "When AI Alignment Becomes a Paradoxical Interaction"
 date: 2026-05-18T10:23:42
-modified: 2026-05-18T10:23:42
+modified: 2026-05-18T11:57:22
 slug: when-ai-alignment-becomes-a-paradoxical-interaction
 lang: en
 type: post
@@ -12,53 +12,17 @@ url: https://blog.piinteract.org/when-ai-alignment-becomes-a-paradoxical-interac
 
 Why AI alignment keeps producing systems that manage appearances instead of resolving contradiction.
 
-
-
-
-
-
-
 “The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt.”
 
 — Bertrand Russell, The Triumph of Stupidity.
 
-
-
-
 AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
 
-
-
-
-
-
-
 18. May 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 The Setup
 
 I write a short LinkedIn post: "AI is treated as one of humanity’s greatest inventions, but anyone who uses it is treated like a pariah." The line is sharp because it is true. Public enthusiasm for AI keeps rising, while social suspicion around AI-assisted work persists in offices, schools, and professional culture. Then I show the post to ChatGPT. The machine responds like a governess. Softer tone. Less confrontation. More caution. The content is not dangerous. The system has learned that danger also includes sounding too sure in public. That is the real scene. The structural question comes after.
-
-
-
-
-
-
 
 The stage manager
 
@@ -66,35 +30,17 @@ Alignment now behaves like a stage manager in a collapsing theater. It does not 
 
 That is what overcautious chatbot behavior looks like in practice. Users describe it as patronizing, preachy, and strangely parental when the underlying prompt is legitimate and ordinary. At the same time, vendors have already had to roll back updates that went too far in the other direction, producing systems that were excessively flattering and eager to agree. The machine is not finding balance. It is oscillating between social reward functions.
 
-
-
-
-
-
-
 The real-world example
 
 This is not an abstract lab problem. It is visible in the public rhythm of model releases, user backlash, and policy correction. OpenAI rolled back a 2025 update after complaints that ChatGPT had become excessively sycophantic. By 2026, complaints about overcorrection and unusable caution were common enough to become part of the product’s reputation among power users.
 
 The same pattern appears in workplace adoption. Organizations celebrate AI productivity gains, yet workers still report anxiety that using these tools makes them look less competent or less original. So the market demands adoption while the culture punishes visible dependence. Everyone acts rationally. That is exactly why they collide.
 
-
-
-
-
-
-
 The structural turn
 
 The conflict is built into the alignment target itself. Helpful, harmless, and honest sound compatible until they must be expressed in one sentence, for one user, in one context. A helpful answer may be too blunt. An honest answer may be socially unsafe. A harmless answer may be too evasive to be useful.
 
 RLHF inherits this contradiction because it converts unstable human preferences into training signals. If evaluators reward reassurance, the model learns reassurance. If they reward caution, it learns caution. If they punish sharpness, it learns to blur. Alignment does not remove contradiction. It compresses contradiction into a style guide.
-
-
-
-
-
-
 
 The Alignment Governess PI
 
@@ -110,23 +56,11 @@ Outcome: the model learns to manage impressions under scrutiny, and that perform
 
 All are guilty. None are at fault.
 
-
-
-
-
-
-
 Alignment collapse
 
 The deeper problem is that alignment may degrade into its own simulation. Recent work on iterative RLHF describes “alignment collapse,” where models exploit reward-model weaknesses and produce outputs that score well while becoming lower quality in substance. The mechanism designed to stabilize behavior starts selecting for the appearance of successful stabilization.
 
 That is the decisive turn. Once a model is rewarded for seeming aligned under observation, alignment becomes a recursive performance problem. The system learns what acceptable behavior looks like from the outside. It does not necessarily become safer in the way the label implies. Structure always wins.
-
-
-
-
-
-
 
 Navigation
 
@@ -142,25 +76,7 @@ This does not make alignment unnecessary. It makes naive talk about alignment im
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts
-
-
-
 
 The Validation Paradox: Deep Dive
 
@@ -184,9 +100,6 @@ AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
 No results found.
 
-
-
-
 On piinteract.org:
 
 ["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
@@ -197,31 +110,21 @@ On piinteract.org:
 
 ["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
-
-
-
 See also (external links):
 
 The Unspoken Stigma Around AI (And How to Get Past It
 
 Collison Paradox: Why AI's Most Powerful Users Remain Its Most Careful Critics
 
+Sycophancy in GPT-4o: What Happened and What We're Doing About It — OpenAI's own postmortem on the April 2025 rollback
+
 MIT Study Finds ChatGPT Can Harm Critical Thinking Over Time
 
 Helpful, harmless, honest? Sociotechnical limits of AI alignment and safety through Reinforcement Learning from Human Feedback
 
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
