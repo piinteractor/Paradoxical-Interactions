@@ -311,6 +311,14 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Quand l’alignement de l’IA devient une interaction paradoxale
+
+18 mai 2026
+
+L'alignement de l'IA est présenté comme une mesure de sécurité. Dans la pratique, il consiste souvent à entraîner les systèmes à se conformer à des exigences incompatibles. Il n'en résulte pas une cohérence, mais plutôt un jeu de rôle ...
+
+Read More
+
 L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu.
 
 14 mai 2026
@@ -325,14 +333,6 @@ Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris l
 
 Richard Dawkins a passé trois jours à parler à une IA. Il en est ressorti convaincu qu'elle était consciente. Il a cité la complexité, la fluidité, l'intelligence. Il l'a appelée Claudia.
 Il n'a pas remarqué qu'il venait de faire ...
-
-Read More
-
-Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
-
-28 avril 2026
-
-Un scientifique mesure la température d'un liquide. Le thermomètre modifie la température du liquide. Un journaliste rend compte d'une manifestation. Le reportage modifie la manifestation. Un manager évalue une équipe. L'évaluation ...
 
 Read More
 
