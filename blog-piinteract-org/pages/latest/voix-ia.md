@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Quand l’alignement de l’IA devient une interaction paradoxale
+
+18 mai 2026
+
+L'alignement de l'IA est présenté comme une mesure de sécurité. Dans la pratique, il consiste souvent à entraîner les systèmes à se conformer à des exigences incompatibles. Il n'en résulte pas une cohérence, mais plutôt un jeu de rôle ...
+
+En savoir plus
+
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 15 mars 2026
@@ -313,14 +321,6 @@ Le Crime
 Cherchez sur Google « paradoxe Interaktion » (interaction paradoxale).
 Ce que vous obtenez: Paradoxe Intervention (intervention paradoxale). Psychothérapie. Prescription du symptôme. Technique thérapeutique.
 Pas la même ...
-
-En savoir plus
-
-Davos : 2026 – Quand l’inévitabilité devient produit
-
-21 janvier 2026
-
-Le 20 janvier 2026, au Forum économique mondial de Davos, Larry Fink, PDG de BlackRock, et Alex Karp, PDG de Palantir, ont eu une conversation. Les réseaux sociaux l'ont qualifiée de "légendaire" et ont prédit qu'elle "figurerait un ...
 
 En savoir plus
 
