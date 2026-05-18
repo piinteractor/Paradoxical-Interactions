@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
+
+18. Mai 2026
+
+AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
+
+Mehr erfahren
+
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 3. April 2026
@@ -310,16 +318,6 @@ Die Intelligenz-Falle
 26. Januar 2026
 
 Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
-
-Mehr erfahren
-
-Luhmann und der Selbsteinschluss
-
-25. Januar 2026
-
-Die Ironie ist perfekt.
-Luhmann beschreibt operative Geschlossenheit. Selbstreferenz. Einschlussmilieus, die nur noch sich selbst beobachten. Seine Schüler nicken, verstehen, zitieren ihn brillant.
-Und bauen exakt die Struktur nach.
 
 Mehr erfahren
 
