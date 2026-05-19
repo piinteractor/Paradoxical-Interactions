@@ -1,7 +1,7 @@
 ---
 title: "Society & Culture"
 date: 2025-12-17T22:09:57
-modified: 2026-05-19T12:51:48
+modified: 2026-05-19T13:08:41
 slug: society-culture
 lang: en
 type: page
