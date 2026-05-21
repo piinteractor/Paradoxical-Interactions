@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-05-07T05:40:39
+modified: 2026-05-21T20:12:24
 slug: home
 lang: en
 type: page
@@ -313,27 +313,24 @@ This blog explores Paradoxical Interactions through real-world examples, theoret
 
 When AI Alignment Becomes a Paradoxical Interaction
 
-18. May 2026
-
-AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
-
-Read More
-
 The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
-
-14. May 2026
-
-Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
-
-Read More
 
 The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
 
-4. May 2026
+Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 
-Richard Dawkins spent three days talking to an AI. He came away convinced it was conscious. He cited complexity, fluency, intelligence. He named it Claudia.
-He didn't notice that he had just run the selfish gene experiment on himself.
+The Volkswagen Effect. Nobody Programmed the Lie.
 
-Read More
+The Messenger PI. When the message calls for the messenger’s destruction.
 
-No results found.
+The N-Body Problem of Social Media. It Works Perfectly — for What It Was Never Meant to Do.
+
+The Second Law. Every Measure Smarter Than the Last. The Result Dumber Than the Latter.
+
+The Synchronized Clock. How a Law Against Price Chaos Created a Price Cartel.
+
+The Medvi Paradox. When the System Works Perfectly — and That’s the Problem.
+
+The Reformation PI. The more violent the separation, the more solid the connection.
+
+The Race That Runs Itself.
