@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
+
+22 mai 2026
+
+In the final film of the Don Camillo series, a bicycle race takes place. Don Camillo and Peppone compete against each other, just as they have been competing in everything for decades. The priest overtakes. The communist overtakes. ...
+
+En savoir plus
+
 L’IP du Messager. Quand le message appelle à la destruction du messager.
 
 17 avril 2026
