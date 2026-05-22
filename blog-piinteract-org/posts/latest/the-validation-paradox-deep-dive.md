@@ -589,6 +589,8 @@ Related:
 
 
 
+The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
+
 When AI Alignment Becomes a Paradoxical Interaction
 
 Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
@@ -610,8 +612,6 @@ When Observing Closure Becomes Closure
 When Safety Meets Sovereignty
 
 The Polarization That Wasn’t Chosen
-
-The Articulate Gatekeeper
 
 No results found.
 
