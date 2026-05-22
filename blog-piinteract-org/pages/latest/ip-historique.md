@@ -32,6 +32,14 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
+L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
+
+22 mai 2026
+
+En juillet 1209, les forces croisées arrivent devant les murs de Béziers, dans ce qui est aujourd'hui le sud de la France. Elles sont venues éradiquer l'hérésie cathare — un mouvement chrétien dualiste que l'Église de Rome a déclaré ...
+
+En savoir plus
+
 L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu.
 
 14 mai 2026
