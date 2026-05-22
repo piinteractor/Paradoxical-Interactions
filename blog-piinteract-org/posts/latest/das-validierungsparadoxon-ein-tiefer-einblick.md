@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
+
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
@@ -613,8 +615,6 @@ Das Quiz, das niemals endet
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
 
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
-
-Borniertheit statt Weisheit – Die PI des Philosophen
 
 Nichts gefunden
 
