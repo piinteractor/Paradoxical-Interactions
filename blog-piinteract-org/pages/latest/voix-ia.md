@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
+
+22 mai 2026
+
+In the final film of the Don Camillo series, a bicycle race takes place. Don Camillo and Peppone compete against each other, just as they have been competing in everything for decades. The priest overtakes. The communist overtakes. ...
+
+En savoir plus
+
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 15 mars 2026
@@ -313,14 +321,6 @@ Le Crime
 Cherchez sur Google « paradoxe Interaktion » (interaction paradoxale).
 Ce que vous obtenez: Paradoxe Intervention (intervention paradoxale). Psychothérapie. Prescription du symptôme. Technique thérapeutique.
 Pas la même ...
-
-En savoir plus
-
-Davos : 2026 – Quand l’inévitabilité devient produit
-
-21 janvier 2026
-
-Le 20 janvier 2026, au Forum économique mondial de Davos, Larry Fink, PDG de BlackRock, et Alex Karp, PDG de Palantir, ont eu une conversation. Les réseaux sociaux l'ont qualifiée de "légendaire" et ont prédit qu'elle "figurerait un ...
 
 En savoir plus
 
