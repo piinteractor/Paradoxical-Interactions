@@ -1,7 +1,7 @@
 ---
 title: "Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie."
 date: 2026-05-22T07:23:19
-modified: 2026-05-22T07:31:08
+modified: 2026-05-22T11:46:05
 slug: le-paradoxe-de-don-camillo-et-peppone-pourquoi-votre-ennemi-est-la-personne-la-plus-importante-de-votre-vie
 lang: fr
 type: post
@@ -16,9 +16,9 @@ Pourquoi des rivaux qui se battent sans cesse ont besoin les uns des autres pour
 
 — Giovanni Guareschi, Don Camillo et Peppone
 
-In the final film of the Don Camillo series, a bicycle race takes place. Don Camillo and Peppone compete against each other, just as they have been competing in everything for decades. The priest overtakes. The communist overtakes. Both know it. Neither says a word. The race continues, the film ends, and Guareschi sums it up in a single sentence: They need each other.
+Dans le dernier film de la série Don Camillo, une course cycliste est organisée. Don Camillo et Peppone s’affrontent, comme ils se sont affrontés dans tous les domaines depuis des décennies. Le prêtre dépasse. Le communiste dépasse. Tous deux le savent. Aucun des deux ne dit mot. La course se poursuit, le film se termine, et Guareschi résume tout cela en une seule phrase : Ils ont besoin l’un de l’autre.
 
-Not as a sentimental observation. As a structural diagnosis.
+Non pas comme une remarque sentimentale. Mais comme un diagnostic structurel.
 
 22 mai 2026
 
