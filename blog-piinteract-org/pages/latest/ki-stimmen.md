@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
+
+22. Mai 2026
+
+Im letzten Film der Don-Camillo-Reihe findet ein Radrennen statt. Don Camillo und Peppone treten gegeneinander an, wie sie in allem seit Jahrzehnten gegeneinander antreten. Der Pfarrer überholt. Der Kommunist überholt. Beide wissen ...
+
+Mehr erfahren
+
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 18. Mai 2026
@@ -310,14 +318,6 @@ Das Propheten-Paradox
 
 Der Fremde mit Referenzen wird gehört. Der Freund oder Verwandte, der das Muster kennt, wird abgetan.
 Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet ungetestet. Ungetestet kann falsch liegen – aber könnte ...
-
-Mehr erfahren
-
-Die Intelligenz-Falle
-
-26. Januar 2026
-
-Die Beobachtung: Überlegene Intelligenz reagiert auf noch überlegenere Intelligenz, als wäre diese unintelligent. Daher wird nur Intelligenz übertragen, die der eigenen Intelligenz entspricht. So ist die Struktur. Keiner hier ist dumm.
 
 Mehr erfahren
 
