@@ -311,6 +311,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Albigensian PI. How Christians Launched a Crusade Against Christians.
+
 The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
 
 When AI Alignment Becomes a Paradoxical Interaction
@@ -332,5 +334,3 @@ The Second Law. Every Measure Smarter Than the Last. The Result Dumber Than the 
 The Synchronized Clock. How a Law Against Price Chaos Created a Price Cartel.
 
 The Medvi Paradox. When the System Works Perfectly — and That’s the Problem.
-
-The Reformation PI. The more violent the separation, the more solid the connection.
