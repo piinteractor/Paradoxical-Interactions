@@ -311,6 +311,14 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
+
+22 mai 2026
+
+En juillet 1209, les forces croisées arrivent devant les murs de Béziers, dans ce qui est aujourd'hui le sud de la France. Elles sont venues éradiquer l'hérésie cathare — un mouvement chrétien dualiste que l'Église de Rome a déclaré ...
+
+Read More
+
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
 
 22 mai 2026
@@ -324,15 +332,6 @@ L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi el
 14 mai 2026
 
 Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
-
-Read More
-
-Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris lui-même.
-
-4 mai 2026
-
-Richard Dawkins a passé trois jours à parler à une IA. Il en est ressorti convaincu qu'elle était consciente. Il a cité la complexité, la fluidité, l'intelligence. Il l'a appelée Claudia.
-Il n'a pas remarqué qu'il venait de faire ...
 
 Read More
 
