@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 date: 2026-01-17T09:43:25
-modified: 2026-05-07T06:07:16
+modified: 2026-05-22T20:03:06
 slug: accueil
 lang: fr
 type: page
@@ -313,26 +313,24 @@ Ce blog explore les Interactions Paradoxales à travers des exemples concrets, d
 
 L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
 
-22 mai 2026
-
-En juillet 1209, les forces croisées arrivent devant les murs de Béziers, dans ce qui est aujourd'hui le sud de la France. Elles sont venues éradiquer l'hérésie cathare — un mouvement chrétien dualiste que l'Église de Rome a déclaré ...
-
-Read More
-
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
-
-22 mai 2026
-
-In the final film of the Don Camillo series, a bicycle race takes place. Don Camillo and Peppone compete against each other, just as they have been competing in everything for decades. The priest overtakes. The communist overtakes. ...
-
-Read More
 
 L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu.
 
-14 mai 2026
+Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris lui-même.
 
-Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
+Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
 
-Read More
+L’Effet Volkswagen. Personne n’a programmé le mensonge.
 
-No results found.
+L’IP du Messager. Quand le message appelle à la destruction du messager.
+
+Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pour Ce qu’il N’était Jamais Censé Faire.
+
+La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent.
+
+L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
+
+Le Paradoxe Medvi. Quand le système fonctionne parfaitement — et c’est justement le problème.
+
+La PI de la Réforme. Plus la séparation est brutale, plus la connexion est solide.
