@@ -32,6 +32,14 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
+The Albigensian PI. How Christians Launched a Crusade Against Christians.
+
+22. May 2026
+
+In July 1209, crusader forces arrived at the walls of Béziers in what is now southern France. They had come to root out the Cathar heresy — a dualist Christian movement the Church of Rome had declared an existential threat. Inside the ...
+
+Read More
+
 The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
 
 14. May 2026
