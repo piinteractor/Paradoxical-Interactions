@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
+
+22. Mai 2026
+
+Im letzten Film der Don-Camillo-Reihe findet ein Radrennen statt. Don Camillo und Peppone treten gegeneinander an, wie sie in allem seit Jahrzehnten gegeneinander antreten. Der Pfarrer überholt. Der Kommunist überholt. Beide wissen ...
+
+Mehr erfahren
+
 Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
 
 17. April 2026
