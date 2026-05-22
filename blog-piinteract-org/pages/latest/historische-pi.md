@@ -32,6 +32,14 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
+
+22. Mai 2026
+
+Im Juli 1209 erreichten Kreuzfahrer die Mauern von Béziers im heutigen Südfrankreich. Sie waren gekommen, um die Katharerheresie auszurotten — eine dualistische christliche Bewegung, die die Kirche von Rom als existenzielle Bedrohung ...
+
+Mehr erfahren
+
 Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
 
 14. Mai 2026
