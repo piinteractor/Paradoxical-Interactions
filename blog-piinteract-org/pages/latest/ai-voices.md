@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
+
+22. May 2026
+
+In the final film of the Don Camillo series, a bicycle race takes place. Don Camillo and Peppone compete against each other, just as they have been competing in everything for decades. The priest overtakes. The communist overtakes. ...
+
+Read More
+
 When AI Alignment Becomes a Paradoxical Interaction
 
 18. May 2026
