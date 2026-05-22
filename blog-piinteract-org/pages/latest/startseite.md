@@ -311,6 +311,14 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erkundet Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
+
+22. Mai 2026
+
+Im Juli 1209 erreichten Kreuzfahrer die Mauern von Béziers im heutigen Südfrankreich. Sie waren gekommen, um die Katharerheresie auszurotten — eine dualistische christliche Bewegung, die die Kirche von Rom als existenzielle Bedrohung ...
+
+Read More
+
 Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
 
 22. Mai 2026
@@ -324,14 +332,6 @@ Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 18. Mai 2026
 
 AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
-
-Read More
-
-Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
-
-14. Mai 2026
-
-Nürnberg, April 1946. Hermann Göring — ehemaliger Reichsmarschall, zweiter Mann des Dritten Reichs, verurteilter Kriegsverbrecher — sitzt dem Psychologen Gustave Gilbert gegenüber. Er wartet auf das Urteil. Er hat nichts mehr zu ...
 
 Read More
 
