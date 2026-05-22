@@ -311,6 +311,14 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erkundet Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
+
+22. Mai 2026
+
+Im letzten Film der Don-Camillo-Reihe findet ein Radrennen statt. Don Camillo und Peppone treten gegeneinander an, wie sie in allem seit Jahrzehnten gegeneinander antreten. Der Pfarrer überholt. Der Kommunist überholt. Beide wissen ...
+
+Read More
+
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 18. Mai 2026
@@ -324,15 +332,6 @@ Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
 14. Mai 2026
 
 Nürnberg, April 1946. Hermann Göring — ehemaliger Reichsmarschall, zweiter Mann des Dritten Reichs, verurteilter Kriegsverbrecher — sitzt dem Psychologen Gustave Gilbert gegenüber. Er wartet auf das Urteil. Er hat nichts mehr zu ...
-
-Read More
-
-Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
-
-4. Mai 2026
-
-Richard Dawkins verbrachte drei Tage damit, mit einer KI zu sprechen. Er kam mit der Überzeugung heraus, dass sie bewusst sei. Er zitierte Komplexität, Flüssigkeit, Intelligenz. Er nannte sie Claudia.
-Er bemerkte nicht, dass er ...
 
 Read More
 
