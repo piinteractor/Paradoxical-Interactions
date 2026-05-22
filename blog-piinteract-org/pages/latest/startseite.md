@@ -1,7 +1,7 @@
 ---
 title: "Startseite"
 date: 2026-01-17T09:43:25
-modified: 2026-05-07T06:18:48
+modified: 2026-05-22T20:02:17
 slug: startseite
 lang: de
 type: page
@@ -309,30 +309,28 @@ Selbsteinschließende Systeme Veränderungen von innen heraus widerstehen
 
 Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
-Dieser Blog erkundet Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
+Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
 Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
 
-22. Mai 2026
-
-Im Juli 1209 erreichten Kreuzfahrer die Mauern von Béziers im heutigen Südfrankreich. Sie waren gekommen, um die Katharerheresie auszurotten — eine dualistische christliche Bewegung, die die Kirche von Rom als existenzielle Bedrohung ...
-
-Read More
-
 Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
-
-22. Mai 2026
-
-Im letzten Film der Don-Camillo-Reihe findet ein Radrennen statt. Don Camillo und Peppone treten gegeneinander an, wie sie in allem seit Jahrzehnten gegeneinander antreten. Der Pfarrer überholt. Der Kommunist überholt. Beide wissen ...
-
-Read More
 
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
-18. Mai 2026
+Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
 
-AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
+Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
 
-Read More
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 
-No results found.
+Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
+
+Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
+
+Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
+
+Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
+
+Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
+
+Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
