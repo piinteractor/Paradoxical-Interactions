@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
+
+25 mai 2026
+
+Le dernier ouvrage de Götz Aly est un best-seller. Marcel Schütz anime un séminaire à ce sujet à l’université de Bielefeld. Les étudiants y découvrent les dynamiques bureaucratiques, la dilution des responsabilités et les structures ...
+
+En savoir plus
+
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
 
 22 mai 2026
@@ -310,17 +318,6 @@ Pourquoi les sociétés prétendument égales génèrent l’inégalité
 25 janvier 2026
 
 La structure génère l'inégalité PRÉCISÉMENT PARCE QUE tous démarrent égaux et agissent rationnellement. Plus les conditions initiales sont équitables, plus l'écart résultant est brutal. Ce n'est pas un bug. C'est une ...
-
-En savoir plus
-
-Détournement Terminologique: Le Crime, L’Aveu, Le « Et Alors? »
-
-24 janvier 2026
-
-Le Crime
-Cherchez sur Google « paradoxe Interaktion » (interaction paradoxale).
-Ce que vous obtenez: Paradoxe Intervention (intervention paradoxale). Psychothérapie. Prescription du symptôme. Technique thérapeutique.
-Pas la même ...
 
 En savoir plus
 
