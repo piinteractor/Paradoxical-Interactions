@@ -592,9 +592,11 @@ Verwandt:
 
 
 
-Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
-
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
+
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
 
 Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 
@@ -613,8 +615,6 @@ Das Quiz, das niemals endet
 €$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
 
 Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
-
-Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 Nichts gefunden
 
