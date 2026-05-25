@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
+
+25. May 2026
+
+Götz Aly's final book is a bestseller. Marcel Schütz runs a seminar on it at the University of Bielefeld. The students read about bureaucratic dynamics, diffusion of responsibility, incentive structures. They learn how "quite normal" ...
+
+Read More
+
 The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
 
 4. May 2026
