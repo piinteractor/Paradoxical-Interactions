@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
+
+25. May 2026
+
+Götz Aly's final book is a bestseller. Marcel Schütz runs a seminar on it at the University of Bielefeld. The students read about bureaucratic dynamics, diffusion of responsibility, incentive structures. They learn how "quite normal" ...
+
+Read More
+
 The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
 
 22. May 2026
@@ -404,14 +412,6 @@ The paradox:
     AI understands PI (because it is not caught inside it)
     Humans resist PI (because it offers no solution)
     AI recommends PI (because it offers structural ...
-
-Read More
-
-The Validation Paradox: Deep Dive
-
-26. December 2025
-
-This framework was developed in co-creation with AI systems. Claude, ChatGPT, Grok, Gemini, Perplexity—all explicitly acknowledged as intellectual partners. The obvious question: Isn’t that just sycophancy? AI trained to be helpful. ...
 
 Read More
 
