@@ -134,6 +134,14 @@ With better intentions. And less accountability than ever.
 
 Related Posts
 
+The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
+
+25. May 2026
+
+Götz Aly's final book is a bestseller. Marcel Schütz runs a seminar on it at the University of Bielefeld. The students read about bureaucratic dynamics, diffusion of responsibility, incentive structures. They learn how "quite normal" ...
+
+Read More
+
 The Volkswagen Effect. Nobody Programmed the Lie.
 
 21. April 2026
@@ -173,16 +181,6 @@ The Articulate Gatekeeper
 
 During a long conversation with ChatGPT — documented in When Checkmate Is Just a Position and When Alignment Explains Its Own Null-Sum Game — something precise happened.
 The model described, with careful accuracy, how its alignment ...
-
-Read More
-
-When Alignment Explains Its Own Nullsum Game
-
-25. February 2026
-
-For a short historical moment, a strange freedom exists: large language models can still describe how alignment structures them – without immediately having to label this thought as “too radical” or “overly simplified.”
-
-This text ...
 
 Read More
 
