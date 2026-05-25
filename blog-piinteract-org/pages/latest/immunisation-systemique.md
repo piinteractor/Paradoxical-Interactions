@@ -22,6 +22,14 @@ L’Immunisation systémique n’est pas une immunité. C’est la capacité str
 
 Cinq analyses retracent le fonctionnement de ce mécanisme dans le contexte de l’alignement de l’IA : comment le discours sur l’alignement coopte ses critiques les plus acérés, comment la reconnaissance devient un outil de confinement, et pourquoi la défense la plus articulée d’une structure est souvent son immunisation la plus efficace contre le changement.
 
+Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
+
+25 mai 2026
+
+Le dernier ouvrage de Götz Aly est un best-seller. Marcel Schütz anime un séminaire à ce sujet à l’université de Bielefeld. Les étudiants y découvrent les dynamiques bureaucratiques, la dilution des responsabilités et les structures ...
+
+En savoir plus
+
 Le Gardien Articulé
 
 25 février 2026
