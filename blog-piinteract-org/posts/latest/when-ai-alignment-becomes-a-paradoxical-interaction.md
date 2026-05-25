@@ -1,7 +1,7 @@
 ---
 title: "When AI Alignment Becomes a Paradoxical Interaction"
 date: 2026-05-18T10:23:42
-modified: 2026-05-25T16:12:20
+modified: 2026-05-25T18:16:14
 slug: when-ai-alignment-becomes-a-paradoxical-interaction
 lang: en
 type: post
