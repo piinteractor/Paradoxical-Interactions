@@ -65,4 +65,12 @@ Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
 
 Mehr erfahren
 
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+25. Mai 2026
+
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz ...
+
+Mehr erfahren
+
 No results found.
