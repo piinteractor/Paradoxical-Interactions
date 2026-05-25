@@ -134,6 +134,14 @@ Mit besseren Absichten. Und weniger Rechenschaftspflicht als je zuvor.
 
 Verwandte Beiträge
 
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+25. Mai 2026
+
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz ...
+
+Mehr erfahren
+
 Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
 
 21. April 2026
@@ -173,24 +181,6 @@ Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
 25. Februar 2026
 
 Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: LLMs dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu undifferenziert“ zu ...
-
-Mehr erfahren
-
-Wenn Schachmatt nur eine Position ist
-
-25. Februar 2026
-
-There was a moment in a recent discussion when the word appeared: Schachmatt.
-
-Not as triumph.
-Not as apocalypse.
-But as diagnosis.
-
-Checkmate does not end chess.
-It ends a configuration.
-
-The pieces remain.
-The rules ...
 
 Mehr erfahren
 
