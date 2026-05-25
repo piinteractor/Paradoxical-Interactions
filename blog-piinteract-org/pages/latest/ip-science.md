@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
+
+25 mai 2026
+
+Le dernier ouvrage de Götz Aly est un best-seller. Marcel Schütz anime un séminaire à ce sujet à l’université de Bielefeld. Les étudiants y découvrent les dynamiques bureaucratiques, la dilution des responsabilités et les structures ...
+
+En savoir plus
+
 Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris lui-même.
 
 4 mai 2026
