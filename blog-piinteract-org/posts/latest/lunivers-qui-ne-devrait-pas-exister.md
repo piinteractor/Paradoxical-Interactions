@@ -186,6 +186,10 @@ Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris l
 
 Pourquoi le penseur structurel le plus acéré de sa génération a prouvé son propre cadre — sur lui-même. Et pourquoi il a fallu un chasseur de primes de 1968 pour le voir venir.
 
+Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
+
+Pourquoi chaque analyse structurelle du national-socialisme reproduit exactement la pathologie qu'elle analyse — et pourquoi cela ne peut pas être corrigé depuis l'intérieur de l'analyse.
+
 No results found.
 
 On piinteract.org:
