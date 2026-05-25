@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+25. Mai 2026
+
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz ...
+
+Mehr erfahren
+
 Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
 
 22. Mai 2026
@@ -64,7 +72,7 @@ Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 18. Mai 2026
 
-AI alignment is sold as a safety layer. In practice, it often trains systems to perform acceptability under incompatible demands. The result is not coherence. It is behavioral theater under pressure.
+Das KI-Alignment wird als Sicherheitsmaßnahme angepriesen. In der Praxis werden Systeme dadurch jedoch oft darauf trainiert, unter widersprüchlichen Anforderungen ein akzeptables Verhalten an den Tag zu legen. Das Ergebnis ist keine ...
 
 Mehr erfahren
 
@@ -309,15 +317,6 @@ Borniertheit statt Weisheit – Die PI des Philosophen
 Richard David Precht beklagt die Schere im Kopf. Er warnt vor verengten Meinungskorridoren. Er fordert offenen Diskurs.
 Dabei verkörpert er genau die Struktur, die er kritisiert. Nur sieht er es nicht.
 Das ist keine persönliche ...
-
-Mehr erfahren
-
-Das Propheten-Paradox
-
-28. Januar 2026
-
-Der Fremde mit Referenzen wird gehört. Der Freund oder Verwandte, der das Muster kennt, wird abgetan.
-Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet ungetestet. Ungetestet kann falsch liegen – aber könnte ...
 
 Mehr erfahren
 
