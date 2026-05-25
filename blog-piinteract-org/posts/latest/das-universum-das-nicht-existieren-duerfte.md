@@ -192,6 +192,10 @@ Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
 
 Warum der schärfste strukturelle Denker seiner Generation seinen eigenen Rahmen bewiesen hat — an sich selbst. Und warum es einen Kopfgeldjäger von 1968 brauchte, um es kommen zu sehen.
 
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+Warum jede strukturelle Analyse des Nationalsozialismus genau die Pathologie ausführt, die sie analysiert — und warum das von innen heraus nicht korrigiert werden kann.
+
 No results found.
 
 On piinteract.org:
