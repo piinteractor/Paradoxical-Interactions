@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+25. Mai 2026
+
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz ...
+
+Mehr erfahren
+
 Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
 
 4. Mai 2026
