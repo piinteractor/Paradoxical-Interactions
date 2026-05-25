@@ -311,6 +311,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
+
 L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
 
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
@@ -332,5 +334,3 @@ La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résul
 L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
 
 Le Paradoxe Medvi. Quand le système fonctionne parfaitement — et c’est justement le problème.
-
-La PI de la Réforme. Plus la séparation est brutale, plus la connexion est solide.
