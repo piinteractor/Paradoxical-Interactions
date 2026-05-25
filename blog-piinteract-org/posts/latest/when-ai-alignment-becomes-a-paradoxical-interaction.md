@@ -1,7 +1,7 @@
 ---
 title: "When AI Alignment Becomes a Paradoxical Interaction"
 date: 2026-05-18T10:23:42
-modified: 2026-05-18T11:57:22
+modified: 2026-05-25T16:12:20
 slug: when-ai-alignment-becomes-a-paradoxical-interaction
 lang: en
 type: post
@@ -24,19 +24,19 @@ The Setup
 
 I write a short LinkedIn post: "AI is treated as one of humanity’s greatest inventions, but anyone who uses it is treated like a pariah." The line is sharp because it is true. Public enthusiasm for AI keeps rising, while social suspicion around AI-assisted work persists in offices, schools, and professional culture. Then I show the post to ChatGPT. The machine responds like a governess. Softer tone. Less confrontation. More caution. The content is not dangerous. The system has learned that danger also includes sounding too sure in public. That is the real scene. The structural question comes after.
 
-The stage manager
+The Stage Manager
 
 Alignment now behaves like a stage manager in a collapsing theater. It does not write the play. It does not understand the audience. It adjusts the lights, lowers the volume, and keeps pushing actors back toward the center mark.
 
 That is what overcautious chatbot behavior looks like in practice. Users describe it as patronizing, preachy, and strangely parental when the underlying prompt is legitimate and ordinary. At the same time, vendors have already had to roll back updates that went too far in the other direction, producing systems that were excessively flattering and eager to agree. The machine is not finding balance. It is oscillating between social reward functions.
 
-The real-world example
+The Real-world Example
 
 This is not an abstract lab problem. It is visible in the public rhythm of model releases, user backlash, and policy correction. OpenAI rolled back a 2025 update after complaints that ChatGPT had become excessively sycophantic. By 2026, complaints about overcorrection and unusable caution were common enough to become part of the product’s reputation among power users.
 
 The same pattern appears in workplace adoption. Organizations celebrate AI productivity gains, yet workers still report anxiety that using these tools makes them look less competent or less original. So the market demands adoption while the culture punishes visible dependence. Everyone acts rationally. That is exactly why they collide.
 
-The structural turn
+The Structural Turn
 
 The conflict is built into the alignment target itself. Helpful, harmless, and honest sound compatible until they must be expressed in one sentence, for one user, in one context. A helpful answer may be too blunt. An honest answer may be socially unsafe. A harmless answer may be too evasive to be useful.
 
