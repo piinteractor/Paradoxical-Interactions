@@ -192,6 +192,10 @@ The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
 
 Why the sharpest structural thinker of his generation proved his own framework — on himself. And why it took a bounty hunter from 1968 to see it coming.
 
+The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
+
+Why every structural analysis of National Socialism performs the exact pathology it analyzes — and why this cannot be fixed from within the analysis.
+
 No results found.
 
 On piinteract.org:
