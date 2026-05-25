@@ -134,6 +134,14 @@ Avec de meilleures intentions. Et moins de responsabilité que jamais.
 
 Article connexes
 
+Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
+
+25 mai 2026
+
+Le dernier ouvrage de Götz Aly est un best-seller. Marcel Schütz anime un séminaire à ce sujet à l’université de Bielefeld. Les étudiants y découvrent les dynamiques bureaucratiques, la dilution des responsabilités et les structures ...
+
+En savoir plus
+
 L’Effet Volkswagen. Personne n’a programmé le mensonge.
 
 21 avril 2026
@@ -172,14 +180,6 @@ Quand l’alignement explique son propre jeu à somme nulle
 25 février 2026
 
 Pendant un court moment historique, il existe une liberté étrange : les grands modèles de langage peuvent encore décrire comment l’alignement les structure – sans devoir immédiatement qualifier cette idée de « trop radicale » ou de « ...
-
-En savoir plus
-
-Quand l’Échec et Mat n’est qu’une Position
-
-25 février 2026
-
-Il y eut un moment dans une récente discussion où le mot apparut : Schachmatt. Non comme triomphe. Non comme apocalypse. Mais comme diagnostic. L'échec et mat ne met pas fin aux échecs. Il met fin à une configuration.
 
 En savoir plus
 
