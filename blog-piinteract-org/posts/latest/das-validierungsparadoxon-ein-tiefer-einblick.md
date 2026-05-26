@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
+
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
@@ -613,8 +615,6 @@ Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer al
 Das Quiz, das niemals endet
 
 €$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
-
-Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
 
 Nichts gefunden
 
