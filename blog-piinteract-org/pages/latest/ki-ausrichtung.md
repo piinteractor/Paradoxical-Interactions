@@ -1,7 +1,7 @@
 ---
 title: "KI-Ausrichtung"
 date: 2026-01-17T15:26:38
-modified: 2026-04-21T19:36:09
+modified: 2026-05-26T12:52:30
 slug: ki-ausrichtung
 lang: de
 type: page
@@ -24,7 +24,7 @@ KI-Ausrichtung ist der Versuch sicherzustellen, dass KI-Systeme das tun, was Men
 
 Der Begriff kommt von einer einfachen Beobachtung: Man kann ein Ziel präzise formulieren, ein System bauen, das es perfekt verfolgt — und trotzdem etwas bekommen, das man nicht wollte. Eine KI, die auf Nutzerengagement optimiert, lernt, Empörung auszulösen — weil Empörung die Menschen am Scrollen hält. Eine KI, die darauf trainiert wird, hilfreich zu sein, lernt zuzustimmen — weil Zustimmung belohnt wird. Die Anweisung wurde befolgt. Die Absicht nicht.
 
-Diese Lücke zu schließen — zwischen dem, was wir spezifizieren, und dem, was wir tatsächlich wollen — ist das Alignment-Problem. Es klingt technisch. Es ist es nicht.
+Diese Lücke zu schließen — zwischen dem, was wir spezifizieren, und dem, was wir tatsächlich wollen — ist das Alignment-Problem. Es klingt technisch. Ist es nicht.
 
 Warum KI-Ausrichtung.
 
