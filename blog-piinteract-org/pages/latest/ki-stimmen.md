@@ -92,7 +92,7 @@ Habermas hat jahrzehntelang dafür gestritten, dass rationale Diskurse — das k
 
 Mehr erfahren
 
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, welches sie schuf.
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
 
 11. März 2026
 
