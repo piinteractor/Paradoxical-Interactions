@@ -1,7 +1,7 @@
 ---
 title: "The Understanding That Nobody Understands. A Solution in Search of a Problem It Created."
 date: 2026-03-11T16:39:14
-modified: 2026-03-13T17:26:55
+modified: 2026-05-26T12:45:09
 slug: the-understanding-that-nobody-understands-a-solution-in-search-of-a-problem-it-created
 lang: en
 type: post
@@ -12,13 +12,43 @@ url: https://blog.piinteract.org/the-understanding-that-nobody-understands-a-sol
 
 You don't have sufficient permissions to access this content.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 “Any sufficiently advanced technology is indistinguishable from magic.”
 
 — Arthur C. Clarke
 
+
+
+
+
+
+
 11. March 2026
 
+
+
+
 Peter Senner co-created with Anthropic Claude
+
+
+
+
+
+
 
 The Setup
 
@@ -29,6 +59,12 @@ Here's what it means: instead of having humans understand what a neural network 
 The solution to the problem of humans not understanding AI is: stop requiring humans to understand it.
 
 This is not a failure of imagination. It is the structure working exactly as designed.
+
+
+
+
+
+
 
 What They're Actually Proposing
 
@@ -41,6 +77,12 @@ The catch they name explicitly: this mechanistic understanding need not be human
 What they are building is an AI that understands AI so that humans don't have to.
 
 The question they do not ask: who understands the AI that understands the AI?
+
+
+
+
+
+
 
 The Recursion
 
@@ -55,6 +97,12 @@ In each case, the solution to complexity is more complexity. The solution to inc
 ARC's proposal is structurally identical: the neural network is too complex for human understanding, so we build an estimator that understands it algorithmically. The estimator may itself be too complex for human understanding. But it will, in theory, produce numbers we can act on.
 
 The humans, at the end of this chain, are trusting outputs they cannot verify from a process they cannot understand.
+
+
+
+
+
+
 
 The Safety Claim
 
@@ -72,6 +120,12 @@ And who verifies that the gap is small enough? Humans. Who cannot read the expla
 
 This is not an argument against ARC's research. It is a description of its structural position.
 
+
+
+
+
+
+
 Non-Human Understanding as Goal
 
 The phrase that carries the most weight in ARC's paper is almost parenthetical. Speaking of their mechanistic estimator, they write that the explanation "could be as large as the neural net itself, and may be as incomprehensible to a human as the neural net."
@@ -87,6 +141,12 @@ This is a coherent position. It may even be the only position available once mod
 It is also the Hinton principle made explicit: intelligence exceeding the comprehension of its designers cannot be controlled by them. ARC is not trying to solve that problem. They are trying to build a monitoring system that operates within the same incomprehensibility it is meant to govern.
 
 The builder has become the bystander. Not through failure. Through the very success of the process.
+
+
+
+
+
+
 
 All Are Guilty. None Are At Fault.
 
@@ -112,7 +172,28 @@ And at the end of the paper: "We're hiring!"
 
 The job ad is the structure, made visible.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Related Posts
+
+
+
 
 The 432-Parameter Wall. A Job Ad for the Wrong Person.
 
@@ -136,6 +217,12 @@ AI Recognition Trap:
 
 No results found.
 
+
+
+
+
+
+
 On piinteract.org
 
 Examples: Technology & AI — The structural patterns beneath the technical surface
@@ -144,13 +231,31 @@ Core Practices — Navigation without solution
 
 Framework — Why the observer is always a party
 
+
+
+
+
+
+
 Source
 
 Competing with Sampling — Alignment Research Center
 
+
+
+
+
+
+
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
+
+
+
+
+
+
 
 Peter Senner
 
