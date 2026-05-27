@@ -34,14 +34,6 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
-Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
-
-27. Mai 2026
-
-Die zwei größten Theorien in der Geschichte der Physik sind beide richtig. Beide sind empirisch bestätigt in einem Maß, das den meisten anderen Wissenschaften die Schamesröte ins Gesicht treibt. Beide sind intern konsistent. Und sie ...
-
-Mehr erfahren
-
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 25. Mai 2026
