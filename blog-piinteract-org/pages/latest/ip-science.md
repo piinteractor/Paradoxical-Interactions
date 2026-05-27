@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend la physique possible.
+
+27 mai 2026
+
+Les deux plus grandes théories de l'histoire de la physique sont toutes deux correctes. Elles sont toutes deux confirmées empiriquement à un degré qui fait rougir la plupart des autres sciences. Elles sont toutes deux cohérentes en ...
+
+En savoir plus
+
 Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
 
 25 mai 2026
