@@ -311,6 +311,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend la physique possible.
+
 Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
 
 L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
@@ -332,5 +334,3 @@ Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pou
 La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent.
 
 L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
-
-Le Paradoxe Medvi. Quand le système fonctionne parfaitement — et c’est justement le problème.
