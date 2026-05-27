@@ -311,6 +311,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Blind Spot That Sees Everything. Why Physics Cannot Observe What Makes Physics Possible.
+
 The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
 
 The Albigensian PI. How Christians Launched a Crusade Against Christians.
@@ -332,5 +334,3 @@ The Messenger PI. When the message calls for the messenger’s destruction.
 The N-Body Problem of Social Media. It Works Perfectly — for What It Was Never Meant to Do.
 
 The Second Law. Every Measure Smarter Than the Last. The Result Dumber Than the Latter.
-
-The Synchronized Clock. How a Law Against Price Chaos Created a Price Cartel.
