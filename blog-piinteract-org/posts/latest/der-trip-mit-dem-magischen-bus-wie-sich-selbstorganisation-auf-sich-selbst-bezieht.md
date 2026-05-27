@@ -1,7 +1,7 @@
 ---
 title: "Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht."
 date: 2026-03-24T09:20:34
-modified: 2026-04-09T11:12:36
+modified: 2026-05-27T19:52:21
 slug: der-trip-mit-dem-magischen-bus-wie-sich-selbstorganisation-auf-sich-selbst-bezieht
 lang: de
 type: post
@@ -229,6 +229,16 @@ Framework — Warum Struktur, nicht Absicht, Ergebnisse antreibt
 Kernpraktiken — Navigation ohne Lösung
 
 Beispiele: Systeme & Governance — Selbstorganisierende Systeme in Politik und Institutionen
+
+Siehe auch (externe Links):
+
+Kollektive Bewegung in Starenschwärmen — Ballerini et al. (2008), PNAS: die begutachtete Quelle für die topologische Nachbarschaftsregel bei Schwarmbewegungen — die lokale Beschränkung, aus der die globale Ordnung des „Magic Bus“ ohne Anweisung entsteht.
+
+Performativität der Ökonomie – Donald MacKenzies Hauptarbeit zur Performativitätshypothese: Wirtschaftsmodelle beschreiben Märkte nicht nur, sie gestalten sie aktiv neu – genau die Struktur, die der Beitrag in jedem selbstorganisierenden System identifiziert, das Beobachter hervorbringt.
+
+Emergent Properties – Stanford Encyclopedia of Philosophy: die kanonische philosophische Darstellung von Emergenz und der Beziehung zwischen Teilen und Ganzem – Primärquelle für die Behauptung, dass Nässe, Bewusstsein und Preis keine Eigenschaften von Komponenten sind.
+
+Gödels Unvollständigkeitssätze — Stanford Encyclopedia of Philosophy: formale Darstellung, warum kein ausreichend leistungsfähiges System sich selbst von innen heraus vollständig erfassen kann — die strukturelle Grundlage für die abschließende Behauptung des Beitrags, dass die Referenzschleife keine Außenposition hat.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
