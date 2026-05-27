@@ -190,6 +190,10 @@ Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reprod
 
 Pourquoi chaque analyse structurelle du national-socialisme reproduit exactement la pathologie qu'elle analyse — et pourquoi cela ne peut pas être corrigé depuis l'intérieur de l'analyse.
 
+L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend la physique possible.
+
+Pourquoi la tension non résolue entre la relativité et la théorie quantique n'est pas une lacune de la physique, mais la preuve que la physique fonctionne.
+
 No results found.
 
 On piinteract.org:
