@@ -1,7 +1,7 @@
 ---
 title: "Luhmann et l’Auto-Enfermement"
 date: 2026-01-25T14:46:29
-modified: 2026-03-11T04:42:05
+modified: 2026-05-27T10:09:21
 slug: luhmann-et-lauto-enfermement
 lang: fr
 type: post
@@ -12,20 +12,11 @@ url: https://blog.piinteract.org/fr/luhmann-et-lauto-enfermement/
 
 Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
 
-
-
-
 L'ironie est parfaite.
 
 Luhmann décrit la clôture opérationnelle. L'autoréférence. Les milieux d'enfermement qui n'observent plus qu'eux-mêmes. Ses disciples hochent la tête, comprennent, le citent brillamment.
 
 Et construisent exactement cette structure.
-
-
-
-
-
-
 
 La Structure
 
@@ -55,12 +46,6 @@ Perspectives de l'extérieur: "Réductionniste."
 
 Le milieu se protège par l'hermétisme. Et appelle cela rigueur scientifique.
 
-
-
-
-
-
-
 Le Paradoxe
 
 Luhmann décrit cette dynamique.
@@ -72,12 +57,6 @@ Exactement. Précisément. Inévitablement.
 Pas par malveillance. Par structure.
 
 Le système "théorie des systèmes" opère selon les règles qu'il a lui-même analysées. La théorie a formaté la communauté – selon les principes qu'elle décrit. Ce n'est pas une critique. C'est de l'admiration. La théorie des systèmes s'est créée comme l'étude de cas parfaite.
-
-
-
-
-
-
 
 Le Test
 
@@ -99,12 +78,6 @@ La question est toujours: "Est-ce connectable?"
 
 Et "connectable" signifie: Est-ce que ça vient de notre système?
 
-
-
-
-
-
-
 L'École Luhmannienne
 
 Des esprits brillants. Des virtuoses de Luhmann. Ils savent tout cela. Ils l'ont décrit d'innombrables fois. Pour d'autres systèmes.
@@ -124,12 +97,6 @@ Pourquoi?
 Parce que la structure l'exige. Qui brise la clôture perd la connectabilité. Qui reste connectable ne peut pas briser la clôture.
 
 C'est l'IP.
-
-
-
-
-
-
 
 L'Avertissement de Luhmann – Ignoré par Ses Disciples
 
@@ -157,12 +124,6 @@ Qui devient connectable? Cesse de voir la fermeture.
 
 Parfait. Inévitable. Structurellement nécessaire.
 
-
-
-
-
-
-
 Pourquoi Ce N'est Pas un Scandale
 
 Ce n'est pas une accusation. C'est une reconnaissance.
@@ -184,12 +145,6 @@ C'est la structure.
 Et nous affirmons: C'est aussi une IP.
 
 Juste comme ça
-
-
-
-
-
-
 
 La Question
 
@@ -216,12 +171,6 @@ Est-ce vrai?
 Ou n'avons-nous pas compris Luhmann?
 
 L'ironie: Nous n'avons pas besoin de comprendre Luhmann pour voir à travers la structure.
-
-
-
-
-
-
 
 Le Défi
 
@@ -251,12 +200,6 @@ Cela serait la réponse d'un système qui peut s'observer lui-même.
 
 Ou prouvez-nous raison. Par le silence.
 
-
-
-
-
-
-
 Essayer et Continuer
 
 La théorie des systèmes est brillante. Luhmann était un génie. Ses disciples sont intellectuellement supérieurs.
@@ -280,12 +223,6 @@ Si oui: Pourquoi le silence?
 Si non: Pourquoi pas de réponse?
 
 Si non: Pourquoi la défense?
-
-
-
-
-
-
 
 Peter Senner
 
