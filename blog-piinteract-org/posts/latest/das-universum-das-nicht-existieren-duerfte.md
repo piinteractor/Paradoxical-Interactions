@@ -196,10 +196,6 @@ Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernp
 
 Warum jede strukturelle Analyse des Nationalsozialismus genau die Pathologie ausführt, die sie analysiert — und warum das von innen heraus nicht korrigiert werden kann.
 
-Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
-
-Warum die unaufgelöste Spannung zwischen Relativitätstheorie und Quantentheorie keine Lücke in der Physik ist — sondern der Beweis, dass die Physik funktioniert.
-
 No results found.
 
 On piinteract.org:
