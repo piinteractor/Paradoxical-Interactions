@@ -212,6 +212,10 @@ The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces
 
 Why every structural analysis of National Socialism performs the exact pathology it analyzes — and why this cannot be fixed from within the analysis.
 
+The Blind Spot That Sees Everything. Why Physics Cannot Observe What Makes Physics Possible.
+
+Why the unresolved tension between relativity and quantum theory is not a gap in physics — but proof that physics works.
+
 No results found.
 
 On piinteract.org:
