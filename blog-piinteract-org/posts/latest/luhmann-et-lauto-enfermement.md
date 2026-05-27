@@ -1,7 +1,7 @@
 ---
 title: "Luhmann et l’Auto-Enfermement"
 date: 2026-01-25T14:46:29
-modified: 2026-05-27T10:09:21
+modified: 2026-05-27T12:36:43
 slug: luhmann-et-lauto-enfermement
 lang: fr
 type: post
