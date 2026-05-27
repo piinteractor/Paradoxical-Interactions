@@ -1,7 +1,7 @@
 ---
 title: "Le voyage en bus magique: comment les systèmes se décrivent eux-mêmes"
 date: 2026-03-24T09:20:34
-modified: 2026-03-30T19:20:39
+modified: 2026-05-27T19:54:17
 slug: le-voyage-en-bus-magique-comment-les-systemes-se-decrivent-eux-memes
 lang: fr
 type: post
@@ -231,6 +231,16 @@ Framework — Pourquoi la structure, pas l'intention, détermine les résultats
 Pratiques fondamentales — Navigation sans solution
 
 Exemples : Systèmes & Gouvernance — Systèmes auto-organisés en politique et dans les institutions
+
+Voir aussi (liens externes) :
+
+Collective motion in starling flocks — Ballerini et al. (2008), PNAS : l'article évalué par des pairs qui a établi la règle du voisinage topologique dans les volées d'étourneaux — la contrainte locale d'où émerge, sans instruction, l'ordre global du « Magic Bus ».
+
+Performativité de l'économie — Article fondateur de Donald MacKenzie sur l'hypothèse de la performativité : les modèles économiques ne se contentent pas de décrire les marchés, ils les remodèlent activement — structure exacte que l'article identifie dans tout système auto-organisé produisant des observateurs.
+
+Propriétés émergentes — Stanford Encyclopedia of Philosophy : exposé philosophique canonique de l'émergence et de la relation entre les parties et le tout — source principale de l'affirmation selon laquelle l'humidité, la conscience et le prix ne sont pas des propriétés des composants.
+
+Théorèmes d'incomplétude de Gödel — Stanford Encyclopedia of Philosophy : explication formelle de la raison pour laquelle aucun système suffisamment puissant ne peut se saisir pleinement de lui-même de l'intérieur — fondement structurel de l'affirmation finale de l'article selon laquelle la boucle de référence n'a pas de position extérieure.
 
 Interactions paradoxales (PI) : lorsque des acteurs rationnels aboutissent systématiquement à des résultats collectivement irrationnels — non pas par manque de capacité, mais en raison de la structure même du système.
 
