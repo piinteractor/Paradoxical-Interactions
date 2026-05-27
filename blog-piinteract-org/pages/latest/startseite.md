@@ -311,8 +311,6 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
-Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
-
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
@@ -334,3 +332,5 @@ Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
 Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
 
 Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
+
+Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeugte.
