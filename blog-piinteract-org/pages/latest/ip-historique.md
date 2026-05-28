@@ -48,7 +48,7 @@ Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of
 
 En savoir plus
 
-La PI de la Réforme. Plus la séparation est brutale, plus la connexion est solide.
+L’IP de la Réforme. Plus la séparation est brutale, plus la connexion est solide.
 
 2 avril 2026
 
