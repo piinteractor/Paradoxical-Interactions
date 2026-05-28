@@ -67,7 +67,7 @@ L'auto-organisation est le grand espoir de la théorie de la complexité. Pas d'
 
 En savoir plus
 
-Synchronisation des métronomes. L’axiome physique de PI.
+Synchronisation des métronomes. L’axiome physique de l’IP.
 
 7 mars 2026
 
