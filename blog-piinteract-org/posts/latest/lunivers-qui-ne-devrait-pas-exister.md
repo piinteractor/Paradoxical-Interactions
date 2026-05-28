@@ -174,7 +174,7 @@ Trois particules entrent dans une structure
 
 L'une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l'ignorer.
 
-Synchronisation des métronomes. L’axiome physique de PI.
+Synchronisation des métronomes. L’axiome physique de l’IP.
 
 Le phénomène des oscillateurs couplés
 
