@@ -177,7 +177,7 @@ L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un 
 
 Pourquoi réguler la fréquence des hausses de prix ne réduit pas la coordination des prix — et pourquoi elle la rend structurellement inévitable.
 
-Synchronisation des métronomes. L’axiome physique de PI.
+Synchronisation des métronomes. L’axiome physique de l’IP.
 
 Le Schéma Gaveston :
 
