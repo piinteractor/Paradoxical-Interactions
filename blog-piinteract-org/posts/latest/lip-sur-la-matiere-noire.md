@@ -198,6 +198,14 @@ Sur piinteract.org :
 
 [« Voir le schéma, pas le symptôme »] — La matière noire est peut-être le symptôme. Le schéma, c’est une science qui ne peut pas intégrer ce qu’elle ne peut pas détecter.
 
+Voir aussi (liens externes) :
+
+Résultats négatifs (les plus récents) — LZ, 417 jours d'exploitation, mars 2023 – avril 2025 : aucune trace de WIMP. La réponse : la planification du détecteur de suivi XLZD, encore plus grand et plus sensible, est déjà en cours. Phys.orgUC Davis
+
+MOND — état actuel du débat — Série détaillée en trois parties tirée de Physics World (août 2025). D'un côté, la grande majorité des astronomes défendant la matière noire. De l'autre, une minorité convaincue qu'une modification des lois de la gravité est la réponse. Un parfait exemple de marginalisation structurelle. Physics World
+
+Confirmation de la MOND en 2024 — De nouvelles recherches montrent que les courbes de rotation des galaxies restent indéfiniment plates — exactement le comportement prédit par la MOND. L'interprétation controversée : la matière noire pourrait être une chimère. Phys.org
+
 Per Errorem ad Astra — par l'erreur vers les étoiles.
 
 Mais seulement si l'on a le droit d'appeler l'erreur par son nom.
