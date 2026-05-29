@@ -170,6 +170,10 @@ L’Univers qui ne devrait pas exister
 
 La structure qui prédit sa propre impossibilité — et qui existe quand même
 
+L’IP sur la matière noire
+
+Pourquoi le plus grand mystère de l'univers pourrait être un piège structurel
+
 Trois particules entrent dans une structure
 
 L'une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l'ignorer.
