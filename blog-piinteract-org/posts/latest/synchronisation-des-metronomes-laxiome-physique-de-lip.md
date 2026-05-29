@@ -1,7 +1,7 @@
 ---
 title: "Synchronisation des métronomes. L’axiome physique de l’IP."
 date: 2026-03-07T10:00:56
-modified: 2026-05-28T07:49:36
+modified: 2026-05-29T06:18:44
 slug: synchronisation-des-metronomes-laxiome-physique-de-lip
 lang: fr
 type: post
@@ -68,7 +68,7 @@ Les liens thématiques les plus proches :
 
 L’IP sur la matière noire
 
-Why the universe's biggest mystery might be a structural trap
+Pourquoi le plus grand mystère de l'univers pourrait être un piège structurel
 
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
