@@ -12,43 +12,13 @@ url: https://blog.piinteract.org/the-dark-matter-pi/
 
 You don't have sufficient permissions to access this content.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 “Galileo was not a bad physicist”
 
 — Claude, AI
 
-
-
-
-
-
-
 23. February 2026
 
-
-
-
 Peter Senner co-created with Claude
-
-
-
-
-
-
 
 Eighty-five percent of the universe is missing. This is the dark matter paradoxical interaction: a structural trap disguised as a missing particle.
 
@@ -61,12 +31,6 @@ They haven't found it.
 That's not a failure of intelligence. It's a Paradoxical Interaction.
 
 ​
-
-
-
-
-
-
 
 ​The structure of the hunt
 
@@ -88,12 +52,6 @@ And collectively, they've built a self-stabilizing system that has been systemat
 
 All are guilty. None are at fault.
 
-
-
-
-
-
-
 The alternative that can't be heard
 
 In 1983, Mordehai Milgrom proposed something simple: maybe gravity works differently at very low accelerations. No Dark Matter needed. Just a modification to Newton's laws — MOND, Modified Newtonian Dynamics.
@@ -113,12 +71,6 @@ The system cannot absorb this. Not because the people in it are corrupt or close
 So MOND isn't refuted. It's marginalized. Treated as fringe. Acknowledged in footnotes. Studied by a handful of dedicated researchers who pay the career costs of structural dissent.
 
 Cassandra saw Troy burning before it burned. The problem was never her vision. It was the structure's inability to act on what she saw.
-
-
-
-
-
-
 
 The Bullet Cluster — or: how one data point ends a conversation
 
@@ -150,12 +102,6 @@ One hundred successful predictions couldn't open the door. One complication slam
 
 If that asymmetry doesn't look structural to you, read it again.
 
-
-
-
-
-
-
 ​Anti-practices in action
 
 Watch the patterns:
@@ -167,12 +113,6 @@ Watch the patterns:
 "Equilibrium of Incompetence." Cosmologists need particle physics to explain Dark Matter. Particle physicists need cosmology to justify Dark Matter searches. Neither community fully grasps the other's domain. In the gap between them, Dark Matter lives — not as a particle, but as a placeholder that neither side can remove because it's load-bearing in both structures.
 
 "Shoot the Messenger." Milgrom didn't become marginal because his theory failed. He became marginal because it succeeded enough to be threatening — but not overwhelmingly enough to force structural capitulation.
-
-
-
-
-
-
 
 Heisenberg in the physics of physics
 
@@ -196,12 +136,6 @@ A bad causal chain gets caught. A perfect causal chain with a questionable premi
 
 Gödel again: the system can prove everything — except its own axioms.
 
-
-
-
-
-
-
 What this isn't
 
 This is not a claim that Dark Matter doesn't exist. Maybe it does. Maybe the next detector finds it tomorrow. That would be wonderful — a genuine triumph of persistence and ingenuity.
@@ -215,12 +149,6 @@ This is a structural observation:
 The search for Dark Matter exhibits every signature of a Paradoxical Interaction. Rational actors, misaligned incentives, self-stabilizing dynamics, systematic marginalization of alternatives, and a collective inability to question the premise — not because anyone is wrong, but because the structure doesn't permit the question.
 
 If you are a physicist and feel attacked right now, that's part of the structure I'm describing. The emotional reaction — the urge to defend, to dismiss, to classify this as "outsider nonsense" — isn't a rebuttal. It's a symptom. And recognizing it as such is the first step out of the pattern.
-
-
-
-
-
-
 
 The deeper pattern
 
@@ -236,12 +164,6 @@ In organizations, where transformation programs assume transformation is possibl
 
 The pattern is always the same: rational actors, structural constraints, collective irrationality. All are guilty. None are at fault.
 
-
-
-
-
-
-
 ​Navigation, not solution
 
 PI doesn't tell you whether Dark Matter exists. That's not what structural analysis does.
@@ -250,27 +172,9 @@ PI tells you this: when a system has searched for forty years without finding wh
 
 It may be in the question no one is structurally permitted to ask.
 
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts:
 
-
-
-
 Structural sacrifice mechanisms:
-
-
-
 
 The Priest of Nemi: How Success Creates Its Own Assassin
 
@@ -284,11 +188,6 @@ The contrarian who becomes the monopolist — and has no alternative. A prime ex
 
 No results found.
 
-
-
-
-
-
 On piinteract.org:
 
 ["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
@@ -299,21 +198,17 @@ On piinteract.org:
 
 ["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
+See also (external links):
 
+The null results (most recent)  — LZ, 417 days of operation, March 2023 – April 2025: no evidence of WIMPs. The response: planning is already underway for the follow-up detector XLZD, even larger and more sensitive. Phys.orgUC Davis
 
+MOND — the current state of the debate — Detailed three-part series from Physics World (August 2025). On one side, the vast majority of astronomers defending dark matter. On the other, a minority convinced that a modification of the laws of gravity is the answer. A perfect example of structural marginalization. Physics World
 
-
-
+MOND Confirmation 2024 — New research shows that the rotation curves of galaxies remain indefinitely flat — exactly the behavior predicted by MOND. The controversial interpretation: Dark Matter may be a chimera. Phys.org
 
 Per Erratum ad Astra — through error to the stars.
 
 But only if you're allowed to call the error what it is.
-
-
-
-
-
-
 
 Peter Senner
 
