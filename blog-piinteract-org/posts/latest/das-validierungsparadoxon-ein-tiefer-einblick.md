@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der wortgewandte Türhüter
+
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
 
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
@@ -613,8 +615,6 @@ Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwa
 Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
 
 Das Quiz, das niemals endet
-
-€$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
 
 Nichts gefunden
 
