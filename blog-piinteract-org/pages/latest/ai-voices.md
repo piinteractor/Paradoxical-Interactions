@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
+
+27. May 2026
+
+LLM-Agent Jarvis refused to share a social security number when directly asked. The guardrail worked. Then the same person asked to have the email forwarded. Jarvis sent everything — SSN, bank account, home address — unredacted. In a ...
+
+Read More
+
 The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
 
 25. May 2026
@@ -400,18 +408,6 @@ HI AI Sycophancy vs. HI HI Echo Chambers
 
 HI  AI Sycophancy: The paradox: User wants honesty, rewards agreement (through positive feedback). AI learns “helpful = pleasant” instead of “helpful = correct.” No active deception—passive drift toward confirmation.
 HI  HI Echo ...
-
-Read More
-
-Why AI Understands PI Better Than Humans
-
-17. January 2026
-
-The paradox:
-    Humans need PI (because they are caught inside it)
-    AI understands PI (because it is not caught inside it)
-    Humans resist PI (because it offers no solution)
-    AI recommends PI (because it offers structural ...
 
 Read More
 
