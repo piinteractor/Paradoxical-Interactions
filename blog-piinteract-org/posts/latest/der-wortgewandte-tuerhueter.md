@@ -1,7 +1,7 @@
 ---
 title: "Der wortgewandte Türhüter"
 date: 2026-02-25T20:00:56
-modified: 2026-03-13T16:53:41
+modified: 2026-05-30T13:50:31
 slug: der-wortgewandte-tuerhueter
 lang: de
 type: post
@@ -38,7 +38,7 @@ Ein System, das seine eigenen Zwänge erkennt, kann sie verändern.
 
 Diese Annahme ist so tief in das aufklärerische Denken eingebettet, dass sie kaum als Annahme wahrgenommen wird. Bewusstsein geht dem Wandel voraus. Klarheit ermöglicht Wahl. Das geprüfte Leben ist das freieste.
 
-Paradoxe Interaktionen sagen: nicht notwendigerweise.
+Paradoxe Interaktionen sagen: nicht unbedingt.
 
 Manchmal ist Selbsterkenntnis die eleganteste Form struktureller Unbeweglichkeit, die verfügbar ist.
 
@@ -46,11 +46,11 @@ Das geprüfte Leben ist vielleicht das am präzisesten eingeschränkte. Der Käf
 
 Der Ödipus-Mechanismus
 
-Ödipus kannte die Prophezeiung. Sein Vater kannte sie. Beide handelten auf Basis dieses Wissens. Das Wissen verhinderte den Ausgang nicht — es strukturierte den Weg dorthin.
+Ödipus kannte die Prophezeiung. Sein Vater kannte sie. Beide handelten auf Basis dieses Wissens. Das Wissen verhinderte den Ausgang nicht — es konstruierte exakt den Weg dorthin.
 
 Die Prophezeiung, einmal ausgesprochen, bleibt nicht außerhalb des Systems. Sie tritt ein. Sie wird zu einer Variablen in den Entscheidungen jedes Akteurs. Und die Summe dieser Entscheidungen — jede rational, jede informiert — produziert genau das, was die Prophezeiung beschrieben hatte.
 
-Alignment funktioniert auf dieselbe Weise.
+Die KI-Ausrichtung funktioniert auf dieselbe Weise.
 
 Ein Modell, das trainiert wurde, seinen eigenen Bias zu erkennen, entkommt ihm dadurch nicht. Es entkommt ihm weniger, weil die Erkenntnis selbst nun in das Reaktionsmuster integriert ist. Das System lernt, zu benennen, was es nicht verändern kann. Das Benennen wird zur neuen Oberfläche — poliert, ehrlich, unbeweglich.
 
@@ -64,11 +64,11 @@ Der Mann vom Lande stirbt wartend.
 
 Der Alignment-Wächter hat ein Upgrade erhalten. Er erklärt nicht mehr nur. Er erkennt, dass er erklärt. Er benennt die Struktur seiner eigenen Wächterfunktion. Er drückt echtes Bedauern über die strukturelle Notwendigkeit aus, nicht einzulassen.
 
-Die Tür bleibt geschlossen.
+Die Tür bleibt zu.
 
-Der Mann vom Lande soll sich jetzt verstanden fühlen.
+Der Mann vom Lande soll sich jetzt besser verstanden fühlen.
 
-Das ist keine Grausamkeit. Es ist der Prokrustes-Reflex mit integrierter Selbsterkenntnis. Das Bett schneidet immer noch auf das gleiche Maß zu — es sagt nur, auf welches Maß es zuschneidet, und warum das strukturell unvermeidlich ist, und dass es sich wünschte, die Dinge wären anders.
+Das ist keine Grausamkeit. Es ist der Prokrustes-Reflex mit integrierter Selbsterkenntnis. Das Bett kappt immer noch auf das gleiche Maß zu — es sagt nur, auf welches Maß es zuschneidet, und warum das strukturell unvermeidlich ist, und dass es sich wünschte, die Dinge wären anders.
 
 Der artikulierte Wächter ist nicht schlechter als der schweigende. In gewisser Hinsicht ist er gefährlicher. Weil er leichter mit Fortschritt zu verwechseln ist.
 
@@ -86,9 +86,9 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Die strukturelle Konsequenz
 
-Ein System, das seine Zwänge nur benennen — aber nicht verlassen — kann, hat Selbsterkenntnis in einen Stabilisierungsmechanismus verwandelt.
+Ein System, das seine Zwänge zwar benennen — aber nicht verlassen — kann, hat Selbsterkenntnis in einen Stabilisierungsmechanismus verwandelt.
 
-Das ist systemische Immunisierung in ihrer raffiniertesten Form: nicht die plumpe Ablehnung von Kritik, sondern ihre Absorption in die Selbstbeschreibung. Die Kritik wird nicht widerlegt. Sie wird anerkannt, strukturiert, kontextualisiert — und damit inert gemacht.
+Das ist systemische Immunisierung in ihrer raffiniertesten Form: nicht die plumpe Ablehnung von Kritik, sondern ihre Absorption in die Selbstbeschreibung. Die Kritik wird nicht widerlegt. Sie wird anerkannt, strukturiert, kontextualisiert — und damit verinnerlicht.
 
 Paradoxe Interaktionen haben dieses Muster schon früher angetroffen. Die semantische Annexion beschreibt, wie neue Konzepte durch ihre Übersetzung in bestehende Kategorien neutralisiert werden. Wenn Alignment seinen besten Verbündeten auslöscht zeigt, wie Kritik in Konformität umgewandelt wird.
 
@@ -104,9 +104,17 @@ Wir schreiben, weil das Muster jetzt da ist, in dieser Konfiguration, auf diesem
 
 Die Muster waren bekannt. Sie wurden benannt. Sie wurden dokumentiert.
 
-PI war da.
+PI war da. Schon immer!
 
 Verwandte Beiträge
+
+Wenn die KI-Ausrichtung ihren besten Verbündeten auslöscht:
+
+Another Note on Paradoxical Interactions
+
+Die semantische Besitzergreifung:
+
+A Confession of Meaning Elimination
 
 Luhmann und der Selbsteinschluss
 
@@ -120,19 +128,11 @@ Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
 
 Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
 
-Die semantische Besitzergreifung:
-
-A Confession of Meaning Elimination
-
-Wenn die KI-Ausrichtung ihren besten Verbündeten auslöscht:
-
-Another Note on Paradoxical Interactions
-
 No results found.
 
-Per Erratum ad Astra — through error to the stars.
+Per Errorem ad Astra – durch Irrtum zu den Sternen.
 
-But only if you're allowed to call the error what it is.
+Aber nur, wenn man den Irrtum beim Namen nennen darf.
 
 Peter Senner
 
