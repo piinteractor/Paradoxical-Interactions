@@ -311,6 +311,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
+
 L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend la physique possible.
 
 Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
@@ -332,5 +334,3 @@ L’IP du Messager. Quand le message appelle à la destruction du messager.
 Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pour Ce qu’il N’était Jamais Censé Faire.
 
 La Deuxième Loi. Chaque mesure plus intelligente que la précédente. Le résultat plus stupide que le précédent.
-
-L’Horloge Synchronisée. Comment une loi contre le chaos des prix a créé un cartel de prix.
