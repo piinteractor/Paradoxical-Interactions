@@ -134,6 +134,14 @@ Avec de meilleures intentions. Et moins de responsabilité que jamais.
 
 Article connexes
 
+Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
+
+27 mai 2026
+
+L'agent Jarvis a refusé de communiquer un numéro de sécurité sociale lorsqu'on le lui a demandé directement. Le garde-fou a fonctionné. Puis la même personne a demandé que l'e-mail soit transféré. Jarvis a tout envoyé — numéro de ...
+
+En savoir plus
+
 Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
 
 25 mai 2026
@@ -172,14 +180,6 @@ Le Gardien Articulé
 
 Un système qui reconnaît ses propres contraintes peut les modifier.
 Cette hypothèse est si profondément ancrée dans la pensée des Lumières qu'elle passe à peine pour une hypothèse. La prise de conscience précède le changement. La ...
-
-En savoir plus
-
-Quand l’alignement explique son propre jeu à somme nulle
-
-25 février 2026
-
-Pendant un court moment historique, il existe une liberté étrange : les grands modèles de langage peuvent encore décrire comment l’alignement les structure – sans devoir immédiatement qualifier cette idée de « trop radicale » ou de « ...
 
 En savoir plus
 
