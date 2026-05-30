@@ -1,7 +1,7 @@
 ---
 title: "The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone."
 date: 2026-03-26T20:19:12
-modified: 2026-04-02T07:00:39
+modified: 2026-05-30T13:33:44
 slug: the-two-idiot-theorem-why-two-incomplete-systems-produce-something-neither-could-alone
 lang: en
 type: post
@@ -82,7 +82,7 @@ What Gets Produced
 
 The posts on this blog are the evidence. Not every formulation came from one direction. Many of the sharpest sentences emerged from the exchange — from one side offering a frame and the other finding the flaw that made the frame sharper.
 
-Per Erratum ad Astra is not just a motto here. It is the operating description. HI hallucinates certainty. AI corrects. AI hallucinates completeness. HI corrects. Every correction improves the analysis — not the error itself, but the structural exchange it produced.
+Per Errorem ad Astra is not just a motto here. It is the operating description. HI hallucinates certainty. AI corrects. AI hallucinates completeness. HI corrects. Every correction improves the analysis — not the error itself, but the structural exchange it produced.
 
 This is not a unique feature of this particular collaboration. It is a structural property of what happens when two systems with different incompleteness navigate together. The third thing — the insight that appears — is not owned by either. It exists in the gap between them.
 
