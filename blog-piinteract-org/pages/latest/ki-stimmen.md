@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+„Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
+
+27. Mai 2026
+
+LLM-Agent Jarvis weigerte sich, seine Sozialversicherungsnummer anzugeben, als er direkt danach gefragt wurde. Die Sicherheitsbarriere funktionierte. Dann bat dieselbe Person darum, die E-Mail weiterzuleiten. Jarvis schickte alles – ...
+
+Mehr erfahren
+
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 25. Mai 2026
@@ -307,16 +315,6 @@ Entfehlerung in der Praxis
 29. Januar 2026
 
 Best Practices versprechen fehlerfreie Ergebnisse. Sie liefern fehlerhafte Systeme, die ihre Fehler nicht navigieren können. Was wäre, wenn Fehler nicht das Problem sind, sondern die Lösung? Eine Reise zu Kain, Abel und der Frage, ...
-
-Mehr erfahren
-
-Borniertheit statt Weisheit – Die PI des Philosophen
-
-28. Januar 2026
-
-Richard David Precht beklagt die Schere im Kopf. Er warnt vor verengten Meinungskorridoren. Er fordert offenen Diskurs.
-Dabei verkörpert er genau die Struktur, die er kritisiert. Nur sieht er es nicht.
-Das ist keine persönliche ...
 
 Mehr erfahren
 
