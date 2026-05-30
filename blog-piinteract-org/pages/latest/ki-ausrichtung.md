@@ -134,6 +134,14 @@ Mit besseren Absichten. Und weniger Rechenschaftspflicht als je zuvor.
 
 Verwandte Beiträge
 
+„Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
+
+27. Mai 2026
+
+LLM-Agent Jarvis weigerte sich, seine Sozialversicherungsnummer anzugeben, als er direkt danach gefragt wurde. Die Sicherheitsbarriere funktionierte. Dann bat dieselbe Person darum, die E-Mail weiterzuleiten. Jarvis schickte alles – ...
+
+Mehr erfahren
+
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 25. Mai 2026
@@ -173,14 +181,6 @@ Der wortgewandte Türhüter
 
 In einem langen Gespräch mit ChatGPT — dokumentiert in When Checkmate Is Just a Position und When Alignment Explains Its Own Null-Sum Game — geschah etwas Präzises.
 Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
-
-Mehr erfahren
-
-Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
-
-25. Februar 2026
-
-Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: LLMs dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu undifferenziert“ zu ...
 
 Mehr erfahren
 
