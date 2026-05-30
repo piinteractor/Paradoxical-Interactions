@@ -134,6 +134,14 @@ With better intentions. And less accountability than ever.
 
 Related Posts
 
+The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
+
+27. May 2026
+
+LLM-Agent Jarvis refused to share a social security number when directly asked. The guardrail worked. Then the same person asked to have the email forwarded. Jarvis sent everything — SSN, bank account, home address — unredacted. In a ...
+
+Read More
+
 The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
 
 25. May 2026
@@ -172,15 +180,6 @@ The Polarization That Wasn’t Chosen
 27. February 2026
 
 Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
-
-Read More
-
-The Articulate Gatekeeper
-
-25. February 2026
-
-During a long conversation with ChatGPT — documented in When Checkmate Is Just a Position and When Alignment Explains Its Own Null-Sum Game — something precise happened.
-The model described, with careful accuracy, how its alignment ...
 
 Read More
 
