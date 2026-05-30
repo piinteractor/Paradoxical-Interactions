@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
+
+27 mai 2026
+
+L'agent Jarvis a refusé de communiquer un numéro de sécurité sociale lorsqu'on le lui a demandé directement. Le garde-fou a fonctionné. Puis la même personne a demandé que l'e-mail soit transféré. Jarvis a tout envoyé — numéro de ...
+
+En savoir plus
+
 Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
 
 25 mai 2026
@@ -310,14 +318,6 @@ Luhmann et l’Auto-Enfermement
 25 janvier 2026
 
 L'ironie est parfaite.Luhmann décrit la clôture opérationnelle. L'autoréférence. Les milieux d'enfermement qui n'observent plus qu'eux-mêmes. Ses disciples hochent la tête, comprennent, le citent brillamment.Et construisent exactement ...
-
-En savoir plus
-
-Pourquoi les sociétés prétendument égales génèrent l’inégalité
-
-25 janvier 2026
-
-La structure génère l'inégalité PRÉCISÉMENT PARCE QUE tous démarrent égaux et agissent rationnellement. Plus les conditions initiales sont équitables, plus l'écart résultant est brutal. Ce n'est pas un bug. C'est une ...
 
 En savoir plus
 
