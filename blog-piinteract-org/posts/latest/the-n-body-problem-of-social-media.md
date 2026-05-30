@@ -1,7 +1,7 @@
 ---
 title: "The N-Body Problem of Social Media. It Works Perfectly — for What It Was Never Meant to Do."
 date: 2026-04-08T13:16:45
-modified: 2026-04-08T13:16:45
+modified: 2026-05-30T22:43:11
 slug: the-n-body-problem-of-social-media
 lang: en
 type: post
@@ -12,35 +12,11 @@ url: https://blog.piinteract.org/the-n-body-problem-of-social-media/
 
 Why social media cannot be fixed — and why every attempt to fix it makes it worse.
 
-
-
-
-
-
-
 "The social contract is nothing more or less than a vast conspiracy of human beings to lie to and humbug themselves and one another for the general Good."
 
 — H.G. Wells
 
-
-
-
 8. April 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 The Setup
 
@@ -49,12 +25,6 @@ In 1887, Henri Poincaré sat down to solve a problem that had defeated Newton. T
 He won a prize for this. The prize was for finding the solution. What he found was the proof that there is none.
 
 Social media has three billion bodies. And the same structure.
-
-
-
-
-
-
 
 The Two-Body Lie
 
@@ -72,12 +42,6 @@ Two-body became three-body. Three-body became n-body.
 
 The ellipses became chaos.
 
-
-
-
-
-
-
 What the Algorithm Actually Optimizes For
 
 Here is what every engineer at every platform will tell you, sincerely and correctly: we optimize for engagement. More time on platform. More clicks. More shares. More return visits.
@@ -89,12 +53,6 @@ Every engineer acted rationally. Every optimization step was justified by data. 
 The direction was toward the most reliable trigger of human attention: conflict.
 
 No one decided this. No one wanted this. The structure produced it — through the rational behavior of everyone involved.
-
-
-
-
-
-
 
 The N-Body PI
 
@@ -118,12 +76,6 @@ Outcome — an environment structurally hostile to nuance, accuracy, and civic t
 
 All are guilty. None are at fault.
 
-
-
-
-
-
-
 Why Every Fix Makes It Worse
 
 The three-body problem has no general solution. That doesn't mean specific configurations aren't stable — the Lagrange points are stable. Three bodies can settle into predictable orbits under very specific conditions. But those conditions are fragile. Perturb them slightly, and the stability vanishes.
@@ -142,12 +94,6 @@ Each intervention is rational. Each produces a counter-dynamic that partially or
 
 This is not incompetence. This is the n-body problem applied to social systems.
 
-
-
-
-
-
-
 The Accelerant
 
 Poincaré's three bodies are passive. They don't learn. They don't model each other. They don't update their behavior based on observed outcomes.
@@ -161,9 +107,6 @@ This is not a three-body problem that produces chaos. This is a three-body probl
 The chaos isn't a side effect. It's the product. An engaged user is a retained user. Retained users generate revenue. Chaos generates engagement.
 
 The machine isn't broken. It works perfectly — for what it was actually built to do, once the training signal had its way with the intention.
-
-
-
 
 Navigation, Not Solution
 
@@ -183,9 +126,6 @@ All are guilty. None are at fault.
 
 This doesn't mean nothing matters. It means the target of your frustration is the wrong target.
 
-
-
-
 The Honest Conclusion
 
 Poincaré didn't say the solar system was broken. He said it was chaotic — which is a structural property, not a failure. The planets still orbit. Life still exists. The chaos is bounded, for now, by initial conditions set four billion years ago.
@@ -200,22 +140,7 @@ Poincaré didn't have an answer to that. Neither do we.
 
 What we have is the proof that the question is being asked wrong.
 
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts
-
-
-
 
 The Cassandra Paradox
 
@@ -231,9 +156,6 @@ AI Alignment Trap: How AI Companies Get Stuck in Structure
 
 No results found.
 
-
-
-
 On piinteract.org
 
 Anti-Practices — The structural patterns that reproduce the problem while claiming to solve it
@@ -242,21 +164,9 @@ Examples: Society & Culture — Where the n-body dynamic appears beyond the feed
 
 Examples: Technology & AI — The same structure, different substrate
 
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
