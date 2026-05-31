@@ -198,6 +198,10 @@ L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend 
 
 Pourquoi la tension non résolue entre la relativité et la théorie quantique n'est pas une lacune de la physique, mais la preuve que la physique fonctionne.
 
+Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
+
+Why the solar system is an accident of mutual displacement — and why that is the only kind of stability that lasts.
+
 No results found.
 
 On piinteract.org:
