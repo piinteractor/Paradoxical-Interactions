@@ -1,7 +1,7 @@
 ---
 title: "Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir."
 date: 2026-05-31T10:20:11
-modified: 2026-05-31T10:20:11
+modified: 2026-05-31T17:04:54
 slug: le-gambit-du-geant-glace
 lang: fr
 type: post
@@ -20,7 +20,7 @@ Il y a quatre milliards et demi d'années, il y avait peut-être une cinquième 
 
 La géante de glace a été poussée vers l'extérieur. Jupiter a été repoussé. Saturne s'est déplacée. Le système solaire interne s'est installé dans la configuration qui a rendu la Terre habitable. Chaque poussée a produit une contre-poussée. Aucun acteur n'a voulu le résultat. Le résultat était structurellement inévitable.
 
-Schubse die anderen so, dass die anderen dich dorthin schubsen, wo du hingeschubst werden willst.
+Pousse les autres de telle sorte qu'ils te poussent là où tu veux qu'ils te poussent.
 
 Cette phrase ressemble à une stratégie. Ce n'est pas le cas. C'est là tout l'intérêt.
 
