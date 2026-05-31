@@ -311,6 +311,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
+
 Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
 Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
@@ -332,5 +334,3 @@ Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’�
 L’Effet Volkswagen. Personne n’a programmé le mensonge.
 
 L’IP du Messager. Quand le message appelle à la destruction du messager.
-
-Le Problème à N Corps des Réseaux Sociaux. Il Fonctionne Parfaitement — pour Ce qu’il N’était Jamais Censé Faire.
