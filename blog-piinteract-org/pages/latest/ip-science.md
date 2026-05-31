@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
+
+31 mai 2026
+
+Four and a half billion years ago, there may have been a fifth giant planet in our solar system. Not Neptune. Not Uranus. A third ice giant — nameless, unrecorded, structurally inconvenient. Current models suggest Jupiter expelled it. ...
+
+En savoir plus
+
 L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend la physique possible.
 
 27 mai 2026
