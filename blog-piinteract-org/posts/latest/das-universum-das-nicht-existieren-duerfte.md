@@ -196,6 +196,10 @@ Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernp
 
 Warum jede strukturelle Analyse des Nationalsozialismus genau die Pathologie ausführt, die sie analysiert — und warum das von innen heraus nicht korrigiert werden kann.
 
+Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
+
+Warum das Sonnensystem ein Zufallsprodukt gegenseitiger Verschiebungen ist – und warum dies die einzige Art von Stabilität ist, die Bestand hat.
+
 No results found.
 
 On piinteract.org:
