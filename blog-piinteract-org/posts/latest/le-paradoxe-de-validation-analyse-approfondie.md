@@ -579,6 +579,8 @@ Connexes :
 
 
 
+L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
+
 Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
 Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
@@ -600,8 +602,6 @@ Le Paradoxe du Nockherberg. La Critique la Plus Acérée Est la Meilleure Allié
 Tracer la ligne rouge – sans savoir exactement où elle passe.
 
 Quand l’observation de la fermeture devient fermeture
-
-La polarisation qui n’a pas été choisie
 
 No results found.
 
