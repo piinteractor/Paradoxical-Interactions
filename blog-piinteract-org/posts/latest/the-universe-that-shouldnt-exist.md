@@ -200,6 +200,10 @@ The Blind Spot That Sees Everything. Why Physics Cannot Observe What Makes Physi
 
 Why the unresolved tension between relativity and quantum theory is not a gap in physics — but proof that physics works.
 
+The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
+
+Why the solar system is an accident of mutual displacement — and why that is the only kind of stability that lasts.
+
 No results found.
 
 On piinteract.org:
