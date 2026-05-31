@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
+
+31. Mai 2026
+
+Vor viereinhalb Milliarden Jahren gab es möglicherweise einen fünften Riesenplaneten in unserem Sonnensystem. Nicht Neptun. Nicht Uranus. Einen dritten Eisriesen – namenlos, nicht dokumentiert, strukturell unpraktisch. Aktuelle ...
+
+Mehr erfahren
+
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 25. Mai 2026
