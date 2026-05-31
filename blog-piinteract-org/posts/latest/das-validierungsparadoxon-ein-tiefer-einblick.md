@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
+
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
@@ -613,8 +615,6 @@ Die Intelligenz-Falle
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
 Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
-
-Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
 
 Nichts gefunden
 
