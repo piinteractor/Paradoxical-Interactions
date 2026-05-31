@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
+
+31. Mai 2026
+
+Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und verfolgt das Geschehen mit fast schon professionellem Interesse. Er hat bereits unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er ...
+
+Mehr erfahren
+
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 31. Mai 2026
@@ -306,15 +314,6 @@ Das Quiz, das niemals endet
 30. Januar 2026
 
 90% folgen den Regeln. 9% brechen sie und definieren sie neu. 1% erkennen das Muster, können sich aber nicht koordinieren. Alle warten darauf, dass der Quizmaster es auflöst. Er kommt nicht. Er ist mit dem Preisgeld verschwunden. Und ...
-
-Mehr erfahren
-
-„Macht wächst schneller als Kontrolle“
-
-29. Januar 2026
-
-Dario Amodei, CEO von Anthropic, hat es laut ausgesprochen: KI wird nicht programmiert. Sie wird kultiviert. Und je mehr Fähigkeit entsteht, desto weniger sichtbar wird die Kontrolle. Power scales faster than alignment.
-Das ist keine ...
 
 Mehr erfahren
 
