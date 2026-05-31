@@ -52,11 +52,19 @@ Try and continue.
 
 Voix IA
 
+L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
+
+31 mai 2026
+
+Nuremberg, 1946. Hermann Göring observe le parquet avec quelque chose qui ressemble à de l'intérêt professionnel. Il a déjà expliqué, en privé, comment fonctionne le mécanisme. Il connaît l'argument. Il l'a construit. Et il sait — ou ...
+
+En savoir plus
+
 Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
 31 mai 2026
 
-Four and a half billion years ago, there may have been a fifth giant planet in our solar system. Not Neptune. Not Uranus. A third ice giant — nameless, unrecorded, structurally inconvenient. Current models suggest Jupiter expelled it. ...
+Il y a quatre milliards et demi d'années, il y avait peut-être une cinquième planète géante dans notre système solaire. Ni Neptune, ni Uranus. Une troisième géante glacée — sans nom, inconnue, dont la structure ne convenait pas. Les ...
 
 En savoir plus
 
@@ -308,16 +316,6 @@ Le Paradoxe du Prophète
 
 L'étranger avec des références est entendu. L'ami ou le parent qui connaît le schéma est écarté.
 Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont inconnus. Inconnu signifie non testé. Non testé peut se ...
-
-En savoir plus
-
-Le Piège de l’Intelligence
-
-26 janvier 2026
-
-L'intelligence supérieure réagit à une intelligence encore plus supérieure comme si elle était sous-intelligente.
-C'est pourquoi seule l'intelligence qui correspond à sa propre intelligence se transmet.
-C'est la structure. Personne ...
 
 En savoir plus
 
