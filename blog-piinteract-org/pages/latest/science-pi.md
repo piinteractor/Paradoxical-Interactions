@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
+
+31. May 2026
+
+Four and a half billion years ago, there may have been a fifth giant planet in our solar system. Not Neptune. Not Uranus. A third ice giant — nameless, unrecorded, structurally inconvenient. Current models suggest Jupiter expelled it. ...
+
+Read More
+
 The Blind Spot That Sees Everything. Why Physics Cannot Observe What Makes Physics Possible.
 
 27. May 2026
