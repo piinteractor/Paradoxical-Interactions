@@ -32,6 +32,14 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
+L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
+
+31 mai 2026
+
+Nuremberg, 1946. Hermann Göring observe le parquet avec quelque chose qui ressemble à de l'intérêt professionnel. Il a déjà expliqué, en privé, comment fonctionne le mécanisme. Il connaît l'argument. Il l'a construit. Et il sait — ou ...
+
+En savoir plus
+
 L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
 
 22 mai 2026
