@@ -38,7 +38,7 @@ Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
 31 mai 2026
 
-Four and a half billion years ago, there may have been a fifth giant planet in our solar system. Not Neptune. Not Uranus. A third ice giant — nameless, unrecorded, structurally inconvenient. Current models suggest Jupiter expelled it. ...
+Il y a quatre milliards et demi d'années, il y avait peut-être une cinquième planète géante dans notre système solaire. Ni Neptune, ni Uranus. Une troisième géante glacée — sans nom, inconnue, dont la structure ne convenait pas. Les ...
 
 En savoir plus
 
