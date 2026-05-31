@@ -311,6 +311,8 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
+
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
 
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
@@ -332,5 +334,3 @@ Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
 Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
 
 Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
-
-Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
