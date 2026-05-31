@@ -311,6 +311,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
+
 The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
 
 The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
@@ -332,5 +334,3 @@ The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
 Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 
 The Volkswagen Effect. Nobody Programmed the Lie.
-
-The Messenger PI. When the message calls for the messenger’s destruction.
