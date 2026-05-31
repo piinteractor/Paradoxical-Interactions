@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
+
+31. Mai 2026
+
+Vor viereinhalb Milliarden Jahren gab es möglicherweise einen fünften Riesenplaneten in unserem Sonnensystem. Nicht Neptun. Nicht Uranus. Einen dritten Eisriesen – namenlos, nicht dokumentiert, strukturell unpraktisch. Aktuelle ...
+
+Mehr erfahren
+
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
 
 27. Mai 2026
@@ -307,14 +315,6 @@ Mehr erfahren
 
 Dario Amodei, CEO von Anthropic, hat es laut ausgesprochen: KI wird nicht programmiert. Sie wird kultiviert. Und je mehr Fähigkeit entsteht, desto weniger sichtbar wird die Kontrolle. Power scales faster than alignment.
 Das ist keine ...
-
-Mehr erfahren
-
-Entfehlerung in der Praxis
-
-29. Januar 2026
-
-Best Practices versprechen fehlerfreie Ergebnisse. Sie liefern fehlerhafte Systeme, die ihre Fehler nicht navigieren können. Was wäre, wenn Fehler nicht das Problem sind, sondern die Lösung? Eine Reise zu Kain, Abel und der Frage, ...
 
 Mehr erfahren
 
