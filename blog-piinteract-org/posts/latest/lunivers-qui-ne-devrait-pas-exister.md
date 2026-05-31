@@ -200,7 +200,7 @@ Pourquoi la tension non résolue entre la relativité et la théorie quantique n
 
 Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
-Why the solar system is an accident of mutual displacement — and why that is the only kind of stability that lasts.
+Pourquoi le système solaire est le fruit d'un hasard de déplacements réciproques — et pourquoi c'est là la seule forme de stabilité qui perdure.
 
 No results found.
 
