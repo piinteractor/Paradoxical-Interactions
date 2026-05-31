@@ -32,6 +32,14 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
+
+31. Mai 2026
+
+Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und verfolgt das Geschehen mit fast schon professionellem Interesse. Er hat bereits unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er ...
+
+Mehr erfahren
+
 Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
 
 22. Mai 2026
