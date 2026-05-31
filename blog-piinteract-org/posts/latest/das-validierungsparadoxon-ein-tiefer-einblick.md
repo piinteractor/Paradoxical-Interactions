@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
+
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
 
 Der wortgewandte Türhüter
@@ -613,8 +615,6 @@ Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
 
 Das N-Körper-Problem der Sozialen Medien. Es Funktioniert Perfekt — für Etwas, Wofür Es Nie Gedacht War.
-
-Das zweite Gesetz. Jede Maßnahme klüger als die davor. Das Ergebnis dümmer als das davor.
 
 Nichts gefunden
 
