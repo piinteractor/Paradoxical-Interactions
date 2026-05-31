@@ -589,6 +589,8 @@ Related:
 
 
 
+The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
+
 The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
 
 The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
@@ -610,8 +612,6 @@ The Fleming Effect. When a “HTML Janitor” Turns Into a Supervisor.
 The Fake Paradise. How Social Media Turns Real Life into Background Noise.
 
 The Nockherberg Paradox. The Sharpest Critique Is the System’s Best Friend.
-
-Drawing the red line – without knowing exactly where it runs.
 
 No results found.
 
