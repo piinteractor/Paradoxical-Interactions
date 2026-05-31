@@ -32,6 +32,14 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
+The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
+
+31. May 2026
+
+Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He has already explained, in private, how the mechanism works. He knows the argument. He built it. And he ...
+
+Read More
+
 The Albigensian PI. How Christians Launched a Crusade Against Christians.
 
 22. May 2026
