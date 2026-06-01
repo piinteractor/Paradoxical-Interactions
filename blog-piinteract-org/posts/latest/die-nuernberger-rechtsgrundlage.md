@@ -1,7 +1,7 @@
 ---
 title: "Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen."
 date: 2026-05-31T17:01:23
-modified: 2026-05-31T17:01:24
+modified: 2026-06-01T12:43:49
 slug: die-nuernberger-rechtsgrundlage
 lang: de
 type: post
@@ -10,11 +10,11 @@ wp_id: 6422
 url: https://blog.piinteract.org/de/die-nuernberger-rechtsgrundlage/
 ---
 
-Why the only answer to a closed structure is a new axiom — and why setting that axiom required breaking the law.
+Warum die einzige Antwort auf eine geschlossene Struktur eine neue Grundlage ist – und warum die Festlegung dieser Grundlage einen Gesetzesbruch erforderte.
 
-"The wrongs which we seek to condemn and punish have been so calculated, so malignant and so devastating that civilization cannot tolerate their being ignored because it cannot survive their being repeated."
+„Die Verbrechen, die wir verurteilen und bestrafen wollen, waren so kalkuliert, so bösartig und so verheerend, dass die Zivilisation es nicht dulden kann, dass sie ignoriert werden, denn sie könnte eine Wiederholung dieser Verbrechen nicht überleben.“
 
-— Robert H. Jackson, Opening Statement, Nuremberg Trials, November 21, 1945
+— Robert H. Jackson, Eröffnungsrede, Nürnberger Prozesse, 21. November 1945
 
 Nürnberg, 1946. Hermann Göring sitzt der Anklage gegenüber und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die Argumentation unangreifbar ist.
 
