@@ -1,7 +1,7 @@
 ---
 title: "Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T14:43:43
+modified: 2026-06-02T16:18:09
 slug: die-nuernberger-rechtsgrundlage
 lang: de
 type: post
@@ -12,11 +12,11 @@ url: https://blog.piinteract.org/de/die-nuernberger-rechtsgrundlage/
 
 Warum die einzige Antwort auf ein geschlossenes Rechtssystem ein neuer Rechtsgrundsatz ist – und warum die Festlegung dieses Grundsatzes einen Gesetzesbruch erforderte.
 
-„Die Verbrechen, die wir verurteilen und bestrafen wollen, waren so berechnend, so bösartig und so verheerend, dass die Zivilisation es nicht dulden kann, dass sie ignoriert werden, denn sie würde eine Wiederholung dieser Verbrechen nicht überleben.“
+„Die Verbrechen, die wir verurteilen und bestrafen wollen, waren so berechnend, so bösartig und so verheerend, dass die Zivilisation es nicht dulden kann, wenn sie ignoriert werden, denn sie würde eine Wiederholung dieser Verbrechen nicht überleben.“
 
 — Robert H. Jackson, Eröffnungsrede, Nürnberger Prozesse, 21. November 1945
 
-Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits in einem Interview unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die Argumentation hieb- und stichfest ist.
+Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits in einem Interview unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die eigene Argumentation hieb- und stichfest ist.
 
 Seine Verteidigung stützt sich auf eine strukturelle Beobachtung, die innerhalb des bestehenden Rahmens völlig korrekt ist.
 
@@ -28,7 +28,7 @@ Er weiß auch, als Jackson seine Eröffnungsrede beendet, dass er verloren hat.
 
 31. Mai 2026
 
-Das Argument, Das Keine Antwort Lieferte
+Das Argument, das keine Antwort lieferte
 
 Um zu verstehen, was Jackson tat, muss man zunächst verstehen, warum Göring glaubte im Recht zu sein.
 
@@ -40,7 +40,7 @@ Jeder Jurist in diesem Gerichtssaal im November 1945 verstand das. Die Verteidig
 
 Göring verstand es am besten von allen.
 
-Was Jackson Stattdessen Tat
+Was Jackson stattdessen tat
 
 Robert H. Jackson, Beigeordneter Richter am Obersten Gerichtshof der Vereinigten Staaten, versuchte nicht, das Verfahren innerhalb der bestehenden Struktur zu gewinnen. Er produzierte keine bessere Auslegung des bestehenden Völkerrechts. Er fand keinen Präzedenzfall, der den Fall abdeckte.
 
@@ -141,6 +141,10 @@ Warum Wahrheitssager ignoriert werden – bis es zu spät ist
 Der Türhüter-Ausbruch
 
 Warum nur der kognitive Ausbruch aus der Struktur herausführt
+
+Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
+
+Warum Kriege entstehen, ohne dass irgendjemand sie will — und warum die Staatsform dabei keine Rolle spielt.
 
 No results found.
 
