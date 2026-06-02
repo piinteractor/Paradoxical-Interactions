@@ -1,7 +1,7 @@
 ---
 title: "Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen."
 date: 2026-05-31T17:01:23
-modified: 2026-06-01T12:43:49
+modified: 2026-06-02T14:00:11
 slug: die-nuernberger-rechtsgrundlage
 lang: de
 type: post
@@ -10,13 +10,13 @@ wp_id: 6422
 url: https://blog.piinteract.org/de/die-nuernberger-rechtsgrundlage/
 ---
 
-Warum die einzige Antwort auf eine geschlossene Struktur eine neue Grundlage ist – und warum die Festlegung dieser Grundlage einen Gesetzesbruch erforderte.
+Warum die einzige Antwort auf ein geschlossenes Rechtssystem eine neue Rechtsgrundlage ist – und warum die Festlegung dieser Grundlage einen Gesetzesbruch erforderte.
 
-„Die Verbrechen, die wir verurteilen und bestrafen wollen, waren so kalkuliert, so bösartig und so verheerend, dass die Zivilisation es nicht dulden kann, dass sie ignoriert werden, denn sie könnte eine Wiederholung dieser Verbrechen nicht überleben.“
+„Die Verbrechen, die wir verurteilen und bestrafen wollen, waren so berechnend, so bösartig und so verheerend, dass die Zivilisation es nicht dulden kann, dass sie ignoriert werden, denn sie würde eine Wiederholung dieser Verbrechen nicht überleben.“
 
 — Robert H. Jackson, Eröffnungsrede, Nürnberger Prozesse, 21. November 1945
 
-Nürnberg, 1946. Hermann Göring sitzt der Anklage gegenüber und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die Argumentation unangreifbar ist.
+Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits in einem Interview unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die Argumentation unangreifbar ist.
 
 Seine Verteidigung stützt sich auf eine strukturelle Beobachtung, die innerhalb des bestehenden Rahmens völlig korrekt ist.
 
