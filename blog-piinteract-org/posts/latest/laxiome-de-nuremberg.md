@@ -1,7 +1,7 @@
 ---
 title: "L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T16:19:40
+modified: 2026-06-02T22:06:47
 slug: laxiome-de-nuremberg
 lang: fr
 type: post
@@ -32,7 +32,7 @@ L'Argument Qui Était Sans Réponse
 
 Pour comprendre ce que Jackson a fait, il faut d'abord comprendre pourquoi Göring avait raison.
 
-Le système des relations internationales tel qu'il existait en 1945 reposait sur un principe fondateur : la souveraineté. Les États sont les acteurs ultimes. Les chefs d'État exercent le pouvoir d'État. Le pouvoir d'État, par définition, ne peut être jugé par le pouvoir d'un autre État sans que ce jugement soit lui-même un acte de pouvoir — qui requiert alors sa propre justification, ce qui renvoie à la souveraineté.
+Le système des relations internationales tel qu'il existait en 1945 reposait sur un principe fondateur : la souveraineté. Les États sont les acteurs ultimes. Les chefs d'État exercent le pouvoir d'État. Le pouvoir d'État, par définition, ne peut être jugé par le pouvoir d'un autre État sans que ce jugement soit lui-même un acte de pouvoir — qui requiert alors sa propre justification, ce qui renvoie à la question de la souveraineté.
 
 Ce n'est pas une faille. C'est l'architecture. Les accusés de Nuremberg avaient opéré entièrement dans cette architecture. Les crimes étaient immenses. La structure qui les avait rendus possibles était précisément celle qui rendait la poursuite structurellement impossible.
 
