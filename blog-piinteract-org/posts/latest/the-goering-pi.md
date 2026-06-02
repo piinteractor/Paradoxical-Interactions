@@ -1,7 +1,7 @@
 ---
 title: "The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened."
 date: 2026-05-14T15:15:16
-modified: 2026-06-02T16:20:39
+modified: 2026-06-02T17:49:18
 slug: the-goering-pi
 lang: en
 type: post
@@ -16,9 +16,9 @@ Why wars happen without anyone wanting them — and why the form of government m
 
 - Hermann Göring, Nuremberg Diary, April 18, 1946
 
-Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, convicted war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he explains, with the calm of someone who has already played the game, how the game works.
+Nuremberg, April 1946. Hermann Göring—former Reich Marshal, second-in-command of the Third Reich, and accused war criminal—sits across from psychologist Gustave Gilbert. He is awaiting his verdict. He has nothing left to lose. And so, with the composure of a man who has already played the game, he explains how the game works.
 
-He does not describe evil. He describes mechanism.
+He is not describing evil. He is describing a mechanism.
 
 14. May 2026
 
