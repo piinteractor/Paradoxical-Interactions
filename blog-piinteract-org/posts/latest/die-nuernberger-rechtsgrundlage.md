@@ -1,7 +1,7 @@
 ---
 title: "Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T14:00:11
+modified: 2026-06-02T14:43:43
 slug: die-nuernberger-rechtsgrundlage
 lang: de
 type: post
@@ -10,13 +10,13 @@ wp_id: 6422
 url: https://blog.piinteract.org/de/die-nuernberger-rechtsgrundlage/
 ---
 
-Warum die einzige Antwort auf ein geschlossenes Rechtssystem eine neue Rechtsgrundlage ist – und warum die Festlegung dieser Grundlage einen Gesetzesbruch erforderte.
+Warum die einzige Antwort auf ein geschlossenes Rechtssystem ein neuer Rechtsgrundsatz ist – und warum die Festlegung dieses Grundsatzes einen Gesetzesbruch erforderte.
 
 „Die Verbrechen, die wir verurteilen und bestrafen wollen, waren so berechnend, so bösartig und so verheerend, dass die Zivilisation es nicht dulden kann, dass sie ignoriert werden, denn sie würde eine Wiederholung dieser Verbrechen nicht überleben.“
 
 — Robert H. Jackson, Eröffnungsrede, Nürnberger Prozesse, 21. November 1945
 
-Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits in einem Interview unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die Argumentation unangreifbar ist.
+Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits in einem Interview unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die Argumentation hieb- und stichfest ist.
 
 Seine Verteidigung stützt sich auf eine strukturelle Beobachtung, die innerhalb des bestehenden Rahmens völlig korrekt ist.
 
@@ -28,11 +28,11 @@ Er weiß auch, als Jackson seine Eröffnungsrede beendet, dass er verloren hat.
 
 31. Mai 2026
 
-Das Argument, Das Keine Antwort Hatte
+Das Argument, Das Keine Antwort Lieferte
 
-Um zu verstehen, was Jackson getan hat, muss man zunächst verstehen, warum Göring recht hatte.
+Um zu verstehen, was Jackson tat, muss man zunächst verstehen, warum Göring glaubte im Recht zu sein.
 
-Das System der internationalen Beziehungen, wie es 1945 bestand, ruhte auf einem Grundprinzip: Souveränität. Staaten sind die ultimativen Akteure. Staatslenker üben Staatsgewalt aus. Staatsgewalt kann, per Definition, nicht von der Macht eines anderen Staates beurteilt werden, ohne dass dieses Urteil selbst ein Machtakt ist — der dann seine eigene Rechtfertigung erfordert, was zur Souveränität zurückführt.
+Das Geflecht der internationalen Beziehungen, wie es 1945 bestand, ruhte auf einem Grundprinzip: Souveränität. Staaten sind die ultimativen Akteure. Staatsoberhäupter üben Staatsgewalt aus. Staatsgewalt kann, per Definition, nicht von der Macht eines anderen Staates beurteilt werden, ohne dass dieses Urteil selbst ein Machtakt ist — der dann seine eigene Rechtfertigung erfordert, was zur Souveränität zurückführt.
 
 Das ist keine Gesetzeslücke. Es ist die Architektur. Die Nürnberger Angeklagten hatten vollständig innerhalb dieser Architektur operiert. Die Verbrechen waren immens. Die Struktur, die sie ermöglichte, war genau die Struktur, die die Strafverfolgung strukturell unmöglich machte.
 
@@ -42,7 +42,7 @@ Göring verstand es am besten von allen.
 
 Was Jackson Stattdessen Tat
 
-Robert H. Jackson, Beigeordneter Richter am Obersten Gerichtshof der Vereinigten Staaten, versuchte nicht, das Argument innerhalb der bestehenden Struktur zu gewinnen. Er produzierte keine bessere Auslegung des bestehenden Völkerrechts. Er fand keinen Präzedenzfall, der den Fall abdeckte.
+Robert H. Jackson, Beigeordneter Richter am Obersten Gerichtshof der Vereinigten Staaten, versuchte nicht, das Verfahren innerhalb der bestehenden Struktur zu gewinnen. Er produzierte keine bessere Auslegung des bestehenden Völkerrechts. Er fand keinen Präzedenzfall, der den Fall abdeckte.
 
 Er setzte einen neuen Grundsatz
 
@@ -56,9 +56,9 @@ Jackson betrachtete die geschlossene Struktur der Souveränität und tat dasselb
 
 In dem Moment, als dieses Axiom akzeptiert wurde, brach Görings Argument zusammen. Nicht weil es widerlegt wurde. Sondern weil das Spielfeld neu gezeichnet worden war.
 
-Nulla Poena Sine Lege
+„Nulla Poena Sine Lege“
 
-Es gibt ein Prinzip, das dem Fundament jedes Rechtssystems zugrunde liegt, das sich als gerecht bezeichnet. Nulla poena sine lege. Keine Strafe ohne Gesetz. Man kann nicht für eine Handlung verurteilt werden, die kein Verbrechen war, als man sie beging. Man kann nicht nach einem Gesetz verurteilt werden, das nicht existierte, als man handelte. Rückwirkendes Strafrecht ist kein Recht — es ist Rache im Gewand des Verfahrens.
+Es gibt ein Prinzip, das dem Fundament eines jeden Rechtssystems zugrunde liegt, das sich selbst als gerecht bezeichnet. Nulla poena sine lege. Keine Strafe ohne Gesetz. Man kann nicht für eine Handlung verurteilt werden, die kein Verbrechen war, als man sie beging. Man kann nicht nach einem Gesetz verurteilt werden, das nicht existierte, als man handelte. Rückwirkendes Strafrecht ist kein Recht — es ist Rache im Gewand des Verfahrens.
 
 Jeder Jurist in diesem Gerichtssaal wusste das auch.
 
@@ -82,9 +82,9 @@ Was nicht strittig ist, ist die Struktur. Jackson ist der PI nicht entkommen. Er
 
 Die Strukturelle Wende
 
-Das ist eine Paradoxe Interaktion auf der Ebene der Rechtsarchitektur.
+Dies ist eine paradoxe Interaktion auf der Ebene der Rechtsarchitektur.
 
-Die Nürnberger PI: Eine geschlossene Struktur — Souveränität als absolute Immunität — produziert Akteure, die für ihre Handlungen darin strukturell nicht zur Rechenschaft gezogen werden können. Der einzige Ausweg ist ein neues Axiom, das von außen gesetzt wird. Aber das Setzen dieses Axioms erfordert, nulla poena sine lege zu brechen — genau das Prinzip, das das Axiom schützen soll. Gerechtigkeit kann nur hergestellt werden, indem die Ungerechtigkeit begangen wird, die sie verhindern sollte.
+Die Nürnberger PI ist eine geschlossene Struktur, in der Souveränität absolute Immunität bedeutet. In dieser Struktur können Akteure für ihre Handlungen nicht zur Rechenschaft gezogen werden. Der einzige Ausweg ist ein neues Axiom, das von außen gesetzt werden muss. Doch dessen Setzen erfordert, nulla poena sine lege zu brechen – genau jenes Prinzip, das das Axiom schützen soll. Gerechtigkeit kann nur hergestellt werden, indem eine Ungerechtigkeit begangen wird, die es eigentlich verhindern sollte.
 
 Alle handeln rational:
 
@@ -98,23 +98,23 @@ Das Ergebnis — Rechenschaftspflicht, die durch die präzise Verletzung des Pri
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
-Was das zu einer PI macht und nicht nur zu einer schwierigen moralischen Entscheidung, ist, dass beide Ausgänge etwas Grundlegendes korrumpieren. Nulla poena sine lege ehren und die Architekten des Genozids gehen frei — das Prinzip, das die Unschuldigen schützt, schützt die Täter. Es brechen und man etabliert, dass rückwirkendes Recht zulässig ist, wenn die Verbrechen groß genug sind — was jeder autoritäre Ankläger als nächstes beanspruchen wird. Es gibt keinen sauberen Ausweg. Es gab nie einen.
+Was das zu einer PI macht und nicht nur zu einer schwierigen moralischen Entscheidung, ist, dass beide Resultate etwas Grundlegendes korrumpieren. Wenn „Nulla poena sine lege” erhalten bleibt und die Architekten des Genozids freikommen, schützt das Prinzip, das die Unschuldigen schützt, die Täter. Man bricht es und etabliert, dass rückwirkendes Recht zulässig ist, wenn die Verbrechen groß genug sind – was jeder autoritäre Ankläger als Nächstes beanspruchen wird. Es gibt keinen sauberen Ausweg. Es gab nie einen.
 
-Gegenstruktur eliminiert Struktur nicht. Sie verlagert sie.
+Eine Gegenstruktur eliminiert die Struktur nicht. Sie verlagert sie nur.
 
 Das Göring-Urteil
 
-Göring erkannte die Verschiebung sofort. Nicht weil er plötzlich dem moralischen Argument zustimmte — das tat er nicht. Sondern weil er strukturelle Logik gut genug verstand, um zu wissen, wann der Boden unter ihm weggeglitten war.
+Göring erkannte die Verschiebung sofort. Nicht weil er plötzlich dem moralischen Argument zustimmte — das tat er natürlich nicht. Sondern weil er die strukturelle Logik gut genug verstand, um zu wissen, wann ihm der Boden unter den Füßen weggezogen wurde.
 
-Er hatte in einem System argumentiert, das strukturelle Präzision belohnte. Jackson hatte dieses System verlassen. Das Argument, das Göring vorbereitet hatte — wasserdicht, intern kohärent, strukturell einwandfrei — richtete sich nun an ein Gericht, das unter anderen Axiomen operierte.
+Er hatte innerhalb eines System argumentiert, das strukturelle Präzision belohnte. Jackson hatte dieses System verlassen. Das Argument, das Göring vorbereitet hatte — wasserdicht, intern kohärent, strukturell einwandfrei — richtete sich nun an ein Gericht, das unter anderen Axiomen operierte.
 
-Man kann ein Axiom nicht mit einem Argument widerlegen. Ein Axiom wird nicht abgeleitet — es wird angenommen. Um es anzufechten, müsste man ein anderes Axiom vorschlagen und für seine Annahme plädieren. Görings Verteidigung konnte das nicht. Sie hatte kein alternatives Axiom anzubieten. Sie konnte nur darauf bestehen, dass die alten noch galten.
+Man kann eine Grundlage nicht mit einem Argument widerlegen. Ein Grundsatz wird nicht abgeleitet — er wird vorausgesetzt. Um ihn anzufechten, müsste man einen anderen Grundsatz vorschlagen und für dessen Annahme plädieren. Görings Verteidigung konnte das nicht. Sie hatte keine alternative Grundlage anzubieten. Sie konnte nur darauf bestehen, dass die alte noch gültig war.
 
-Das taten sie nicht mehr. Jackson hatte dafür gesorgt.
+Das taten sie nicht mehr. Jackson hatte sie außer Kraft gesetzt.
 
 Was Das Bedeutet
 
-Die Lektion aus Nürnberg ist nicht, dass das Gute schließlich das Böse besiegt. Das ist die moralische Lesart, und sie ist nicht falsch, aber sie ist nicht strukturell.
+Die Lektion aus Nürnberg ist nicht, dass das Gute schließlich das Böse besiegt. Das ist die moralische Lesart, und sie ist nicht falsch, aber sie ist strukturell nicht richtig.
 
 Die strukturelle Lektion ist folgende: Es gibt PI-Konfigurationen, in denen jeder verfügbare Ausweg etwas Grundlegendes verletzt. Nicht weil die Akteure unzureichend sind, nicht weil bessere Optionen verpasst wurden, sondern weil die Struktur selbst saubere Lösungen ausschließt. Jackson ist der PI nicht entkommen. Er wählte, welches Grundprinzip er opfern wollte — und trug diese Wahl.
 
@@ -122,7 +122,7 @@ Einsicht ist kein Ausweg. Jackson sah die Struktur vollständig. Er sah, dass nu
 
 Er wählte trotzdem. Das ist nicht die Abwesenheit einer PI. Das ist, wie das Navigieren einer PI von innen aussieht.
 
-Jedes nachfolgende internationale Tribunal — der IStGH, der ICTY, der ICTR — hat in der Spannung gelebt, die Jackson in Nürnberg akzeptiert hat. Das Axiom öffnete einen Raum. Es schloss die Struktur nicht. Das Souveränitätsproblem kehrte eine Ebene höher zurück. Das nulla poena-Problem kehrte mit jeder neuen Anklage zurück. Der Präzedenzfall, den Jackson gesetzt hat, wurde von Staatsanwälten zitiert, die Gerechtigkeit verfolgen, und von Regierungen, die ihre Feinde verfolgen. Das Axiom diskriminiert nicht.
+Jedes nachfolgende internationale Tribunal — der IStGH, der ICTY, der ICTR — hat in der Spannung gelebt, die Jackson in Nürnberg akzeptiert hat. Das Axiom öffnete einen Raum. Es schloss die Struktur nicht. Das Souveränitätsproblem kehrte eine Ebene höher zurück. Das nulla poena-Problem kehrte mit jeder erneuten Anklage zurück. Der Präzedenzfall, den Jackson gesetzt hatte, wurde von Staatsanwälten zitiert, die Gerechtigkeit verfolgten, und von Regierungen, die ihre Feinde verfolgten. Der Grundsatz diskriminiert nicht.
 
 Göring schluckte das Zyankali. Jackson kehrte zum Obersten Gerichtshof zurück.
 
