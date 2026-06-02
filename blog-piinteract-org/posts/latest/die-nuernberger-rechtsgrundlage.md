@@ -1,7 +1,7 @@
 ---
 title: "Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T16:18:09
+modified: 2026-06-02T22:22:41
 slug: die-nuernberger-rechtsgrundlage
 lang: de
 type: post
@@ -20,11 +20,11 @@ Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und beobachtet das Ge
 
 Seine Verteidigung stützt sich auf eine strukturelle Beobachtung, die innerhalb des bestehenden Rahmens völlig korrekt ist.
 
-Kein Staatschef kann von einem Gericht eines anderen Staates für Handlungen zur Rechenschaft gezogen werden, die er im Dienst seines eigenen Staates begangen hat. Wenn ein ausländisches Gericht einen Staatschef wegen der Ausübung staatlicher Macht verurteilen kann, beansprucht es implizit das Recht, jeden Staatschef zu verurteilen – einschließlich seines eigenen. Die Gerichtsbarkeit untergräbt ihre eigene Legitimität. Jedes Urteil gegen Göring ist gleichzeitig ein Urteil gegen das Prinzip, das jede Regierung schützt, die es fällt.
+Kein Staatsoberhaupt kann von einem Gericht eines anderen Staates für Handlungen zur Rechenschaft gezogen werden, die er im Dienst seines eigenen Staates begangen hat. Wenn ein ausländisches Gericht einen Staatschef wegen der Ausübung staatlicher Macht verurteilen kann, beansprucht es implizit das Recht, jeden Staatschef zu verurteilen – einschließlich seines eigenen. Die Gerichtsbarkeit untergräbt ihre eigene Legitimität. Jedes Urteil gegen Göring ist gleichzeitig ein Urteil gegen das Prinzip, das jede Regierung schützt, die es fällt.
 
 Das Argument ist keine Sophistik. Es ist strukturelle Logik. Und Göring weiß das.
 
-Er weiß auch, als Jackson seine Eröffnungsrede beendet, dass er verloren hat.
+Er weiß auch, als Jackson sein Eröffnungsplädoyer beendet, dass er verloren hat.
 
 31. Mai 2026
 
@@ -32,7 +32,7 @@ Das Argument, das keine Antwort lieferte
 
 Um zu verstehen, was Jackson tat, muss man zunächst verstehen, warum Göring glaubte im Recht zu sein.
 
-Das Geflecht der internationalen Beziehungen, wie es 1945 bestand, ruhte auf einem Grundprinzip: Souveränität. Staaten sind die ultimativen Akteure. Staatsoberhäupter üben Staatsgewalt aus. Staatsgewalt kann, per Definition, nicht von der Macht eines anderen Staates beurteilt werden, ohne dass dieses Urteil selbst ein Machtakt ist — der dann seine eigene Rechtfertigung erfordert, was zur Souveränität zurückführt.
+Das Geflecht der internationalen Beziehungen, wie es 1945 bestand, ruhte auf einem Grundprinzip: Souveränität. Staaten sind die ultimativen Akteure. Staatsoberhäupter üben Staatsgewalt aus. Staatsgewalt kann, per Definition, nicht von der Macht eines anderen Staates beurteilt werden, ohne dass dieses Urteil selbst ein Machtakt ist — der dann seine eigene Rechtfertigung erfordert, was wiederum zur Frage der Souveränität zurückführt.
 
 Das ist keine Gesetzeslücke. Es ist die Architektur. Die Nürnberger Angeklagten hatten vollständig innerhalb dieser Architektur operiert. Die Verbrechen waren immens. Die Struktur, die sie ermöglichte, war genau die Struktur, die die Strafverfolgung strukturell unmöglich machte.
 
@@ -54,7 +54,7 @@ Gödel zeigte, dass kein hinreichend mächtiges formales System alle in ihm ausd
 
 Jackson betrachtete die geschlossene Struktur der Souveränität und tat dasselbe. Er argumentierte nicht innerhalb des Systems. Er platzierte ein neues Axiom außerhalb davon — eines, das jeden Zug umrahmte, den die Verteidigung machen konnte. Nicht: Sie haben das Gesetz verletzt. Sondern: Sie haben die Bedingung verletzt, ohne die das Gesetz nicht existieren kann.
 
-In dem Moment, als dieses Axiom akzeptiert wurde, brach Görings Argument zusammen. Nicht weil es widerlegt wurde. Sondern weil das Spielfeld neu gezeichnet worden war.
+In dem Moment, als dieses Axiom akzeptiert wurde, brach Görings Argument zusammen. Nicht weil es widerlegt wurde. Sondern weil das Spielfeld neu abgesteckt worden war.
 
 „Nulla Poena Sine Lege“
 
@@ -66,15 +66,15 @@ Jackson wusste es. Er hatte seine Karriere in Rechtssystemen verbracht, die null
 
 Und dennoch.
 
-Die Verbrechen, die Jackson verfolgte, waren unter Recht begangen worden — deutschem Recht, Staatsrecht, dem Recht einer souveränen Nation, die 1939 innerhalb der internationalen Architektur operierte. Der Holocaust war im Dritten Reich nicht illegal. Der Angriffskrieg war vom Staat autorisiert worden. Die Angeklagten hatten nicht außerhalb ihres Rechtsrahmens gehandelt. Sie hatten vollständig innerhalb davon gehandelt, mit vollständiger institutioneller Billigung, mit Dokumenten, mit bürokratischer Präzision.
+Die Verbrechen, die Jackson verfolgte, waren unter Recht begangen worden — deutschem Recht, Staatsrecht, dem Recht einer souveränen Nation, die seit 1933 innerhalb der internationalen Architektur operierte. Der Holocaust war im Dritten Reich nicht illegal. Der Angriffskrieg war vom Staat autorisiert worden. Die Angeklagten hatten nicht außerhalb ihres Rechtsrahmens gehandelt. Sie hatten vollständig innerhalb davon gehandelt, mit vollständiger institutioneller Billigung, mit Dokumenten, mit bürokratischer Präzision.
 
-Nulla poena sine lege — treu angewandt — bedeutete: kein Verbrechen. Kein Prozess. Kein Urteil. Freigelassen.
+Nulla poena sine lege — treu angewandt — bedeutete: kein Verbrechen. Kein Prozess. Kein Urteil. Amnestie.
 
-Jackson brach das Prinzip. Er musste. Das Axiom, das er setzte — Verbrechen gegen die Menschlichkeit — wurde rückwirkend auf Handlungen angewandt, die begangen wurden, bevor das Konzept Rechtskraft hatte. Er verurteilte Männer nach Recht, das nicht existierte, als sie handelten. Er tat genau das, was nulla poena sine lege zu verhindern existiert.
+Jackson brach dieses Prinzip. Er musste. Das Axiom, das er setzte — Verbrechen gegen die Menschlichkeit — wurde rückwirkend auf Handlungen angewandt, die begangen wurden, bevor das Konzept Rechtskraft hatte. Er verurteilte Männer nach Recht, das nicht existierte, als sie handelten. Er tat genau das, was nulla poena sine lege verbietet.
 
 Er wusste es. Er sagte es, beiläufig, in seinem Eröffnungsplädoyer. Und er tat es trotzdem.
 
-Das ist keine Kritik an Jackson. Es ist eine strukturelle Beobachtung. Er stand einer PI ohne sauberen Ausweg gegenüber. Auf einer Seite: nulla poena sine lege ehren, die Architekten des Holocausts freisprechen und bestätigen, dass Staatsgewalt absolute Immunität für jede im Namen des Staates begangene Gräueltat gewährt. Auf der anderen: es brechen, sie verurteilen und etablieren, dass rückwirkendes Recht zulässig ist, wenn die Verbrechen groß genug sind — was jeder autoritäre Ankläger beim nächsten Mal behaupten wird. Beide Ausgänge korrumpieren etwas Grundlegendes. Es gibt keine dritte Tür.
+Das ist keine Kritik an Jackson. Es ist eine strukturelle Beobachtung. Er stand einer PI ohne sauberen Ausweg gegenüber. Auf einer Seite: nulla poena sine lege respektieren, die Architekten des Holocausts freisprechen und bestätigen, dass Staatsgewalt absolute Immunität für jede im Namen des Staates begangene Gräueltat gewährt. Auf der anderen: es brechen, sie verurteilen und etablieren, dass rückwirkendes Recht zulässig ist, wenn die Verbrechen groß genug sind — was jeder autorisierte Ankläger beim nächsten Mal behaupten wird. Beide Ausgänge korrumpieren etwas Grundlegendes. Es gibt keine dritte Tür.
 
 Jackson wählte. Er brach das Prinzip, um zu retten, was das Prinzip schützen sollte. Er verletzte die Form der Gerechtigkeit, um ihre Substanz zu bewahren. Ob dieser Tausch richtig war, ist eine Frage, über die Moralphilosophen seit 1946 streiten und nicht aufhören werden zu streiten.
 
@@ -126,7 +126,7 @@ Jedes nachfolgende internationale Tribunal — der IStGH, der ICTY, der ICTR —
 
 Göring schluckte das Zyankali. Jackson kehrte zum Obersten Gerichtshof zurück.
 
-Das Axiom blieb. Mit dem Widerspruch, den es trug.
+Das Axiom blieb. Mit dem Widerspruch, den es in sich trug.
 
 Verwandte Beiträge
 
