@@ -1,7 +1,7 @@
 ---
 title: "The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T16:18:49
+modified: 2026-06-02T22:04:36
 slug: the-nuremberg-axiom
 lang: en
 type: post
@@ -32,7 +32,7 @@ The Argument That Was Unanswerable
 
 To understand what Jackson did, you first have to understand why Göring was right.
 
-The system of international relations as it existed in 1945 rested on a foundational principle: sovereignty. States are the ultimate actors. Heads of state exercise state power. State power, by definition, cannot be judged by another state's power without that judgment being an act of power itself — which then requires its own justification, which leads back to sovereignty.
+The system of international relations as it existed in 1945 rested on a foundational principle: sovereignty. States are the ultimate actors. Heads of state exercise state power. State power, by definition, cannot be judged by another state's power without that judgment being an act of power itself — which then requires its own justification, which leads back to the question of sovereignty.
 
 This is not a loophole. It is the architecture. The Nuremberg defendants had operated entirely within this architecture. The crimes were vast. The structure that enabled them was the very structure that made the prosecution structurally impossible.
 
