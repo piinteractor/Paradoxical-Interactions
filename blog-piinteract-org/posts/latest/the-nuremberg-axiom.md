@@ -1,7 +1,7 @@
 ---
 title: "The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One."
 date: 2026-05-31T17:01:23
-modified: 2026-05-31T17:01:23
+modified: 2026-06-02T16:18:49
 slug: the-nuremberg-axiom
 lang: en
 type: post
@@ -12,18 +12,9 @@ url: https://blog.piinteract.org/the-nuremberg-axiom/
 
 Why the only answer to a closed structure is a new axiom — and why setting that axiom required breaking the law.
 
-
-
-
-
-
-
 "The wrongs which we seek to condemn and punish have been so calculated, so malignant, and so devastating, that civilization cannot tolerate their being ignored, because it cannot survive their being repeated."
 
 — Robert H. Jackson, Opening Statement, Nuremberg Trials, November 21, 1945
-
-
-
 
 Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He has already explained, in private, how the mechanism works. He knows the argument. He built it. And he knows — or believes he knows — that the argument is unassailable.
 
@@ -35,28 +26,7 @@ The argument is not sophistry. It is structural logic. And Göring knows it.
 
 He also knows, by the time Jackson finishes his opening statement, that he has lost.
 
-
-
-
-
-
-
 31. May 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 The Argument That Was Unanswerable
 
@@ -69,12 +39,6 @@ This is not a loophole. It is the architecture. The Nuremberg defendants had ope
 Every lawyer in that courtroom in November 1945 understood this. The defense understood it. The prosecution understood it. The judges understood it.
 
 Göring understood it best of all.
-
-
-
-
-
-
 
 What Jackson Did Instead
 
@@ -91,12 +55,6 @@ Gödel showed that no sufficiently powerful formal system can prove all truths e
 Jackson looked at the closed structure of sovereignty and did the same thing. He did not argue inside the system. He placed a new axiom outside it — one that reframed every move the defense could make. Not: you violated the law. But: you violated the condition without which law cannot exist.
 
 The moment that axiom was accepted, Göring's argument collapsed. Not because it was refuted. Because the playing field had been redrawn.
-
-
-
-
-
-
 
 Nulla Poena Sine Lege
 
@@ -124,12 +82,6 @@ Jackson chose. He broke the principle in order to save what the principle was me
 
 What is not arguable is the structure. Jackson did not escape the PI. He entered it — deliberately, with full knowledge — and accepted the cost.
 
-
-
-
-
-
-
 The Structural Turn
 
 This is Paradoxical Interactions at the level of legal architecture.
@@ -152,12 +104,6 @@ What makes this a PI and not simply a difficult moral choice is that both exits 
 
 Counter-structure does not eliminate structure. It relocates it.
 
-
-
-
-
-
-
 The Göring Verdict
 
 Göring recognized the shift immediately. Not because he suddenly agreed with the moral argument — he did not. But because he understood structural logic well enough to know when the ground had moved beneath him.
@@ -169,12 +115,6 @@ You cannot refute an axiom with an argument. An axiom is not derived — it is a
 They didn't. Jackson had made sure of that.
 
 Göring had complete structural insight into the sovereignty argument. He lost anyway — not because his insight was wrong, but because Jackson had moved the argument somewhere insight alone cannot follow.
-
-
-
-
-
-
 
 What This Means
 
@@ -192,25 +132,7 @@ Göring took the cyanide. Jackson returned to the Supreme Court.
 
 The axiom remained. So did the contradiction it carried.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts
-
-
-
 
 The Formula That Proved the Opposite of What You Think
 
@@ -224,10 +146,11 @@ The Doorkeeper Breakout
 
 Why cognitive escape is the only way to escape the structure
 
+The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
+
+Why wars happen without anyone wanting them — and why the form of government makes no difference.
+
 No results found.
-
-
-
 
 On piinteract.org:
 
@@ -239,18 +162,9 @@ On piinteract.org:
 
 ["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
