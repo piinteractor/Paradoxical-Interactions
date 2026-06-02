@@ -1,7 +1,7 @@
 ---
 title: "L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu."
 date: 2026-05-14T15:15:16
-modified: 2026-05-14T15:15:16
+modified: 2026-06-02T16:22:26
 slug: lip-de-goring
 lang: fr
 type: post
@@ -113,6 +113,10 @@ Pourquoi les gens intelligents rejettent les idées plus intelligentes – et ag
 Le Paradoxe de Jonas
 
 Quand les avertissements réussis prouvent que le prophète a tort
+
+L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
+
+Pourquoi la seule réponse à une structure fermée est un nouvel axiome — et pourquoi poser cet axiome exigeait de violer la loi.
 
 No results found.
 
