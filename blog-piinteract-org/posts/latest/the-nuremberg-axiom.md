@@ -1,7 +1,7 @@
 ---
 title: "The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One."
 date: 2026-05-31T17:01:23
-modified: 2026-06-03T07:53:49
+modified: 2026-06-03T08:16:09
 slug: the-nuremberg-axiom
 lang: en
 type: post
@@ -16,11 +16,11 @@ Why the only answer to a closed structure is a new axiom — and why setting tha
 
 — Robert H. Jackson, Opening Statement, Nuremberg Trials, November 21, 1945
 
-Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He knows, how the mechanism works. He knows the argument. He built it. And he knows — or believes he knows — that the argument is unassailable.
+Nuremberg, 1945. Hermann Göring sits in the dock and watches the proceedings with almost professional interest. He will later explain in a private interview how the mechanism works. He is familiar with the line of argument. And he knows—or believes he knows—that his own argument is watertight.
 
-His defense rests on a structural observation that is, within the existing framework, entirely correct.
+His defense rests on a structural observation that is entirely correct within the existing framework.
 
-No state leader can be held accountable by the court of another state for acts committed in service of his own state. If a foreign court can judge a head of state for exercising state power, it implicitly claims the right to judge any head of state — including its own. The jurisdiction undermines its own legitimacy. Every verdict against Göring is simultaneously a verdict against the principle that protects every government that delivers it.
+No head of state can be held accountable by a court of another state for actions he committed in the service of his own state. If a foreign court can convict a head of state for the exercise of state power, it implicitly claims the right to convict any head of state—including its own. The court undermines its own legitimacy. Every verdict against Göring is simultaneously a verdict against the principle that protects every government that passes it.
 
 The argument is not sophistry. It is structural logic. And Göring knows it.
 
