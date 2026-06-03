@@ -1,7 +1,7 @@
 ---
 title: "L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T22:06:47
+modified: 2026-06-03T08:20:20
 slug: laxiome-de-nuremberg
 lang: fr
 type: post
@@ -16,15 +16,15 @@ Pourquoi la seule réponse à une structure fermée est un nouvel axiome — et 
 
 — Robert H. Jackson, Discours d'ouverture, Procès de Nuremberg, 21 novembre 1945
 
-Nuremberg, 1946. Hermann Göring observe le parquet avec quelque chose qui ressemble à de l'intérêt professionnel. Il a déjà expliqué, en privé, comment fonctionne le mécanisme. Il connaît l'argument. Il l'a construit. Et il sait — ou croit savoir — que cet argument est imparable.
+Nuremberg, 1945. Hermann Göring est assis sur le banc des accusés et observe le déroulement des événements avec un intérêt presque professionnel. Il expliquera plus tard, lors d'une interview en tête-à-tête, comment fonctionne ce mécanisme. Il connaît l’argumentation. Et il sait – ou croit savoir – que sa propre argumentation est irréfutable.
 
-Sa défense repose sur une observation structurelle qui est, dans le cadre existant, entièrement correcte.
+Sa défense repose sur une observation structurelle qui, dans le cadre existant, est tout à fait correcte.
 
-Aucun chef d'État ne peut être tenu responsable devant le tribunal d'un autre État pour des actes commis au service de son propre État. Si un tribunal étranger peut juger un chef d'État pour l'exercice du pouvoir d'État, il revendique implicitement le droit de juger n'importe quel chef d'État — y compris le sien. La juridiction sape sa propre légitimité. Chaque verdict contre Göring est simultanément un verdict contre le principe qui protège chaque gouvernement qui le rend.
+Aucun chef d’État ne peut être traduit en justice par un tribunal d’un autre État pour des actes qu’il a commis au service de son propre État. Si un tribunal étranger peut condamner un chef d’État pour l’exercice du pouvoir étatique, il revendique implicitement le droit de condamner n’importe quel chef d’État – y compris le sien. La juridiction sape sa propre légitimité. Tout verdict contre Göring est en même temps un verdict contre le principe qui protège tout gouvernement qui le prononce.
 
-L'argument n'est pas de la sophistique. C'est de la logique structurelle. Et Göring le sait.
+Cet argument n’est pas de la sophistique. C’est de la logique structurelle. Et Göring le sait.
 
-Il sait aussi, au moment où Jackson termine sa déclaration d'ouverture, qu'il a perdu.
+Il sait aussi, lorsque Jackson termine son réquisitoire, qu’il a perdu.
 
 31 mai 2026
 
