@@ -1,7 +1,7 @@
 ---
 title: "The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T22:04:36
+modified: 2026-06-03T07:53:49
 slug: the-nuremberg-axiom
 lang: en
 type: post
@@ -16,7 +16,7 @@ Why the only answer to a closed structure is a new axiom — and why setting tha
 
 — Robert H. Jackson, Opening Statement, Nuremberg Trials, November 21, 1945
 
-Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He has already explained, in private, how the mechanism works. He knows the argument. He built it. And he knows — or believes he knows — that the argument is unassailable.
+Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He knows, how the mechanism works. He knows the argument. He built it. And he knows — or believes he knows — that the argument is unassailable.
 
 His defense rests on a structural observation that is, within the existing framework, entirely correct.
 
