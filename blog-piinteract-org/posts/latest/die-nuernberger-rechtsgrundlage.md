@@ -1,7 +1,7 @@
 ---
 title: "Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen."
 date: 2026-05-31T17:01:23
-modified: 2026-06-02T22:22:41
+modified: 2026-06-03T07:54:54
 slug: die-nuernberger-rechtsgrundlage
 lang: de
 type: post
@@ -16,7 +16,7 @@ Warum die einzige Antwort auf ein geschlossenes Rechtssystem ein neuer Rechtsgru
 
 — Robert H. Jackson, Eröffnungsrede, Nürnberger Prozesse, 21. November 1945
 
-Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er hat bereits in einem Interview unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die eigene Argumentation hieb- und stichfest ist.
+Nürnberg, 1945. Hermann Göring sitzt auf der Anklagebank und beobachtet das Geschehen mit beinahe schon professionellem Interesse . Er wird in einem Interview unter vier Augen erklären, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er hat sie entwickelt. Und er weiß – oder glaubt zu wissen –, dass die eigene Argumentation hieb- und stichfest ist.
 
 Seine Verteidigung stützt sich auf eine strukturelle Beobachtung, die innerhalb des bestehenden Rahmens völlig korrekt ist.
 
