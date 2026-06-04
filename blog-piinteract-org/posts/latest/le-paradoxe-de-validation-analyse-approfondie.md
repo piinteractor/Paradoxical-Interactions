@@ -589,6 +589,8 @@ Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reprod
 
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
 
+Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
+
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
@@ -600,8 +602,6 @@ Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bru
 Le Paradoxe du Nockherberg. La Critique la Plus Acérée Est la Meilleure Alliée du Système.
 
 Tracer la ligne rouge – sans savoir exactement où elle passe.
-
-Quand l’observation de la fermeture devient fermeture
 
 No results found.
 
