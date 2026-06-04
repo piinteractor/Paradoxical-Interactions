@@ -30,6 +30,15 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Le parti que personne n’a fondé. Comment tous les acteurs rationnels ont donné naissance à l’AfD.
+
+4 juin 2026
+
+Personne n'a construit l'AfD. C'est précisément là le problème.
+Pas une conspiration de donateurs obscurs, pas une opération d'influence étrangère, pas une poignée d'idéologues ayant trouvé le bon moment. Ces explications existent, ...
+
+En savoir plus
+
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
 
 22 mai 2026
