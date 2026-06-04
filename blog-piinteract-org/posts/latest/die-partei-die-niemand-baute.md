@@ -1,7 +1,7 @@
 ---
 title: "Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte."
 date: 2026-06-04T12:23:19
-modified: 2026-06-04T12:24:55
+modified: 2026-06-04T16:38:42
 slug: die-partei-die-niemand-baute
 lang: de
 type: post
