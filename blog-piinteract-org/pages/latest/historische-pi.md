@@ -84,4 +84,12 @@ sondern darum, was das System verarbeiten kann.
 
 Mehr erfahren
 
+Gerechtigkeit, die man sich leisten konnte
+
+23. Januar 2026
+
+Das Nazi-Regime war organisierter Massenmord. Die moralische Diagnose war unmissverständlich. Dennoch blieb die Nachkriegsjustiz strukturell unvollständig. Nicht, weil die Täter unschuldig waren. Nicht, weil es an Beweisen fehlte. ...
+
+Mehr erfahren
+
 No results found.
