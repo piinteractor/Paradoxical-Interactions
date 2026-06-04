@@ -1,7 +1,7 @@
 ---
 title: "Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là."
 date: 2026-04-28T15:42:45
-modified: 2026-04-28T15:42:46
+modified: 2026-06-04T16:55:32
 slug: pourquoi-lobjectivite-ne-peut-pas-etre-objective
 lang: fr
 type: post
