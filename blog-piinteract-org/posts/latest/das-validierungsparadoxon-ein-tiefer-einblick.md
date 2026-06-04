@@ -592,7 +592,7 @@ Verwandt:
 
 
 
-Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
 
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
