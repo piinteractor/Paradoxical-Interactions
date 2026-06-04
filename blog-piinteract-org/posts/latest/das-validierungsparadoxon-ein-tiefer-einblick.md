@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Gerechtigkeit, die man sich leisten konnte
+
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
 
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
@@ -613,8 +615,6 @@ Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernp
 Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
 
 Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
-
-Die Intelligenz-Falle
 
 Nichts gefunden
 
