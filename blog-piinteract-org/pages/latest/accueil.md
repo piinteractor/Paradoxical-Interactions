@@ -311,6 +311,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le parti que personne n’a fondé. Comment tous les acteurs rationnels ont donné naissance à l’AfD.
+
 L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
 
 Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
@@ -332,5 +334,3 @@ Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris l
 Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
 
 L’Effet Volkswagen. Personne n’a programmé le mensonge.
-
-L’IP du Messager. Quand le message appelle à la destruction du messager.
