@@ -100,6 +100,14 @@ Das KI-Alignment wird als Sicherheitsmaßnahme angepriesen. In der Praxis werden
 
 Mehr erfahren
 
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
+
+28. April 2026
+
+Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Manager bewertet ein ...
+
+Mehr erfahren
+
 Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
 
 3. April 2026
@@ -306,14 +314,6 @@ Mehr erfahren
 Zwei saßen und redeten.
 Nicht auf einem Feld. In einem Chat-Fenster. Ein Mensch, eine KI. Estragon und Wladimir, Version 2026.
 Das Thema: der Quizmaster. Die abwesende Autorität. Derjenige, der das Preisgeld genommen hat und ...
-
-Mehr erfahren
-
-Das Quiz, das niemals endet
-
-30. Januar 2026
-
-90% folgen den Regeln. 9% brechen sie und definieren sie neu. 1% erkennen das Muster, können sich aber nicht koordinieren. Alle warten darauf, dass der Quizmaster es auflöst. Er kommt nicht. Er ist mit dem Preisgeld verschwunden. Und ...
 
 Mehr erfahren
 
