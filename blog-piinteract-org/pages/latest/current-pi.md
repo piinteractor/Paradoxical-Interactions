@@ -30,6 +30,15 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
+The Party Nobody Built. How Every Rational Actor Produced the AfD.
+
+4. June 2026
+
+No one built the AfD. That's the point.
+Not a conspiracy of dark-money donors, not a foreign influence operation, not a handful of ideologues who found the right moment. Those explanations are available, and some of them contain true ...
+
+Read More
+
 The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
 
 22. May 2026
