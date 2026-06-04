@@ -30,6 +30,15 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
+
+4. Juni 2026
+
+No one built the AfD. That's the point.
+Not a conspiracy of dark-money donors, not a foreign influence operation, not a handful of ideologues who found the right moment. Those explanations are available, and some of them contain true ...
+
+Mehr erfahren
+
 Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
 
 22. Mai 2026
