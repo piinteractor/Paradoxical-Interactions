@@ -100,7 +100,7 @@ Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 
 28. April 2026
 
-A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A manager evaluates a team. The evaluation changes the team. ...
+A scientist measures the temperature of a liquid. The thermometer changes the temperature of the liquid. A journalist reports on a protest. The report changes the protest. A team manager evaluates a team. The evaluation changes the ...
 
 Read More
 
