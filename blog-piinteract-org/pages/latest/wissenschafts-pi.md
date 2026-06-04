@@ -59,6 +59,14 @@ Er bemerkte nicht, dass er ...
 
 Mehr erfahren
 
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
+
+28. April 2026
+
+Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Teamleiter bewertet ...
+
+Mehr erfahren
+
 Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
 
 24. März 2026
