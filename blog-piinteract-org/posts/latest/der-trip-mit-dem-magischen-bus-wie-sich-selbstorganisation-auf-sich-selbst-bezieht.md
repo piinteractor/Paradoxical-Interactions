@@ -1,7 +1,7 @@
 ---
 title: "Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht."
 date: 2026-03-24T09:20:34
-modified: 2026-05-27T19:52:21
+modified: 2026-06-04T03:29:32
 slug: der-trip-mit-dem-magischen-bus-wie-sich-selbstorganisation-auf-sich-selbst-bezieht
 lang: de
 type: post
@@ -144,7 +144,7 @@ Der Bus fährt. Niemand hat die Route bestellt. Außer die Route wird immer wied
 
 Warum das kein Nihilismus ist
 
-An diesem Punkt erhebt jemand üblicherweise Einwände: Wenn Beschreibung das System immer verändert, und wenn akkurate Beschreibung daher strukturell unmöglich ist — wozu das Ganze? Jagen wir uns nur selbst den Schwanz?
+An diesem Punkt erhebt jemand normalerweise Einwände: Wenn Beschreibung das System immer verändert, und wenn akkurate Beschreibung daher strukturell unmöglich ist — wozu das Ganze? Jagen wir etwa nur unseren eigenen Schwanz?
 
 Nein. Aber der Punkt ist anders als wir üblicherweise denken.
 
