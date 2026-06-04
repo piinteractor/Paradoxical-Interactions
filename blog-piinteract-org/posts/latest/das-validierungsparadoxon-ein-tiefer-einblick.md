@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
+
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
@@ -613,8 +615,6 @@ Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 Die Intelligenz-Falle
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
-
-Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
 
 Nichts gefunden
 
