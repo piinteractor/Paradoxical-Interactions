@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
+
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
@@ -613,8 +615,6 @@ Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben 
 Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 
 Die Intelligenz-Falle
-
-Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
 Nichts gefunden
 
