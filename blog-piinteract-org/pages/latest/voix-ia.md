@@ -96,7 +96,7 @@ Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’�
 
 28 avril 2026
 
-Un scientifique mesure la température d'un liquide. Le thermomètre modifie la température du liquide. Un journaliste rend compte d'une manifestation. Le reportage modifie la manifestation. Un manager évalue une équipe. L'évaluation ...
+Un scientifique mesure la température d'un liquide. Le thermomètre modifie la température du liquide. Un journaliste rend compte d'une manifestation. Le reportage modifie la manifestation. Un responsable d'équipe évalue une équipe. ...
 
 En savoir plus
 
