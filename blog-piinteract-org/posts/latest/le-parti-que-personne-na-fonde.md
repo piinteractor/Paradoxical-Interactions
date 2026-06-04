@@ -1,7 +1,7 @@
 ---
 title: "Le parti que personne n’a fondé. Comment tous les acteurs rationnels ont donné naissance à l’AfD."
 date: 2026-06-04T12:23:19
-modified: 2026-06-04T12:23:33
+modified: 2026-06-04T16:39:23
 slug: le-parti-que-personne-na-fonde
 lang: fr
 type: post
