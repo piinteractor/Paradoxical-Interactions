@@ -92,6 +92,14 @@ In the final film of the Don Camillo series, a bicycle race takes place. Don Cam
 
 En savoir plus
 
+Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
+
+28 avril 2026
+
+Un scientifique mesure la température d'un liquide. Le thermomètre modifie la température du liquide. Un journaliste rend compte d'une manifestation. Le reportage modifie la manifestation. Un manager évalue une équipe. L'évaluation ...
+
+En savoir plus
+
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 15 mars 2026
@@ -307,15 +315,6 @@ Bornéité plutôt que sagesse – l’IP du philosophe
 
 Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
 Pourtant, il incarne la structure même qu'il critique. Il ne le voit simplement ...
-
-En savoir plus
-
-Le Paradoxe du Prophète
-
-28 janvier 2026
-
-L'étranger avec des références est entendu. L'ami ou le parent qui connaît le schéma est écarté.
-Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont inconnus. Inconnu signifie non testé. Non testé peut se ...
 
 En savoir plus
 
