@@ -188,6 +188,10 @@ Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezi
 
 Wie Luhmann sich selbst widerlegt. Und warum es dringend nötig ist.
 
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
+
+Warum die Forderung nach Objektivität strukturell zum Scheitern verurteilt ist – und warum jeder, der sie stellt, bereits Teil dessen ist, von dem er behauptet, außerhalb zu stehen.
+
 Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
 
 Warum der schärfste strukturelle Denker seiner Generation seinen eigenen Rahmen bewiesen hat — an sich selbst. Und warum es einen Kopfgeldjäger von 1968 brauchte, um es kommen zu sehen.
