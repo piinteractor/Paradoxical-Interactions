@@ -331,6 +331,6 @@ Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
 
 Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
 
-Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
 
 Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
