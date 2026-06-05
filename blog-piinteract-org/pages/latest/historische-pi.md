@@ -32,6 +32,14 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
+
+5. Juni 2026
+
+1385 töteten die Bürger Ferraras einen Steuereintreiber auf dem Marktplatz. Sein Name war Tommaso da Tortona. Die Este hatten ihn damit beauftragt, einzutreiben, was die Stadt nicht bezahlen konnte. Die Stadt antwortete so, wie Städte ...
+
+Mehr erfahren
+
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
 31. Mai 2026
