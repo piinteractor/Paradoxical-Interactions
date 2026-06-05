@@ -220,6 +220,14 @@ The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
 
 Why the solar system is an accident of mutual displacement — and why that is the only kind of stability that lasts.
 
+The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
+
+Why the most famous thought experiment in physics was designed to kill a theory — and became its most enduring proof.
+
+The Susskind Unbind. When a Theory Severs Its Own Leash.
+
+Why String Theory didn't fail physics — and why the structure made sure it couldn't.
+
 No results found.
 
 On piinteract.org:
