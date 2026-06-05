@@ -311,6 +311,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
+
 Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
 
 Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
@@ -332,5 +334,3 @@ Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reprod
 L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
 
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
-
-L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu.
