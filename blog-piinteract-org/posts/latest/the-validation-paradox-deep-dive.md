@@ -591,6 +591,8 @@ Related:
 
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
+The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
+
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
@@ -610,8 +612,6 @@ The Posthumous Correction. Why Being Right Requires Being Gone.
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
 The Fleming Effect. When a “HTML Janitor” Turns Into a Supervisor.
-
-The Fake Paradise. How Social Media Turns Real Life into Background Noise.
 
 No results found.
 
