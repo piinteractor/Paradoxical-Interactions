@@ -32,6 +32,14 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
+Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
+
+5 juin 2026
+
+En 1385, les habitants de Ferrare tuèrent un percepteur sur la place du marché. Il s'appelait Tommaso da Tortona. Les Este l'avaient chargé de collecter ce que la ville ne pouvait pas se permettre de payer. La ville répondit comme les ...
+
+En savoir plus
+
 L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
 
 31 mai 2026
