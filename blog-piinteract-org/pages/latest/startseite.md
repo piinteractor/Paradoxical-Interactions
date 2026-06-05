@@ -311,9 +311,13 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+„Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
+
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
+
+Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
 
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
@@ -330,7 +334,3 @@ Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben 
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
-
-Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
-
-Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
