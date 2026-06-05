@@ -311,9 +311,13 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
+
 Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
 
 Le parti que personne n’a fondé. Comment tous les acteurs rationnels ont donné naissance à l’AfD.
+
+L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
 
 L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
 
@@ -330,7 +334,3 @@ L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chr
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
 
 L’IP de Göring. Personne ne voulait la guerre. C’est exactement pourquoi elle a eu lieu.
-
-Le piège de Dawkins. L’homme qui a décrit les IP — et qui s’y est pris lui-même.
-
-Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
