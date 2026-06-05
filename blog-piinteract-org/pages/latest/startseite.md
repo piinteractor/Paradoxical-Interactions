@@ -311,6 +311,8 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
+
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
@@ -332,5 +334,3 @@ Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
 Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
 
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
-
-Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
