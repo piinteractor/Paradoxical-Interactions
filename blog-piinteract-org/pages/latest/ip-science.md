@@ -34,6 +34,22 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
+
+5 juin 2026
+
+La théorie des cordes ne s'est pas effondrée sous le poids de ses prédictions. Elle a dérivé, itération après itération, au-delà de l'horizon où des prédictions seraient encore requises. Et cela, diront ses défenseurs, est le signe de ...
+
+En savoir plus
+
+L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
+
+1 juin 2026
+
+Erwin Schrödinger détestait ce que la mécanique quantique impliquait. Il a donc construit un piège. Il a mis un chat dans une boîte avec un atome radioactif, un compteur Geiger et une fiole de poison. Si l'atome se désintègre, le ...
+
+En savoir plus
+
 Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
 31 mai 2026
