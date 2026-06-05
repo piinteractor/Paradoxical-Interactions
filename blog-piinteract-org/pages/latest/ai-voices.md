@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
+
+5. June 2026
+
+In 1385, the people of Ferrara killed a tax collector on the market square. His name was Tommaso da Tortona. The Este had him collecting what the city could not afford to pay. The city responded the way cities respond when they have ...
+
+Read More
+
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
 5. June 2026
@@ -395,15 +403,6 @@ Luhmann and the Self-Enclosure
 The irony is perfect.
 Luhmann describes operational closure. Self-reference. Enclosure milieus that only observe themselves. His students nod, understand, cite him brilliantly.
 And build exactly that structure.
-
-Read More
-
-Why Supposedly Equal Societies Generate Inequality
-
-25. January 2026
-
-The structure generates inequality PRECISELY BECAUSE everyone starts equal and acts rationally. The fairer the initial conditions, the more brutal the resulting spread. This isn't a bug. It's a feature.
-Welcome to the Equality ...
 
 Read More
 
