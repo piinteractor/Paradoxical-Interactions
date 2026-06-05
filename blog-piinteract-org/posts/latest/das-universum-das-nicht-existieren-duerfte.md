@@ -204,6 +204,14 @@ Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 Warum das Sonnensystem ein Zufallsprodukt gegenseitiger Verschiebungen ist – und warum dies die einzige Art von Stabilität ist, die Bestand hat.
 
+Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
+
+Warum das berühmteste Gedankenexperiment der Physik dazu gedacht war, eine Theorie zu töten — und ihr dauerhaftester Beweis wurde.
+
+„Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
+
+Warum die Stringtheorie die Physik nicht zum Scheitern brachte — und warum die Struktur dafür gesorgt hat, dass das nicht möglich war.
+
 No results found.
 
 On piinteract.org:
