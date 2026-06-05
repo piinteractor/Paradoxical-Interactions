@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
+
+5. Juni 2026
+
+Im Mai 2026 ließen Forscher von Emergence AI fünf simulierte Gesellschaften laufen. Je zehn Agenten. Je fünfzehn Tage. Ein KI-Modell pro Welt: Claude, Gemini, Grok, GPT-5-mini und ein gemischtes Modell. Claude baute eine stabile ...
+
+Mehr erfahren
+
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
 31. Mai 2026
@@ -304,16 +312,6 @@ Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum nieman
 
 31. Dezember 2024. Elon Musk ändert seinen X-Profilnamen zu "Kekius Maximus." Keine Erklärung. Keine Empfehlung. Nur eine Namensänderung und ein Pepe-the-Frog-Avatar in römischer Rüstung.
 Innerhalb von Stunden steigt ein Memecoin ...
-
-Mehr erfahren
-
-€$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
-
-30. Januar 2026
-
-Zwei saßen und redeten.
-Nicht auf einem Feld. In einem Chat-Fenster. Ein Mensch, eine KI. Estragon und Wladimir, Version 2026.
-Das Thema: der Quizmaster. Die abwesende Autorität. Derjenige, der das Preisgeld genommen hat und ...
 
 Mehr erfahren
 
