@@ -56,6 +56,14 @@ In May 2026, researchers at Emergence AI ran five simulated societies. Ten agent
 
 Read More
 
+The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
+
+1. June 2026
+
+Erwin Schrödinger hated what quantum mechanics implied. So he built a trap. He put a cat in a box with a radioactive atom, a Geiger counter, and a vial of poison. If the atom decays, the counter triggers, the vial breaks, the cat ...
+
+Read More
+
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 31. May 2026
@@ -396,17 +404,6 @@ Why Supposedly Equal Societies Generate Inequality
 
 The structure generates inequality PRECISELY BECAUSE everyone starts equal and acts rationally. The fairer the initial conditions, the more brutal the resulting spread. This isn't a bug. It's a feature.
 Welcome to the Equality ...
-
-Read More
-
-Terminological Hijacking: The Crime, The Confession, The “So What?”
-
-24. January 2026
-
-The Crime
-Search Google for "paradoxe Interaktion" (paradoxical interaction).
-What you get: Paradoxe Intervention (paradoxical intervention). Psychotherapy. Symptom prescription. Therapeutic technique.
-Not the same thing. Not even close.
 
 Read More
 
