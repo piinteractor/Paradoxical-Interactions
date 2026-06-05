@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
+
+5. Juni 2026
+
+1385 töteten die Bürger Ferraras einen Steuereintreiber auf dem Marktplatz. Sein Name war Tommaso da Tortona. Die Este hatten ihn damit beauftragt, einzutreiben, was die Stadt nicht bezahlen konnte. Die Stadt antwortete so, wie Städte ...
+
+Mehr erfahren
+
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 5. Juni 2026
@@ -298,19 +306,6 @@ Wenn der Protest die Schwäche offenbart
 
 Nvidia zieht sich von einer $100-Milliarden-Investition in OpenAI zurück. Jensen Huang kritisiert privat OpenAIs "Business Discipline". Tage später bekommt Reuters acht—acht—anonyme Quellen, die sich über Nvidia-Chips beschweren.
 Das ...
-
-Mehr erfahren
-
-Das Perelman-Paradox
-
-2. Februar 2026
-
-Grigori Perelman hat die Poincaré-Vermutung bewiesen.
-Eines der sieben Millennium-Probleme.
-Wert 1 Million Dollar.
-Er hat das Geld abgelehnt.
-Er hat die Fields-Medaille abgelehnt.
-Er ist in einer Petersburger Wohnung ...
 
 Mehr erfahren
 
