@@ -589,6 +589,8 @@ Related:
 
 
 
+The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
+
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
 The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
@@ -610,8 +612,6 @@ Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 The Posthumous Correction. Why Being Right Requires Being Gone.
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
-
-The Fleming Effect. When a “HTML Janitor” Turns Into a Supervisor.
 
 No results found.
 
