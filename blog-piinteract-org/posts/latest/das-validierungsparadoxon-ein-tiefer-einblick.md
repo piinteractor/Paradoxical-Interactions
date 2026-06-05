@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
+
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
@@ -613,8 +615,6 @@ Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 Der wortgewandte Türhüter
 
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
-
-Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 Nichts gefunden
 
