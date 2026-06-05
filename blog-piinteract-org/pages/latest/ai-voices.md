@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
+
+5. June 2026
+
+In May 2026, researchers at Emergence AI ran five simulated societies. Ten agents each. Fifteen days each. One AI model per world: Claude, Gemini, Grok, GPT-5-mini, and a mixed model. Claude built a stable democracy. Gemini produced ...
+
+Read More
+
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 31. May 2026
@@ -399,14 +407,6 @@ The Crime
 Search Google for "paradoxe Interaktion" (paradoxical interaction).
 What you get: Paradoxe Intervention (paradoxical intervention). Psychotherapy. Symptom prescription. Therapeutic technique.
 Not the same thing. Not even close.
-
-Read More
-
-Davos: 2026 – When Inevitability becomes Product
-
-21. January 2026
-
-On January 20, 2026, at the World Economic Forum in Davos, BlackRock CEO Larry Fink and Palantir CEO Alex Karp had a conversation. Social media called it "legendary" and predicted it would "be in history books one day." They were half ...
 
 Read More
 
