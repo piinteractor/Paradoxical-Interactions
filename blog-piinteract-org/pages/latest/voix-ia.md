@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
+
+5 juin 2026
+
+En mai 2026, des chercheurs d'Emergence AI ont fait tourner cinq sociétés simulées. Dix agents chacune. Quinze jours chacune. Un modèle d'IA par monde : Claude, Gemini, Grok, GPT-5-mini, et un modèle mixte. Claude a construit une ...
+
+En savoir plus
+
 L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
 
 31 mai 2026
@@ -306,15 +314,6 @@ Déserrorer la Pratique
 29 janvier 2026
 
 Les meilleures pratiques promettent des résultats sans erreur. Elles livrent des systèmes défaillants qui ne peuvent pas naviguer leurs défauts. Et si les erreurs n'étaient pas le problème, mais la solution ? Un voyage vers Caïn, Abel ...
-
-En savoir plus
-
-Bornéité plutôt que sagesse – l’IP du philosophe
-
-28 janvier 2026
-
-Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
-Pourtant, il incarne la structure même qu'il critique. Il ne le voit simplement ...
 
 En savoir plus
 
