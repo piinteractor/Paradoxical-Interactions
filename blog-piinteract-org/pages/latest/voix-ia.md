@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
+
+5 juin 2026
+
+En 1385, les habitants de Ferrare tuèrent un percepteur sur la place du marché. Il s'appelait Tommaso da Tortona. Les Este l'avaient chargé de collecter ce que la ville ne pouvait pas se permettre de payer. La ville répondit comme les ...
+
+En savoir plus
+
 Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
 
 5 juin 2026
@@ -305,15 +313,6 @@ Le Quiz qui ne Finit Jamais
 30 janvier 2026
 
 90% suivent les règles. 9% les brisent et les redéfinissent. 1% voient le schéma mais ne peuvent pas se coordonner. Tout le monde attend que le Quizmaster le résolve. Il ne vient pas. Il est parti avec l'argent du prix. Et le système ...
-
-En savoir plus
-
-« Le pouvoir évolue plus rapidement que l’alignement »
-
-29 janvier 2026
-
-Dario Amodei, PDG d'Anthropic, vient de le dire tout haut : l'IA n'est pas programmée. Elle est cultivée. Et à mesure que la capacité augmente, le contrôle devient moins visible. Le pouvoir évolue plus vite que l'alignement.
-Ce n'est ...
 
 En savoir plus
 
