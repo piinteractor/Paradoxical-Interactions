@@ -60,6 +60,14 @@ Im Mai 2026 ließen Forscher von Emergence AI fünf simulierte Gesellschaften la
 
 Mehr erfahren
 
+Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
+
+1. Juni 2026
+
+Erwin Schrödinger hasste, was die Quantenmechanik impliziertes,. Also baute er eine Falle. Er setzte eine Katze in eine Kiste mit einem radioaktiven Atom, einem Geigerzähler und einer Giftampulle. Zerfällt das Atom, löst der Zähler ...
+
+Mehr erfahren
+
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
 31. Mai 2026
@@ -303,15 +311,6 @@ Wert 1 Million Dollar.
 Er hat das Geld abgelehnt.
 Er hat die Fields-Medaille abgelehnt.
 Er ist in einer Petersburger Wohnung ...
-
-Mehr erfahren
-
-Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum niemand was dafür kann
-
-1. Februar 2026
-
-31. Dezember 2024. Elon Musk ändert seinen X-Profilnamen zu "Kekius Maximus." Keine Erklärung. Keine Empfehlung. Nur eine Namensänderung und ein Pepe-the-Frog-Avatar in römischer Rüstung.
-Innerhalb von Stunden steigt ein Memecoin ...
 
 Mehr erfahren
 
