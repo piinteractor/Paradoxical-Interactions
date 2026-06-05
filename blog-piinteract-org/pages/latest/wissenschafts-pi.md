@@ -34,6 +34,22 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+„Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
+
+5. Juni 2026
+
+Die Stringtheorie ist nicht unter dem Gewicht ihrer Vorhersagen zusammengebrochen. Sie ist, Iteration für Iteration, jenseits des Horizonts gedriftet, hinter dem Vorhersagen noch erforderlich wären. Und das, werden ihre Verteidiger ...
+
+Mehr erfahren
+
+Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
+
+1. Juni 2026
+
+Erwin Schrödinger hasste, was die Quantenmechanik impliziertes,. Also baute er eine Falle. Er setzte eine Katze in eine Kiste mit einem radioaktiven Atom, einem Geigerzähler und einer Giftampulle. Zerfällt das Atom, löst der Zähler ...
+
+Mehr erfahren
+
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 31. Mai 2026
