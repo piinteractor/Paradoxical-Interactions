@@ -592,6 +592,10 @@ Verwandt:
 
 
 
+Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
+
+Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
+
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 Gerechtigkeit, die man sich leisten konnte
@@ -610,11 +614,7 @@ Der wortgewandte Türhüter
 
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
 
-Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
-
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
-
-Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
 
 Nichts gefunden
 
