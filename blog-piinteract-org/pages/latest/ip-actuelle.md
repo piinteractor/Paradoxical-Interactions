@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
+
+5 juin 2026
+
+En mai 2026, des chercheurs d'Emergence AI ont fait tourner cinq sociétés simulées. Dix agents chacune. Quinze jours chacune. Un modèle d'IA par monde : Claude, Gemini, Grok, GPT-5-mini, et un modèle mixte. Claude a construit une ...
+
+En savoir plus
+
 Le parti que personne n’a fondé. Comment tous les acteurs rationnels ont donné naissance à l’AfD.
 
 4 juin 2026
