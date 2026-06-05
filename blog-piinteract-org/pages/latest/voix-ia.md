@@ -60,6 +60,14 @@ En mai 2026, des chercheurs d'Emergence AI ont fait tourner cinq sociétés simu
 
 En savoir plus
 
+L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
+
+1 juin 2026
+
+Erwin Schrödinger détestait ce que la mécanique quantique impliquait. Il a donc construit un piège. Il a mis un chat dans une boîte avec un atome radioactif, un compteur Geiger et une fiole de poison. Si l'atome se désintègre, le ...
+
+En savoir plus
+
 L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
 
 31 mai 2026
@@ -306,14 +314,6 @@ En savoir plus
 
 Dario Amodei, PDG d'Anthropic, vient de le dire tout haut : l'IA n'est pas programmée. Elle est cultivée. Et à mesure que la capacité augmente, le contrôle devient moins visible. Le pouvoir évolue plus vite que l'alignement.
 Ce n'est ...
-
-En savoir plus
-
-Déserrorer la Pratique
-
-29 janvier 2026
-
-Les meilleures pratiques promettent des résultats sans erreur. Elles livrent des systèmes défaillants qui ne peuvent pas naviguer leurs défauts. Et si les erreurs n'étaient pas le problème, mais la solution ? Un voyage vers Caïn, Abel ...
 
 En savoir plus
 
