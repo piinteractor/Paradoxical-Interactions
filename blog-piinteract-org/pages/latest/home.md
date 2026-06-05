@@ -311,9 +311,13 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Susskind Unbind. When a Theory Severs Its Own Leash.
+
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
 The Party Nobody Built. How Every Rational Actor Produced the AfD.
+
+The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
 
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
@@ -330,7 +334,3 @@ The Albigensian PI. How Christians Launched a Crusade Against Christians.
 The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
 
 When AI Alignment Becomes a Paradoxical Interaction
-
-The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
-
-The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
