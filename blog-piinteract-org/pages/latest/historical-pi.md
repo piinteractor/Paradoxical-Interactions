@@ -32,6 +32,14 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
+The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
+
+5. June 2026
+
+In 1385, the people of Ferrara killed a tax collector on the market square. His name was Tommaso da Tortona. The Este had him collecting what the city could not afford to pay. The city responded the way cities respond when they have ...
+
+Read More
+
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 31. May 2026
