@@ -202,6 +202,14 @@ Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
 Pourquoi le système solaire est le fruit d'un hasard de déplacements réciproques — et pourquoi c'est là la seule forme de stabilité qui perdure.
 
+L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
+
+Pourquoi la plus célèbre expérience de pensée de la physique a été conçue pour tuer une théorie — et en est devenue la preuve la plus durable.
+
+Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
+
+Pourquoi la théorie des cordes n'a pas fait échouer la physique — et pourquoi la structure s'en est assurée.
+
 No results found.
 
 On piinteract.org:
