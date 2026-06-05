@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
+
 Gerechtigkeit, die man sich leisten konnte
 
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
@@ -613,8 +615,6 @@ Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
-
-Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 
 Nichts gefunden
 
