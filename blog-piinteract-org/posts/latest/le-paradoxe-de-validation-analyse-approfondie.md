@@ -579,6 +579,8 @@ Connexes :
 
 
 
+Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
+
 Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
 
 L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
@@ -600,8 +602,6 @@ La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
 
 L’effet Fleming. Quand un « concierge HTML » devient superviseur.
-
-Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond.
 
 No results found.
 
