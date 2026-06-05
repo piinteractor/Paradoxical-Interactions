@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
+
+5. Juni 2026
+
+Im Mai 2026 ließen Forscher von Emergence AI fünf simulierte Gesellschaften laufen. Je zehn Agenten. Je fünfzehn Tage. Ein KI-Modell pro Welt: Claude, Gemini, Grok, GPT-5-mini und ein gemischtes Modell. Claude baute eine stabile ...
+
+Mehr erfahren
+
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
 4. Juni 2026
