@@ -592,6 +592,10 @@ Verwandt:
 
 
 
+Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
+
+Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
+
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
 
 Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
@@ -611,10 +615,6 @@ Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
-
-Der wortgewandte Türhüter
-
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
 
 Nichts gefunden
 
