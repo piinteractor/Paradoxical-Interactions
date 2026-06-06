@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
+
+6. Juni 2026
+
+Groucho Marx meinte es als Witz. Es ist kein Witz. Es ist eine strukturelle Beschreibung. Ein System, das sich durch Auflösung definiert, toleriert keinen Widerspruch. In dem Moment, in dem der Widerspruch verschwindet, verschwindet ...
+
+Mehr erfahren
+
 Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 
 5. Juni 2026
@@ -297,15 +305,6 @@ Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
 5. Februar 2026
 
 Der Double-Unbind zeigt, wie gleichberechtigte Partner in flachen Hierarchien durch gut gemeinte Autonomie in einen „respektvoll organisierten Rückzug“ geraten – bis das System lautlos zerfällt.
-
-Mehr erfahren
-
-Wenn der Protest die Schwäche offenbart
-
-3. Februar 2026
-
-Nvidia zieht sich von einer $100-Milliarden-Investition in OpenAI zurück. Jensen Huang kritisiert privat OpenAIs "Business Discipline". Tage später bekommt Reuters acht—acht—anonyme Quellen, die sich über Nvidia-Chips beschweren.
-Das ...
 
 Mehr erfahren
 
