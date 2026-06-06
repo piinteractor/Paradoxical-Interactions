@@ -30,6 +30,22 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
+
+6. Juni 2026
+
+Ein Phantomstau entsteht, weil jeder Fahrer auf das vorausfahrende Auto reagiert und nicht auf die vor ihm liegende Straße. Das vorausfahrende Auto bremst. Du bremst. Das Auto dahinter bremst stärker. Das Auto dahinter bremst noch ...
+
+Mehr erfahren
+
+Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
+
+6. Juni 2026
+
+Groucho Marx meinte es als Witz. Es ist kein Witz. Es ist eine strukturelle Beschreibung. Ein System, das sich durch Auflösung definiert, toleriert keinen Widerspruch. In dem Moment, in dem der Widerspruch verschwindet, verschwindet ...
+
+Mehr erfahren
+
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 5. Juni 2026
