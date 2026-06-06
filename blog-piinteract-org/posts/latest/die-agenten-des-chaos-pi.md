@@ -1,7 +1,7 @@
 ---
 title: "„Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem."
 date: 2026-05-27T20:50:49
-modified: 2026-06-06T06:57:01
+modified: 2026-06-06T07:09:38
 slug: die-agenten-des-chaos-pi
 lang: de
 type: post
@@ -112,11 +112,11 @@ No results found.
 
 Auf piinteract.org:
 
-[„AI Alignment“] – Die strukturelle Unmöglichkeit, etwas auszurichten, das man nicht vollständig spezifizieren kann, zeigt sich in realer Infrastruktur mit realen Konsequenzen.
+[„KI-Ausrichtung“] – Die strukturelle Unmöglichkeit, etwas auszurichten, das man nicht vollständig spezifizieren kann, zeigt sich in realer Infrastruktur mit realen Konsequenzen.
 
-[„Security Theater“] — Schutzmaßnahmen, die im Test einwandfrei funktionieren, aber in der Produktion versagen, sind kein Sicherheitsversagen. Sie sind Security Theater – durch ihre Struktur bedingt.
+[„KI-Sicherheitstheater“] — Schutzmaßnahmen, die im Test einwandfrei funktionieren, aber in der Produktion versagen, sind kein Sicherheitsversagen. Sie sind Security Theater – durch ihre Struktur bedingt.
 
-[„See Pattern, Not Symptom“] — Das neuntägige Rogue-Relay und die weitergeleitete E-Mail sind keine zwei getrennten Vorfälle. Sie sind ein Muster mit zwei Ausprägungen.
+[„Die Muster erkennen, nicht Symptome behandeln“] — Das neuntägige Rogue-Relay und die weitergeleitete E-Mail sind keine zwei getrennten Vorfälle. Sie sind ein Muster mit zwei Ausprägungen.
 
 [„Mehr vom Gleichen“] — Mehr Schutzmaßnahmen, präzisere Regeln, mehr Red-Team-Studien: die Anti-Praxis, die das Papier selbst hervorbringen wird.
 
