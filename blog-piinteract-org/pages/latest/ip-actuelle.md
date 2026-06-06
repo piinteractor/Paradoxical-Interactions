@@ -30,6 +30,22 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+L’IP du panneau de signalisation. Le Système qui Optimise sa Propre Inefficacité.
+
+6 juin 2026
+
+Un embouteillage fantôme se forme parce que chaque conducteur réagit à la voiture qui le précède, et non à la route devant lui. La voiture de devant freine. Vous freinez. La voiture derrière freine plus fort. Celle qui suit freine ...
+
+En savoir plus
+
+L’IP de Groucho Marx. Un système qui vit d’être contredit.
+
+6 juin 2026
+
+Groucho Marx l'a dit comme une blague. Ce n'est pas une blague. C'est une description structurelle. Un système qui se définit par la résolution ne tolère pas la contradiction. Dès que la contradiction disparaît, le système disparaît ...
+
+En savoir plus
+
 Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
 
 5 juin 2026
