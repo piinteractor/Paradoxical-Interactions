@@ -579,6 +579,8 @@ Connexes :
 
 
 
+L’IP de Groucho Marx. Un système qui vit d’être contredit.
+
 Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
 
 Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
@@ -600,8 +602,6 @@ Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’�
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
-
-L’effet Fleming. Quand un « concierge HTML » devient superviseur.
 
 No results found.
 
