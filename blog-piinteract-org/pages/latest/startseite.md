@@ -311,6 +311,10 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
+
+Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
+
 Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 
 „Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
@@ -330,7 +334,3 @@ Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
-
-Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
-
-Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
