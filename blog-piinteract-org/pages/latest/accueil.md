@@ -311,6 +311,10 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’IP du panneau de signalisation. Le Système qui Optimise sa Propre Inefficacité.
+
+L’IP de Groucho Marx. Un système qui vit d’être contredit.
+
 Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
 
 Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
@@ -330,7 +334,3 @@ Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Probl�
 L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend la physique possible.
 
 Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
-
-L’IP Albigeoise. Comment des chrétiens ont lancé une croisade contre des chrétiens.
-
-Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
