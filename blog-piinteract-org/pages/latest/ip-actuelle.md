@@ -147,7 +147,7 @@ Pourquoi les Philosophes sont Dangereux
 
 16 février 2026
 
-Karp a étudié Habermas et construit Palantir. Thiel a étudié Girard et reconfiguré la politique américaine. Macron a étudié Ricœur et gouverné par l'accommodation. Strauss a enseigné la philosophie et ses étudiants ont construit la ...
+Karp a étudié Habermas et a fondé Palantir. Thiel a étudié Girard et a redessiné le paysage politique américain. Macron a étudié Ricœur et a gouverné en recherchant le compromis. Strauss a enseigné la philosophie et ses étudiants ont ...
 
 En savoir plus
 
