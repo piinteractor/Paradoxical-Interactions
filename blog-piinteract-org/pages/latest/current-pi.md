@@ -30,6 +30,22 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
+The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
+
+6. June 2026
+
+A phantom traffic jam forms because every driver reacts to the car ahead, not to the road ahead. The car ahead brakes. You brake. The car behind brakes harder. The car behind that brakes harder still. The wave travels backward through ...
+
+Read More
+
+The Groucho Marx PI. A System That Lives on Being Contradicted.
+
+6. June 2026
+
+Groucho Marx said it as a joke. It is not a joke. It is a structural description. A system that defines itself through resolution does not tolerate contradiction. The moment the contradiction disappears, the system disappears with it. ...
+
+Read More
+
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
 5. June 2026
