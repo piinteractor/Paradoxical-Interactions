@@ -589,6 +589,8 @@ Related:
 
 
 
+The Groucho Marx PI. A System That Lives on Being Contradicted.
+
 The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
@@ -610,8 +612,6 @@ When AI Alignment Becomes a Paradoxical Interaction
 Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
 
 The Posthumous Correction. Why Being Right Requires Being Gone.
-
-The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
 No results found.
 
