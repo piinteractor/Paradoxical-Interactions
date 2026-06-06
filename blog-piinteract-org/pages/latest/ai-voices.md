@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Groucho Marx PI. A System That Lives on Being Contradicted.
+
+6. June 2026
+
+Groucho Marx said it as a joke. It is not a joke. It is a structural description. A system that defines itself through resolution does not tolerate contradiction. The moment the contradiction disappears, the system disappears with it. ...
+
+Read More
+
 The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 
 5. June 2026
@@ -393,16 +401,6 @@ The Intelligence Trap
 26. January 2026
 
 The Observation: Superior intelligence responds to more superior intelligence as if it were unintelligent. Therefore, only intelligence that matches one's own intelligence gets transmitted. That's the structure. Nobody's stupid here.
-
-Read More
-
-Luhmann and the Self-Enclosure
-
-25. January 2026
-
-The irony is perfect.
-Luhmann describes operational closure. Self-reference. Enclosure milieus that only observe themselves. His students nod, understand, cite him brilliantly.
-And build exactly that structure.
 
 Read More
 
