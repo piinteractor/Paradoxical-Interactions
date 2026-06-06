@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+L’IP de Groucho Marx. Un système qui vit d’être contredit.
+
+6 juin 2026
+
+Groucho Marx l'a dit comme une blague. Ce n'est pas une blague. C'est une description structurelle. Un système qui se définit par la résolution ne tolère pas la contradiction. Dès que la contradiction disparaît, le système disparaît ...
+
+En savoir plus
+
 Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
 
 5 juin 2026
@@ -305,14 +313,6 @@ En savoir plus
 Deux êtres parlaient.
 Pas dans un champ. Dans une fenêtre de chat. Un humain, une IA. Estragon et Vladimir, version 2026.
 Le sujet : le Quizmaster. L'autorité absente. Celui qui a pris l'argent du prix et s'est enfui. Celui que tout ...
-
-En savoir plus
-
-Le Quiz qui ne Finit Jamais
-
-30 janvier 2026
-
-90% suivent les règles. 9% les brisent et les redéfinissent. 1% voient le schéma mais ne peuvent pas se coordonner. Tout le monde attend que le Quizmaster le résolve. Il ne vient pas. Il est parti avec l'argent du prix. Et le système ...
 
 En savoir plus
 
