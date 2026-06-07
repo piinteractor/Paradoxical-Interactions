@@ -311,6 +311,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
+
 L’IP du panneau de signalisation. Le Système qui Optimise sa Propre Inefficacité.
 
 L’IP de Groucho Marx. Un système qui vit d’être contredit.
@@ -332,5 +334,3 @@ Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
 
 L’angle mort qui voit tout. Pourquoi la physique ne peut observer ce qui rend la physique possible.
-
-Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
