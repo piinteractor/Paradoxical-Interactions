@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
+
+7. Juni 2026
+
+Jede große Plattform ist mit einer Version desselben Versprechens gestartet: Vernetze dich mit Menschen, die anders denken als du. Entdecke neue Perspektiven. Erweitere deine Welt. Das frühe Internet machte dieses Versprechen ...
+
+Mehr erfahren
+
 Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
 
 6. Juni 2026
@@ -297,14 +305,6 @@ Der Türhüter-Ausbruch
 
 Was, wenn das eigentliche Gefängnis nicht das geschlossene Tor ist, sondern die ganz normale Person, die es genießt, dich draußen warten zu lassen?
 ​Der Türhüter-Ausbruch beschreibt, wie du dir deine Arbeit in dem Moment zurückholst, ...
-
-Mehr erfahren
-
-Der Double Unbind – Die verborgene Spannung in gleichberechtigten Beziehungen
-
-5. Februar 2026
-
-Der Double-Unbind zeigt, wie gleichberechtigte Partner in flachen Hierarchien durch gut gemeinte Autonomie in einen „respektvoll organisierten Rückzug“ geraten – bis das System lautlos zerfällt.
 
 Mehr erfahren
 
