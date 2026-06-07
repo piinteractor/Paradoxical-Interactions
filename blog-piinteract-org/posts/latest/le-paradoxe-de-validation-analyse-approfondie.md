@@ -579,6 +579,8 @@ Connexes :
 
 
 
+L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
+
 L’IP de Groucho Marx. Un système qui vit d’être contredit.
 
 Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
@@ -600,8 +602,6 @@ Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la 
 Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
 
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
-
-La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
 
 No results found.
 
