@@ -589,6 +589,8 @@ Related:
 
 
 
+The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
+
 The Groucho Marx PI. A System That Lives on Being Contradicted.
 
 The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
@@ -610,8 +612,6 @@ The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in 
 When AI Alignment Becomes a Paradoxical Interaction
 
 Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
-
-The Posthumous Correction. Why Being Right Requires Being Gone.
 
 No results found.
 
