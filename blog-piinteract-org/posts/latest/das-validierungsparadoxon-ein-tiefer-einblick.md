@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
+
 Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
 
 Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
@@ -609,8 +611,6 @@ Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 Gerechtigkeit, die man sich leisten konnte
 
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
-
-Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
