@@ -1,7 +1,7 @@
 ---
 title: "Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte."
 date: 2026-06-04T12:23:19
-modified: 2026-06-04T16:38:42
+modified: 2026-06-07T10:25:34
 slug: die-partei-die-niemand-baute
 lang: de
 type: post
@@ -10,7 +10,7 @@ wp_id: 6592
 url: https://blog.piinteract.org/de/die-partei-die-niemand-baute/
 ---
 
-Warum die AfD nicht die Ursache des deutschen politischen Versagens ist — und warum jeder Versuch, sie aufzuhalten, ihr Wachstum strukturell garantiert.
+Warum die AfD nicht die Ursache des deutschen politischen Versagens ist — und warum jeder Versuch, sie aufzuhalten, ihr Wachstum strukturell stabilisiert.
 
 „Der Teufel ist ein Eichhörnchen."
 
@@ -54,7 +54,7 @@ Die Eindämmungsfalle
 
 Deutschland baute sein Nachkriegswahlsystem mit strukturellem Gedächtnis. Die 5%-Hürde wurde explizit entwickelt, um die parlamentarische Zersplitterung zu verhindern, die Weimar destabilisiert hatte. Kleine Extremparteien würden klein bleiben oder verschwinden. Die Hürde war ein Eindämmungsmechanismus, der in die Verfassungsarchitektur selbst eingebaut war.
 
-Sie funktioniert auch. Jedeenfalls für Parteien, die unter fünf Prozent bleiben.
+Sie funktioniert auch. Jedenfalls für Parteien, die unter fünf Prozent bleiben.
 
 Für die Partei, die sie überwindet, bietet die Hürde nichts. Schlimmer: Einmal überwunden, verleiht sie volle parlamentarische Legitimität. Der Mechanismus, der den Einzug von Extremisten verhindern sollte, wird in dem Moment, wo er überwunden wird, zum Beweis der Legitimation. Die Zugehörigkeit zum deutschen Bundestag ist die Zugehörigkeit zum deutschen Bundestag. Die Hürde schützt vor Splitterparteien, nicht vor Stärke. Niemand hat den Fall eingeplant, dass die gefürchtete Partei groß genug wird, um einzuziehen — denn sobald dieser Fall eintritt, versagt das Design.
 
