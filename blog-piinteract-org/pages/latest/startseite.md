@@ -311,6 +311,8 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
+
 Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
 
 Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
@@ -332,5 +334,3 @@ Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
 
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
-
-Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
