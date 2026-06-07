@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
+
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
 Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
@@ -613,8 +615,6 @@ Gerechtigkeit, die man sich leisten konnte
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
 
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
-
-Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 Nichts gefunden
 
