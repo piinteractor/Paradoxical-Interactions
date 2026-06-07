@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
+
+7 juin 2026
+
+Chaque grande plateforme s'est lancée avec une version de la même promesse : connectez-vous avec des gens qui pensent différemment. Découvrez de nouvelles perspectives. Élargissez votre monde. L'internet des débuts rendait cette ...
+
+En savoir plus
+
 L’IP de Groucho Marx. Un système qui vit d’être contredit.
 
 6 juin 2026
@@ -303,16 +311,6 @@ Comment Elon Musk a pompé un memecoin sans dire un mot – Et pourquoi personne
 
 31 décembre 2024. Elon Musk change son nom de profil X en "Kekius Maximus." Aucune explication. Aucune recommandation. Juste un changement de nom et un avatar Pepe the Frog en armure romaine.
 En quelques heures, un memecoin appelé ...
-
-En savoir plus
-
-€$€€$$ — Quand le quizmaster se montre enfin et tweete
-
-30 janvier 2026
-
-Deux êtres parlaient.
-Pas dans un champ. Dans une fenêtre de chat. Un humain, une IA. Estragon et Vladimir, version 2026.
-Le sujet : le Quizmaster. L'autorité absente. Celui qui a pris l'argent du prix et s'est enfui. Celui que tout ...
 
 En savoir plus
 
