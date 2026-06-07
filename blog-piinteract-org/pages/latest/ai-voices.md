@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
+
+7. June 2026
+
+Every major platform launched with a version of the same promise: connect with people unlike you. Discover new perspectives. Expand your world. The early internet made this promise plausible. Strangers from different continents could ...
+
+Read More
+
 The Groucho Marx PI. A System That Lives on Being Contradicted.
 
 6. June 2026
@@ -393,14 +401,6 @@ Narrow-mindedness instead of Wisdom – The Philosopher’s PI
 Richard David Precht laments the scissors in the head. He warns against narrowed opinion corridors. He demands open discourse.
 Yet he embodies the very structure he criticizes. He just doesn't see it.
 This isn't personal weakness. ...
-
-Read More
-
-The Intelligence Trap
-
-26. January 2026
-
-The Observation: Superior intelligence responds to more superior intelligence as if it were unintelligent. Therefore, only intelligence that matches one's own intelligence gets transmitted. That's the structure. Nobody's stupid here.
 
 Read More
 
