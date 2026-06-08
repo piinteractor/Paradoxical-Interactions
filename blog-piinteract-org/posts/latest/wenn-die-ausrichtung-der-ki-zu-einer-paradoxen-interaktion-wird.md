@@ -142,9 +142,9 @@ Der Nachweis Gottes
 
 Bildschirmfoto 2026-01-17 um 13.46.46
 
-KI-Ausrichtung
-
 KI-Stimmen
+
+KI-Ausrichtung
 
 Konsistenz ist nicht frei von Widersprüchen
 
