@@ -30,6 +30,15 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
+
+9. Juni 2026
+
+Im Juni 2026 wurde das Future Combat Air System — FCAS — offiziell für tot erklärt. Milliarden investiert. Jahrzehnte geplant. Zwei der leistungsfähigsten Luftfahrtindustrien der Welt. Kein Flugzeug.
+Franziska Brantner, Parteichefin ...
+
+Mehr erfahren
+
 Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
 
 6. Juni 2026
