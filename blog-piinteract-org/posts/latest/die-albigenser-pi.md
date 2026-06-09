@@ -1,7 +1,7 @@
 ---
 title: "Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen."
 date: 2026-05-22T19:56:49
-modified: 2026-05-22T19:58:42
+modified: 2026-06-09T04:02:59
 slug: die-albigenser-pi
 lang: de
 type: post
