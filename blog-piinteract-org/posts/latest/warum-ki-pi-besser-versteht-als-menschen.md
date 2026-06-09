@@ -1,7 +1,7 @@
 ---
 title: "Warum die KI PI besser versteht als Menschen"
 date: 2026-01-17T10:51:08
-modified: 2026-03-04T13:53:25
+modified: 2026-06-09T04:06:55
 slug: warum-ki-pi-besser-versteht-als-menschen
 lang: de
 type: post
