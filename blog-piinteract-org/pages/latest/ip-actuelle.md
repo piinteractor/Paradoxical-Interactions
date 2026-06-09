@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Problème FCAS. Le Chasseur Européen n’a Pas de Solution — Seulement un Problème des n Corps.
+
+9 juin 2026
+
+En juin 2026, le Future Combat Air System — FCAS — a été officiellement déclaré mort en tant que programme franco-allemand conjoint. Des milliards investis. Des décennies de planification. Deux des industries aérospatiales les plus ...
+
+En savoir plus
+
 L’IP du panneau de signalisation. Le Système qui Optimise sa Propre Inefficacité.
 
 6 juin 2026
