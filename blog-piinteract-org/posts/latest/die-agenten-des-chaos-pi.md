@@ -1,7 +1,7 @@
 ---
 title: "„Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem."
 date: 2026-05-27T20:50:49
-modified: 2026-06-06T07:09:38
+modified: 2026-06-09T04:04:52
 slug: die-agenten-des-chaos-pi
 lang: de
 type: post
