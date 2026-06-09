@@ -1,7 +1,7 @@
 ---
 title: "Luhmann und der Selbsteinschluss"
 date: 2026-01-25T14:46:29
-modified: 2026-03-10T23:03:16
+modified: 2026-06-09T04:13:21
 slug: luhmann-und-der-selbsteinschluss
 lang: de
 type: post
