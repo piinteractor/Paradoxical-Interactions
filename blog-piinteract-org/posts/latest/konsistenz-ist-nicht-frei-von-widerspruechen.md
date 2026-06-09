@@ -1,7 +1,7 @@
 ---
 title: "Konsistenz ist nicht frei von Widersprüchen"
 date: 2026-01-18T16:49:33
-modified: 2026-03-10T21:55:06
+modified: 2026-06-09T04:08:43
 slug: konsistenz-ist-nicht-frei-von-widerspruechen
 lang: de
 type: post
