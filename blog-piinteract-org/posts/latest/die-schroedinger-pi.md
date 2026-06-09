@@ -1,7 +1,7 @@
 ---
 title: "Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen."
 date: 2026-06-01T15:44:32
-modified: 2026-06-05T15:27:28
+modified: 2026-06-09T04:04:28
 slug: die-schroedinger-pi
 lang: de
 type: post
