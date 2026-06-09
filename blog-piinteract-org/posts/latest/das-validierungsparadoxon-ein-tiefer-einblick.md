@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
+
 Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 
 Luhmann und der Selbsteinschluss
@@ -613,8 +615,6 @@ Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheit
 Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
-
-Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
 Nichts gefunden
 
