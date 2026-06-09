@@ -30,6 +30,14 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
+The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
+
+9. June 2026
+
+In June 2026, the Future Combat Air System — FCAS — was officially declared dead as a joint Franco-German program. Billions invested. Decades of planning. Two of the most capable aerospace industries in the world. No ...
+
+Read More
+
 The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
 
 6. June 2026
