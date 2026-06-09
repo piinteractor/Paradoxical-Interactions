@@ -1,7 +1,7 @@
 ---
 title: "Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen."
 date: 2026-05-31T17:01:23
-modified: 2026-06-03T08:04:59
+modified: 2026-06-09T04:05:42
 slug: die-nuernberger-rechtsgrundlage
 lang: de
 type: post
