@@ -1,7 +1,7 @@
 ---
 title: "Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird"
 date: 2026-05-18T10:23:42
-modified: 2026-06-05T15:33:28
+modified: 2026-06-09T04:02:35
 slug: wenn-die-ausrichtung-der-ki-zu-einer-paradoxen-interaktion-wird
 lang: de
 type: post
