@@ -1,7 +1,7 @@
 ---
 title: "Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte."
 date: 2026-06-05T17:58:19
-modified: 2026-06-05T18:47:00
+modified: 2026-06-09T07:32:09
 slug: das-castello-este-in-ferrara
 lang: de
 type: post
