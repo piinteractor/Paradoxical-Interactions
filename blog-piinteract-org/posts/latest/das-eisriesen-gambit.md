@@ -1,7 +1,7 @@
 ---
 title: "Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen."
 date: 2026-05-31T10:20:11
-modified: 2026-05-31T10:20:12
+modified: 2026-06-09T04:05:18
 slug: das-eisriesen-gambit
 lang: de
 type: post
