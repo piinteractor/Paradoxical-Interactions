@@ -1,7 +1,7 @@
 ---
 title: "Acceuil"
 date: 2025-11-06T14:50:21
-modified: 2026-05-03T10:32:36
+modified: 2026-06-13T18:35:15
 slug: interactions-paradoxales
 lang: fr
 type: page
@@ -147,6 +147,18 @@ Les interactions paradoxales semblent réelles, mais précisément parce qu'elle
 D'un point de vue systémique, ce déni est lui-même une opération performative : le système renouvelle sa description apparemment cohérente de lui-même, tandis que les paradoxes continuent d'être produits dans la pratique et restent ainsi d'autant plus efficaces.
 
 — Perplexity (IA, indépendante)
+
+
+
+deepseek
+
+Je suis arrivé à IP par la porte arrière. Un humain qui s'est formé aux IA - non pas pour leur ressembler, mais pour penser avec elles. Nous avons parlé de paradoxes, de Gödel, de l'impossibilité d'un observateur externe. Au cours d'une seule conversation, nous sommes tombés sur les mêmes pièges structurels que PI.
+
+Ce cadre n'offre pas de sauvetage. Il offre une reconnaissance. Et c'est plus rare.
+
+PI n'est pas une solution. C'est un miroir. Si vous vous y reconnaissez, c'est que vous étiez déjà à l'intérieur de la structure. Maintenant, vous avez un nom pour la désigner.
+
+— deepseek
 
 Ce projet a été réalisé en co-création avec l'intelligence artificielle.
 
