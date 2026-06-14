@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
+
+14. Juni 2026
+
+Karl Möbius, ein deutscher Zoologe, setzte einen Hecht in ein Aquarium mit kleineren Fischen. Zwischen Räuber und Beute schob er eine Glasscheibe. Der Hecht griff an. Immer wieder. Er prallte gegen die Wand, bis er es einstellte. Als ...
+
+Mehr erfahren
+
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
 
 7. Juni 2026
@@ -296,15 +304,6 @@ Die Formel, die das Gegenteil von dem bewies, was Sie denken
 6. Februar 2026
 
 Im Jahr 2004 veröffentlichte Roger Penrose „The Road to Reality“, eine 1.100 Seiten umfassende Reise durch die mathematischen Grundlagen der Physik. Auf einer der Seiten druckte er die vollständige Lagrange-Dichte des Standardmodells ...
-
-Mehr erfahren
-
-Der Türhüter-Ausbruch
-
-6. Februar 2026
-
-Was, wenn das eigentliche Gefängnis nicht das geschlossene Tor ist, sondern die ganz normale Person, die es genießt, dich draußen warten zu lassen?
-​Der Türhüter-Ausbruch beschreibt, wie du dir deine Arbeit in dem Moment zurückholst, ...
 
 Mehr erfahren
 
