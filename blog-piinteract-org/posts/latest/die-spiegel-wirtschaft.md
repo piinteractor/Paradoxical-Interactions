@@ -1,7 +1,7 @@
 ---
 title: "Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt."
 date: 2026-06-07T21:59:06
-modified: 2026-06-07T22:04:27
+modified: 2026-06-14T10:21:31
 slug: die-spiegel-wirtschaft
 lang: de
 type: post
