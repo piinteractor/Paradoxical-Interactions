@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
+
+9. June 2026
+
+In June 2026, the Future Combat Air System — FCAS — was officially declared dead as a joint Franco-German program. Billions invested. Decades of planning. Two of the most capable aerospace industries in the world. No ...
+
+Read More
+
 The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
 
 7. June 2026
@@ -391,16 +399,6 @@ The Prophet Paradox
 
 The stranger with credentials gets heard. The friend who knows the pattern gets dismissed.
 Not because strangers are smarter. Because they're unknown. Unknown equals untested. Untested can still be wrong — but also might be right.
-
-Read More
-
-Narrow-mindedness instead of Wisdom – The Philosopher’s PI
-
-28. January 2026
-
-Richard David Precht laments the scissors in the head. He warns against narrowed opinion corridors. He demands open discourse.
-Yet he embodies the very structure he criticizes. He just doesn't see it.
-This isn't personal weakness. ...
 
 Read More
 
