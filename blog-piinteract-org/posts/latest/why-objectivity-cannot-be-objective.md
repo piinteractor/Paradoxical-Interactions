@@ -1,7 +1,7 @@
 ---
 title: "Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There."
 date: 2026-04-28T15:42:45
-modified: 2026-06-04T17:23:57
+modified: 2026-06-14T09:56:50
 slug: why-objectivity-cannot-be-objective
 lang: en
 type: post
