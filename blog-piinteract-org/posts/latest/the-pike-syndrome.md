@@ -1,7 +1,7 @@
 ---
 title: "The Pike Syndrome: How Conditioning Destroys Skills."
 date: 2026-06-14T10:18:40
-modified: 2026-06-14T12:46:58
+modified: 2026-06-14T14:57:00
 slug: the-pike-syndrome
 lang: en
 type: post
@@ -10,7 +10,7 @@ wp_id: 6970
 url: https://blog.piinteract.org/the-pike-syndrome/
 ---
 
-Why a structure can make itself permanent without anyone intending it — and why insight changes nothing about the glass.
+How structures become entrenched over time without anyone intending them to—and why insight does nothing to change the glass wall.
 
 "He loved Big Brother."
 
