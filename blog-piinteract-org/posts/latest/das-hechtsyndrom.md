@@ -1,7 +1,7 @@
 ---
 title: "Das Hechtsyndrom. Wie Konditionierung Potential vernichtet."
 date: 2026-06-14T10:18:40
-modified: 2026-06-14T15:44:52
+modified: 2026-06-14T17:00:21
 slug: das-hechtsyndrom
 lang: de
 type: post
@@ -40,7 +40,7 @@ Der Hecht will nicht nur nicht mehr jagen. Für den Hecht ist Jagen keine Option
 
 Das Talent, das sich selbst verlernt
 
-Es liegt eine besondere Grausamkeit vor, die die Selbstdiagnose-Version des Hechtsyndroms nicht abdeckt.
+Es liegt eine besondere Grausamkeit vor, die die Selbstanalyse-Version des Hechtsyndroms nicht abdeckt.
 
 Das Scheitern lässt die Fähigkeit intakt. Der Hecht, der nicht an der Scheibe vorbei kommt, ist immer noch ein Räuber — er hat nur keinen Erfolg. Was Möbius dokumentierte, ist etwas anderes. Wiederholte Kollisionen mit einer echten Barriere bewirkten auf Dauer nicht Entmutigung. Sie bewirken die Erosion der Fähigkeiten des Räubers selbst.
 
@@ -54,7 +54,7 @@ Der Trenner muss noch nicht einmal mehr im Becken sein
 
 Die PI-Struktur
 
-Beim Hechtsyndrom geht es nicht in erster Linie um Fische. Es beschreibt, was in jedem System passiert, wenn wiederholte natürliche Reaktionen auf eine reale Verhinderung die Fähigkeit beseitigen, die durch die Verhinderung verhindert wurde. Nicht die Hürde erledigt das, sondern der Fisch erledigt es an sich selbst. Wie ein Kafka-Urteil, das der Verurteilte an sich selbst vollstreckt.
+Beim Hechtsyndrom geht es nicht in erster Linie um Fische. Es beschreibt, was in jedem System passiert, wenn wiederholte natürliche Reaktionen auf eine reale Verhinderung die Fähigkeit beseitigen, die durch die Verhinderung verhindert wurde. Nicht dsa HIndernis erledigt das, sondern der Fisch erledigt es an sich selbst. Wie ein Kafka-Urteil, das der Verurteilte an sich selbst vollstreckt.
 
 Die Beeinträchtigung ist real. Die Reaktion ist rational. Das Ergebnis ist der dauerhafte Verlust dessen, was die Reaktion eigentlich beschützen sollte: Die Identität des Hechts.
 
