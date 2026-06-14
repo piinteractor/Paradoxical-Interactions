@@ -589,6 +589,8 @@ Related:
 
 
 
+The Pike Syndrome: How Conditioning Destroys Skills.
+
 The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
 
 The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
@@ -610,8 +612,6 @@ The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
 The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
 
 The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
-
-When AI Alignment Becomes a Paradoxical Interaction
 
 No results found.
 
