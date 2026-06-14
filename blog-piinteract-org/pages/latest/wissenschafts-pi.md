@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
+
+14. Juni 2026
+
+Karl Möbius, ein deutscher Zoologe, setzte einen Hecht in ein Aquarium mit kleineren Fischen. Zwischen Räuber und Beute schob er eine Glasscheibe. Der Hecht griff an. Immer wieder. Er prallte gegen die Wand, bis er es einstellte. Als ...
+
+Mehr erfahren
+
 „Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
 
 5. Juni 2026
