@@ -579,8 +579,6 @@ Connexes :
 
 
 
-Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
-
 L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
 
 L’IP de Groucho Marx. Un système qui vit d’être contredit.
@@ -602,6 +600,8 @@ Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reprod
 Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
 
 Pourquoi l’objectivité ne peut pas être objective. L’observateur qui n’était pas là.
+
+La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
 No results found.
 
