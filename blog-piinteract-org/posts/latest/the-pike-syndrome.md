@@ -1,7 +1,7 @@
 ---
 title: "The Pike Syndrome: How Conditioning Destroys Skills."
 date: 2026-06-14T10:18:40
-modified: 2026-06-14T14:57:00
+modified: 2026-06-14T15:35:03
 slug: the-pike-syndrome
 lang: en
 type: post
@@ -18,21 +18,25 @@ How structures become entrenched over time without anyone intending them to—an
 
 14. June 2026
 
-Karl Möbius, a German zoologist, placed a pike in a tank with smaller fish. He placed a glass pane between the predator and its prey. The pike attacked. Again and again. It kept slamming into the wall until it stopped. When Möbius removed the pane, the prey swam freely around the pike. The pike did not move. It would have starved to death, surrounded by food, had Möbius not fed it. Later researchers repeated the experiment without intervening. The result was the same. The pikes died. The phenomenon has a name: the pike syndrome.
+Karl Möbius, a German zoologist, placed a pike in an aquarium with smaller fish. He set a glass pane between the predator and its prey. The pike attacked. Again and again. It kept crashing into the barrier until it gave up. When Möbius removed the pane, the small fish swam freely around the pike. The pike didn’t move. It would have starved to death if Möbius hadn’t fed it. Later experiments replicated the scenario without intervention. The result was almost the same. The pikes in the experiments died. The phenomenon has a name: pike syndrome.
 
-Most commentators read this as a story about false assumptions. About imaginary barriers. About the value of persevering.
+Many commentators might read this as a story about false assumptions. About invisible barriers. About the value of perseverance.
 
 They are reading the wrong story.
 
-What Actually Happened
+What actually happened
 
-The pike did not develop a false belief. It developed an accurate one. The glass was real. The pain was real. The conditioning was earned through contact with actual reality.
+The pike was not deterred. His instinct reacted correctly. The partition was real. The pain was real. The conditioning did not arise out of nothing - it arose from the altered reality.
 
-The error — if there is one — came later. When the glass was removed, the pike's model of the world did not update. Not because the pike was stupid. Because the conditioning had gone deeper than belief. It had restructured behavior itself.
+The mistake - if there was one - occurred later. After the glass was removed, the pike's perception was not updated. Not because the pike was not adaptable enough. It was because the conditioning had become more deeply ingrained than the changed reality. It had changed its behavior. Reality had changed. Both had changed - only in different directions.
 
-This is not a failure of cognition. It is the success of conditioning doing exactly what conditioning does: it makes certain behaviors structurally unavailable. Not improbable. Unavailable.
+This is not an error in perception. It is the success of conditioning. It did what conditioning does. It erased natural behavior in favor of adapting to a changed reality.
 
-The pike does not decide not to hunt. The pike no longer registers hunting as an option.
+The pike perhaps even watched itself change. He just couldn't do anything about it. His will was irreversibly broken.
+
+The distorted reality led to their distorted perception. The reality was corrected back. But the perception remained. The disk was gone. The changed pike was not.
+
+The pike not only no longer wants to hunt. For the pike, hunting is no longer an option. For the pike, the alternative of hunting is simply no longer available.
 
 The Talent That Unlearns Itself
 
