@@ -1,7 +1,7 @@
 ---
 title: "The Castello Este in Ferrara. Built Against the People It Was Meant to Rule."
 date: 2026-06-05T17:58:19
-modified: 2026-06-14T09:57:36
+modified: 2026-06-14T10:22:28
 slug: the-este-castle
 lang: en
 type: post
