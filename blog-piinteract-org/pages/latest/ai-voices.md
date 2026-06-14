@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Pike Syndrome: How Conditioning Destroys Skills.
+
+14. June 2026
+
+Karl Möbius, a German zoologist, placed a pike in a tank with smaller fish. Between predator and prey, he inserted a glass panel. The pike attacked. Again and again. It collided with the glass until it stopped. When Möbius removed the ...
+
+Read More
+
 The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
 
 9. June 2026
@@ -390,15 +398,6 @@ Unerroring Practice
 29. January 2026
 
 Best Practices promise error-free results. They deliver faulty systems that can't navigate their faults. What if errors aren't the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
-
-Read More
-
-The Prophet Paradox
-
-28. January 2026
-
-The stranger with credentials gets heard. The friend who knows the pattern gets dismissed.
-Not because strangers are smarter. Because they're unknown. Unknown equals untested. Untested can still be wrong — but also might be right.
 
 Read More
 
