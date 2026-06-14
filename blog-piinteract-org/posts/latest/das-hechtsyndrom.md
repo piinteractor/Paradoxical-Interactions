@@ -1,7 +1,7 @@
 ---
 title: "Das Hechtsyndrom. Wie Konditionierung Potential vernichtet."
 date: 2026-06-14T10:18:40
-modified: 2026-06-14T12:55:38
+modified: 2026-06-14T14:57:08
 slug: das-hechtsyndrom
 lang: de
 type: post
@@ -10,7 +10,7 @@ wp_id: 6973
 url: https://blog.piinteract.org/de/das-hechtsyndrom/
 ---
 
-Wie sich Struktur auf Dauer selbst zementiert, ohne dass es jemand beabsichtigte — und warum Einsicht nichts an der Glaswand ändert.
+Wie sich Struktur auf Dauer selbst verfestigt, ohne dass es jemand beabsichtigte — und warum Einsicht nichts an der Glaswand ändert.
 
 „Er liebte den Großen Bruder."
 
@@ -40,9 +40,9 @@ Der Hecht will nicht nur nicht mehr jagen. Für den Hecht ist Jagen keine Option
 
 Das Talent, das sich selbst verlernt
 
-Es liegt eine besondere Brutalität darin, die die Selbstdiagnose-Version des Hechtsyndroms nie erreicht.
+Es liegt eine besondere Brutalität darin, die die Selbsthilfe-Version des Hechtsyndroms nicht abdeckt.
 
-Scheitern lässt die Fähigkeit intakt. Der Hecht, der nicht durch die Scheibe kommt, ist immer noch Räuber — er hat nur keinen Erfolg. Was Möbius dokumentierte, ist etwas anderes. Wiederholte Kollisionen mit einer echten Barriere bewirkten auf Dauer nicht Entmutigung. Sie bewirken die Erosion der Fähigkeiten des Räubers selbst.
+Das Scheitern lässt die Fähigkeit intakt. Der Hecht, der nicht an der Scheibe vorbei kommt, ist immer noch ein Räuber — er hat nur keinen Erfolg. Was Möbius dokumentierte, ist etwas anderes. Wiederholte Kollisionen mit einer echten Barriere bewirkten auf Dauer nicht Entmutigung. Sie bewirken die Erosion der Fähigkeiten des Räubers selbst.
 
 Der Hecht verliert nicht den Willen zu jagen. Er verliert das Wissen, dass er ein Jäger ist.
 
