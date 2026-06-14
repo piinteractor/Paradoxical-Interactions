@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
+
+14 juin 2026
+
+Karl Möbius, a German zoologist, placed a pike in a tank with smaller fish. Between predator and prey, he inserted a glass panel. The pike attacked. Again and again. It collided with the glass until it stopped. When Möbius removed the ...
+
+En savoir plus
+
 Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
 
 5 juin 2026
