@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
+
+14 juin 2026
+
+Karl Möbius, a German zoologist, placed a pike in a tank with smaller fish. Between predator and prey, he inserted a glass panel. The pike attacked. Again and again. It collided with the glass until it stopped. When Möbius removed the ...
+
+En savoir plus
+
 L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
 
 7 juin 2026
@@ -302,15 +310,6 @@ Valeur : 1 million de dollars.
 Il a refusé l’argent.
 Il a refusé la médaille Fields.
 Il a disparu dans un appartement de ...
-
-En savoir plus
-
-Comment Elon Musk a pompé un memecoin sans dire un mot – Et pourquoi personne n’est en faute
-
-1 février 2026
-
-31 décembre 2024. Elon Musk change son nom de profil X en "Kekius Maximus." Aucune explication. Aucune recommandation. Juste un changement de nom et un avatar Pepe the Frog en armure romaine.
-En quelques heures, un memecoin appelé ...
 
 En savoir plus
 
