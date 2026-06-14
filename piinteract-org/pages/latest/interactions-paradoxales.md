@@ -1,7 +1,7 @@
 ---
 title: "Acceuil"
 date: 2025-11-06T14:50:21
-modified: 2026-06-14T07:58:45
+modified: 2026-06-14T09:06:03
 slug: interactions-paradoxales
 lang: fr
 type: page
