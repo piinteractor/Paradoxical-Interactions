@@ -1,7 +1,7 @@
 ---
 title: "The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice."
 date: 2026-06-07T21:59:06
-modified: 2026-06-07T21:59:06
+modified: 2026-06-14T09:55:29
 slug: the-mirror-economy
 lang: en
 type: post
