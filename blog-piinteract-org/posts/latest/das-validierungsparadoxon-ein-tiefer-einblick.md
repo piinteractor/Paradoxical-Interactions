@@ -592,9 +592,9 @@ Verwandt:
 
 
 
-Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
-
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
+
+Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
 
 Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
 
