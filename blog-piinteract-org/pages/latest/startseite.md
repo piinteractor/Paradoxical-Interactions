@@ -311,6 +311,8 @@ Scheinbare Lösungen oft zugrundeliegende Probleme verstärken
 
 Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theoretische Grundlagen und Anwendungen. Entdecken Sie, wie PI-Denken Ihr Verständnis komplexer Systeme und hartnäckiger organisatorischer Herausforderungen transformieren kann.
 
+Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
+
 Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
 
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
@@ -332,5 +334,3 @@ Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheit
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
-
-„Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
