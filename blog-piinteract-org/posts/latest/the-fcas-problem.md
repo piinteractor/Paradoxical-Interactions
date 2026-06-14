@@ -1,7 +1,7 @@
 ---
 title: "The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies."
 date: 2026-06-09T08:28:30
-modified: 2026-06-09T08:28:30
+modified: 2026-06-14T09:59:49
 slug: the-fcas-problem
 lang: en
 type: post
