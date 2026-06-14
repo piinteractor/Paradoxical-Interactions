@@ -1,7 +1,7 @@
 ---
 title: "The Pike Syndrome: How Conditioning Destroys Skills."
 date: 2026-06-14T10:18:40
-modified: 2026-06-14T10:46:45
+modified: 2026-06-14T12:46:58
 slug: the-pike-syndrome
 lang: en
 type: post
@@ -124,7 +124,7 @@ Learned Helplessness: Seligman's original research — Peer-reviewed overview of
 
 Neuroplasticity and the persistence of conditioned responses — Institutional source on how conditioned neural pathways persist after the conditioning stimulus is removed — the biological substrate of what Möbius observed behaviorally.
 
-Wittgenstein, Tractatus Logico-Philosophicus, 5.6 — Primary source for the opening quote: the boundary of language as the boundary of world — the conceptual frame within which the Pike Syndrome operates.
+Orwell, Nineteen Eighty-Four, Secker & Warburg, 1949 — Primary source for the opening quote: Winston Smith does not resist the system. He is reshaped by it. The result is summed up in four words on the final page.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
