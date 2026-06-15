@@ -1,7 +1,7 @@
 ---
 title: "Das Hechtsyndrom. Wie Konditionierung Potential vernichtet."
 date: 2026-06-14T10:18:40
-modified: 2026-06-14T17:26:18
+modified: 2026-06-15T07:36:15
 slug: das-hechtsyndrom
 lang: de
 type: post
@@ -130,9 +130,9 @@ Neuroplastizität und Persistenz konditionierter Reaktionen – Institutionelle 
 
 Orwell, Nineteen Eighty-Four, Secker & Warburg, 1949 – Primärquelle für das einleitende Zitat: Winston Smith widersetzt sich der Struktur nicht. Er wird von ihr neu geformt. Das Ergebnis lässt sich in vier Worten auf der letzten Seite zusammenfassen.
 
-Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
+Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
-All are guilty. None are at fault.
+Alle sind schuldig. Keiner kann etwas dafür.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -140,4 +140,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
