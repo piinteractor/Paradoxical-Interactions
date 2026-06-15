@@ -1,7 +1,7 @@
 ---
 title: "Systèmes & Pouvoir"
 date: 2025-12-17T22:09:55
-modified: 2026-02-14T15:09:06
+modified: 2026-06-15T13:35:19
 slug: systemes-pouvoir
 lang: fr
 type: page
@@ -132,9 +132,9 @@ Ceux qui ont les connaissances pour réguler ont des incitations à ne pas régu
 
 Le piège : La compétence exige la proximité. La proximité crée l'alignement.
 
-« Il suffit de financer »
+Gaspillage d'argent
 
-Jeter de l'argent sur le problème. Plus de ressources, meilleurs résultats.
+Jeter de l'argent par les fenêtres. Plus de ressources, de meilleurs résultats.
 
 Le schéma
 
