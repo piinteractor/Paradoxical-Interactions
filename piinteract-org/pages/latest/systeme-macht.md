@@ -1,7 +1,7 @@
 ---
 title: "Systeme & Macht"
 date: 2025-12-17T22:09:55
-modified: 2026-02-14T14:54:33
+modified: 2026-06-15T12:16:25
 slug: systeme-macht
 lang: de
 type: page
@@ -132,7 +132,7 @@ Diejenigen mit dem Wissen zur Regulierung haben Anreize, nicht effektiv zu regul
 
 Die Falle: Kompetenz erfordert Nähe. Nähe erzeugt Angleichung.
 
-„Einfach finanzieren"
+„Noch mehr Geld drauf!"
 
 Geld auf das Problem werfen. Mehr Ressourcen, bessere Ergebnisse.
 
