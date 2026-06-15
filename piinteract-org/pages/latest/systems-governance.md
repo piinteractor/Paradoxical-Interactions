@@ -1,7 +1,7 @@
 ---
 title: "Systems & Governance"
 date: 2025-12-17T22:09:55
-modified: 2026-02-14T14:54:18
+modified: 2026-06-15T13:34:11
 slug: systems-governance
 lang: en
 type: page
@@ -134,9 +134,9 @@ Those with the knowledge to regulate have incentives not to regulate effectively
 
 The trap: Competence requires proximity. Proximity creates alignment.
 
-"Just Fund It"
+Wasting money
 
-Throw money at the problem. More resources, better outcomes.
+Throwing good money after bad. More resources, better results.
 
 The Pattern
 
