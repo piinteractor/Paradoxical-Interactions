@@ -1,7 +1,7 @@
 ---
 title: "Why Supposedly Equal Societies Generate Inequality"
 date: 2026-01-25T08:50:58
-modified: 2026-04-25T15:04:34
+modified: 2026-06-16T03:56:37
 slug: why-supposedly-equal-societies-generate-inequality
 lang: en
 type: post
@@ -296,14 +296,14 @@ The PI Framework — What Paradoxical Interactions are and why they matter
 
 piinteract.org — Full documentation
 
-Interactions paradoxales (PI) : … Au sens de Luhmann : opérationnellement fermées, cognitivement ouvertes — et pourtant structurellement piégées.
+Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
-Co-créées avec ChatGPT — deux systèmes incomplets rendant visibles leurs lacunes respectives.
+All are guilty. None are at fault.
 
-Peter Senner
-
-Thinking beyond the Tellerrand
+Peter Senner Thinking beyond the Tellerrand
 
 contact@piinteract.org
 
-www.piinteract.org
+https://piinteract.org
+
+Co-created with ChatGPT (OpenAI) — two incomplete systems making each other's gaps visible.
