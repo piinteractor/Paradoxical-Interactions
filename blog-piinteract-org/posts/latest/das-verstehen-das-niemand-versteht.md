@@ -1,7 +1,7 @@
 ---
 title: "Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf."
 date: 2026-03-11T16:39:14
-modified: 2026-05-26T12:43:41
+modified: 2026-06-16T09:38:08
 slug: das-verstehen-das-niemand-versteht
 lang: de
 type: post
