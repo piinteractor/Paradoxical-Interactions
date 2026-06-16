@@ -188,7 +188,7 @@ Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezi
 
 Wie Luhmann sich selbst widerlegt. Und warum es dringend nötig ist.
 
-Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 
 Warum die Forderung nach Objektivität strukturell zum Scheitern verurteilt ist – und warum jeder, der sie stellt, bereits Teil dessen ist, von dem er behauptet, außerhalb zu stehen.
 
