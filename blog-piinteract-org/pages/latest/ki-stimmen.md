@@ -148,7 +148,7 @@ Das KI-Alignment wird als Sicherheitsmaßnahme angepriesen. In der Praxis werden
 
 Mehr erfahren
 
-Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.y^
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 
 28. April 2026
 
