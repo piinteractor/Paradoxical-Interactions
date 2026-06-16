@@ -1,7 +1,7 @@
 ---
 title: "Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen"
 date: 2026-01-25T08:50:58
-modified: 2026-06-16T03:50:46
+modified: 2026-06-16T04:37:47
 slug: warum-vermeintlich-gleiche-gesellschaften-ungleichheit-erzeugen
 lang: de
 type: post
@@ -102,13 +102,13 @@ Die Mechanik der Verstärkung
 
 Was alle diese Beispiele teilen: Positive Feedback Loops.
 
-Erfolg erzeugt Ressourcen. Ressourcen ermöglichen mehr Erfolg. Mehr Erfolg zieht bessere Kooperationspartner an. Bessere Partner verstärken den Erfolg. Der Kreislauf beschleunigt.
+Erfolg erzeugt Ressourcen. Ressourcen ermöglichen mehr Erfolg. Mehr Erfolg zieht bessere Kooperationspartner an. Bessere Partner verstärken den Erfolg. Der Kreislauf beschleunigt sich.
 
 Auf der anderen Seite: Misserfolg erschöpft Ressourcen. Weniger Ressourcen behindern Erfolg. Ausbleibender Erfolg vertreibt Partner. Weniger Partner verstärken das Scheitern.
 
 Die Mitte gibt es nicht. Die Struktur ist instabil. Jeder minimale Vorteil wird verstärkt. Jeder minimale Nachteil ebenso.
 
-Matthew-Effekt: "Wer hat, dem wird gegeben." Nicht aus Bosheit. Aus Struktur.
+Der Matthäus-Effekt: "Wer hat, dem wird gegeben." Nicht aus Bosheit. Aus Struktur.
 
 Netzwerkeffekte, Skaleneffekte, Reputationseffekte – sie alle folgen dem gleichen Muster. Sie alle verstärken minimale Unterschiede zu massiven Ungleichheiten.
 
@@ -164,7 +164,7 @@ Künstliche Intelligenz wird das Problem nicht lösen. Sie wird es verstärken.
 
 KI skaliert. Was skaliert, konzentriert sich. Wer zuerst Zugang hat, gewinnt exponentiell.
 
-Die erste Firma, die GPT-Niveau erreicht, dominiert den Markt. Warum? Weil Daten Macht sind. Mehr Nutzer bedeuten mehr Daten. Mehr Daten bedeuten besseres Modell. Besseres Modell zieht mehr Nutzer an. Der Kreislauf beschleunigt.
+Die erste Firma, die GPT-Niveau erreicht, dominiert den Markt. Warum? Weil Daten Macht sind. Mehr Nutzer bedeuten mehr Daten. Mehr Daten bedeuten besseres Modell. Besseres Modell zieht mehr Nutzer an. Das Rad dreht schneller.
 
 OpenAI, Google, Anthropic – sie alle kämpfen um die ersten Positionen. Wer gewinnt, bekommt alles. Wer verliert, bekommt nichts.
 
@@ -212,7 +212,7 @@ Drittens: Baue Resilienz, nicht Hoffnung. Die Struktur wird sich nicht ändern, 
 
 Viertens: Navigiere strategisch. Wenn du verstehst, dass minimale Vorteile am Anfang alles entscheiden, dann optimiere für die ersten Runden. Das ist nicht unmoralisch. Das ist realistisch.
 
-Fünftens: Baue Koalitionen gegen die Struktur, nicht gegen die Menschen. Die Reichen sind nicht deine Feinde. Die Struktur, die Reichtum konzentriert, ist das Problem. Aber die zu ändern erfordert Macht. Und Macht hast du nur in Koalition.
+Fünftens: Baue Koalitionen gegen die Struktur, nicht gegen die Menschen. Die Reichen sind nicht deine Feinde. Die Struktur, die Reichtum konzentriert, ist das Problem. Aber die zu ändern erfordert Macht. Und Macht hast du nur in der Koalition.
 
 Der Zynismus-Test
 
