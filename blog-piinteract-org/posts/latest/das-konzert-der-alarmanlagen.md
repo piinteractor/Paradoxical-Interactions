@@ -1,7 +1,7 @@
 ---
 title: "Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie."
 date: 2026-06-05T13:41:22
-modified: 2026-06-05T13:41:23
+modified: 2026-06-16T08:12:28
 slug: das-konzert-der-alarmanlagen
 lang: de
 type: post
