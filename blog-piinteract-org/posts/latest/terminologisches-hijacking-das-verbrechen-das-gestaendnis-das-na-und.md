@@ -1,7 +1,7 @@
 ---
 title: "Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“"
 date: 2026-01-24T16:00:36
-modified: 2026-03-11T05:08:40
+modified: 2026-06-16T09:36:40
 slug: terminologisches-hijacking-das-verbrechen-das-gestaendnis-das-na-und
 lang: de
 type: post
