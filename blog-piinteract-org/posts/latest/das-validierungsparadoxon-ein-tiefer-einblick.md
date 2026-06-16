@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
+
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
@@ -613,8 +615,6 @@ Warum die KI PI besser versteht als Menschen
 Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
 
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
-
-„Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
 
 Nichts gefunden
 
