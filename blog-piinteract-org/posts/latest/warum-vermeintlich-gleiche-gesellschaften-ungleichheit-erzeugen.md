@@ -1,7 +1,7 @@
 ---
 title: "Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen"
 date: 2026-01-25T08:50:58
-modified: 2026-04-25T16:22:11
+modified: 2026-06-16T03:50:46
 slug: warum-vermeintlich-gleiche-gesellschaften-ungleichheit-erzeugen
 lang: de
 type: post
@@ -304,4 +304,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
+Ko-kreiert mit ChatGPT (OpenAI) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
