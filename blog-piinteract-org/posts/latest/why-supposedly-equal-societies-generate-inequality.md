@@ -1,7 +1,7 @@
 ---
 title: "Why Supposedly Equal Societies Generate Inequality"
 date: 2026-01-25T08:50:58
-modified: 2026-06-16T03:56:37
+modified: 2026-06-16T04:04:16
 slug: why-supposedly-equal-societies-generate-inequality
 lang: en
 type: post
