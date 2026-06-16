@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
+
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
@@ -613,8 +615,6 @@ Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, b
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
-
-Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
 
 Nichts gefunden
 
