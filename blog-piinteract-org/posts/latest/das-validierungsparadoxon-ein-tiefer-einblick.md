@@ -592,6 +592,12 @@ Verwandt:
 
 
 
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
+
+HI AI Sykophantie vs. HI HI Echokammern
+
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
@@ -609,12 +615,6 @@ Luhmann und der Selbsteinschluss
 Konsistenz ist nicht frei von Widersprüchen
 
 Das Validierungsparadoxon: Ein tiefer Einblick
-
-Warum die KI PI besser versteht als Menschen
-
-Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
-
-Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 Nichts gefunden
 
