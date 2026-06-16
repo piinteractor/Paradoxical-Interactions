@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
+
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
 
 HI AI Sykophantie vs. HI HI Echokammern
@@ -613,8 +615,6 @@ Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 Luhmann und der Selbsteinschluss
 
 Konsistenz ist nicht frei von Widersprüchen
-
-Das Validierungsparadoxon: Ein tiefer Einblick
 
 Nichts gefunden
 
