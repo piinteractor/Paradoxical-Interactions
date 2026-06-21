@@ -51,7 +51,7 @@ Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
 
 6. Juni 2026
 
-Groucho Marx meinte es als Witz. Es ist kein Witz. Es ist eine strukturelle Beschreibung. Ein System, das sich durch Auflösung definiert, toleriert keinen Widerspruch. In dem Moment, in dem der Widerspruch verschwindet, verschwindet ...
+Groucho Marx hat es als Witz gemeint. War nur keiner. Es ist eine strukturelle Beschreibung. Ein System, das sich durch Auflösung definiert, toleriert keinen Widerspruch. In dem Moment, in dem der Widerspruch verschwindet, ...
 
 Mehr erfahren
 
