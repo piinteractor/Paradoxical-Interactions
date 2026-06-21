@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
+
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
@@ -603,8 +605,6 @@ Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
-
-Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
 
