@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
+
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
@@ -613,8 +615,6 @@ Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
 Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 
 Luhmann und der Selbsteinschluss
-
-Konsistenz ist nicht frei von Widersprüchen
 
 Nichts gefunden
 
