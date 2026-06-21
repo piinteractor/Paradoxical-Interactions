@@ -1,7 +1,7 @@
 ---
 title: "Das Hechtsyndrom. Wie Konditionierung Potential vernichtet."
 date: 2026-06-14T10:18:40
-modified: 2026-06-15T09:37:54
+modified: 2026-06-21T18:51:28
 slug: das-hechtsyndrom
 lang: de
 type: post
