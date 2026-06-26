@@ -203,7 +203,7 @@ When the CEO of an AI safety company tells you control is failing, believe him
 
 AI Alignment Trap: How AI Companies Get Stuck in Structure
 
-    — Why asking AI how to align AI is the perfect paradox
+ The Mousetrap   — Why asking AI how to align AI is the perfect paradox
 
 The Intelligence Trap
 
