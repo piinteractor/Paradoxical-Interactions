@@ -1,7 +1,7 @@
 ---
 title: "Startseite"
 date: 2026-01-17T09:43:25
-modified: 2026-06-26T15:39:28
+modified: 2026-06-26T16:43:57
 slug: startseite
 lang: de
 type: page
