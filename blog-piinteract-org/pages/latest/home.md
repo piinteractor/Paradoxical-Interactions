@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-06-26T13:14:36
+modified: 2026-06-26T14:17:14
 slug: home
 lang: en
 type: page
@@ -10,7 +10,7 @@ wp_id: 39
 url: https://blog.piinteract.org/
 ---
 
-Paradoxical Interactions
+"Paradoxical Interactions"
 
 The Term
 
