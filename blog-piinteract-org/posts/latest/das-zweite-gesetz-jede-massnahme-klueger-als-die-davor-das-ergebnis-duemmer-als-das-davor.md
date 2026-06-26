@@ -179,7 +179,7 @@ Warum jeder radikale Bruch reproduziert, was er abgeschafft hat — und warum de
 
 How Luhmann Refutes Himself. And Why It's Urgently Necessary.
 
-Synchronisation von Metronomen. Das physikalische Axiom von PI.
+Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
 Das Phänomen gekoppelter Oszillatoren
 
