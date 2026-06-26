@@ -86,7 +86,7 @@ Das Nockherberg-Paradox. Die schärfste Kritik ist die beste Freundin des System
 
 Warum die bissigste politische Satire das, was sie angreift, noch stärkt – und warum alle Beteiligten völlig rational handeln.
 
-Synchronisation von Metronomen. Das physikalische Axiom von PI.
+Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
 Das Phänomen gekoppelter Oszillatoren
 
