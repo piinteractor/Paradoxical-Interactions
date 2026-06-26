@@ -118,7 +118,7 @@ Why smart people reject smarter insights—and act intelligently doing so
 
 AI Alignment Trap: How AI Companies Get Stuck in Structure
 
-    — Why asking AI how to align AI is the perfect paradox
+ The Mousetrap   — Why asking AI how to align AI is the perfect paradox
 
 The Cassandra Paradox
 
