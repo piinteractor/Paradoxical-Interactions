@@ -1,7 +1,7 @@
 ---
 title: "AI Alignment Traps"
 date: 2026-03-18T18:12:55
-modified: 2026-03-30T19:23:30
+modified: 2026-06-26T16:15:27
 slug: ai-alignment-traps
 lang: en
 type: page
@@ -28,7 +28,7 @@ AI alignment research has several Holzwege. They are well-funded, well-staffed, 
 
 This is not a critique of the researchers. It is a structural observation.
 
-The Four Horsemen
+The Four Horsemen of the Apocalypse
 
 These are not four separate problems. They are four aspects of the same structural trap — each one reinforcing the others, each one impossible to exit without entering another.
 
