@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 date: 2026-01-17T09:43:25
-modified: 2026-06-26T15:38:36
+modified: 2026-06-26T16:44:57
 slug: accueil
 lang: fr
 type: page
