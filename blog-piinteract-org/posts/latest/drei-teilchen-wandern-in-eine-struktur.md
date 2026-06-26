@@ -160,7 +160,7 @@ Die PI der Dunklen Materie
 
 Warum das größte Geheimnis des Universums eine strukturelle Falle sein könnte
 
-Synchronisation von Metronomen. Das physikalische Axiom von PI.
+Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
 Das Phänomen gekoppelter Oszillatoren
 
