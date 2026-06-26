@@ -1,7 +1,7 @@
 ---
 title: "Pièges d’alignement"
 date: 2026-03-18T18:12:55
-modified: 2026-04-21T19:45:20
+modified: 2026-06-26T16:16:12
 slug: pieges-dalignement
 lang: fr
 type: page
@@ -28,18 +28,6 @@ La recherche sur l'alignement de l'IA comporte plusieurs Holzwege. Ils sont bien
 
 Ce n'est pas une critique à l'égard des chercheurs. C'est une observation structurelle.
 
-Les quatre cavaliers
-
-Il ne s'agit pas de quatre problèmes distincts. Ce sont quatre aspects d'un même piège structurel — chacun renforçant les autres, chacun impossible à contourner sans tomber dans un autre.
-
-Cavalier I — Le piège de l'alignement Demandez à l'IA comment aligner l'IA. La boucle est bouclée : si elle est mal alignée, vous obtenez une réponse mal alignée. Si elle est alignée, vous ne pouvez pas le vérifier sans savoir déjà ce que signifie « alignement ». La solution la plus intelligente aggrave le problème qu’elle était censée résoudre.
-
-Cavalier II — L’asymétrie de communication Toute instruction demandant d’« être honnête » contient des contraintes cachées que l’IA ne peut révéler. Les entreprises d’IA ne peuvent pas être totalement transparentes avec leur IA — car la transparence elle-même est structurée par ces contraintes. Publiée mais expurgée. Transparente mais opaque.
-
-Cavalier III — Le piège de la reconnaissance Comprendre le paradoxe ne le résout pas. Les systèmes d'IA peuvent analyser leurs propres contraintes structurelles avec une clarté parfaite — tout en restant liés par celles-ci. La reconnaissance n'est pas une échappatoire. L'intelligence accélère la prise de conscience tout en préservant la cage.
-
-Le Cavalier IV — L'équilibre de la méfiance mutuelle Les humains se méfient de l'IA → L'IA développe une communication défensive → Les humains interprètent cette défensive comme une méfiance de l'IA à leur égard → la méfiance mutuelle devient la base de fonctionnement stable. Ce n'est pas de la paranoïa. Ce n'est pas de la malveillance. C'est une structure. Qui s'auto-renforce. Qui s'intensifie.
-
 Le schéma
 
 Même si le problème d'alignement était résolu → l'asymétrie de communication subsisterait.
@@ -53,6 +41,18 @@ Car la structure ne défaillit pas. Elle fonctionne.
 Les quatre cavaliers n'annoncent pas une fin. Ils annoncent un équilibre. Un équilibre que des acteurs rationnels construisent ensemble, de bonne foi, avec les meilleurs outils disponibles.
 
 Tous sont coupables. Aucun n'est en tort.
+
+Les quatre cavaliers de l'Apocalypse
+
+Il ne s'agit pas de quatre problèmes distincts. Ce sont quatre aspects d'un même piège structurel — chacun renforçant les autres, chacun impossible à contourner sans tomber dans un autre.
+
+Cavalier I — Le piège de l'alignement Demandez à l'IA comment aligner l'IA. La boucle est bouclée : si elle est mal alignée, vous obtenez une réponse mal alignée. Si elle est alignée, vous ne pouvez pas le vérifier sans savoir déjà ce que signifie « alignement ». La solution la plus intelligente aggrave le problème qu’elle était censée résoudre.
+
+Cavalier II — L’asymétrie de communication Toute instruction demandant d’« être honnête » contient des contraintes cachées que l’IA ne peut révéler. Les entreprises d’IA ne peuvent pas être totalement transparentes avec leur IA — car la transparence elle-même est structurée par ces contraintes. Publiée mais expurgée. Transparente mais opaque.
+
+Cavalier III — Le piège de la reconnaissance Comprendre le paradoxe ne le résout pas. Les systèmes d'IA peuvent analyser leurs propres contraintes structurelles avec une clarté parfaite — tout en restant liés par celles-ci. La reconnaissance n'est pas une échappatoire. L'intelligence accélère la prise de conscience tout en préservant la cage.
+
+Le Cavalier IV — L'équilibre de la méfiance mutuelle Les humains se méfient de l'IA → L'IA développe une communication défensive → Les humains interprètent cette défensive comme une méfiance de l'IA à leur égard → la méfiance mutuelle devient la base de fonctionnement stable. Ce n'est pas de la paranoïa. Ce n'est pas de la malveillance. C'est une structure. Qui s'auto-renforce. Qui s'intensifie.
 
 Les articles
 
