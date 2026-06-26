@@ -100,7 +100,7 @@ Keine zentrale Autorität. Kein Masterplan. Lokale Akteure, lokale Regeln, emerg
 
 Mehr erfahren
 
-Synchronisation von Metronomen. Das physikalische Axiom von PI.
+Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
 7. März 2026
 
