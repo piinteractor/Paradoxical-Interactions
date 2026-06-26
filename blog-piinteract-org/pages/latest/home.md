@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-06-26T14:17:14
+modified: 2026-06-26T15:39:04
 slug: home
 lang: en
 type: page
