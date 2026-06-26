@@ -1,7 +1,7 @@
 ---
-title: "Synchronisation von Metronomen. Das physikalische Axiom von PI."
+title: "Die Synchronisation von Metronomen. Das physikalische Axiom von PI."
 date: 2026-03-07T10:00:56
-modified: 2026-04-27T12:36:07
+modified: 2026-06-26T13:29:06
 slug: synchronisation-von-metronomen-das-physikalische-axiom-von-pi
 lang: de
 type: post
