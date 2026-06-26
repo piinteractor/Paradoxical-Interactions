@@ -1,7 +1,7 @@
 ---
 title: "Accueil"
 date: 2026-01-17T09:43:25
-modified: 2026-06-26T14:19:15
+modified: 2026-06-26T15:38:36
 slug: accueil
 lang: fr
 type: page
@@ -9,8 +9,6 @@ status: publish
 wp_id: 153
 url: https://blog.piinteract.org/fr/
 ---
-
-« Interactions paradoxales »
 
 Le terme
 
