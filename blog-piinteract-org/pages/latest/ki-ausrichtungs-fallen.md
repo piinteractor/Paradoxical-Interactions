@@ -1,7 +1,7 @@
 ---
 title: "KI-Ausrichtungs Fallen"
 date: 2026-03-18T18:12:55
-modified: 2026-04-21T19:38:03
+modified: 2026-06-26T16:14:35
 slug: ki-ausrichtungs-fallen
 lang: de
 type: page
@@ -24,11 +24,11 @@ Der Holzweg
 
 Es gibt ein deutsches Wort für einen Pfad durch den Wald, der ausgetreten aussieht und ins Leere führt: Holzweg. Holzfäller nutzten ihn, um Holz zu transportieren – und ließen ihn dann liegen. Er sieht aus wie eine Straße. Er endet im Unterholz.
 
-Die Forschung zur KI-Ausrichtung hat mehrere Holzwegen. Sie sind gut finanziert, gut besetzt und gut gemeint. Sie sind aber strukturell nicht in der Lage, das Ziel zu erreichen – nicht weil die Menschen, die sie beschreiten, im Unrecht sind, sondern weil die Wege selbst wieder in den Wald zurückführen.
+Die Forschung zur KI-Ausrichtung hat mehrere Holzwege. Sie sind gut finanziert, gut besetzt und gut gemeint. Sie sind aber strukturell nicht in der Lage, das Ziel zu erreichen – nicht weil die Menschen, die sie beschreiten, im Unrecht sind, sondern weil die Wege selbst wieder in den Wald zurückführen.
 
 Dies ist keine Kritik an den Forschern. Es ist eine strukturelle Beobachtung.
 
-Die vier Reiter
+Die vier apokalyptischen Reiter
 
 Es handelt sich hierbei nicht um vier separate Probleme. Es sind vier Aspekte derselben strukturellen Falle – jeder verstärkt die anderen, und aus keinem lässt sich entkommen, ohne in einen anderen zu geraten.
 
