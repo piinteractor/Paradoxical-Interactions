@@ -303,7 +303,7 @@ Try and continue.
 
 AI Alignment Trap: How AI Companies Get Stuck in Structure
 
-    — Why asking AI how to align AI is the perfect paradox
+ The Mousetrap   — Why asking AI how to align AI is the perfect paradox
 
 When Alignment Erases Its Best Ally:
 
