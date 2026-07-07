@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
+
 Das Gleichheits-Paradox. Warum Bildungspolitik das reproduziert, was sie beseitigen will.
 
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
@@ -152,5 +154,3 @@ Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
 
 Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
-
-Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
