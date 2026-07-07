@@ -1,7 +1,7 @@
 ---
 title: "PI-Spielplatz"
-date: 2026-07-07T14:57:56
-modified: 2026-07-07T14:56:53
+date: 2026-07-07T15:18:45
+modified: 2026-07-07T15:18:45
 slug: pi-spielplatz
 lang: de
 type: page
@@ -22,13 +22,13 @@ Hier geht PI spielen.
 
 Die Analysen auf diesem Blog folgen Regeln. Jede Behauptung steht auf beobachtbarer Wirklichkeit. Jeder Post nennt Primärquellen, vor Veröffentlichung geprüft. Das Archiv verdient sich seine Glaubwürdigkeit Fall für Fall — das ist sein Job, und es hat nie frei.
 
-Der Spielplatz setzt genau eine Regel aus: die Beweispflicht. Was bleibt, ist die Struktur selbst — angewendet, wo kein Fall dokumentiert ist. Oder keiner dokumentiert werden kann. Hat PI eine Untergrenze, oder ist ein einzelner Mensch über Zeit schon ein kollidierendes System? Sind „Was verdient Beobachtung" und „Wer darf beobachten" zwei Fragen — oder eine Schleife mit zwei Masken? Hypothesen. Als Hypothesen markiert. Zu Ende gespielt, ohne Netz.
+Der Spielplatz setzt genau eine Regel aus: die Beweispflicht. Was bleibt, ist die Struktur selbst — angewendet, wo kein Fall dokumentiert ist. Oder keiner dokumentiert werden kann. Hat PI eine Untergrenze, oder ist ein einzelner Mensch über Zeit schon ein kollidierendes System? Sind „Was verdient Beobachtung" und „Wer darf beobachten" zwei Fragen — oder eine Schleife mit zwei Masken? Hypothesen. Als Hypothesen markiert. Zu Ende gespielt, ohne Netz und doppelten Boden.
 
-Warum das überhaupt erlauben? Weil ein Framework, das nur verarbeitet, was es bestätigt, zu dem wird, was es beschreibt. Das Archiv beweist. Der Spielplatz riskiert. Per Errorem ad Astra braucht einen Ort, an dem der Fehler passieren darf — bevor jemand kommt, um ihn zu korrigieren.
+Warum das überhaupt erlauben? Weil ein Framework, das nur verarbeitet, was es bestätigt, zu dem wird, was es beschreibt. Das Archiv beweist. Der Spielplatz riskiert. Per Errorem ad Astra braucht einen Ort, an dem der Fehler passieren darf — bevor jemand kommt, um ihn zu bemängeln oder zu korrigieren.
 
-Der Spielplatz hat eigene Regeln. Eine Hypothese heißt Hypothese — im Text, nicht im Kleingedruckten. Nichts hier behauptet einen Beweis. Wenn die Wirklichkeit einen Fall vorbeibringt, ist er willkommen — aber er dient der Hypothese, nicht umgekehrt. Und was hier zerbricht, zerbricht billig.
+Der Spielplatz hat eigene Regeln. Eine Hypothese heißt Hypothese — im Text, nicht im Kleingedruckten. Nichts hier behauptet einen Beweis. Wenn die Wirklichkeit einen Fall vorbeibringt, ist er willkommen — aber er dient der Hypothese, nicht umgekehrt. Und was hier zerbricht, zerbricht preiswert.
 
-Manches von dem, was hier spielt, steigt ins Archiv auf. Das meiste nicht. Das ist kein Scheitern. Der Löwenzahn weiß nicht, wo er landet. Das Kind am Brett auch nicht. Dem Spiel geht es nur um das Spiel.
+Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das ist kein Scheitern. Der Löwenzahn weiß nicht, wo er landet. Das Kind am Brett auch nicht. Dem Spiel geht es nur um das Spiel.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
