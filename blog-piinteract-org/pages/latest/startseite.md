@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Welchen IQ hat die KI? Die Zahl, die ihren Messwert verloren hat.
+
 Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
 
 Das Gleichheits-Paradox. Warum Bildungspolitik das reproduziert, was sie beseitigen will.
@@ -152,5 +154,3 @@ Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
-
-Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
