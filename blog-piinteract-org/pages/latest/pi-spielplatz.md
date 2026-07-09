@@ -32,6 +32,18 @@ Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das 
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Welchen IQ hat die KI? Die Zahl, die ihren Messwert verloren hat.
+
+9. Juli 2026
+
+Spielplatz
+
+Dieser Artikel arbeitet mit einer Hypothese, nicht mit einem Beispiel. Es fragt, ob PI eine Untergrenze hat — und findet keine.
+
+Paradoxe Interaktionen brauchen mehrere rationale Akteure. Das war bisher die ...
+
+Read More
+
 Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
 
 7. Juli 2026
