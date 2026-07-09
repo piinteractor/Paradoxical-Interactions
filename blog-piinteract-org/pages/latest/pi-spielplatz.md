@@ -32,7 +32,7 @@ Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das 
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
-Welchen IQ hat die KI? Die Zahl, die ihren Messwert verloren hat.
+Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor – Paradoxe Interaktion
 
 9. Juli 2026
 
