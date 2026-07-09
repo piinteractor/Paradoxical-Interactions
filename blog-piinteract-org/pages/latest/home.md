@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+What is the AI’s IQ? The number that has lost its measure
+
 Monday Me and Friday Me. The world’s smallest paradoxical interaction.
 
 The Pike Syndrome: How Conditioning Destroys Skills.
@@ -77,5 +79,3 @@ The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You G
 The Party Nobody Built. How Every Rational Actor Produced the AfD.
 
 The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
-
-The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
