@@ -42,4 +42,12 @@ Les Interactions Paradoxales exigent plusieurs acteurs rationnels. C'était jusq
 
 Read More
 
+Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
+
+9 juillet 2026
+
+Aire de jeux : ce texte prend une question anodine — quel est le QI de l'IA ? — et la regarde se dissoudre pendant qu'on y répond.
+
+Read More
+
 No results found.
