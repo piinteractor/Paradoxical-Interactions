@@ -1,7 +1,7 @@
 ---
 title: "What is the AI’s IQ? The number that has lost its measure"
 date: 2026-07-09T16:16:24
-modified: 2026-07-09T19:42:38
+modified: 2026-07-10T07:56:29
 slug: what-is-the-ais-iq
 lang: en
 type: post
