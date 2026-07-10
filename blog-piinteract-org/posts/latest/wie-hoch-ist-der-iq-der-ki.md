@@ -1,7 +1,7 @@
 ---
-title: "Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor – Paradoxe Interaktion"
+title: "Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor."
 date: 2026-07-09T16:16:24
-modified: 2026-07-09T19:51:40
+modified: 2026-07-10T08:00:17
 slug: wie-hoch-ist-der-iq-der-ki
 lang: de
 type: post
