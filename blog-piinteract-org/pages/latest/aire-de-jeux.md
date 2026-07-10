@@ -46,7 +46,7 @@ Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 
 9 juillet 2026
 
-Aire de jeux : ce texte prend une question anodine — quel est le QI de l'IA ? — et la regarde se dissoudre pendant qu'on y répond.
+Quel est le QI de l'IA ? Une question simple qui s'effondre dès qu'on y regarde de plus près. Le QI mesure le classement au sein d'un groupe. Si l'on supprime le groupe, ce chiffre perd tout son sens.
 
 Read More
 
