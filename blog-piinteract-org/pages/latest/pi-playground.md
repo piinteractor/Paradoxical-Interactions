@@ -43,11 +43,9 @@ What is the AI’s IQ? The number that has lost its measure
 
 9. July 2026
 
-Playground:
-
 This article poses a harmless question—what is the AI’s IQ?—and you can watch as it falls apart while trying to answer it.
 
-Different models, different abilities—ergo, different IQs. The logic sounds sound. It has ...
+Different models, different abilities—ergo, different IQs. The logic sounds sound. It has only one flaw: it ...
 
 Read More
 
