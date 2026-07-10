@@ -32,15 +32,11 @@ Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das 
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
-Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor – Paradoxe Interaktion
+Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
 
 9. Juli 2026
 
-Spielplatz
-
-Dieser Artikel arbeitet mit einer Hypothese, nicht mit einem Beispiel. Es fragt, ob PI eine Untergrenze hat — und findet keine.
-
-Paradoxe Interaktionen brauchen mehrere rationale Akteure. Das war bisher die ...
+Wie hoch ist der IQ der KI? Eine einfache Frage, die bei genauerer Betrachtung nicht mehr Sinn ergibt. Der IQ misst die Rangfolge innerhalb einer Gruppe. Nimmt man die Gruppe weg, verliert die Zahl ihre Bedeutung.
 
 Read More
 
