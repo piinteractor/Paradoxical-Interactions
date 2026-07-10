@@ -1,7 +1,7 @@
 ---
 title: "Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification"
 date: 2026-07-09T16:16:24
-modified: 2026-07-09T19:52:13
+modified: 2026-07-10T07:57:27
 slug: quel-est-le-qi-de-lia
 lang: fr
 type: post
