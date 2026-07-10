@@ -131,7 +131,7 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
-Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor – Paradoxe Interaktion
+Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
 
 Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
 
