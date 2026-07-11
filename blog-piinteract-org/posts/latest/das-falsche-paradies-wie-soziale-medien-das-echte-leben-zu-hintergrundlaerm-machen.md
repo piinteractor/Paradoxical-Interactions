@@ -1,7 +1,7 @@
 ---
 title: "Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen."
 date: 2026-03-07T10:00:56
-modified: 2026-03-09T22:45:13
+modified: 2026-07-11T15:26:25
 slug: das-falsche-paradies-wie-soziale-medien-das-echte-leben-zu-hintergrundlaerm-machen
 lang: de
 type: post
@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Wir leben in einer Welt, in der wir uns verstecken müssen, um Liebe zu machen, während Gewalt am helllichten Tag ausgeübt wird.“
+„Wir leben in einer Welt, in der wir uns verstecken müssen, um Liebe zu machen, während Gewalt am hellichten Tag ausgeübt wird.“
 
 — John Lennon
 
