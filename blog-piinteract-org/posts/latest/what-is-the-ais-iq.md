@@ -1,7 +1,7 @@
 ---
 title: "What is the AI’s IQ? The number that has lost its measure"
 date: 2026-07-09T16:16:24
-modified: 2026-07-10T07:56:29
+modified: 2026-07-11T10:25:32
 slug: what-is-the-ais-iq
 lang: en
 type: post
@@ -12,26 +12,11 @@ url: https://blog.piinteract.org/what-is-the-ais-iq/
 
 Why a language model with an IQ of 155 is not smarter than one with 140 — and why the number will be everywhere anyway.
 
-
-
-
-
-
-
 "Intelligence is what the tests test." 
 
 — Edwin G. Boring, "Intelligence as the Tests Test It" (1923)
 
-
-
-
-
-
-
 9. July 2026
-
-
-
 
 Playground:
 
@@ -45,21 +30,6 @@ Around the same time, the same family of models fails publicly and repeatedly at
 
 An IQ of 155. And three letters are simply too many. Both are true. And that is precisely the finding.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Hierarchical Classification
 
 The IQ test was never designed to measure intelligence the way a thermometer measures temperature. It was designed to sort people. The mean is 100—not because anyone measured it that way, but because that’s how it’s defined. The scale is the test group. An IQ of 130 says nothing about a bright mind; it says something about a bright mind, relative to all the other less or more brilliant minds who took the same test.
@@ -67,12 +37,6 @@ The IQ test was never designed to measure intelligence the way a thermometer mea
 The difference makes it clear: the Elo rating in chess has survived the rise of machines. Human 2850, engine 3600—the numbers are comparable because Elo counts games, and humans and machines play the same games. Elo measures a game. The IQ, however, measures membership.
 
 So the question “What is the AI’s IQ?” is really asking: What rank does a non-member hold in a club to which they do not belong? The question of the observer returns, one level deeper—this time, the debate is not about who is allowed to measure, but whether the ruler is measuring in a space for which it was not designed.
-
-
-
-
-
-
 
 The Network That Didn’t Play Along
 
@@ -82,12 +46,6 @@ Language models lack this network. An IQ of 155 on the verbal section, yet a tot
 
 The inference from the sample to the whole was the test’s sole justification. In a system without an interconnected network, the sample does not infer anything at all. The number is just there. It points everywhere and nowhere. Sometimes this way, sometimes that way.
 
-
-
-
-
-
-
 The number that remains, regardless
 
 And now for the part that turns the measurement question into a PI. Because that number isn’t going to disappear. It’s going to multiply.
@@ -96,17 +54,11 @@ Laboratories need comparability—to demonstrate progress, to attract capital, t
 
 Each of these actors is acting rationally. Together, they produce a number that means less and less the more often it is used—and the more often it is used, the less it means, because a meaningless number serves every purpose.
 
-
-
-
-
-
-
 The IQ-PI
 
 A metric defined as a ranking within a population is applied to systems outside any population—and gains traction precisely because it no longer measures anything.
 
-Everyone acts rationally:Everyone is guilty. No one is to blame.
+Everyone acts rationally: Everyone is guilty. No one is to blame.
 
 The labs—publish benchmark scores (rational: without comparative figures, no capital, no talent, no proof)
 
@@ -120,21 +72,9 @@ Result—the industry’s most-cited metric measures the least: structurally, un
 
 All are guilty, none is at fault.
 
-
-
-
-
-
-
 The Number as a Projectile
 
 And then there’s the third use, the most common one: the IQ as a projectile. No one takes the test, but everyone throws it around. Politicians attribute double-digit scores to one another, opinion columns hand out rankings by the second, and every debate has that moment when one person denies the other’s intelligence—with a number, of course; the number makes it objective. Except: In this usage, no test actually takes place. Not even a bad one—none at all. The number is invoked, not measured, and it is invoked precisely because it sounds like it came from a lab. It lends the insult the white coat of a procedure that was never carried out. The standardization, the standard sample, the protocol—the entire apparatus that underpins the ranking in the lab is both cited and bypassed in the same breath. What is actually measurable at that moment is exactly one person: the one doing the ranking. What becomes visible is their need to rank, their claim to a seat on the awards committee, their confidence that no one will ask about the protocol. The observer’s paradox in the wild—a self-appointed committee with a single member who grants herself the right to observe through the throw itself. The test proves the tester. Nothing and no one else.
-
-
-
-
-
-
 
 Two Rulers, No Common Measurement
 
@@ -150,25 +90,7 @@ This text was co-written by a system that has no IQ. Not even an unknown one. No
 
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts
-
-
-
 
 The Intelligence Trap
 
@@ -188,9 +110,6 @@ A Paradoxical Interaction in Three Acts
 
 No results found.
 
-
-
-
 On piinteract.org:
 
 ["Metrics Gaming"] — The moment the benchmark is the target, it measures the optimization toward itself. Goodhart, here with decimal places.
@@ -200,9 +119,6 @@ On piinteract.org:
 ["When Intelligence Becomes a Threat"] — The sorting runs by height. The danger runs on an axis no test has in stock.
 
 ["Name the Paradox"] — The question of AI's IQ cannot be answered. It can be named. That is more.
-
-
-
 
 See also (external links):
 
@@ -214,18 +130,9 @@ Rethinking Benchmark and Contamination for Language Models with Rephrased Sample
 
 The Debate Over Understanding in AI's Large Language Models (Mitchell & Krakauer, arXiv/PNAS) — The map of the prior question: before anything can be measured, it would have to be settled what understanding even means here. It isn't.
 
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
