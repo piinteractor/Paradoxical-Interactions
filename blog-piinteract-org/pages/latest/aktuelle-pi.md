@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
+
+11. Juli 2026
+
+Wer „zu nett“ ist, kennt das Gefühl: Man bemüht sich, hält sich zurück, zeigt Verständnis, macht Zugeständnisse – und wird am Ende nicht respektiert, sondern ausgenutzt oder verachtet. Es wirkt, als ob Nettigkeit genau das Gegenteil ...
+
+Mehr erfahren
+
 Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
 
 9. Juni 2026
