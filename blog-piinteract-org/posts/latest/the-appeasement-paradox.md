@@ -1,7 +1,7 @@
 ---
 title: "Too Nice, Too Good, Too Small: The Appeasement Paradox"
-date: 2026-07-11T13:50:01
-modified: 2026-07-11T13:50:23
+date: 2026-07-11T15:03:26
+modified: 2026-07-11T15:03:26
 slug: the-appeasement-paradox
 lang: en
 type: post
