@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
+
 Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
 
 Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
@@ -152,5 +154,3 @@ Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 „Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
 
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
-
-Die Partei, die niemand baute. Wie jeder rationale Akteur die AfD hervorbrachte.
