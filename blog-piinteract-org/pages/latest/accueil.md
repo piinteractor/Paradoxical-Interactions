@@ -56,11 +56,11 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Trop gentil, trop bon, trop petit : le paradoxe de l’apaisement
+
 Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 
 Le Moi du lundi et le Moi du vendredi. La plus petite Interaction Paradoxale du monde.
-
-Le paradoxe de l’égalité : pourquoi la politique de l’éducation reproduit ce qu’elle veut éliminer
 
 Le Problème FCAS. Le Chasseur Européen n’a Pas de Solution — Seulement un Problème des n Corps.
 
