@@ -1,7 +1,7 @@
 ---
 title: "Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bruit de fond."
 date: 2026-03-07T10:00:56
-modified: 2026-03-09T22:45:59
+modified: 2026-07-11T15:25:12
 slug: le-faux-paradis-comment-les-reseaux-sociaux-transforment-la-vie-reelle-en-bruit-de-fond
 lang: fr
 type: post
