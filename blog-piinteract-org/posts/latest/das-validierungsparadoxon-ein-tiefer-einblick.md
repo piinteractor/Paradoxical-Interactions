@@ -592,6 +592,10 @@ Verwandt:
 
 
 
+Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
+
+Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
+
 Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
 
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
@@ -611,10 +615,6 @@ Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
 
 Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
-
-Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
-
-Luhmann und der Selbsteinschluss
 
 Nichts gefunden
 
