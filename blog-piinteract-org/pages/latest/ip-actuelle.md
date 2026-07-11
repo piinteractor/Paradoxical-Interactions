@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Trop gentil, trop bon, trop petit : le paradoxe de l’apaisement
+
+11 juillet 2026
+
+Celui qui est « trop gentil » connaît ce sentiment : on fait des efforts, on se retient, on montre de la compréhension, on fait des concessions - et au final, on n'est pas respecté, mais exploité ou méprisé. C'est comme si la ...
+
+En savoir plus
+
 Le Problème FCAS. Le Chasseur Européen n’a Pas de Solution — Seulement un Problème des n Corps.
 
 9 juin 2026
