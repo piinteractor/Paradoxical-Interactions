@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt.
+
 Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
 
 Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
@@ -152,5 +154,3 @@ Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
 Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 
 „Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
-
-Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
