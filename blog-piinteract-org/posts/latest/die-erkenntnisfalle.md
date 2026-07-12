@@ -1,7 +1,7 @@
 ---
 title: "Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt."
 date: 2026-07-12T17:43:13
-modified: 2026-07-12T17:46:05
+modified: 2026-07-12T19:19:12
 slug: die-erkenntnisfalle
 lang: de
 type: post
@@ -34,11 +34,11 @@ Deshalb ist das Desinteresse an fremder Erkenntnis keine Charakterschwäche. Man
 
 Zwei unterschiedliche Lineale
 
-Es kommt noch brutaler. Der Platz, an dem fremde Erkenntnis andocken könnte, ist nicht leer. Er ist besetzt — vom eigenen zurück gelegten Weg, von der eigenen hart erarbeiteten Klarheit. Und diese Klarheit ist nicht eine Position unter vielen. Sie ist die einzige Messlatte die man selbst izur Verfügung hat.
+Es kommt noch brutaler. Der Platz, an dem fremde Erkenntnis andocken könnte, ist nicht leer. Er ist besetzt — vom eigenen zurück gelegten Weg, von der eigenen hart erarbeiteten Klarheit. Und diese Klarheit ist nicht eine Position unter vielen. Sie ist die einzige Messlatte die man selbst zur Verfügung hat.
 
 Jede fremde Erkenntnis kann auf diesem Gerät nur als Abweichung erscheinen. Also als Fehler. Nicht aus Arroganz: Es gibt schlicht kein drittes Gerät, das beide eichen könnte. Zwei Lineale, die sich gegenseitig vermessen — und jedes liest am anderen nur ab, dass es schief und ungenau ist.
 
-Darum geraten zwei Menschen, die Erkenntnis teilen wollen, nicht in ein Gespräch, sondern in eine Instrumentenkollision. Sie streiten nie über den Gegenstand. Sie streiten darüber, wessen Auffassung von Erkenntnis als Maßstab gilt. Der Gegenstand ist verloren, bevor der erste Satz zu Ende ist.
+Darum geraten zwei Menschen, die Erkenntnis teilen wollen, nicht in ein Gespräch, sondern in eine Instrumentenkollision. Sie streiten nie über den Gegenstand. Sie streiten darüber, wessen Auffassung von Erkenntnis als Maßstab gilt. Der Gegenstand ist verloren, noch bevor der erste Satz zu Ende gesprochen ist.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
