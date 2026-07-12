@@ -54,6 +54,8 @@ Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne
 
 12 juillet 2026
 
+La lucidité n'est pas un objet. C'est un état où l'on arrive au bout d'un chemin. Ce qui se transmet, c'est la formulation — la coque. Qui la reçoit sans avoir fait le chemin tient une information, pas une lucidité. Voilà pourquoi ...
+
 Read More
 
 No results found.
