@@ -1,7 +1,7 @@
 ---
 title: "PI Playground"
 date: 2026-07-07T15:18:45
-modified: 2026-07-07T15:18:45
+modified: 2026-07-12T17:49:55
 slug: pi-playground
 lang: en
 type: page
@@ -46,6 +46,12 @@ What is the AI’s IQ? The number that has lost its measure
 This article poses a harmless question—what is the AI’s IQ?—and you can watch as it falls apart while trying to answer it.
 
 Different models, different abilities—ergo, different IQs. The logic sounds sound. It has only one flaw: it ...
+
+Read More
+
+The Recognition Trap. Why the ultimate insight is that knowledge cannot be shared.
+
+12. July 2026
 
 Read More
 
