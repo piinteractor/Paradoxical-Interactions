@@ -1,7 +1,7 @@
 ---
 title: "PI-Spielplatz"
 date: 2026-07-07T15:18:45
-modified: 2026-07-07T15:18:45
+modified: 2026-07-12T17:56:25
 slug: pi-spielplatz
 lang: de
 type: page
@@ -31,6 +31,14 @@ Der Spielplatz hat eigene Regeln. Eine Hypothese heißt Hypothese — im Text, n
 Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das ist kein Scheitern. Der Löwenzahn weiß nicht, wo er landet. Das Kind am Brett auch nicht. Dem Spiel geht es nur um das Spiel.
 
 Alle sind schuldig. Keiner kann etwas dafür.
+
+Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt.
+
+12. Juli 2026
+
+Erkenntnis ist kein Objekt. Sie ist ein Zustand nach einem Weg. Übertragen lässt sich nur die Formulierung — die Hülse. Wer sie empfängt, ohne den Weg gegangen zu sein, hält Information in der Hand, keine Erkenntnis. Deshalb ...
+
+Read More
 
 Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
 
