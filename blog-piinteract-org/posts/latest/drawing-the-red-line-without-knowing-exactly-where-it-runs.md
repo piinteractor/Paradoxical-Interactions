@@ -235,7 +235,7 @@ AI Alignment Trap: How AI Companies Get Stuck in Structure
 
  The Mousetrap   — Why asking AI how to align AI is the perfect paradox
 
-AI Recognition Trap:
+AI Recognition Trap: When Understanding Doesn’t Set You Free
 
     — When Understanding Doesn't Set You Free
 
