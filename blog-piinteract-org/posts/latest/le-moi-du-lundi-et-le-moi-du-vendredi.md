@@ -1,7 +1,7 @@
 ---
 title: "Le Moi du lundi et le Moi du vendredi. La plus petite Interaction Paradoxale du monde."
 date: 2026-07-07T13:37:12
-modified: 2026-07-07T13:37:13
+modified: 2026-07-13T10:52:54
 slug: le-moi-du-lundi-et-le-moi-du-vendredi
 lang: fr
 type: post
@@ -12,11 +12,29 @@ url: https://blog.piinteract.org/fr/le-moi-du-lundi-et-le-moi-du-vendredi/
 
 Pourquoi tu vas à l'encontre de tes propres bonnes résolutions, alors que tes deux « moi » ont raison — et pourquoi l'instance qui pourrait arbitrer le conflit prend toujours parti.
 
+
+
+
+
+
+
 « Est-ce que je me contredis ? / Eh bien soit, je me contredis, / (je suis vaste, je contiens des multitudes.) »
 
 — Walt Whitman, Song of Myself (1855)
 
+
+
+
+
+
+
 7 juillet 2026
+
+
+
+
+
+
 
 Aire de jeux
 
@@ -30,11 +48,32 @@ Vendredi soir, 22 h 10. La même personne, au troisième verre de vin, annule l�
 
 Deux décisions, toutes deux raisonnables, toutes deux prises par la même personne. Seulement, elles ne se sont jamais rencontrées.
 
+
+
+
+
+
+
 La table de négociation avec une seule chaise
 
 Imagine une négociation où les parties ne se trouvent jamais en même temps dans la même pièce. Le « moi » du lundi laisse derrière lui de bonnes intentions. Le « moi » du vendredi laisse derrière lui des faits (in)accomplis. Ils communiquent exclusivement à travers ce que l’autre laisse derrière lui : le programme d’entraînement sur le frigo, la tasse de café vide sur la table de la cuisine. Aucune des deux parties ne peut interroger, convaincre ou fidéliser l’autre. Chacune règne en maître absolu tant qu’elle règne. Ce n’est pas une faiblesse de caractère. Une faiblesse de caractère supposerait qu’il y ait un caractère qui soit affaibli. Ici, il y a deux caractères, tous deux intacts, tous deux rationnels — mais ils n’occupent jamais le même moment. Le conflit ne se déroule pas au sein de la personne. Il se déroule entre ses états. Et entre les états, il n’y a pas de table de négociation.
 
 Il n’y a que le transfert. Et le transfert est toujours une expropriation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Le lauréat du prix Nobel et la cigarette
 
@@ -46,6 +85,12 @@ L’homme qui a modélisé les superpuissances a échoué face à un adversaire 
 
 Celui qui gagne contre lui-même perd, par conséquent, aussi contre lui-même.
 
+
+
+
+
+
+
 La boucle fermée
 
 Passons maintenant au tournant structurel. L'IP a besoin de rétroaction — d’acteurs dont les actions rationnelles s’influencent mutuellement. Lorsque n = 1, cette rétroaction existe également. Elle présente toutefois une particularité : elle ne quitte jamais le système. Elle tourne sur elle-même. Elle se recouple avec elle-même, à la recherche de rétroaction.
@@ -55,6 +100,12 @@ Le « moi » du lundi réagit au « moi » du vendredi en établissant des proje
 Et alors se produit ce que fait toute boucle fermée : elle fait appel à un arbitre. Un médiateur. Un troisième « moi » fait son apparition, le « moi » du dimanche, qui observe le conflit « de l’extérieur ». Mais il n’y a pas d’extérieur. L’arbitre est produit par la même structure que les parties en conflit, avec ses propres intérêts quant à l’issue — le plus souvent pour se rassurer soi-même. Chaque diagnostic est posé par l’un des participants présents dans la pièce.
 
 La psychologie qualifie le fonctionnement continu de cette boucle de « rumination » : le même matériau, ressassé sans cesse, sans qu’il n’y ait de nouveauté — car rien de nouveau ne peut survenir. Le désespoir n’est pas un trouble de la pensée. C’est un système clos sur lui-même qui fonctionne parfaitement.
+
+
+
+
+
+
 
 L'IP lundi-vendredi
 
@@ -74,6 +125,12 @@ Tous sont coupables. Personne n’y est pour rien.
 
 Et c’est ici, et ici seulement, qu’intervient l’ajout qu’aucune autre PI ne permet : tous sont « moi ».
 
+
+
+
+
+
+
 Le demi-deuxième idiot
 
 La navigation plutôt que la solution. Si le diagnostic est juste, il en découle quelque chose de très désagréable : l’auto-assistance n’existe que là où elle est entendue littéralement comme une aide par soi-même. L’injonction faite à une boucle fermée de s’ouvrir par ses propres moyens. La boucle fournira ce qu’elle fournit toujours : une autre boucle.
@@ -86,9 +143,27 @@ Il reste une question en suspens : le journal intime. Le « moi » écrit d’hi
 
 On ne peut pas aller plus loin. Le « moi » du lundi continuera à planifier, celui du vendredi à contredire, celui du dimanche à arbitrer. La question n’est pas de savoir comment mettre fin à la dispute. La question est de savoir s’il y a parfois, à table, quelqu’un qui ne porte pas la même veste.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Articles connexes
 
-Le piège de la reconnaissance IA :
+
+
+
+Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 — Quand comprendre ne libère pas
 
@@ -106,6 +181,9 @@ Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils 
 
 No results found.
 
+
+
+
 Sur piinteract.org :
 
 [« Identifier l'angle mort commun »] — Si tous les participants ne font qu'un, ils partagent tous le même angle mort. Y compris le médiateur.
@@ -115,6 +193,9 @@ Sur piinteract.org :
 [« Changement de perspective »] — La boucle simule le changement de perspective. Chaque perspective provient du même système.
 
 [« Plus de la même chose »] — Des plans plus stricts contre des plans avortés : l’anti-pratique dans sa forme la plus intime.
+
+
+
 
 Voir aussi (liens externes) :
 
@@ -128,9 +209,27 @@ Bienfaits de l’écriture expressive sur la santé émotionnelle et physique (B
 
 Identité personnelle (Stanford Encyclopedia of Philosophy) – Le fondement philosophique de l’hypothèse : ce qui fait qu’une personne reste une seule et même personne — ou en devient plusieurs — au fil du temps.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
 Tous sont coupables. Personne n'est responsable.
+
+
+
 
 Peter Senner Thinking beyond the Tellerrand
 
