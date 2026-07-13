@@ -298,7 +298,7 @@ The Communication Asymmetry:
 
     — When AI Companies Can't Be Honest With Their AI
 
-AI Recognition Trap:
+AI Recognition Trap: When Understanding Doesn’t Set You Free
 
     — When Understanding Doesn't Set You Free
 
