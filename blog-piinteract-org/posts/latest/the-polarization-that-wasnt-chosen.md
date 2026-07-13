@@ -90,7 +90,7 @@ AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
     — How Humans and AI Are Co-Creating Permanent Suspicion
 
-AI Recognition Trap:
+AI Recognition Trap: When Understanding Doesn’t Set You Free
 
     — When Understanding Doesn't Set You Free
 
