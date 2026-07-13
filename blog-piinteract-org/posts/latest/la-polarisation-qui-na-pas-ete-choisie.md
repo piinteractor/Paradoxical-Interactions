@@ -90,7 +90,7 @@ L’équilibre de la méfiance mutuelle :
 
 —comment les humains et l'IA créent ensemble un climat de suspicion permanente
 
-Le piège de la reconnaissance IA :
+Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 — Quand comprendre ne libère pas
 
