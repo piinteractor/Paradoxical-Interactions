@@ -74,7 +74,7 @@ Le piège de l’alignement de l’IA : pourquoi des recherches de sécurité pl
 
 En savoir plus
 
-Le piège de la reconnaissance IA :
+Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 3 février 2026
 
