@@ -156,7 +156,7 @@ L’Asymétrie de communication
 
 Quand les entreprises d’IA ne peuvent pas être honnêtes avec leur IA
 
-Le piège de la reconnaissance IA :
+Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 — Quand comprendre ne libère pas
 
