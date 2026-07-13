@@ -211,7 +211,7 @@ The Intelligence Trap
 
 Why smart people reject smarter insights—and act intelligently doing so
 
-AI Recognition Trap:
+AI Recognition Trap: When Understanding Doesn’t Set You Free
 
     — When Understanding Doesn't Set You Free
 
