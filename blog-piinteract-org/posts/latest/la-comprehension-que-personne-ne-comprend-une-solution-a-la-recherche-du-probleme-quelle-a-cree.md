@@ -130,7 +130,7 @@ Le Piège de l’Intelligence
 
 Pourquoi les gens intelligents rejettent les idées plus intelligentes – et agissent intelligemment ce faisant
 
-Le piège de la reconnaissance IA :
+Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 — Quand comprendre ne libère pas
 
