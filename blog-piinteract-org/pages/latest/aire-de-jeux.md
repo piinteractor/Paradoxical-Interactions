@@ -36,9 +36,9 @@ Le Moi du lundi et le Moi du vendredi. La plus petite Interaction Paradoxale du 
 
 7 juillet 2026
 
-Aire de jeux : ce texte travaille sur une hypothèse, non sur un cas. Il demande si l'IP possède une limite inférieure — et n'en trouve aucune.
+Ce texte travaille sur une hypothèse, non sur un cas. Il demande si l'IP possède une limite inférieure — et n'en trouve aucune.
 
-Les Interactions Paradoxales exigent plusieurs acteurs rationnels. C'était jusqu'ici la ...
+Les Interactions Paradoxales exigent plusieurs acteurs rationnels. C'était jusqu'ici la limite ...
 
 Read More
 
