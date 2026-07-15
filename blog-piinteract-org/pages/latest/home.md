@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Lawn Sprinkler Paradox: How 1.6 Million Sensible Decisions Are Draining a City Dry.
+
 The Recognition Trap. Why the ultimate insight is that knowledge cannot be shared.
 
 Too Nice, Too Good, Too Small: The Appeasement Paradox
@@ -77,5 +79,3 @@ The Groucho Marx PI. A System That Lives on Being Contradicted.
 The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 
 The Susskind Unbind. When a Theory Severs Its Own Leash.
-
-The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
