@@ -30,6 +30,14 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
+
+15. Juli 2026
+
+14. Juli 2026. Die Landeshauptstadt München erlässt eine Allgemeinverfügung. Oberbürgermeister Dominik Krause hat sie unterzeichnet, die Stadtwerke München (SWM) ziehen mit einer eigenen Sparanordnung nach, die bis in die ...
+
+Mehr erfahren
+
 Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
 
 11. Juli 2026
