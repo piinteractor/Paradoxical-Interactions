@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
+
 Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
 
 Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
@@ -613,8 +615,6 @@ Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
-
-Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
 
 Nichts gefunden
 
