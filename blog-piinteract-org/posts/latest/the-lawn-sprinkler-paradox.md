@@ -1,7 +1,7 @@
 ---
 title: "The Lawn Sprinkler Paradox: How 1.6 Million Sensible Decisions Are Draining a City Dry."
 date: 2026-07-15T19:06:17
-modified: 2026-07-15T19:06:17
+modified: 2026-07-16T08:12:18
 slug: the-lawn-sprinkler-paradox
 lang: en
 type: post
