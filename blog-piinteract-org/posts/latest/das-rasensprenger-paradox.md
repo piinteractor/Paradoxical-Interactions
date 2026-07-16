@@ -1,7 +1,7 @@
 ---
 title: "Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen."
 date: 2026-07-15T19:06:17
-modified: 2026-07-15T19:06:17
+modified: 2026-07-16T08:11:24
 slug: das-rasensprenger-paradox
 lang: de
 type: post
