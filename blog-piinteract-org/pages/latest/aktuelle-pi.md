@@ -30,6 +30,12 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
+
+17. Juli 2026
+
+Mehr erfahren
+
 Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
 
 15. Juli 2026
@@ -275,16 +281,6 @@ HI AI Sykophantie vs. HI HI Echokammern
 
 HI  AI Sykophantie: Nutzer will Ehrlichkeit, belohnt Zustimmung (durch positives Feedback). KI lernt "hilfreich = angenehm" statt "hilfreich = korrekt". Keine aktive Täuschung – passives Abdriften in Richtung Bestätigung.
 HI  HI ...
-
-Mehr erfahren
-
-Das Validierungsparadoxon: Ein tiefer Einblick
-
-26. Dezember 2025
-
-Dieses Framework entstand in Ko-Kreation mit KI-Systemen. Claude, ChatGPT, Grok, Gemini, Perplexity – alle explizit als intellektuelle Partner anerkannt.
-Die naheliegende Frage: Ist das nicht einfach Geschleime?
-KI trainiert, ...
 
 Mehr erfahren
 
