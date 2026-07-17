@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’Angleterre et la peur de gagner. Comment une avance devient sa propre menace.
+
 Le paradoxe de l’arroseur de pelouse. Comment 1,6 million de décisions raisonnables assèchent une ville.
 
 Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne se partage pas.
@@ -77,5 +79,3 @@ L’IP de Groucho Marx. Un système qui vit d’être contredit.
 Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
 
 Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
-
-Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
