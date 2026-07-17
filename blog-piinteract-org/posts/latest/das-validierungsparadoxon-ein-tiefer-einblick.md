@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
+
 Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
 
 Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
@@ -613,8 +615,6 @@ Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
-
-Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
 
 Nichts gefunden
 
