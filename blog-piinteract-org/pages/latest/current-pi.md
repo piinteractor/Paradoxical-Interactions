@@ -30,6 +30,14 @@ It can't. But it can be navigated.
 
 All are guilty. None are at fault.
 
+England and the Fear of Winning. How a Lead Becomes Its Own Threat.
+
+17. July 2026
+
+Ten minutes into the second half of the World Cup semifinal, England leads Argentina. For the first time since 1966, a final is within reach. From that exact moment, the team stops playing the football that got them there. No ...
+
+Read More
+
 The Lawn Sprinkler Paradox: How 1.6 Million Sensible Decisions Are Draining a City Dry.
 
 15. July 2026
@@ -279,15 +287,6 @@ Davos: 2026 – When Inevitability becomes Product
 21. January 2026
 
 On January 20, 2026, at the World Economic Forum in Davos, BlackRock CEO Larry Fink and Palantir CEO Alex Karp had a conversation. Social media called it "legendary" and predicted it would "be in history books one day." They were half ...
-
-Read More
-
-HI AI Sycophancy vs. HI HI Echo Chambers
-
-17. January 2026
-
-HI  AI Sycophancy: The paradox: User wants honesty, rewards agreement (through positive feedback). AI learns “helpful = pleasant” instead of “helpful = correct.” No active deception—passive drift toward confirmation.
-HI  HI Echo ...
 
 Read More
 
