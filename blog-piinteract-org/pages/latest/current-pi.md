@@ -42,6 +42,10 @@ The Lawn Sprinkler Paradox: How 1.6 Million Sensible Decisions Are Draining a Ci
 
 15. July 2026
 
+Why No One in Munich Is to Blame for the Water Crisis—and Why the Ban Won't Change That Until August 1.
+
+“The first man who fenced off a piece of land and dared to say, ‘This is mine,’ and who found people simple enough to ...
+
 Read More
 
 Too Nice, Too Good, Too Small: The Appeasement Paradox
