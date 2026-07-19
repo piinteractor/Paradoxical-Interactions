@@ -34,6 +34,10 @@ England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
 
 17. Juli 2026
 
+Warum England seine eigene 55. Minute nicht überlebte — und warum das nichts mit Nervenschwäche zu tun hat.
+
+„Wir fürchten unsere höchsten Möglichkeiten … Wir haben im Allgemeinen Angst davor, das zu werden, was wir in unseren ...
+
 Mehr erfahren
 
 Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
