@@ -108,10 +108,6 @@ Mais c'est une coordonnée. Le Dénouement Susskind est un nom pour un endroit s
 
 Articles connexes
 
-Le Mur des 432 Paramètres. Une Offre d’Emploi pour la Mauvaise Personne.
-
-Pourquoi ceux qui ont le plus besoin de comprendre l'IA ne peuvent pas expliquer 432 paramètres — et pourquoi ils recrutent quand même.
-
 Le Gardien Articulé
 
 Comment la conscience de soi devient la forme la plus élégante d'immobilité structurelle
