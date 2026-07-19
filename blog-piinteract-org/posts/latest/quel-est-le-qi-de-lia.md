@@ -170,10 +170,6 @@ Le Piège de l’Intelligence
 
 Pourquoi les gens intelligents rejettent les idées plus intelligentes – et agissent intelligemment ce faisant
 
-Le Mur des 432 Paramètres. Une Offre d’Emploi pour la Mauvaise Personne.
-
-Pourquoi ceux qui ont le plus besoin de comprendre l'IA ne peuvent pas expliquer 432 paramètres — et pourquoi ils recrutent quand même.
-
 La Compréhension que Personne ne Comprend. Une Solution à la Recherche du Problème qu’elle a Créé.
 
 Pourquoi un rôle d’IA étroit (“nettoie juste mon HTML”) commence soudain à se comporter comme un superviseur – et pourquoi ce basculement est structurel, pas magique.
