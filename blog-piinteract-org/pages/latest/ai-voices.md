@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+From Cybernetics to Superlearners: The Lonely Observer of PI
+
+20. July 2026
+
+From Wiener, Jonas and Foerster to Ineffable Intelligence: why a superlearner without human data reveals the structural loneliness of single‑system thinking in cybernetics.
+
+Read More
+
 The Pike Syndrome: How Conditioning Destroys Skills.
 
 14. June 2026
@@ -390,14 +398,6 @@ Read More
 
 Dario Amodei, CEO of Anthropic, just said it out loud: AI is not programmed. It's cultivated. And as capability increases, control becomes less visible. Power scales faster than alignment.
 This isn't a warning. It's a structural ...
-
-Read More
-
-Unerroring Practice
-
-29. January 2026
-
-Best Practices promise error-free results. They deliver faulty systems that can't navigate their faults. What if errors aren't the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
 
 Read More
 
