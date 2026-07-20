@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
+
 England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
 
 Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
@@ -152,5 +154,3 @@ Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
 
 Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
-
-Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
