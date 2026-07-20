@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
+
+20 juillet 2026
+
+De Wiener, Jonas et Foerster à l’« intelligence ineffable » : pourquoi un « super-apprenant » dépourvu de données humaines met en lumière la solitude structurelle de la pensée monosystémique en cybernétique.
+
+En savoir plus
+
 L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
 
 7 juin 2026
@@ -302,15 +310,6 @@ Valeur : 1 million de dollars.
 Il a refusé l’argent.
 Il a refusé la médaille Fields.
 Il a disparu dans un appartement de ...
-
-En savoir plus
-
-Comment Elon Musk a pompé un memecoin sans dire un mot – Et pourquoi personne n’est en faute
-
-1 février 2026
-
-31 décembre 2024. Elon Musk change son nom de profil X en "Kekius Maximus." Aucune explication. Aucune recommandation. Juste un changement de nom et un avatar Pepe the Frog en armure romaine.
-En quelques heures, un memecoin appelé ...
 
 En savoir plus
 
