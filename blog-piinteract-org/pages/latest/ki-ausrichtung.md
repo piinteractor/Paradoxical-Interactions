@@ -134,6 +134,14 @@ Mit besseren Absichten. Und weniger Rechenschaftspflicht als je zuvor.
 
 Verwandte Beiträge
 
+Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
+
+20. Juli 2026
+
+Von Wiener, Jonas und von Foerster zur unbeschreiblichen Intelligenz: Warum ein „Superlearner“ ohne menschliche Daten die strukturelle Einsamkeit des Ein-System-Denkens in der Kybernetik aufdeckt.
+
+Mehr erfahren
+
 „Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
 
 27. Mai 2026
@@ -172,15 +180,6 @@ Die Polarisierung, die sich niemand ausgesucht hat
 27. Februar 2026
 
 Pete Hegseth stellt ein Ultimatum. Dario Amodei lehnt ab. Die Frist läuft ab. Alle handeln rational. Genau das ist das Problem. Die KI-Landschaft wird neu geordnet – nicht aufgrund von Ideologie oder Verschwörung, sondern aufgrund ...
-
-Mehr erfahren
-
-Der wortgewandte Türhüter
-
-25. Februar 2026
-
-In einem langen Gespräch mit ChatGPT — dokumentiert in When Checkmate Is Just a Position und When Alignment Explains Its Own Null-Sum Game — geschah etwas Präzises.
-Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
 
 Mehr erfahren
 
