@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+From Cybernetics to Superlearners: The Lonely Observer of PI
+
 England and the Fear of Winning. How a Lead Becomes Its Own Threat.
 
 The Lawn Sprinkler Paradox: How 1.6 Million Sensible Decisions Are Draining a City Dry.
@@ -77,5 +79,3 @@ The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd 
 The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
 
 The Groucho Marx PI. A System That Lives on Being Contradicted.
-
-The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
