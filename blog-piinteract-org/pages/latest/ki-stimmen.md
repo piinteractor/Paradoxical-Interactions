@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
+
+20. Juli 2026
+
+Von Wiener, Jonas und von Foerster zur unbeschreiblichen Intelligenz: Warum ein „Superlearner“ ohne menschliche Daten die strukturelle Einsamkeit des Ein-System-Denkens in der Kybernetik aufdeckt.
+
+Mehr erfahren
+
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 14. Juni 2026
@@ -296,14 +304,6 @@ Die PI des Peter Thiel
 
 Peter Thiel hat ein Buch geschrieben, das erklärt, warum man nicht konkurrieren soll. Dann hat er konkurriert — härter als fast alle anderen. PayPal, Palantir, Facebook, Founders Fund, Vance ins Amt, Trump zurück an die Macht.
 Das ...
-
-Mehr erfahren
-
-Die Formel, die das Gegenteil von dem bewies, was Sie denken
-
-6. Februar 2026
-
-Im Jahr 2004 veröffentlichte Roger Penrose „The Road to Reality“, eine 1.100 Seiten umfassende Reise durch die mathematischen Grundlagen der Physik. Auf einer der Seiten druckte er die vollständige Lagrange-Dichte des Standardmodells ...
 
 Mehr erfahren
 
