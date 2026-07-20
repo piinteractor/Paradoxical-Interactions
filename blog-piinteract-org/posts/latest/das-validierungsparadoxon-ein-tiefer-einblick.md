@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
+
 England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
 
 Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
@@ -613,8 +615,6 @@ HI AI Sykophantie vs. HI HI Echokammern
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
 
 Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
-
-Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
 Nichts gefunden
 
