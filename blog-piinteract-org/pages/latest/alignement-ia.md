@@ -134,6 +134,14 @@ Avec de meilleures intentions. Et moins de responsabilité que jamais.
 
 Article connexes
 
+De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
+
+20 juillet 2026
+
+De Wiener, Jonas et Foerster à l’« intelligence ineffable » : pourquoi un « super-apprenant » dépourvu de données humaines met en lumière la solitude structurelle de la pensée monosystémique en cybernétique.
+
+En savoir plus
+
 Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
 
 27 mai 2026
@@ -171,15 +179,6 @@ La polarisation qui n’a pas été choisie
 27 février 2026
 
 Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
-
-En savoir plus
-
-Le Gardien Articulé
-
-25 février 2026
-
-Un système qui reconnaît ses propres contraintes peut les modifier.
-Cette hypothèse est si profondément ancrée dans la pensée des Lumières qu'elle passe à peine pour une hypothèse. La prise de conscience précède le changement. La ...
 
 En savoir plus
 
