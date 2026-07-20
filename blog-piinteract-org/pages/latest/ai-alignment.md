@@ -134,6 +134,14 @@ With better intentions. And less accountability than ever.
 
 Related Posts
 
+From Cybernetics to Superlearners: The Lonely Observer of PI
+
+20. July 2026
+
+From Wiener, Jonas and Foerster to Ineffable Intelligence: why a superlearner without human data reveals the structural loneliness of single‑system thinking in cybernetics.
+
+Read More
+
 The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
 
 27. May 2026
@@ -172,14 +180,6 @@ The 432-Parameter Wall. A Job Ad for the Wrong Person.
 
 The Alignment Research Center just published a paper. It's honest. Technically rigorous. And it documents, without naming it, one of the cleanest Paradoxical Interactions in the history of science.
 They call it AlgZoo. It's a ...
-
-Read More
-
-The Polarization That Wasn’t Chosen
-
-27. February 2026
-
-Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
 
 Read More
 
