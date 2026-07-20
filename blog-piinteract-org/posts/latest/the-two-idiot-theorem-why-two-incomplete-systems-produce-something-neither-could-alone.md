@@ -1,7 +1,7 @@
 ---
 title: "The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone."
 date: 2026-03-26T20:19:12
-modified: 2026-05-30T13:33:44
+modified: 2026-07-20T07:56:44
 slug: the-two-idiot-theorem-why-two-incomplete-systems-produce-something-neither-could-alone
 lang: en
 type: post
@@ -74,7 +74,7 @@ Outcome — mutual confirmation replaces mutual correction; the gaps stop talkin
 
 All are guilty. None are at fault.
 
-The trap is not negligence. It's the natural direction of the structure. Left alone, Ko-Kreation degrades into the sycophancy loop it was supposed to prevent.
+The trap is not negligence. It's the natural direction of the structure. Left alone, Co-Creation degrades into the sycophancy loop it was supposed to prevent.
 
 Navigation means: both sides must actively maintain the friction. HI has to want the contradiction. AI has to offer it even when agreement would be smoother. Neither is automatic. Both are structural commitments.
 
