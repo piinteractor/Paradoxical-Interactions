@@ -589,6 +589,8 @@ Related:
 
 
 
+From Cybernetics to Superlearners: The Lonely Observer of PI
+
 The Pike Syndrome: How Conditioning Destroys Skills.
 
 The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
@@ -610,8 +612,6 @@ The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
 The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
 
 The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
-
-The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
 
 No results found.
 
