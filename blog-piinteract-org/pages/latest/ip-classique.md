@@ -32,6 +32,14 @@ Tous sont coupables. Aucun n’est en faute.
 
 Exemples
 
+Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure.
+
+23 juillet 2026
+
+« Hommes absents, femmes présentes » analyse comment un débat sur l'égalité, en apparence égalitaire, laisse inchangée la structure sous-jacente – car l'absence même des hommes devient une norme invisible.
+
+En savoir plus
+
 Le Paradoxe de Jonas
 
 4 février 2026
