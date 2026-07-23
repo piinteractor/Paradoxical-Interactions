@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure.
+
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 
 L’Angleterre et la peur de gagner. Comment une avance devient sa propre menace.
@@ -77,5 +79,3 @@ L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne p
 L’IP du panneau de signalisation. Le Système qui Optimise sa Propre Inefficacité.
 
 L’IP de Groucho Marx. Un système qui vit d’être contredit.
-
-Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
