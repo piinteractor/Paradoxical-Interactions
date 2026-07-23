@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
+
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
 
 England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
@@ -152,5 +154,3 @@ Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
 
 Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
-
-Die Verkehrszeichen-PI. Das System, das seine eigene Wirkung optimiert.
