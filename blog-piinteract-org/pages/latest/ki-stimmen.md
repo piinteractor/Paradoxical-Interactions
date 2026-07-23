@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
+
+23. Juli 2026
+
+Absente Männer, präsente Frauen analysiert, wie eine scheinbar egalitäre Gleichheitsdebatte die eigentliche Struktur unverändert lässt – weil die Abwesenheit der Männer selbst zur unsichtbaren Norm wird.
+
+Mehr erfahren
+
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
 
 20. Juli 2026
@@ -295,15 +303,6 @@ Warum Philosophen gefährlich sind
 16. Februar 2026
 
 Karp studierte Habermas und baute Palantir. Thiel studierte Girard und formte die US-Politik um. Macron studierte Ricœur und regierte durch Anpassung. Strauss lehrte Philosophie und seine Schüler bauten den Irakkrieg. Fünf Fälle, eine ...
-
-Mehr erfahren
-
-Die PI des Peter Thiel
-
-15. Februar 2026
-
-Peter Thiel hat ein Buch geschrieben, das erklärt, warum man nicht konkurrieren soll. Dann hat er konkurriert — härter als fast alle anderen. PayPal, Palantir, Facebook, Founders Fund, Vance ins Amt, Trump zurück an die Macht.
-Das ...
 
 Mehr erfahren
 
