@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
+
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
 
 England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
@@ -613,8 +615,6 @@ Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem
 HI AI Sykophantie vs. HI HI Echokammern
 
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
-
-Das Konzert der Alarmanlagen. Wenn alle Alarm schlagen, entsteht nur Kakophonie.
 
 Nichts gefunden
 
