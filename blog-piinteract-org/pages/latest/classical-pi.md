@@ -32,6 +32,14 @@ All are guilty. None are at fault.
 
 Examples
 
+Absent Men, Present Women. Why the Debate on Equality Doesn’t Get to the Heart of the Matter.
+
+23. July 2026
+
+“Absent Men, Present Women” analyzes how a seemingly egalitarian debate on equality leaves the underlying structure unchanged—because the absence of men itself becomes the invisible norm.
+
+Read More
+
 The Jonah Paradox
 
 4. February 2026
