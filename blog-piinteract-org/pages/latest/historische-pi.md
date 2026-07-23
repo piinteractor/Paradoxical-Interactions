@@ -32,6 +32,14 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
+
+23. Juli 2026
+
+Absente Männer, präsente Frauen analysiert, wie eine scheinbar egalitäre Gleichheitsdebatte die eigentliche Struktur unverändert lässt – weil die Abwesenheit der Männer selbst zur unsichtbaren Norm wird.
+
+Mehr erfahren
+
 Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 
 5. Juni 2026
