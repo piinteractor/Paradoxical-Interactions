@@ -1,7 +1,7 @@
 ---
 title: "Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure."
 date: 2026-07-23T08:24:55
-modified: 2026-07-23T09:08:03
+modified: 2026-07-23T14:54:35
 slug: hommes-absents-femmes-presentes
 lang: fr
 type: post
@@ -12,43 +12,13 @@ url: https://blog.piinteract.org/fr/hommes-absents-femmes-presentes/
 
 Pourquoi le débat sur l'égalité de droits traite de la question de savoir qui a le droit d'être absent — et pourquoi il ne parvient pas à expliquer ce qui rend l'absence si intéressante
 
-
-
-
-
-
-
 « ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα οἴκαδέ τ' ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι. » « Et pourtant je veux et je désire, jour après jour, rentrer chez moi et voir le jour de mon retour. » 
 
 — Ulysse à Calypso, dans son lit. Homère, Odyssée V, 219–220
 
-
-
-
 23 juillet 2026
 
-
-
-
 La structure récompense doublement l’absence. D’une part financièrement : les revenus, le statut social et l’ascension professionnelle sont accordés là où l’on n’est pas chez soi. Et d’autre part en termes de nostalgie : celui qui part manque à ses proches. Celui qui reste se retrouve avec pour seule consolation l’espoir d’être à nouveau ensemble. Depuis cinquante ans, le débat sur l’égalité porte sur la première forme de rémunération : les postes, les quotas, l’accès. La seconde n’y est pas abordée. Elle ne peut d’ailleurs pas l’être : un débat sur la justice ne dispose pas de vocabulaire pour exprimer le désir. C’est pourquoi il peut être entièrement remporté sans que l’architecture ne bouge d’un pouce. L’architecture est plus ancienne que chacune de ses revendications. Elle est même plus ancienne que l’argent.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 La mise en place
 
@@ -57,12 +27,6 @@ Les hommes se rassemblent à la porte. Armes, provisions, départ — la campagn
 Trois mille ans plus tard, mardi, 7 h 12 : l’enfant a de la fièvre. Deux adultes, deux agendas. L’une annule sa journée. L’autre est dans le train à 7 h 31. L’Office fédéral allemand de la statistique a mesuré cette matinée : « Gender Care Gap », 44,3 % de travail non rémunéré en plus par semaine.
 
 Le train n’est pas une expédition de pillage. Mais il roule sur les mêmes rails.​
-
-
-
-
-
-
 
 L'architecture ancienne
 
@@ -73,12 +37,6 @@ Ce n’est pas une histoire d’oppression. Ces deux rôles étaient rationnels,
 L’économie moderne n’a pas construit cette architecture. Elle l’a reprise et convertie en rémunération. Le bureau est la campagne militaire domestiquée : on part pour ramener quelque chose à la maison. La carrière mesure à quel point quelqu’un peut être fiable ailleurs.
 
 La structure n’a pas cinquante ans, contrairement au débat. Elle a au moins trois mille ans. Le débat ne fait que rénover la pièce du dernier étage.
-
-
-
-
-
-
 
 La deuxième monnaie
 
@@ -92,12 +50,6 @@ Et la structure dicte ses propres lois. Ulysse trompe sa femme pendant dix ans �
 
 Ce n’est pas quelqu’un qui en décide ainsi. C’est le désir qui en décide, la norme qui le scelle — et tous deux décident de manière structurelle.
 
-
-
-
-
-
-
 Le double avantage
 
 On comprend désormais pourquoi la fuite dans l’absence est si tenace.
@@ -105,12 +57,6 @@ On comprend désormais pourquoi la fuite dans l’absence est si tenace.
 L’homme optimise l’absence — doublement rationnel : c’est là que se trouve le revenu, et c’est là que réside l’aura. La femme occupe la présence — rationnelle : le poste ne peut rester vacant, l’enfant a de la fièvre en ce moment. Le débat réclame l’accès à la partie rémunérée — rationnel : là où se trouve la récompense, c’est là que doit aller l’accès. Mais il réclame l’accès à la première monnaie. La seconde ne peut être réclamée. Il n’y a pas de quota pour être désiré, pas de redistribution du désir, pas d’instance qui répartisse équitablement la rareté.
 
 Et par endroits, le débat a gagné — on peut constater le résultat. Les femmes occupant des postes de direction sont absentes, tout comme leurs collègues ; le poste l’exige. La présence ne disparaît pas — elle est porteuse. Elle est déléguée : vers le bas, à des femmes moins bien rémunérées, et au-delà des frontières, à des soignantes recrutées aux Philippines, au Mexique, en Tunisie. Une présence importée, pour que l’absence locale soit possible des deux côtés du bureau. À l’issue du débat remporté, il n’y a pas d’homme présent. Seulement une femme présente, avec un autre passeport.
-
-
-
-
-
-
 
 L'interaction paradoxale
 
@@ -136,12 +82,6 @@ Tous sont coupables. Personne n’y peut rien. 
 
  
 
-
-
-
-
-
-
 La navigation plutôt que la solution
 
 Que faire ? Rien qui ressemble à une solution.
@@ -154,37 +94,13 @@ Cesser d’espérer que la justice remanie une structure unilatérale plus ancie
 
 La prise de conscience n’est pas une issue. Ulysse savait où était sa place — il l’a d’ailleurs déclaré dans le lit de Calypso, justement.
 
-
-
-
-
-
-
 Le cœur du sujet
 
 Le débat porte sur qui a le droit d'être absent. Pas sur la valeur de la présence. Ni sur les raisons pour lesquelles l'absence est souhaitable.
 
 Il se joue dans une unité de mesure quantifiable. La structure, quant à elle, s'exprime dans une autre unité.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Articles connexes
-
-
-
 
 Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
@@ -204,9 +120,6 @@ Comment les théoriciens des systèmes reproduisent les milieux d'enfermement co
 
 No results found.
 
-
-
-
 Sur piinteract.org :
 
 [« Reconnaître la structure, pas traiter les symptômes »] — Le taux traite le symptôme dans la première devise. La tendance calcule dans la seconde — et reste sans traitement.
@@ -217,31 +130,19 @@ Sur piinteract.org :
 
 [« Le Piège de la Solidarité »] — Celui qui soutient le mur porteur ne peut pas en même temps manifester dans la rue pour réclamer sa réévaluation. La présence empêche la protestation des personnes présentes.
 
+Voir aussi (liens externes):
 
+ Écart entre les sexes en matière de soins 2022 : les femmes effectuent 44,3 % de travail non rémunéré de plus que les hommes (Office fédéral allemand de la statistique) — La source officielle de référence pour ce mardi matin : l’enquête sur l’emploi du temps 2022, un écart mesuré en heures, et non en rhétorique.
 
+Care Work and Care Jobs for the Future of Decent Work (OIT) — Le constat institutionnel mondial : 76,2 % du travail de soins non rémunéré est effectué par des femmes — la version mondiale de la même équation.
 
-See also (external links):
+Sexual Motivation and the Duration of Partnership (Klusmann, Archives of Sexual Behavior) — La preuve validée par des pairs concernant la deuxième devise : le désir diminue avec la durée de la sécurité. L’accoutumance est mesurable.
 
-Gender Care Gap 2022: Frauen leisten 44,3 % mehr unbezahlte Arbeit als Männer (Statistisches Bundesamt) — Die amtliche Primärquelle für den Dienstagmorgen: Zeitverwendungserhebung 2022, der Abstand in Stunden, nicht in Rhetorik.
-
-Care Work and Care Jobs for the Future of Decent Work (ILO) — Der institutionelle Weltbefund: 76,2 Prozent der unbezahlten Sorgearbeit leisten Frauen — die globale Fassung derselben Gleichung.
-
-Sexual Motivation and the Duration of Partnership (Klusmann, Archives of Sexual Behavior) — Der begutachtete Beleg für die zweite Währung: Begehren sinkt mit der Dauer der Sicherheit. Gewöhnung ist messbar.
-
-"I'd like five of them": Internationally Recruited Nurses in the German Healthcare Sector (peer-reviewed) — Begutachteter Beleg für die Delegationskette: importierte Anwesenheit als Bedingung hiesiger Abwesenheit.
-
-
-
-
-
-
+« I’d like five of them » : infirmières recrutées à l’international dans le secteur de la santé allemand (article évalué par des pairs) — Preuve évaluée par des pairs de la chaîne de délégation : une présence importée comme condition d’une absence locale.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
