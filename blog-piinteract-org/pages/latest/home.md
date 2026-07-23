@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+Absent Men, Present Women. Why the Debate on Equality Doesn’t Get to the Heart of the Matter.
+
 From Cybernetics to Superlearners: The Lonely Observer of PI
 
 England and the Fear of Winning. How a Lead Becomes Its Own Threat.
@@ -77,5 +79,3 @@ The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
 The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
 
 The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
-
-The Groucho Marx PI. A System That Lives on Being Contradicted.
