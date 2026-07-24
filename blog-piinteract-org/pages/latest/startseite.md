@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
+
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
 
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
@@ -152,5 +154,3 @@ Das Gleichheits-Paradox. Warum Bildungspolitik das reproduziert, was sie beseiti
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
-
-Die Spiegel-Wirtschaft. Warum jede Plattform, die Vielfalt verspricht, letztlich nur Einheitsbrei hervorbringt.
