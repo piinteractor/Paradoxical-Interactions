@@ -589,6 +589,8 @@ Related:
 
 
 
+The Forced Inequality. Why Balance Never Lasts.
+
 The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
 
 From Cybernetics to Superlearners: The Lonely Observer of PI
@@ -610,8 +612,6 @@ The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itsel
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
-
-The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
 
 No results found.
 
