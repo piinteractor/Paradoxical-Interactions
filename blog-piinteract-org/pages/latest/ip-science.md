@@ -34,6 +34,12 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+L’inégalité forcée. Pourquoi l’équilibre ne dure jamais.
+
+24 juillet 2026
+
+En savoir plus
+
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
 
 24 juillet 2026
