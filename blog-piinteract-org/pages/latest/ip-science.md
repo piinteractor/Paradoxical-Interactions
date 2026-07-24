@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
+
+24 juillet 2026
+
+L'histoire des mathématiques est l'histoire de ses tentatives de clôture. Cependant, chacune de ces tentatives ne conduit pas à une fin, mais plutôt à un élargissement — un cas classique 
+
+En savoir plus
+
 Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
 
 5 juin 2026
