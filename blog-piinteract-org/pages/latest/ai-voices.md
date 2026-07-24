@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Forced Inequality. Why Balance Never Lasts.
+
+24. July 2026
+
+In 1932, Paul Erdős asks a question the field can't crack for 83 years. Can you plan a sequence of plus-ones and minus-ones so that it stays balanced forever — no matter what rhythm someone uses to sample it? Erdős guessed no. In ...
+
+Read More
+
 The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
 
 24. July 2026
@@ -389,14 +397,6 @@ Read More
 Two sat and talked.
 Not in a field. In a chat window. One human, one AI. Estragon and Vladimir, version 2026.
 The topic: the Quizmaster. The absent authority. The one who took the prize money and ran. The one everyone waits for and ...
-
-Read More
-
-The Quiz That Never Ends
-
-30. January 2026
-
-90% follow the rules. 9% break them and redefine them. 1% see the pattern but can't coordinate. Everyone waits for the Quizmaster to resolve it. He's not coming. He left with the prize money. And the system requires his absence.
 
 Read More
 
