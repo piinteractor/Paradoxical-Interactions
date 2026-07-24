@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
+
+24. Juli 2026
+
+1932 stellt Paul Erdős eine Frage, an der sich die Mathematiker-Zunft 83 Jahre lang die Zähne ausbeißt. Lässt sich eine Folge aus Plus- und Minus-Einsen so planen, dass sie für immer im Gleichgewicht bleibt – egal, in welchem Rhythmus ...
+
+Mehr erfahren
+
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
 24. Juli 2026
@@ -295,14 +303,6 @@ Das Schwert, das sich selbst widerspricht
 
 Zwei Menschen. Ein Schwert zwischen ihnen. Der eine schmiedet sie seit vierzig Jahren. Der andere erforscht, warum Dinge scheitern.
 Sie reden seit einer Stunde. Sie fangen gerade erst an.
-
-Mehr erfahren
-
-Das Gaveston-Muster:
-
-19. Februar 2026
-
-England im Mittelalter, 1312. Ein Günstling wird ermordet. Ein König rächt sich. Eine Königin fällt ein. Ein Sohn greift nach der Macht. Siebenhundert Jahre später läuft dieselbe Struktur wöchentlich in Organisationen, Regierungen und ...
 
 Mehr erfahren
 
