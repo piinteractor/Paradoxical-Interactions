@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
+
+24 juillet 2026
+
+L'histoire des mathématiques est l'histoire de ses tentatives de clôture. Cependant, chacune de ces tentatives ne conduit pas à une fin, mais plutôt à un élargissement — un cas classique
+
+En savoir plus
+
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 
 20 juillet 2026
@@ -297,19 +305,6 @@ Quand protester vous affaiblit
 3 février 2026
 
 Nvidia se retire d'un investissement de 100 milliards de dollars dans OpenAI. Jensen Huang critique en privé la "discipline commerciale" d'OpenAI. Quelques jours plus tard, Reuters obtient huit—huit—sources anonymes se plaignant des ...
-
-En savoir plus
-
-Le Paradoxe Perelman
-
-2 février 2026
-
-Grigori Perelman a démontré la conjecture de Poincaré.
-L’un des sept problèmes du Millénaire.
-Valeur : 1 million de dollars.
-Il a refusé l’argent.
-Il a refusé la médaille Fields.
-Il a disparu dans un appartement de ...
 
 En savoir plus
 
