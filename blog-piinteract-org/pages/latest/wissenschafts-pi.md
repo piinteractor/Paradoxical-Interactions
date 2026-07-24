@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
+
+24. Juli 2026
+
+Die Geschichte der Mathematik ist die Geschichte ihrer Versuche, zu einem Abschluss zu gelangen. Doch keiner dieser Versuche führt zu einem Ende, sondern vielmehr zu einer Erweiterung – ein klassischer Fall 
+
+Mehr erfahren
+
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 14. Juni 2026
