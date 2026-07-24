@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
+
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
@@ -613,8 +615,6 @@ Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
-
-HI AI Sykophantie vs. HI HI Echokammern
 
 Nichts gefunden
 
