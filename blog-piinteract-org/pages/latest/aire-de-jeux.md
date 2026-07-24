@@ -1,7 +1,7 @@
 ---
 title: "Aire de jeux"
 date: 2026-07-07T15:18:45
-modified: 2026-07-07T15:18:46
+modified: 2026-07-24T18:43:54
 slug: aire-de-jeux
 lang: fr
 type: page
@@ -40,7 +40,7 @@ Ce texte travaille sur une hypothèse, non sur un cas. Il demande si l'IP possè
 
 Les Interactions Paradoxales exigent plusieurs acteurs rationnels. C'était jusqu'ici la limite ...
 
-Read More
+En savoir plus
 
 Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 
@@ -48,7 +48,7 @@ Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 
 Quel est le QI de l'IA ? Une question simple qui s'effondre dès qu'on y regarde de plus près. Le QI mesure le classement au sein d'un groupe. Si l'on supprime le groupe, ce chiffre perd tout son sens.
 
-Read More
+En savoir plus
 
 Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne se partage pas.
 
@@ -56,6 +56,6 @@ Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne
 
 La lucidité n'est pas un objet. C'est un état où l'on arrive au bout d'un chemin. Ce qui se transmet, c'est la formulation — la coque. Qui la reçoit sans avoir fait le chemin tient une information, pas une lucidité. Voilà pourquoi ...
 
-Read More
+En savoir plus
 
 No results found.
