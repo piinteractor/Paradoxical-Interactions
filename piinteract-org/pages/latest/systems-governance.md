@@ -1,7 +1,7 @@
 ---
 title: "Systems & Governance"
 date: 2025-12-17T22:09:55
-modified: 2026-06-15T13:34:11
+modified: 2026-07-24T18:59:05
 slug: systems-governance
 lang: en
 type: page
@@ -20,7 +20,7 @@ Systems & Governance
 
 When legal, democratic, rational processes systematically undermine the systems they're meant to protect.
 
- Democracy Erosion
+Democracy Erosion
 
 The structure:
 
