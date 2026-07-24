@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
+
 Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure.
 
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
@@ -77,5 +79,3 @@ Le Problème FCAS. Le Chasseur Européen n’a Pas de Solution — Seulement un 
 L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
 
 L’IP du panneau de signalisation. Le Système qui Optimise sa Propre Inefficacité.
-
-L’IP de Groucho Marx. Un système qui vit d’être contredit.
