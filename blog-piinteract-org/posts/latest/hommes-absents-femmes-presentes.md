@@ -1,7 +1,7 @@
 ---
 title: "Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure."
 date: 2026-07-23T08:24:55
-modified: 2026-07-23T14:54:35
+modified: 2026-07-24T16:11:09
 slug: hommes-absents-femmes-presentes
 lang: fr
 type: post
@@ -140,9 +140,9 @@ Sexual Motivation and the Duration of Partnership (Klusmann, Archives of Sexual 
 
 « I’d like five of them » : infirmières recrutées à l’international dans le secteur de la santé allemand (article évalué par des pairs) — Preuve évaluée par des pairs de la chaîne de délégation : une présence importée comme condition d’une absence locale.
 
-Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
+Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-All are guilty. None are at fault.
+Tous sont coupables. Personne n'est responsable.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -150,4 +150,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
