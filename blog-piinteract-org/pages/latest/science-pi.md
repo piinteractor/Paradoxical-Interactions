@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Forced Inequality. Why Balance Never Lasts.
+
+24. July 2026
+
+In 1932, Paul Erdős asks a question the field can't crack for 83 years. Can you plan a sequence of plus-ones and minus-ones so that it stays balanced forever — no matter what rhythm someone uses to sample it? Erdős guessed no. In ...
+
+Read More
+
 The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
 
 24. July 2026
