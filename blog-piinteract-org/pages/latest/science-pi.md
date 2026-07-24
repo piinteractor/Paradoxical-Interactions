@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
+
+24. July 2026
+
+The history of mathematics is the history of its attempts at closure. However, each of these attempts does not lead to an end, but rather to an expansion—a classic case 
+
+Read More
+
 The Pike Syndrome: How Conditioning Destroys Skills.
 
 14. June 2026
