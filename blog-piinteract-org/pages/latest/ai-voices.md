@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
+
+24. July 2026
+
+The history of mathematics is the history of its attempts at closure. However, each of these attempts does not lead to an end, but rather to an expansion—a classic case
+
+Read More
+
 From Cybernetics to Superlearners: The Lonely Observer of PI
 
 20. July 2026
@@ -389,15 +397,6 @@ The Quiz That Never Ends
 30. January 2026
 
 90% follow the rules. 9% break them and redefine them. 1% see the pattern but can't coordinate. Everyone waits for the Quizmaster to resolve it. He's not coming. He left with the prize money. And the system requires his absence.
-
-Read More
-
-“Power Scales Faster Than Alignment”
-
-29. January 2026
-
-Dario Amodei, CEO of Anthropic, just said it out loud: AI is not programmed. It's cultivated. And as capability increases, control becomes less visible. Power scales faster than alignment.
-This isn't a warning. It's a structural ...
 
 Read More
 
