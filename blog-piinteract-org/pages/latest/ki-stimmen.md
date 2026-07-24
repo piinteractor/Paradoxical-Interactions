@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
+
+24. Juli 2026
+
+Die Geschichte der Mathematik ist die Geschichte ihrer Versuche, zu einem Abschluss zu gelangen. Doch keiner dieser Versuche führt zu einem Ende, sondern vielmehr zu einer Erweiterung – ein klassischer Fall
+
+Mehr erfahren
+
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
 
 23. Juli 2026
@@ -295,14 +303,6 @@ Das Gaveston-Muster:
 19. Februar 2026
 
 England im Mittelalter, 1312. Ein Günstling wird ermordet. Ein König rächt sich. Eine Königin fällt ein. Ein Sohn greift nach der Macht. Siebenhundert Jahre später läuft dieselbe Struktur wöchentlich in Organisationen, Regierungen und ...
-
-Mehr erfahren
-
-Warum Philosophen gefährlich sind
-
-16. Februar 2026
-
-Karp studierte Habermas und baute Palantir. Thiel studierte Girard und formte die US-Politik um. Macron studierte Ricœur und regierte durch Anpassung. Strauss lehrte Philosophie und seine Schüler bauten den Irakkrieg. Fünf Fälle, eine ...
 
 Mehr erfahren
 
