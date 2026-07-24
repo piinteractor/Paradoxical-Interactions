@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
+
+24. Juli 2026
+
+1932 stellt Paul Erdős eine Frage, an der sich die Mathematiker-Zunft 83 Jahre lang die Zähne ausbeißt. Lässt sich eine Folge aus Plus- und Minus-Einsen so planen, dass sie für immer im Gleichgewicht bleibt – egal, in welchem Rhythmus ...
+
+Mehr erfahren
+
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
 24. Juli 2026
