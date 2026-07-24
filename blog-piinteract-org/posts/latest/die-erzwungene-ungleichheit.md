@@ -1,7 +1,7 @@
 ---
 title: "Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind."
 date: 2026-07-24T18:00:08
-modified: 2026-07-24T18:00:09
+modified: 2026-07-24T18:24:12
 slug: die-erzwungene-ungleichheit
 lang: de
 type: post
