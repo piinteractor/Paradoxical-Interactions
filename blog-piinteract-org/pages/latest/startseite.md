@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
+
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
@@ -152,5 +154,3 @@ Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt
 Das Gleichheits-Paradox. Warum Bildungspolitik das reproduziert, was sie beseitigen will.
 
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
-
-Das FCAS-Problem. Europas Kampfjet hat keine Lösung — nur n-Körper.
