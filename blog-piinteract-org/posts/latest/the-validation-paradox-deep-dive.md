@@ -589,6 +589,8 @@ Related:
 
 
 
+The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
+
 From Cybernetics to Superlearners: The Lonely Observer of PI
 
 The Pike Syndrome: How Conditioning Destroys Skills.
@@ -610,8 +612,6 @@ The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
 
 The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
-
-The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
 
 No results found.
 
