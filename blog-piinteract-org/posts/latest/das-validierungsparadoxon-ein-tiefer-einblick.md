@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
+
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
 
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
@@ -613,8 +615,6 @@ Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
 
 HI AI Sykophantie vs. HI HI Echokammern
-
-Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
 
 Nichts gefunden
 
