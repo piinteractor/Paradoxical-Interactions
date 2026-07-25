@@ -1,7 +1,7 @@
 ---
 title: "The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure."
 date: 2026-07-24T14:08:32
-modified: 2026-07-24T14:12:18
+modified: 2026-07-25T06:43:04
 slug: the-pi-of-mathematics
 lang: en
 type: post
