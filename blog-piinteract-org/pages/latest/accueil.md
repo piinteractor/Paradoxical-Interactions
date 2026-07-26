@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
+
 L’inégalité forcée. Pourquoi l’équilibre ne dure jamais.
 
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
@@ -77,5 +79,3 @@ Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 Le Moi du lundi et le Moi du vendredi. La plus petite Interaction Paradoxale du monde.
 
 Le Problème FCAS. Le Chasseur Européen n’a Pas de Solution — Seulement un Problème des n Corps.
-
-L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
