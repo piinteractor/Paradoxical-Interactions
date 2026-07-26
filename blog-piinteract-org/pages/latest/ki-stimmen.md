@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
+
+26. Juli 2026
+
+Ein bestehendes, bis dato erfolgreiches System trägt die eigene Unverbesserlichkeit wie eine Fahne vor sich her: basierend auf den eigenen Meriten. Verbesserungsvorschläge, die von außen kommen, werden als lästig wahrgenommen — sie ...
+
+Mehr erfahren
+
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 24. Juli 2026
@@ -294,15 +302,6 @@ Peter Steinberger – Der Mann, der die Flut herbeiführte und dann den Deich ba
 22. Februar 2026
 
 Ein Entwickler erstellt ein Open-Source-Framework für die autonome KI-gestützte Inhaltsgenerierung. Dann muss er mit ansehen, wie es seine eigene Timeline zerstört – und beginnt, genau das zu blockieren, was er selbst ins Leben ...
-
-Mehr erfahren
-
-Das Schwert, das sich selbst widerspricht
-
-21. Februar 2026
-
-Zwei Menschen. Ein Schwert zwischen ihnen. Der eine schmiedet sie seit vierzig Jahren. Der andere erforscht, warum Dinge scheitern.
-Sie reden seit einer Stunde. Sie fangen gerade erst an.
 
 Mehr erfahren
 
