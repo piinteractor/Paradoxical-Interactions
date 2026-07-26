@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
+
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
@@ -152,5 +154,3 @@ Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
 Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
 
 Das Gleichheits-Paradox. Warum Bildungspolitik das reproduziert, was sie beseitigen will.
-
-Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
