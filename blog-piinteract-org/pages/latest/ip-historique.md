@@ -32,6 +32,14 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
+L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
+
+26 juillet 2026
+
+Un système qui a réussi jusqu'ici porte comme un étendard son incapacité à s'améliorer — un mérite, croit-il, gagné par lui-même. Les suggestions d'amélioration venues de l'extérieur sont perçues comme une nuisance : on les ...
+
+En savoir plus
+
 Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
 
 5 juin 2026
