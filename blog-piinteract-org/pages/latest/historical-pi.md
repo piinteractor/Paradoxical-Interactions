@@ -32,6 +32,14 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
+The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better.
+
+26. July 2026
+
+A system that has succeeded so far carries its own unimprovability like a flag — earned, it believes, by its own merit. Suggestions for improvement arriving from outside register as an annoyance: reinterpret them, dilute them, file ...
+
+Read More
+
 The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 
 5. June 2026
