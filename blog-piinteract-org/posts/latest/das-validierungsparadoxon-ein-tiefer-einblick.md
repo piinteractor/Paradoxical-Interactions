@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
+
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
@@ -613,8 +615,6 @@ Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
-
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
 
 Nichts gefunden
 
