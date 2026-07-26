@@ -32,6 +32,14 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
+
+26. Juli 2026
+
+Ein bestehendes, bis dato erfolgreiches System trägt die eigene Unverbesserlichkeit wie eine Fahne vor sich her: basierend auf den eigenen Meriten. Verbesserungsvorschläge, die von außen kommen, werden als lästig wahrgenommen — sie ...
+
+Mehr erfahren
+
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
 
 23. Juli 2026
