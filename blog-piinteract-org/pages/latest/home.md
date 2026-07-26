@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better.
+
 The Forced Inequality. Why Balance Never Lasts.
 
 The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
@@ -77,5 +79,3 @@ What is the AI’s IQ? The number that has lost its measure
 Monday Me and Friday Me. The world’s smallest paradoxical interaction.
 
 The Pike Syndrome: How Conditioning Destroys Skills.
-
-The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
