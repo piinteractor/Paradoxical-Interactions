@@ -1,7 +1,7 @@
 ---
 title: "Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren."
 date: 2026-07-26T06:30:21
-modified: 2026-07-26T06:30:37
+modified: 2026-07-27T18:41:57
 slug: das-verbesserungsverbot
 lang: de
 type: post
