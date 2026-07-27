@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Chinese Room and the Absent Referee. Understanding only gets proven by the one person who never checks.
+
+27. July 2026
+
+Someone who doesn't speak Chinese sits in a room, trading slips of paper covered in symbols they don't understand. That's the familiar version. Less familiar: for the experiment to work, nobody outside the room needs to speak Chinese ...
+
+Read More
+
 The Forced Inequality. Why Balance Never Lasts.
 
 24. July 2026
