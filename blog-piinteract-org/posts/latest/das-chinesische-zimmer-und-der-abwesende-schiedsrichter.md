@@ -1,7 +1,7 @@
 ---
 title: "Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft."
 date: 2026-07-27T16:42:49
-modified: 2026-07-27T16:43:01
+modified: 2026-07-27T18:42:20
 slug: das-chinesische-zimmer-und-der-abwesende-schiedsrichter
 lang: de
 type: post
