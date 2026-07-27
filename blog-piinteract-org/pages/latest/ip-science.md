@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
+
+26 juillet 2026
+
+Un système qui a réussi jusqu'ici porte comme un étendard son incapacité à s'améliorer — un mérite, croit-il, gagné par lui-même. Les suggestions d'amélioration venues de l'extérieur sont perçues comme une nuisance : on les ...
+
+En savoir plus
+
 L’inégalité forcée. Pourquoi l’équilibre ne dure jamais.
 
 24 juillet 2026
