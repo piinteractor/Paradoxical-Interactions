@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+La chambre chinoise et l’arbitre absent. Pourquoi la compréhension ne se prouve que si personne ne vient vérifier.
+
 L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
 
 L’inégalité forcée. Pourquoi l’équilibre ne dure jamais.
@@ -77,5 +79,3 @@ Trop gentil, trop bon, trop petit : le paradoxe de l’apaisement
 Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 
 Le Moi du lundi et le Moi du vendredi. La plus petite Interaction Paradoxale du monde.
-
-Le Problème FCAS. Le Chasseur Européen n’a Pas de Solution — Seulement un Problème des n Corps.
