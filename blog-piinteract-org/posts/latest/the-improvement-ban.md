@@ -1,7 +1,7 @@
 ---
 title: "The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better."
 date: 2026-07-26T06:30:21
-modified: 2026-07-26T06:30:21
+modified: 2026-07-27T18:41:56
 slug: the-improvement-ban
 lang: en
 type: post
