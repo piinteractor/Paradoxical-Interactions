@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten seinen Fehler.
+
 Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
 
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
@@ -152,5 +154,3 @@ Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis
 Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
 
 Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
-
-Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
