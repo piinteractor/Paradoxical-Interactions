@@ -1,7 +1,7 @@
 ---
 title: "La chambre chinoise et l’arbitre absent. Pourquoi la compréhension ne se prouve que si personne ne vient vérifier."
 date: 2026-07-27T16:42:49
-modified: 2026-07-27T16:43:11
+modified: 2026-07-27T18:42:29
 slug: la-chambre-chinoise-et-larbitre-absent
 lang: fr
 type: post
