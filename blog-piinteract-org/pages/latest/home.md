@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Chinese Room and the Absent Referee. Understanding only gets proven by the one person who never checks.
+
 The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better.
 
 The Forced Inequality. Why Balance Never Lasts.
@@ -77,5 +79,3 @@ Too Nice, Too Good, Too Small: The Appeasement Paradox
 What is the AI’s IQ? The number that has lost its measure
 
 Monday Me and Friday Me. The world’s smallest paradoxical interaction.
-
-The Pike Syndrome: How Conditioning Destroys Skills.
