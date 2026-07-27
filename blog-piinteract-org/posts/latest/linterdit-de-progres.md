@@ -1,7 +1,7 @@
 ---
 title: "L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration."
 date: 2026-07-26T06:30:21
-modified: 2026-07-26T06:30:28
+modified: 2026-07-27T18:41:57
 slug: linterdit-de-progres
 lang: fr
 type: post
