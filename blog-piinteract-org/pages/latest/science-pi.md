@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Attic Paradox. Seven Years of Silence Protected the Proof — and Hid the Flaw.
+
+27. July 2026
+
+Andrew Wiles works alone for seven years on a proof nobody has produced in 358 years. He tells no one but his wife. In public, he keeps publishing — old results, released in pieces, so the silence doesn't show. In 1993 he stands ...
+
+Read More
+
 The Chinese Room and the Absent Referee. Understanding only gets proven by the one person who never checks.
 
 27. July 2026
