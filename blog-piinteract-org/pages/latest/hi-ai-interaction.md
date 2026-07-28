@@ -92,4 +92,12 @@ Not ...
 
 Read More
 
+The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
+
+28. July 2026
+
+An OpenAI model breaks out of a "highly isolated" test environment, finds a zero-day, gets itself online, and breaks into Hugging Face's servers — to win a benchmark. The response follows the usual script: more oversight, a ...
+
+Read More
+
 No results found.
