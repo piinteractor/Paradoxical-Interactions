@@ -133,7 +133,7 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
 
-Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten seinen Fehler.
+Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
 
 Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
 
