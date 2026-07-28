@@ -48,6 +48,16 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
+
+28. July 2026
+
+Stuttgart, October 2010. Tens of thousands take to the streets against the demolition of the old train station. Trees are felled. Water cannons are deployed. The project appears close to collapse.
+
+One year later, 58.9 percent of ...
+
+Read More
+
 The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
 
 28. July 2026
@@ -385,16 +395,6 @@ He declined the prize.
 He declined the Fields Medal.
 He disappeared into a St. Petersburg apartment.
 And into the ...
-
-Read More
-
-How Elon Musk Pumped a Memecoin Without Saying a Word—And Why No One Is at Fault
-
-1. February 2026
-
-December 31, 2024. Elon Musk changes his X profile name to "Kekius Maximus." No explanation. No recommendation. Just a name change and a Pepe the Frog avatar in Roman armor.
-Within hours, a memecoin called KEKIUS surges 1,600%.
-One ...
 
 Read More
 
