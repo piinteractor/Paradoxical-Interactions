@@ -589,6 +589,8 @@ Related:
 
 
 
+The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
+
 The Forced Inequality. Why Balance Never Lasts.
 
 The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
@@ -610,8 +612,6 @@ The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You G
 The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
 
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
-
-The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
 
 No results found.
 
