@@ -1,7 +1,7 @@
 ---
 title: "Szenarien"
 date: 2025-12-17T22:10:01
-modified: 2026-02-22T21:36:11
+modified: 2026-07-28T10:53:34
 slug: szenarien
 lang: de
 type: page
@@ -162,7 +162,7 @@ Beispiel
 
 Plattform-Ökonomie: „Zugang demokratisieren.“ Ergebnis: Winner-takes-all-Märkte.
 
-Szenario 7: Sicherheitsmaßnahmen schaffen neue Verwundbarkeiten
+Szenario 7: Je mehr Sicherheit, desto mehr Risiko
 
 Du steckst in: Einer Sicherheits-Paradox-PI
 
@@ -186,7 +186,7 @@ Beispiel
 
 Monokulturen (biologisch, technisch, kognitiv): effizient, bis ein Schock alles tötet.
 
-Szenario 8: Dein Erfolg schafft dein Scheitern
+Szenario 8: Dein Erfolg erzeugt dein Scheitern
 
 Du steckst in: Einer erfolgsgetriebenen PI
 
