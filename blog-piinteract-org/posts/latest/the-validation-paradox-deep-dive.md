@@ -589,6 +589,8 @@ Related:
 
 
 
+The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
+
 The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
 
 The Forced Inequality. Why Balance Never Lasts.
@@ -610,8 +612,6 @@ The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
 The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
-
-The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 No results found.
 
