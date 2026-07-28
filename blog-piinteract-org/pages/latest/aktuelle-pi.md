@@ -30,6 +30,16 @@ Das geht nicht. Aber man kann damit umgehen.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
+
+28. Juli 2026
+
+Stuttgart, Oktober 2010. Zehntausende demonstrieren gegen den Abriss des alten Bahnhofs. Bäume werden gefällt. Wasserwerfer werden eingesetzt. Das Projekt steht kurz vor dem Abbruch.
+
+Ein Jahr später stimmen 58,9 Prozent der ...
+
+Mehr erfahren
+
 England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
 
 17. Juli 2026
@@ -276,15 +286,6 @@ Davos: 2026 – Wenn Unvermeidlichkeit zum Produkt wird
 21. Januar 2026
 
 Am 20. Januar 2026 fand auf dem Weltwirtschaftsforum in Davos ein Gespräch zwischen BlackRock-CEO Larry Fink und Palantir-CEO Alex Karp statt. In den sozialen Medien wurde es als "legendär" bezeichnet, mit der Vorhersage, es würde ...
-
-Mehr erfahren
-
-HI AI Sykophantie vs. HI HI Echokammern
-
-17. Januar 2026
-
-HI  AI Sykophantie: Nutzer will Ehrlichkeit, belohnt Zustimmung (durch positives Feedback). KI lernt "hilfreich = angenehm" statt "hilfreich = korrekt". Keine aktive Täuschung – passives Abdriften in Richtung Bestätigung.
-HI  HI ...
 
 Mehr erfahren
 
