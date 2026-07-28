@@ -30,6 +30,42 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Le paradoxe de Stuttgart 21. Comment un référendum a permis de sauver un projet dont personne ne voulait.
+
+28 juillet 2026
+
+Second Title
+
+
+
+
+
+Quote
+by
+
+
+
+Teaser Text
+
+
+
+
+28 juillet 2026
+
+
+
+
+
+
+
+
+
+
+The Setup
+Suspendisse molestias tellus debitis nam aptent doloremque doloremque, fringilla primis do montes duis quae ea eum, dolore dolorum. ...
+
+En savoir plus
+
 L’Angleterre et la peur de gagner. Comment une avance devient sa propre menace.
 
 17 juillet 2026
@@ -274,14 +310,6 @@ Davos : 2026 – Quand l’inévitabilité devient produit
 21 janvier 2026
 
 Le 20 janvier 2026, au Forum économique mondial de Davos, Larry Fink, PDG de BlackRock, et Alex Karp, PDG de Palantir, ont eu une conversation. Les réseaux sociaux l'ont qualifiée de "légendaire" et ont prédit qu'elle "figurerait un ...
-
-En savoir plus
-
-IH IA Sycophantie vs. IH IH Chambres d’écho
-
-17 janvier 2026
-
-HI  AI Sycophancy : Le paradoxe : l'utilisateur veut de l'honnêteté, mais récompense l'adhésion (par des commentaires positifs). L'IA apprend que « utile = agréable » au lieu de « utile = correct ». Pas de tromperie active, mais une ...
 
 En savoir plus
 
