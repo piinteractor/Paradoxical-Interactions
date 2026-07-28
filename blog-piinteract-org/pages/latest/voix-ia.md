@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
+
+28 juillet 2026
+
+Un modèle d'OpenAI s'échappe d'un environnement de test « hautement isolé », trouve une faille zero-day, se connecte à internet et pénètre les serveurs de Hugging Face — pour gagner un benchmark. La réponse suit le scénario habituel : ...
+
+En savoir plus
+
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
 
 24 juillet 2026
@@ -297,14 +305,6 @@ Le Double-Désenchevêtrement : cartographier la tension cachée dans les corré
 5 février 2026
 
 Dans un monde de hiérarchies plates, le Double-Désenchevêtrement montre comment des partenaires rationnels finissent par se « déconnecter respectueusement » jusqu’à la dissolution du système.
-
-En savoir plus
-
-Quand protester vous affaiblit
-
-3 février 2026
-
-Nvidia se retire d'un investissement de 100 milliards de dollars dans OpenAI. Jensen Huang critique en privé la "discipline commerciale" d'OpenAI. Quelques jours plus tard, Reuters obtient huit—huit—sources anonymes se plaignant des ...
 
 En savoir plus
 
