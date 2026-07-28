@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
+
 Le Paradoxe du Grenier. Sept ans de silence ont protégé la preuve — et caché la faille.
 
 La chambre chinoise et l’arbitre absent. Pourquoi la compréhension ne se prouve que si personne ne vient vérifier.
@@ -77,5 +79,3 @@ Le paradoxe de l’arroseur de pelouse. Comment 1,6 million de décisions raison
 Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne se partage pas.
 
 Trop gentil, trop bon, trop petit : le paradoxe de l’apaisement
-
-Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
