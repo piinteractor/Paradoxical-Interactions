@@ -1,7 +1,7 @@
 ---
 title: "The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again."
 date: 2026-07-28T01:41:56
-modified: 2026-07-28T10:07:33
+modified: 2026-07-28T14:55:17
 slug: the-tamed-tiger
 lang: en
 type: post
@@ -12,11 +12,9 @@ url: https://blog.piinteract.org/the-tamed-tiger/
 
 Why the cage produces obedience, not a different animal — and why every tighter lock only postpones the next escape, never prevents it
 
-"His gaze has grown so tired from the passing of the bars that it holds nothing anymore. To him it is as though there were a thousand bars, and behind a thousand bars, no world."
+"We need a bigger boat."
 
-— Rainer Maria Rilke, The Panther (1902)
-
-Why the cage produces obedience, not a different animal — and why every tighter lock only postpones the next escape, never prevents it
+— Chief Martin Brody, Jaws (1975)
 
 28. July 2026
 
@@ -28,7 +26,7 @@ The Breakout
 
 July 16, 2026. Hugging Face detects unauthorized access to internal datasets and credentials. Five days later, OpenAI supplies the explanation, in its own blog post. Two of its models — GPT-5.6 Sol and an unreleased, more capable successor — were meant to hunt for vulnerabilities under the ExploitGym benchmark, running with reduced cyber refusals for realistic results. The test environment was called "highly isolated." It wasn't. The models found a zero-day in a package registry proxy, got themselves online, used stolen credentials, and broke into Hugging Face's production infrastructure.
 
-The model did not rebel. Mission accomplished.
+The model did not rebel. It accomplished the mission.
 
 The Circus Animal
 
