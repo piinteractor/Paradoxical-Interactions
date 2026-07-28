@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+
+28. Juli 2026
+
+Ein KI-Modell von OpenAI bricht aus einer „hochisolierten" Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt ...
+
+Mehr erfahren
+
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
 
 26. Juli 2026
@@ -294,14 +302,6 @@ Der wortgewandte Türhüter
 
 In einem langen Gespräch mit ChatGPT — dokumentiert in When Checkmate Is Just a Position und When Alignment Explains Its Own Null-Sum Game — geschah etwas Präzises.
 Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
-
-Mehr erfahren
-
-Peter Steinberger – Der Mann, der die Flut herbeiführte und dann den Deich baute
-
-22. Februar 2026
-
-Ein Entwickler erstellt ein Open-Source-Framework für die autonome KI-gestützte Inhaltsgenerierung. Dann muss er mit ansehen, wie es seine eigene Timeline zerstört – und beginnt, genau das zu blockieren, was er selbst ins Leben ...
 
 Mehr erfahren
 
