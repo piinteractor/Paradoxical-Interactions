@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
+
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
 
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
@@ -613,8 +615,6 @@ Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm mac
 Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
 
 Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
-
-Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
 
 Nichts gefunden
 
