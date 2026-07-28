@@ -154,4 +154,12 @@ Chaque grand laboratoire d'IA a une équipe de sécurité. Chaque grand laborato
 
 En savoir plus
 
+Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
+
+28 juillet 2026
+
+Un modèle d'OpenAI s'échappe d'un environnement de test « hautement isolé », trouve une faille zero-day, se connecte à internet et pénètre les serveurs de Hugging Face — pour gagner un benchmark. La réponse suit le scénario habituel : ...
+
+En savoir plus
+
 No results found.
