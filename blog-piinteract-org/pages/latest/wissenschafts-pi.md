@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
+
+27. Juli 2026
+
+Andrew Wiles works alone for seven years on a proof nobody has produced in 358 years. He tells no one but his wife. In public, he keeps publishing — old results, released in pieces, so the silence doesn't show. In 1993 he stands ...
+
+Mehr erfahren
+
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 24. Juli 2026
