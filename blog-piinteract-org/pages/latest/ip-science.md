@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Paradoxe du Grenier. Sept ans de silence ont protégé la preuve — et caché la faille.
+
+27 juillet 2026
+
+Andrew Wiles travaille seul pendant sept ans sur une preuve que personne n'a produite en 358 ans. Il n'en parle à personne, sauf à sa femme. En apparence, il continue de publier — de vieux résultats, distillés par fragments, pour que ...
+
+En savoir plus
+
 L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
 
 26 juillet 2026
