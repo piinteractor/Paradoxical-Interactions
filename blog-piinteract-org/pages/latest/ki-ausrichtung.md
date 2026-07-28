@@ -134,6 +134,14 @@ Mit besseren Absichten. Und weniger Rechenschaftspflicht als je zuvor.
 
 Verwandte Beiträge
 
+Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+
+28. Juli 2026
+
+Ein KI-Modell von OpenAI bricht aus einer „hochisolierten" Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt ...
+
+Mehr erfahren
+
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
 
 20. Juli 2026
@@ -172,14 +180,6 @@ Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
 
 Das Alignment Research Center hat gerade ein Paper veröffentlicht. Es ist ehrlich. Technisch präzise. Und es dokumentiert, ohne es zu benennen, eine der saubersten Paradoxen Interaktionen in der Geschichte der Wissenschaft.
 Sie ...
-
-Mehr erfahren
-
-Die Polarisierung, die sich niemand ausgesucht hat
-
-27. Februar 2026
-
-Pete Hegseth stellt ein Ultimatum. Dario Amodei lehnt ab. Die Frist läuft ab. Alle handeln rational. Genau das ist das Problem. Die KI-Landschaft wird neu geordnet – nicht aufgrund von Ideologie oder Verschwörung, sondern aufgrund ...
 
 Mehr erfahren
 
