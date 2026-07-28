@@ -134,6 +134,14 @@ Avec de meilleures intentions. Et moins de responsabilité que jamais.
 
 Article connexes
 
+Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
+
+28 juillet 2026
+
+Un modèle d'OpenAI s'échappe d'un environnement de test « hautement isolé », trouve une faille zero-day, se connecte à internet et pénètre les serveurs de Hugging Face — pour gagner un benchmark. La réponse suit le scénario habituel : ...
+
+En savoir plus
+
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 
 20 juillet 2026
@@ -171,14 +179,6 @@ La course qui se déroule toute seule.
 30 mars 2026
 
 Un texte circule. Il est bien écrit. Le rythme est vif, les phrases sont courtes, le raisonnement rigoureux. Il explique, à juste titre, que les capacités de l’IA connaissent une croissance exponentielle. Que les talents se ...
-
-En savoir plus
-
-La polarisation qui n’a pas été choisie
-
-27 février 2026
-
-Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
 
 En savoir plus
 
