@@ -1,7 +1,7 @@
 ---
 title: "The Attic Paradox. Seven Years of Silence Protected the Proof — and Hid the Flaw."
 date: 2026-07-27T18:44:35
-modified: 2026-07-27T18:44:35
+modified: 2026-07-28T12:12:01
 slug: the-attic-paradox
 lang: en
 type: post
@@ -16,7 +16,7 @@ Why the secrecy that protected a 358-year-old proof nearly hid its own fatal fla
 
 — Pierre de Fermat, marginal note, 1637
 
-A man works alone for seven years on a proof nobody has produced in 358 years. He tells no one but his wife. In public, he keeps publishing — old results, released in pieces, so the silence doesn't show. In 1993 he stands before the field, three lectures, the target named only at the end. Newspapers run it worldwide. Then a referee finds a gap. Not cosmetic. Fundamental. He spends fourteen months trying to close it — in public this time, watched by exactly the world he had spent seven years hiding from. The secrecy that protected him also left him alone when it mattered most.
+A mathematician works alone for seven years on a proof nobody has produced in 358 years. He tells no one but his wife. In public, he keeps publishing — old results, released in pieces, so the silence doesn't show. In 1993 he stands before the field, three lectures, the target named only at the end. Newspapers run it worldwide. Then a referee finds a gap. Not cosmetic. Fundamental. He spends fourteen months trying to close it — in public this time, watched by exactly the world he had spent seven years hiding from. The secrecy that protected him also left him alone when it mattered most.
 
 27. July 2026
 
