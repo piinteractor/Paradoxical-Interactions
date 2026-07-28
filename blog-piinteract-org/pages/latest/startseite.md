@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
+
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
 
 Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
@@ -152,5 +154,3 @@ England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
 Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
 
 Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt.
-
-Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
