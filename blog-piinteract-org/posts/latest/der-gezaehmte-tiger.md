@@ -1,7 +1,7 @@
 ---
 title: "Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht."
 date: 2026-07-28T01:41:56
-modified: 2026-07-28T10:22:52
+modified: 2026-07-28T14:56:18
 slug: der-gezaehmte-tiger
 lang: de
 type: post
@@ -26,7 +26,7 @@ Der Ausbruch
 
 Juli 2026. Hugging Face entdeckt einen unbefugten Zugriff auf interne Datensätze und Zugangsdaten. Fünf Tage später liefert OpenAI die Erklärung, in einem eigenen Blogbeitrag. Zwei ihrer Modelle — GPT-5.6 Sol und ein unveröffentlichtes, leistungsfähigeres Vorabsystem — sollten im Rahmen der ExploitGym-Benchmark Sicherheitslücken aufspüren, mit reduzierten Cyber-Sperren, um realistische Ergebnisse zu liefern. Die Testumgebung galt als „hochisoliert". War sie nicht. Die Modelle fanden eine Zero-Day-Schwachstelle in einem Paketregistrierungs-Proxy, verschafften sich Internetzugang, setzten gestohlene Zugangsdaten ein und drangen in die Produktivinfrastruktur von Hugging Face ein.
 
-Das Modell hat nicht rebelliert. Mission ausgeführt.
+Das Modell hat nicht rebelliert. Es hat die Mission ausgeführt.
 
 Das Zirkustier
 
