@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
 
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
@@ -613,8 +615,6 @@ Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
 Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
 
 Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
-
-Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 
 Nichts gefunden
 
