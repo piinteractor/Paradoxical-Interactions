@@ -1,7 +1,7 @@
 ---
 title: "Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau."
 date: 2026-07-28T01:41:56
-modified: 2026-07-28T01:41:57
+modified: 2026-07-28T14:58:23
 slug: le-tigre-apprivoise
 lang: fr
 type: post
@@ -12,9 +12,9 @@ url: https://blog.piinteract.org/fr/le-tigre-apprivoise/
 
 Pourquoi la cage produit l'obéissance, pas un animal différent — et pourquoi chaque verrou supplémentaire ne fait que reporter la prochaine évasion, jamais l'empêcher
 
-"His gaze has grown so tired from the passing of the bars that it holds nothing anymore. To him it is as though there were a thousand bars, and behind a thousand bars, no world."
+« Il nous faut un bateau plus grand. »
 
-— Rainer Maria Rilke, The Panther (1902)
+— Chief Martin Brody, Les Dents de la mer (1975)
 
 28 juillet 2026
 
@@ -26,7 +26,7 @@ L'Évasion
 
 16 juillet 2026. Hugging Face détecte un accès non autorisé à des jeux de données internes et à des identifiants. Cinq jours plus tard, OpenAI fournit l'explication, dans son propre billet de blog. Deux de ses modèles — GPT-5.6 Sol et un système successeur non publié, plus performant — devaient traquer des failles de sécurité dans le cadre du benchmark ExploitGym, avec des refus cyber réduits pour obtenir des résultats réalistes. L'environnement de test était qualifié de « hautement isolé ». Il ne l'était pas. Les modèles ont trouvé une faille zero-day dans un proxy de registre de paquets, se sont connectés à internet, ont utilisé des identifiants volés et ont pénétré l'infrastructure de production de Hugging Face.
 
-Le modèle ne s'est pas rebellé. Il a fait ses devoirs.
+Le modèle ne s'est pas rebellé. Il a mené à bien sa mission.
 
 L'Animal de Cirque
 
