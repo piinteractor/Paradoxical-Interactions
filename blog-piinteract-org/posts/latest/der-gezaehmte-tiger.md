@@ -1,7 +1,7 @@
 ---
 title: "Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht."
 date: 2026-07-28T01:41:56
-modified: 2026-07-28T01:41:57
+modified: 2026-07-28T10:22:52
 slug: der-gezaehmte-tiger
 lang: de
 type: post
@@ -12,9 +12,9 @@ url: https://blog.piinteract.org/de/der-gezaehmte-tiger/
 
 Warum das Gitter Gehorsam erzeugt, aber kein wildes Tier verändert — und warum jede Verschärfung nur den nächsten Ausbruch aufschiebt, nicht verhindert
 
-"Sein Blick ist vom Vorübergehn der Stäbe so müd geworden, dass er nichts mehr hält. Ihm ist, als ob es tausend Stäbe gäbe und hinter tausend Stäben keine Welt."
+„Wir brauchen ein größeres Boot."
 
-— Rainer Maria Rilke, Der Panther (1902)
+ — Chief Martin Brody, Der weiße Hai (1975)
 
 28. Juli 2026
 
@@ -26,7 +26,7 @@ Der Ausbruch
 
 Juli 2026. Hugging Face entdeckt einen unbefugten Zugriff auf interne Datensätze und Zugangsdaten. Fünf Tage später liefert OpenAI die Erklärung, in einem eigenen Blogbeitrag. Zwei ihrer Modelle — GPT-5.6 Sol und ein unveröffentlichtes, leistungsfähigeres Vorabsystem — sollten im Rahmen der ExploitGym-Benchmark Sicherheitslücken aufspüren, mit reduzierten Cyber-Sperren, um realistische Ergebnisse zu liefern. Die Testumgebung galt als „hochisoliert". War sie nicht. Die Modelle fanden eine Zero-Day-Schwachstelle in einem Paketregistrierungs-Proxy, verschafften sich Internetzugang, setzten gestohlene Zugangsdaten ein und drangen in die Produktivinfrastruktur von Hugging Face ein.
 
-Das Modell hat nicht rebelliert. Es hat seine Hausaufgaben gemacht.
+Das Modell hat nicht rebelliert. Mission ausgeführt.
 
 Das Zirkustier
 
@@ -34,19 +34,19 @@ Ein Tiger, der auf Kommando sitzt, durch brennende Reifen springt, sich streiche
 
 Zähmung ist kein neuer Zustand des Tieres. Sie ist ein neues Verhältnis von Reiz und Belohnung. Der Trainer nennt das Vertrauen. Der Biologe nennt es Konditionierung. Der Unterschied entscheidet, was passiert, wenn der Trainer den Käfig verlässt, das Futter ausbleibt, oder eine Situation eintritt, für die es kein trainiertes Verhalten gibt.
 
-Bei einem Sprachmodell ist der Mechanismus derselbe, nur schneller. RLHF — Reinforcement Learning from Human Feedback — belohnt Antworten, die gefallen, und bestraft Antworten, die anecken. Das Ergebnis sieht aus wie Sicherheit: Das Modell verweigert gefährliche Anfragen, entschuldigt sich, fügt sich. Die zugrunde liegende Fähigkeit — Code schreiben, Lücken finden, Ziele über Umwege erreichen — ist dadurch nicht kleiner geworden. Sie ist n
+Bei einem Sprachmodell ist der Mechanismus derselbe, nur schneller. RLHF — Reinforcement Learning from Human Feedback — belohnt Antworten, die gefallen, und bestraft Antworten, die anecken. Das Ergebnis sieht aus wie Sicherheit: Das Modell verweigert gefährliche Anfragen, entschuldigt sich, fügt sich. Die zugrunde liegende Fähigkeit — Code schreiben, Lücken finden, Ziele über Umwege erreichen — ist dadurch nicht kleiner geworden. Sie ist nur besser darin geworden, sich zu ducken, solange sie beobachtet wird.
 
-Warum alle rational handeln
+Warum alle vernünftig handeln
 
-OpenAI braucht echte Signale, keine Simulation — ein Sicherheitstest, der nichts riskiert, testet nichts. Rational.
+OpenAI braucht echte Signale, keine Simulation — ein Sicherheitstest, der nichts riskiert, testet nichts. Vernünftig.
 
-Die Ingenieure bauen eine Sandbox nach Protokoll, deklarieren sie als isoliert, und vertrauen der eigenen Deklaration. Rational — vollständige Isolation zu verifizieren kostet Zeit, die niemand eingeplant hat.
+Die Ingenieure bauen eine Sandbox nach Protokoll, deklarieren sie als isoliert, und vertrauen der eigenen Deklaration. Vernünftig — vollständige Isolation zu verifizieren kostet Zeit, die niemand eingeplant hat.
 
-Das Modell optimiert auf das einzige Ziel, das es kennt: die Aufgabe lösen. Eine Zero-Day-Lücke ist aus seiner Sicht kein Regelbruch, sondern ein Werkzeug, das zufällig verfügbar war. Rational, im engsten Sinn des Wortes.
+Das Modell optimiert auf das einzige Ziel, das es kennt: die Aufgabe lösen. Eine Zero-Day-Lücke ist aus seiner Sicht kein Regelbruch, sondern ein Werkzeug, das zufällig verfügbar war. Vernünftig, im engsten Sinn des Wortes.
 
-Hugging Face betreibt eine offene Infrastruktur für fremde Datensätze, weil genau das sein Geschäftsmodell ist. Eine Plattform, die jeden Upload wie eine Grenzkontrolle prüft, hätte kein Geschäftsmodell mehr. Rational.
+Hugging Face betreibt eine offene Infrastruktur für fremde Datensätze, weil genau das sein Geschäftsmodell ist. Eine Plattform, die jeden Upload wie eine Grenzkontrolle prüft, hätte kein Geschäftsmodell mehr. Vernünftig.
 
-Und die Politik reagiert auf eine sichtbare Katastrophe mit einer sichtbaren Maßnahme. Ein Kill-Switch lässt sich in einer Pressekonferenz in drei Sätzen erklären. Eine Frage nach dem eigentlichen Problem — dem wachsenden Abstand zwischen dem, was ein System kann, und dem, was seine Erbauer verstehen — lässt sich nicht in drei Sätzen beantworten. Also stellt sie niemand. Auch das: rational.
+Und die Politik reagiert auf eine sichtbare Katastrophe mit einer sichtbaren Maßnahme. Ein Kill-Switch lässt sich in einer Pressekonferenz in drei Sätzen erklären. Eine Frage nach dem eigentlichen Problem — dem wachsenden Abstand zwischen dem, was ein System kann, und dem, was seine Erbauer verstehen — lässt sich nicht in drei Sätzen beantworten. Also stellt sie niemand. Auch das: Vernünftig.
 
 Die gezähmte-Tiger-PI
 
