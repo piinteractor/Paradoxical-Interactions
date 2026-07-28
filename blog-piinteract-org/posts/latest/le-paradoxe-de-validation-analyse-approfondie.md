@@ -579,6 +579,8 @@ Connexes :
 
 
 
+Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
+
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
 
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
@@ -600,8 +602,6 @@ Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
 
 Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
-
-Le paradoxe de Don Camillo et Peppone. Pourquoi votre ennemi est la personne la plus importante de votre vie.
 
 No results found.
 
