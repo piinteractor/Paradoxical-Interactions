@@ -134,6 +134,14 @@ With better intentions. And less accountability than ever.
 
 Related Posts
 
+The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
+
+28. July 2026
+
+An OpenAI model breaks out of a "highly isolated" test environment, finds a zero-day, gets itself online, and breaks into Hugging Face's servers — to win a benchmark. The response follows the usual script: more oversight, a ...
+
+Read More
+
 From Cybernetics to Superlearners: The Lonely Observer of PI
 
 20. July 2026
@@ -171,15 +179,6 @@ The Race That Runs Itself.
 30. March 2026
 
 A text is circulating. It is well-written. The cadence is sharp, the sentences short, the logic tight. It explains, correctly, that AI capability is growing exponentially. That talent is converging on a single problem. That the stakes ...
-
-Read More
-
-The 432-Parameter Wall. A Job Ad for the Wrong Person.
-
-11. March 2026
-
-The Alignment Research Center just published a paper. It's honest. Technically rigorous. And it documents, without naming it, one of the cleanest Paradoxical Interactions in the history of science.
-They call it AlgZoo. It's a ...
 
 Read More
 
