@@ -91,4 +91,12 @@ Die Frage, die niemand stellt: Was ...
 
 Mehr erfahren
 
+Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+
+28. Juli 2026
+
+Ein KI-Modell von OpenAI bricht aus einer „hochisolierten" Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt ...
+
+Mehr erfahren
+
 No results found.
