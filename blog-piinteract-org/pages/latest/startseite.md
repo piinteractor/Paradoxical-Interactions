@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+
 Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten seinen Fehler.
 
 Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
@@ -152,5 +154,3 @@ Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine St
 Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt.
 
 Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
-
-Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
