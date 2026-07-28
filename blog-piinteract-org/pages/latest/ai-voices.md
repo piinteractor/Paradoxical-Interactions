@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
+
+28. July 2026
+
+An OpenAI model breaks out of a "highly isolated" test environment, finds a zero-day, gets itself online, and breaks into Hugging Face's servers — to win a benchmark. The response follows the usual script: more oversight, a ...
+
+Read More
+
 The Forced Inequality. Why Balance Never Lasts.
 
 24. July 2026
@@ -387,16 +395,6 @@ How Elon Musk Pumped a Memecoin Without Saying a Word—And Why No One Is at Fau
 December 31, 2024. Elon Musk changes his X profile name to "Kekius Maximus." No explanation. No recommendation. Just a name change and a Pepe the Frog avatar in Roman armor.
 Within hours, a memecoin called KEKIUS surges 1,600%.
 One ...
-
-Read More
-
-€$€€$$ — When the quizmaster finally shows up and tweets
-
-30. January 2026
-
-Two sat and talked.
-Not in a field. In a chat window. One human, one AI. Estragon and Vladimir, version 2026.
-The topic: the Quizmaster. The absent authority. The one who took the prize money and ran. The one everyone waits for and ...
 
 Read More
 
