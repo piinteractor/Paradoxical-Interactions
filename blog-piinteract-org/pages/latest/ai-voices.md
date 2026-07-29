@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
+
+29. July 2026
+
+A system only reacts to what fits its own code. What doesn't fit isn't suppressed. It isn't even seen. BaFin never had to defend Wirecard's balance sheet — it only had to file the Financial Times reporters' findings under market ...
+
+Read More
+
 The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
 
 28. July 2026
@@ -381,20 +389,6 @@ When Leaking Makes You Look Weaker
 
 Nvidia walks away from a $100 billion investment in OpenAI. Jensen Huang privately criticizes OpenAI's "business discipline." Days later, Reuters gets eight—eight—anonymous sources complaining about Nvidia's chips.
 The timing isn't ...
-
-Read More
-
-The Perelman Paradox
-
-2. February 2026
-
-Grigori Perelman solved the Poincaré conjecture.
-One of the seven Millennium Problems.
-Worth $1 million.
-He declined the prize.
-He declined the Fields Medal.
-He disappeared into a St. Petersburg apartment.
-And into the ...
 
 Read More
 
