@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-06-26T16:42:56
+modified: 2026-07-29T04:00:34
 slug: home
 lang: en
 type: page
@@ -79,3 +79,51 @@ England and the Fear of Winning. How a Lead Becomes Its Own Threat.
 The Lawn Sprinkler Paradox: How 1.6 Million Sensible Decisions Are Draining a City Dry.
 
 The Recognition Trap. Why the ultimate insight is that knowledge cannot be shared.
+
+Too Nice, Too Good, Too Small: The Appeasement Paradox
+
+What is the AI’s IQ? The number that has lost its measure
+
+Monday Me and Friday Me. The world’s smallest paradoxical interaction.
+
+The Pike Syndrome: How Conditioning Destroys Skills.
+
+The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
+
+The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
+
+The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
+
+The Groucho Marx PI. A System That Lives on Being Contradicted.
+
+The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
+
+The Susskind Unbind. When a Theory Severs Its Own Leash.
+
+The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
+
+The Party Nobody Built. How Every Rational Actor Produced the AfD.
+
+The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
+
+The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
+
+The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
+
+The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
+
+The Blind Spot That Sees Everything. Why Physics Cannot Observe What Makes Physics Possible.
+
+The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
+
+The Albigensian PI. How Christians Launched a Crusade Against Christians.
+
+The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
+
+When AI Alignment Becomes a Paradoxical Interaction
+
+The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
+
+The Dawkins Trap. The Man Who Described PI — and Walked Right Into It.
+
+Why Objectivity Cannot Be Objective. The Observer Who Wasn’t There.
