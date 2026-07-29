@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+La vérité parallèle. Pourquoi la structure peut la laisser exister sans jamais la percevoir.
+
 Le paradoxe de Stuttgart 21. Comment un référendum a permis de sauver un projet dont personne ne voulait.
 
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
@@ -77,5 +79,3 @@ De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 L’Angleterre et la peur de gagner. Comment une avance devient sa propre menace.
 
 Le paradoxe de l’arroseur de pelouse. Comment 1,6 million de décisions raisonnables assèchent une ville.
-
-Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne se partage pas.
