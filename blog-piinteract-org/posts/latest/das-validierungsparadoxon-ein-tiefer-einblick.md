@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
+
 Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
 
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
@@ -613,8 +615,6 @@ Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine St
 Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
 
 Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
-
-Die Groucho Marx PI. Ein System, das davon lebt, wenn ihm widersprochen wird.
 
 Nichts gefunden
 
