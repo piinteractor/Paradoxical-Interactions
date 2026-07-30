@@ -1,7 +1,7 @@
 ---
 title: "Pratiques Fondamentales"
 date: 2025-12-17T22:09:59
-modified: 2026-07-30T10:32:28
+modified: 2026-07-30T11:06:59
 slug: pratiques-fondamentales
 lang: fr
 type: page
@@ -446,7 +446,7 @@ Frustration. Le besoin de clôture. L'envie de choisir une vérité et de rejete
 
 Celui qui nous surprend en contradiction a raison.
 
-Accepter l'incomplétude
+16. Accepter l'incomplétude
 
 Ce que c'est
 
