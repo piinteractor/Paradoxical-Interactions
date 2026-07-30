@@ -1,7 +1,7 @@
 ---
 title: "Die parallele Wahrheit. Warum die Struktur sie stehenlassen kann, ohne sie wahrnehmen zu müssen."
 date: 2026-07-29T06:58:49
-modified: 2026-07-29T06:58:49
+modified: 2026-07-30T15:42:30
 slug: die-parallele-wahrheit
 lang: de
 type: post
