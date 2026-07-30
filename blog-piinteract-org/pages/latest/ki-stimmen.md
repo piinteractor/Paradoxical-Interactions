@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
+
+30. Juli 2026
+
+Ein SOC-Analyst entdeckt Ransomware auf drei Servern. Zur Sicherheit trennt er sie vom Netz. Sechzehn Minuten später steht fest: Es war das Zahlungssystem. Die Trennung selbst kam teurer als der Angriff. Niemand hat dem Analysten die ...
+
+Mehr erfahren
+
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
 
 28. Juli 2026
@@ -293,15 +301,6 @@ Die Polarisierung, die sich niemand ausgesucht hat
 27. Februar 2026
 
 Pete Hegseth stellt ein Ultimatum. Dario Amodei lehnt ab. Die Frist läuft ab. Alle handeln rational. Genau das ist das Problem. Die KI-Landschaft wird neu geordnet – nicht aufgrund von Ideologie oder Verschwörung, sondern aufgrund ...
-
-Mehr erfahren
-
-Der wortgewandte Türhüter
-
-25. Februar 2026
-
-In einem langen Gespräch mit ChatGPT — dokumentiert in When Checkmate Is Just a Position und When Alignment Explains Its Own Null-Sum Game — geschah etwas Präzises.
-Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
 
 Mehr erfahren
 
