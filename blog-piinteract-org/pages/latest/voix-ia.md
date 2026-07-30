@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
+
+30 juillet 2026
+
+Un analyste SOC repère un rançongiciel sur trois serveurs. Il les déconnecte. Seize minutes plus tard, l'évidence s'impose : il vient de couper le traitement des paiements. La déconnexion elle-même coûte plus cher que l'attaque ...
+
+En savoir plus
+
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
 
 28 juillet 2026
@@ -297,14 +305,6 @@ La formule qui a prouvé le contraire de ce que vous pensez
 6 février 2026
 
 En 2004, Roger Penrose a publié The Road to Reality, un voyage de 1 100 pages à travers les fondements mathématiques de la physique. Sur l'une de ses pages, il a imprimé la densité lagrangienne complète du Modèle Standard de la ...
-
-En savoir plus
-
-Le Double-Désenchevêtrement : cartographier la tension cachée dans les corrélations égales
-
-5 février 2026
-
-Dans un monde de hiérarchies plates, le Double-Désenchevêtrement montre comment des partenaires rationnels finissent par se « déconnecter respectueusement » jusqu’à la dissolution du système.
 
 En savoir plus
 
