@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
+
+30 juillet 2026
+
+Un analyste SOC repère un rançongiciel sur trois serveurs. Il les déconnecte. Seize minutes plus tard, l'évidence s'impose : il vient de couper le traitement des paiements. La déconnexion elle-même coûte plus cher que l'attaque ...
+
+En savoir plus
+
 Le paradoxe de Stuttgart 21. Comment un référendum a permis de sauver un projet dont personne ne voulait.
 
 28 juillet 2026
@@ -302,14 +310,6 @@ Le Crime
 Cherchez sur Google « paradoxe Interaktion » (interaction paradoxale).
 Ce que vous obtenez: Paradoxe Intervention (intervention paradoxale). Psychothérapie. Prescription du symptôme. Technique thérapeutique.
 Pas la même ...
-
-En savoir plus
-
-Davos : 2026 – Quand l’inévitabilité devient produit
-
-21 janvier 2026
-
-Le 20 janvier 2026, au Forum économique mondial de Davos, Larry Fink, PDG de BlackRock, et Alex Karp, PDG de Palantir, ont eu une conversation. Les réseaux sociaux l'ont qualifiée de "légendaire" et ont prédit qu'elle "figurerait un ...
 
 En savoir plus
 
