@@ -589,6 +589,8 @@ Related:
 
 
 
+The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
+
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
 
 The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
@@ -610,8 +612,6 @@ The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd 
 The Groucho Marx PI. A System That Lives on Being Contradicted.
 
 The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
-
-The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
 No results found.
 
