@@ -1,7 +1,7 @@
 ---
 title: "Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte."
 date: 2026-07-28T17:39:38
-modified: 2026-07-28T17:58:17
+modified: 2026-07-30T10:34:09
 slug: das-stuttgart-21-paradox
 lang: de
 type: post
