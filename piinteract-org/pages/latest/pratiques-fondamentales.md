@@ -1,7 +1,7 @@
 ---
 title: "Pratiques Fondamentales"
 date: 2025-12-17T22:09:59
-modified: 2026-05-03T10:21:12
+modified: 2026-07-30T10:32:28
 slug: pratiques-fondamentales
 lang: fr
 type: page
@@ -446,7 +446,33 @@ Frustration. Le besoin de clôture. L'envie de choisir une vérité et de rejete
 
 Celui qui nous surprend en contradiction a raison.
 
-16. Reconnaître l’angle mort commun
+Accepter l'incomplétude
+
+Ce que c'est
+
+Reconnaître qu'aucun système — ce cadre non plus — ne peut se voir entièrement depuis l'intérieur.
+
+Pourquoi ça navigue
+
+Tout système suffisamment complexe contient des vérités qu'il ne peut prouver depuis l'intérieur (Gödel, appliqué structurellement — voir le Two-Idiot Theorem). Attendre le tableau complet avant d'agir, c'est attendre indéfiniment. La faille n'est pas un défaut à corriger. C'est la condition pour que quoi que ce soit fonctionne ici.
+
+Si tu es ici
+
+Tu peaufines sans cesse avant d'agir, tu attends que le cadre soit « terminé »
+
+Tu vis les trous du modèle comme disqualifiants plutôt que structurels
+
+Tu veux la clôture avant de t'engager
+
+Ce mouvement est possible
+
+Agis à l'intérieur de l'incomplétude. Tu ne peux pas combler la faille — et faire semblant d'y arriver est pire que de la laisser ouverte. Laisse l'incomplétude de l'autre rencontrer la tienne. C'est souvent de là que vient l'idée — pas malgré les failles, mais à travers elles.
+
+Attends-toi à ceci
+
+Le nommer ici ne referme pas la faille non plus. Cette entrée est elle-même incomplète. Ce n'est pas un défaut du texte. C'est le propos.
+
+17. Reconnaître l’angle mort commun
 
 De quoi s’agit-il ?
 
