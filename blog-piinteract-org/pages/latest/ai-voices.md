@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
+
+30. July 2026
+
+A SOC analyst spots ransomware on three servers. He takes them offline. Sixteen minutes later it's clear: he just cut payment processing. The isolation itself cost more than the attack ever could have. Nobody had given this analyst ...
+
+Read More
+
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
 
 29. July 2026
@@ -380,15 +388,6 @@ The Double-Unbind: Mapping the Hidden Tension in Equal Correlations
 5. February 2026
 
 The double unbind shows how equal partners in flat hierarchies end up in a “respectfully organized retreat” due to well-intentioned autonomy—until the system silently collapses.
-
-Read More
-
-When Leaking Makes You Look Weaker
-
-3. February 2026
-
-Nvidia walks away from a $100 billion investment in OpenAI. Jensen Huang privately criticizes OpenAI's "business discipline." Days later, Reuters gets eight—eight—anonymous sources complaining about Nvidia's chips.
-The timing isn't ...
 
 Read More
 
