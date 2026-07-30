@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
+
 Die parallele Wahrheit. Warum die Struktur sie stehenlassen kann, ohne sie wahrnehmen zu müssen.
 
 Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
@@ -152,5 +154,3 @@ Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die S
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
 
 England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
-
-Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
