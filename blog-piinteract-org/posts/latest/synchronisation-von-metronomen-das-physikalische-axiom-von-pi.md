@@ -1,7 +1,7 @@
 ---
 title: "Die Synchronisation von Metronomen. Das physikalische Axiom von PI."
 date: 2026-03-07T10:00:56
-modified: 2026-06-26T13:29:06
+modified: 2026-07-31T08:06:01
 slug: synchronisation-von-metronomen-das-physikalische-axiom-von-pi
 lang: de
 type: post
@@ -17,8 +17,6 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 — Anonym
 
 7. März 2026
-
-Peter Senner co-created with Perplexity
 
 Der Mythos der Autonomie
 
@@ -108,4 +106,4 @@ contact@piinteract.org
 
 www.piinteract.org
 
-Co-created with Perplexity — two incomplete systems making each other's gaps visible.
+Co-kreiert mit Perplexity — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
