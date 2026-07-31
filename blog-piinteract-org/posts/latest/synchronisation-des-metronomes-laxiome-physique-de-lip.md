@@ -1,7 +1,7 @@
 ---
 title: "Synchronisation des métronomes. L’axiome physique de l’IP."
 date: 2026-03-07T10:00:56
-modified: 2026-05-29T06:18:44
+modified: 2026-07-31T08:07:22
 slug: synchronisation-des-metronomes-laxiome-physique-de-lip
 lang: fr
 type: post
@@ -17,8 +17,6 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 — Anonyme
 
 7 mars 2026
-
-Peter Senner co-creé avec Perplexity
 
 Le mythe de l'autonomie
 
@@ -110,4 +108,4 @@ contact@piinteract.org
 
 www.piinteract.org
 
-Réalisé en collaboration avec Claude (Anthropic) — deux systèmes incomplets qui mettent en évidence leurs lacunes respectives.
+Peter Senner co-creé avec Perplexity — deux systèmes incomplets qui mettent en évidence leurs lacunes respectives.
