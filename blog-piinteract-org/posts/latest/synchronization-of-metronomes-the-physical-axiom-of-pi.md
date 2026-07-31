@@ -1,7 +1,7 @@
 ---
 title: "Synchronization of Metronomes. The Physical Axiom of PI."
 date: 2026-03-07T10:00:56
-modified: 2026-03-30T10:11:44
+modified: 2026-07-31T08:03:35
 slug: synchronization-of-metronomes-the-physical-axiom-of-pi
 lang: en
 type: post
@@ -17,8 +17,6 @@ You don't have sufficient permissions to access this content.
 — Anonymous
 
 7. March 2026
-
-Peter Senner co-created with Perplexity
 
 The Myth of Autonomy
 
@@ -110,4 +108,4 @@ contact@piinteract.org
 
 www.piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Perplexity — two incomplete systems making each other's gaps visible.
