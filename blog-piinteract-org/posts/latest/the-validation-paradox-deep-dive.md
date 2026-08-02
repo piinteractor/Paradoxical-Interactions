@@ -589,6 +589,8 @@ Related:
 
 
 
+The Archimedean Point. Why Einstein Begins With the Man on a Train.
+
 The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
 
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
@@ -610,8 +612,6 @@ The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
 The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
 
 The Groucho Marx PI. A System That Lives on Being Contradicted.
-
-The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 
 No results found.
 
