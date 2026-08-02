@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Der Archimedische Punkt. Warum Einstein mit dem Mann im Zug beginnt.
+
 Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
 
 Die parallele Wahrheit. Warum die Struktur sie stehenlassen kann, ohne sie wahrnehmen zu müssen.
@@ -152,5 +154,3 @@ Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
 
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
-
-England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
