@@ -579,6 +579,8 @@ Connexes :
 
 
 
+Le Point d’Archimède. Pourquoi Einstein commence par l’homme dans un train.
+
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
 
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
@@ -600,8 +602,6 @@ L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
 L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
 
 Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
-
-Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
 
 No results found.
 
