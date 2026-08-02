@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le Point d’Archimède. Pourquoi Einstein commence par l’homme dans un train.
+
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
 
 La vérité parallèle. Pourquoi la structure peut la laisser exister sans jamais la percevoir.
@@ -77,5 +79,3 @@ L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait explose
 Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure.
 
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
-
-L’Angleterre et la peur de gagner. Comment une avance devient sa propre menace.
