@@ -56,8 +56,6 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
-The Archimedean Point. Why Einstein Begins With the Man on a Train.
-
 The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
 
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
@@ -127,3 +125,5 @@ The Albigensian PI. How Christians Launched a Crusade Against Christians.
 The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
 
 When AI Alignment Becomes a Paradoxical Interaction
+
+The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
