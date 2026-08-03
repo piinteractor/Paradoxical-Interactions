@@ -1,12 +1,12 @@
 ---
 title: "The Archimedean Point. Why Einstein Begins With the Man on a Train."
-date: 2026-08-02T13:55:54
-modified: 2026-08-02T13:59:25
+date: 2026-08-03T14:21:30
+modified: 2026-08-03T14:21:30
 slug: the-archimedean-point
 lang: en
 type: post
 status: publish
-wp_id: 8718
+wp_id: 8780
 url: https://blog.piinteract.org/the-archimedean-point/
 ---
 
@@ -30,9 +30,29 @@ Einstein doesn't open his theory of relativity with two reference frames side by
 
 
 
+
+
+
+3. August 2026
+
+
+
+
+
+
+
 The Setup
 
 1917, Berlin. Albert Einstein writes a book for laypeople: Relativity: The Special and the General Theory. Chapter III, "Space and Time in Classical Mechanics." The first sentence that introduces an actual observer doesn't read "Let two reference frames be given." It reads: "I stand at the window of a railway carriage which is travelling uniformly, and drop a stone on the embankment, without throwing it." I. Not "an observer." Einstein himself, at the window, stone in hand. Only in the next sentence does the second one show up: a pedestrian watching from the footpath, seeing something different from the man in the train — a parabola instead of a straight line. The whole problem sits between those two sentences.
+
+
+
+
+
+
+
+
+
 
 
 
@@ -106,6 +126,15 @@ The vocabulary two observers need to find, in order to understand each other, is
 
 
 
+
+
+
+
+
+
+
+
+
 Related Posts
 
 
@@ -154,3 +183,24 @@ On the Electrodynamics of Moving Bodies (1905) — The original paper, where Ein
 K-calculus in 4-dimensional optics (arXiv) — Formalizes Bondi's method: two observers, only light signals, no shared stage from which both would be visible at once.
 
 Conventionality of Simultaneity — Stanford Encyclopedia of Philosophy: the still-unresolved debate over whether "simultaneous" can be defined independently of a convention at all.
+
+
+
+
+
+
+
+Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
+
+All are guilty. None are at fault.
+
+
+
+
+Peter Senner Thinking beyond the Tellerrand
+
+contact@piinteract.org
+
+https://piinteract.org
+
+Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
