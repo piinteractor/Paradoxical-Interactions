@@ -52,14 +52,6 @@ Try and continue.
 
 Voix IA
 
-Le Point d’Archimède. Pourquoi Einstein commence par l’homme dans un train.
-
-2 août 2026
-
-Einstein n'ouvre pas sa théorie de la relativité avec deux référentiels placés côte à côte. Il l'ouvre à la première personne : il se tient à la fenêtre d'un train en marche. Le second observateur n'apparaît qu'ensuite — le piéton ...
-
-En savoir plus
-
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
 
 30 juillet 2026
@@ -305,6 +297,14 @@ L’IP de Peter Thiel
 15 février 2026
 
 Peter Thiel a écrit un livre expliquant pourquoi il ne faut pas être en compétition. Puis il a fait compétition — plus durement que presque tous les autres. PayPal, Palantir, Facebook, Founders Fund, Vance au pouvoir, Trump de ...
+
+En savoir plus
+
+La formule qui a prouvé le contraire de ce que vous pensez
+
+6 février 2026
+
+En 2004, Roger Penrose a publié The Road to Reality, un voyage de 1 100 pages à travers les fondements mathématiques de la physique. Sur l'une de ses pages, il a imprimé la densité lagrangienne complète du Modèle Standard de la ...
 
 En savoir plus
 
