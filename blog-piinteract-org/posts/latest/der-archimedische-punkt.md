@@ -1,12 +1,12 @@
 ---
 title: "Der Archimedische Punkt. Warum Einstein mit dem Mann im Zug beginnt."
-date: 2026-08-02T13:55:54
-modified: 2026-08-03T13:15:06
+date: 2026-08-03T14:21:30
+modified: 2026-08-03T14:21:31
 slug: der-archimedische-punkt
 lang: de
 type: post
 status: publish
-wp_id: 8701
+wp_id: 8783
 url: https://blog.piinteract.org/de/der-archimedische-punkt/
 ---
 
@@ -17,6 +17,8 @@ Warum Physik zwei Beobachter braucht, um zu funktionieren — und warum keiner v
 — Archimedes (überliefert von Pappos von Alexandria)
 
 Einstein beginnt seine Relativitätstheorie nicht mit zwei Bezugssystemen nebeneinander. Er beginnt mit einem Satz in der ersten Person: „Ich stehe am Fenster eines Eisenbahnwagens ...“ Erst danach taucht der zweite Beobachter auf — der Fußgänger draußen, der dieselbe Szene anders sieht. Kein Diagramm zeigt beide gleichzeitig, weil niemand beide gleichzeitig sehen kann. Was Physik-Lehrbücher trotzdem tun — zwei Bezugssysteme wie auf einer Bühne nebeneinanderstellen —, ist ein Kunstgriff. Er funktioniert, weil er nützlich ist. Er ist trotzdem falsch. Es gibt keinen Standpunkt, von dem aus beide Perspektiven zugleich sichtbar wären. Das gilt nicht nur für Züge. Es gilt für alles andere auch.
+
+3. August 2026
 
 Das Setup
 
@@ -97,3 +99,15 @@ On the Electrodynamics of Moving Bodies (1905) — Die Originalarbeit, in der Ei
 K-calculus in 4-dimensional optics (arXiv) — Formalisiert Bondis Methode: zwei Beobachter, nur Lichtsignale, keine gemeinsame Bühne, von der aus beide zugleich sichtbar wären.
 
 Conventionality of Simultaneity — Stanford Encyclopedia of Philosophy: die bis heute ungelöste Debatte, ob „gleichzeitig“ überhaupt unabhängig von einer Konvention definiert werden kann.
+
+Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
+
+Alle sind schuldig. Keiner kann etwas dafür.
+
+Peter Senner Thinking beyond the Tellerrand
+
+contact@piinteract.org
+
+https://piinteract.org
+
+Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
