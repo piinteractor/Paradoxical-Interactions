@@ -48,14 +48,6 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
-The Archimedean Point. Why Einstein Begins With the Man on a Train.
-
-2. August 2026
-
-Einstein doesn't open his theory of relativity with two reference frames side by side. He opens it in the first person: he is standing at the window of a moving train. Only after that does the second observer appear — the pedestrian ...
-
-Read More
-
 The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
 
 30. July 2026
@@ -388,6 +380,14 @@ The Formula That Proved the Opposite of What You Think
 6. February 2026
 
 In 2004, Roger Penrose published The Road to Reality, a 1,100-page journey through the mathematical foundations of physics. On one of its pages, he printed the full Lagrangian density of the Standard Model of particle physics — every ...
+
+Read More
+
+The Double-Unbind: Mapping the Hidden Tension in Equal Correlations
+
+5. February 2026
+
+The double unbind shows how equal partners in flat hierarchies end up in a “respectfully organized retreat” due to well-intentioned autonomy—until the system silently collapses.
 
 Read More
 
