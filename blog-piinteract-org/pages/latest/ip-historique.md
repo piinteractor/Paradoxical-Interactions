@@ -32,6 +32,14 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
+« Un cheval. Un cheval. Mon royaume pour un cheval. » Deux maisons, une même lignée, aucune issue.
+
+6 août 2026
+
+Deux maisons, un même arbre généalogique, deux vérités. Les Lancaster s’appuient sur la succession masculine. Les York s’appuient sur la lignée la plus ancienne, transmise par une femme. Les deux arguments tiennent la route. Les deux ...
+
+En savoir plus
+
 L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
 
 26 juillet 2026
