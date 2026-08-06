@@ -32,6 +32,14 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
+“A horse. A horse. My kingdom for a horse.” Two Houses, One Bloodline, No Way Out.
+
+6. August 2026
+
+Two houses, one family tree, two truths. Lancaster stands on male succession. York stands on the older line, carried through a woman. Both premises hold. Both cancel each other out. For thirty years, lords switch sides, kings get ...
+
+Read More
+
 The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better.
 
 26. July 2026
