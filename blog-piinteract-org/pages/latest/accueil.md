@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le Pendule de Foucault. L’Axiome Physique de la Révélation.
+
 « Un cheval. Un cheval. Mon royaume pour un cheval. » Deux maisons, une même lignée, aucune issue.
 
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
@@ -77,5 +79,3 @@ L’inégalité forcée. Pourquoi l’équilibre ne dure jamais.
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
 
 Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure.
-
-De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
