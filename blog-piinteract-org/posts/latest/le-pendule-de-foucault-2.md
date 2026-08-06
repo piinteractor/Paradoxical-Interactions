@@ -1,7 +1,7 @@
 ---
 title: "Le Pendule de Foucault. L’Axiome Physique de la Révélation."
 date: 2026-08-06T16:09:04
-modified: 2026-08-06T16:12:28
+modified: 2026-08-06T18:17:41
 slug: le-pendule-de-foucault-2
 lang: fr
 type: post
