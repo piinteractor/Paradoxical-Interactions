@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+Foucault’s Pendulum. The Physical Axiom of Revelation.
+
 “A horse. A horse. My kingdom for a horse.” Two Houses, One Bloodline, No Way Out.
 
 The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
@@ -125,5 +127,3 @@ The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces
 The Albigensian PI. How Christians Launched a Crusade Against Christians.
 
 The Don Camillo Peppone Paradox. Why Your Enemy Is the Most Important Person in Your Life.
-
-When AI Alignment Becomes a Paradoxical Interaction
