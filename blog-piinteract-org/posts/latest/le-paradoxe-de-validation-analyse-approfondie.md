@@ -579,6 +579,8 @@ Connexes :
 
 
 
+Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
+
 Le Pendule de Foucault. L’Axiome Physique de la Révélation.
 
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
@@ -600,8 +602,6 @@ Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout 
 L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
 
 L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
-
-Le gambit du géant glacé. Comment Jupiter a sauvé la Terre sans le savoir.
 
 No results found.
 
