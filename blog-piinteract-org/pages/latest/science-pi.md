@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+Foucault’s Pendulum. The Physical Axiom of Revelation.
+
+6. August 2026
+
+A pendulum hangs from a wire that refuses to twist, and swings without any concern for the Earth turning beneath it. That carelessness is the proof. It isn't observation that convicts the Earth of rotating. It's the pendulum's refusal ...
+
+Read More
+
 The Attic Paradox. Seven Years of Silence Protected the Proof — and Hid the Flaw.
 
 27. July 2026
