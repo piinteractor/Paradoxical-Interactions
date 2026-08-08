@@ -1,7 +1,7 @@
 ---
 title: "Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung."
 date: 2026-08-06T16:09:04
-modified: 2026-08-06T18:22:05
+modified: 2026-08-08T14:08:17
 slug: das-foucaultsche-pendel
 lang: de
 type: post
