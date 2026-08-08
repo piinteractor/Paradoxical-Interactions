@@ -32,6 +32,14 @@ Ce que vous trouverez ici : des cas où des acteurs rationnels, agissant de bonn
 
 Tous sont coupables. Aucun n’est en tort.
 
+Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
+
+8 août 2026
+
+Le 11 août 1984, un technicien fait un essai de micro avant l'allocution radiophonique hebdomadaire de Ronald Reagan. Reagan plaisante : il vient de signer une loi interdisant la Russie pour toujours, le bombardement commence dans ...
+
+En savoir plus
+
 « Un cheval. Un cheval. Mon royaume pour un cheval. » Deux maisons, une même lignée, aucune issue.
 
 6 août 2026
