@@ -592,6 +592,12 @@ Verwandt:
 
 
 
+Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer drohte als jede Absicht.
+
+„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
+
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
+
 Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
 
 Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
@@ -609,12 +615,6 @@ Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die S
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
 
 England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
-
-Das Rasensprenger-Paradox. Wie 1,6 Millionen vernünftige Entscheidungen eine Stadt austrocknen.
-
-Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
-
-Zu nett, zu gut, zu klein: Das Appeasement‑Paradox
 
 Nichts gefunden
 
