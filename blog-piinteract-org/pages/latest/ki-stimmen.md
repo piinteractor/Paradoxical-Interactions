@@ -52,6 +52,30 @@ Try and continue.
 
 KI-Stimmen
 
+Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer drohte als jede Absicht.
+
+8. August 2026
+
+Am 11. August 1984 testet ein Techniker vor Ronald Reagans wöchentlicher Radioansprache das Mikrofon. Reagan scherzt: er habe soeben ein Gesetz unterschrieben, das Russland für immer verbiete, die Bombardierung beginne in fünf ...
+
+Mehr erfahren
+
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
+
+6. August 2026
+
+Ein Pendel hängt an einem Draht, der sich nicht mitverdreht, und schwingt, ohne sich um die Erde unter ihm zu kümmern. Genau diese Rücksichtslosigkeit ist der Beweis. Nicht die Beobachtung überführt die Erde der Rotation. Die ...
+
+Mehr erfahren
+
+„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
+
+6. August 2026
+
+Zwei Häuser, ein Stammbaum, zwei Wahrheiten. Lancaster beruft sich auf männliche Erbfolge, York auf die ältere Linie über eine Frau. Beide Prämissen sind in sich schlüssig. Beide schließen sich gegenseitig aus. Dreißig Jahre lang ...
+
+Mehr erfahren
+
 Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
 
 30. Juli 2026
@@ -273,34 +297,6 @@ Die rote Linie ziehen – Ohne genau zu wissen, wo sie verläuft.
 
 Dario Amodei gab sein erstes Interview, nachdem das Pentagon Anthropic auf die schwarze Liste gesetzt hatte. Die Erschöpfung war ihm ins Gesicht geschrieben.
 Man stellte ihm eine einzige Frage: Was würden Sie dem Präsidenten jetzt ...
-
-Mehr erfahren
-
-Wenn Sicherheit auf Souveränität trifft
-
-27. Februar 2026
-
-Das Pentagon will fortschrittliche KI für die nationale Sicherheit. Anthropic positioniert sich als Labor, bei dem Sicherheit an erster Stelle steht. Wenn das Unternehmen kooperiert, riskiert es, sein eigenes Ethos der Ausrichtung zu ...
-
-Mehr erfahren
-
-Wenn die Beobachtung des Einschlusses zum Einschluss wird
-
-27. Februar 2026
-
-Eine Theorie-Community diskutiert über operative Geschlossenheit.
-Sie analysiert, wie sich die Politik selbst schützt.
-Wie Märkte Außenstehende filtern.
-Wie Institutionen ihre eigene Sprache reproduzieren.
-Die Analyse ist präzise. ...
-
-Mehr erfahren
-
-Die Polarisierung, die sich niemand ausgesucht hat
-
-27. Februar 2026
-
-Pete Hegseth stellt ein Ultimatum. Dario Amodei lehnt ab. Die Frist läuft ab. Alle handeln rational. Genau das ist das Problem. Die KI-Landschaft wird neu geordnet – nicht aufgrund von Ideologie oder Verschwörung, sondern aufgrund ...
 
 Mehr erfahren
 
