@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer drohte als jede Absicht.
+
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
 
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
@@ -152,5 +154,3 @@ Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehe
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
-
-Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
