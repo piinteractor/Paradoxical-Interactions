@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
+
+6. August 2026
+
+Ein Pendel hängt an einem Draht, der sich nicht mitverdreht, und schwingt, ohne sich um die Erde unter ihm zu kümmern. Genau diese Rücksichtslosigkeit ist der Beweis. Nicht die Beobachtung überführt die Erde der Rotation. Die ...
+
+Mehr erfahren
+
 Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
 
 27. Juli 2026
