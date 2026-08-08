@@ -32,6 +32,14 @@ What you will find here: cases where rational actors, acting in good faith and i
 
 All are guilty. None are at fault.
 
+We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
+
+8. August 2026
+
+On August 11, 1984, a technician runs a sound check before Ronald Reagan's weekly radio address. Reagan jokes: he's just signed legislation outlawing Russia forever, bombing begins in five minutes. The room laughs. The mic was never ...
+
+Read More
+
 “A horse. A horse. My kingdom for a horse.” Two Houses, One Bloodline, No Way Out.
 
 6. August 2026
