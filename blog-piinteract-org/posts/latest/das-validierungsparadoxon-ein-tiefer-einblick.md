@@ -592,7 +592,7 @@ Verwandt:
 
 
 
-Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer drohte als jede Absicht.
+Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
 
