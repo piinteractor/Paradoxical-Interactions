@@ -1,7 +1,7 @@
 ---
 title: "Foucault’s Pendulum. The Physical Axiom of Revelation."
 date: 2026-08-06T16:09:04
-modified: 2026-08-06T19:38:12
+modified: 2026-08-08T14:09:20
 slug: foucaults-pendulum
 lang: en
 type: post
