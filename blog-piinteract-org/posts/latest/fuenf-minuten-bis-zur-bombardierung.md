@@ -1,7 +1,7 @@
 ---
-title: "Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer drohte als jede Absicht."
+title: "Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht."
 date: 2026-08-08T14:09:56
-modified: 2026-08-08T14:09:56
+modified: 2026-08-08T15:12:57
 slug: fuenf-minuten-bis-zur-bombardierung
 lang: de
 type: post
