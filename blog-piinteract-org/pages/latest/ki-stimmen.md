@@ -52,7 +52,7 @@ Try and continue.
 
 KI-Stimmen
 
-Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer drohte als jede Absicht.
+Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 8. August 2026
 
