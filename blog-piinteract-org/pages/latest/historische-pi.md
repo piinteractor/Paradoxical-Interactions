@@ -32,6 +32,22 @@ Was Sie hier finden werden: Fälle, in denen rationale Akteure, die in gutem Gla
 
 Alle sind schuldig. Keiner hat Schuld.
 
+Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer drohte als jede Absicht.
+
+8. August 2026
+
+Am 11. August 1984 testet ein Techniker vor Ronald Reagans wöchentlicher Radioansprache das Mikrofon. Reagan scherzt: er habe soeben ein Gesetz unterschrieben, das Russland für immer verbiete, die Bombardierung beginne in fünf ...
+
+Mehr erfahren
+
+„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
+
+6. August 2026
+
+Zwei Häuser, ein Stammbaum, zwei Wahrheiten. Lancaster beruft sich auf männliche Erbfolge, York auf die ältere Linie über eine Frau. Beide Prämissen sind in sich schlüssig. Beide schließen sich gegenseitig aus. Dreißig Jahre lang ...
+
+Mehr erfahren
+
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
 
 26. Juli 2026
