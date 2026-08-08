@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
+
+8 août 2026
+
+Le 11 août 1984, un technicien fait un essai de micro avant l'allocution radiophonique hebdomadaire de Ronald Reagan. Reagan plaisante : il vient de signer une loi interdisant la Russie pour toujours, le bombardement commence dans ...
+
+En savoir plus
+
 Le Pendule de Foucault. L’Axiome Physique de la Révélation.
 
 6 août 2026
@@ -297,14 +305,6 @@ Pourquoi les Philosophes sont Dangereux
 16 février 2026
 
 Karp a étudié Habermas et a fondé Palantir. Thiel a étudié Girard et a redessiné le paysage politique américain. Macron a étudié Ricœur et a gouverné en recherchant le compromis. Strauss a enseigné la philosophie et ses étudiants ont ...
-
-En savoir plus
-
-L’IP de Peter Thiel
-
-15 février 2026
-
-Peter Thiel a écrit un livre expliquant pourquoi il ne faut pas être en compétition. Puis il a fait compétition — plus durement que presque tous les autres. PayPal, Palantir, Facebook, Founders Fund, Vance au pouvoir, Trump de ...
 
 En savoir plus
 
