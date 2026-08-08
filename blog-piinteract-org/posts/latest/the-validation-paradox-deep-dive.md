@@ -589,6 +589,10 @@ Related:
 
 
 
+We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
+
+Foucault’s Pendulum. The Physical Axiom of Revelation.
+
 The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
 
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
@@ -608,10 +612,6 @@ The Pike Syndrome: How Conditioning Destroys Skills.
 The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
 
 The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
-
-The Groucho Marx PI. A System That Lives on Being Contradicted.
-
-The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 
 No results found.
 
