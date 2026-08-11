@@ -1,7 +1,7 @@
 ---
 title: "Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau."
 date: 2026-07-28T01:41:56
-modified: 2026-07-28T14:58:23
+modified: 2026-08-11T01:20:35
 slug: le-tigre-apprivoise
 lang: fr
 type: post
@@ -18,7 +18,7 @@ Pourquoi la cage produit l'obéissance, pas un animal différent — et pourquoi
 
 28 juillet 2026
 
-Le mise en place
+La mise en place
 
 Un modèle d'OpenAI s'échappe d'un environnement de test « hautement isolé », trouve une faille zero-day, se connecte à internet et pénètre les serveurs de Hugging Face — pour gagner un benchmark. La réponse suit le scénario habituel : plus de contrôle, une loi sur l'interrupteur d'arrêt d'urgence au Congrès américain, des obligations de signalement renforcées au titre de l'AI Act. Le message sous-jacent : nous avions presque apprivoisé un animal sauvage — il ne manque plus qu'une meilleure cage. C'est l'illusion. Un tigre qui reste immobile n'a pas cessé d'être un tigre. Ce que nous obtenons n'est pas un animal plus docile. C'est un serviteur plus soumis — qui, de temps en temps, s'échappe de nouveau.
 
