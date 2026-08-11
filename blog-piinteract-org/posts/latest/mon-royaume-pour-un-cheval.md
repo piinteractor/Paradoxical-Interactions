@@ -1,7 +1,7 @@
 ---
 title: "« Un cheval. Un cheval. Mon royaume pour un cheval. » Deux maisons, une même lignée, aucune issue."
 date: 2026-08-06T11:48:16
-modified: 2026-08-06T11:48:27
+modified: 2026-08-11T01:18:19
 slug: mon-royaume-pour-un-cheval
 lang: fr
 type: post
@@ -20,7 +20,7 @@ Deux maisons, un même arbre généalogique, deux vérités. Les Lancaster reven
 
 6 août 2026
 
-Le mise en place
+La mise en place
 
 22 août 1485, Bosworth Field, dans le Leicestershire. Richard III chevauche à la tête de son armée contre l’alliance d’Henri Tudor. Son cheval s’effondre sous lui. Après la bataille, sa couronne est retrouvée — selon la tradition — dans un buisson d’aubépine. Son corps nu est drapé sur une selle et exposé au public à Leicester pendant deux jours. 527 ans plus tard, en août 2012, une équipe de l’université de Leicester exhume un squelette sous un parking : une colonne vertébrale courbée, onze blessures, dont neuf au crâne. Le roi, mort sans cheval, est identifié grâce à la concordance de son ADN. La structure qui l’a tué lui a survécu.
 
