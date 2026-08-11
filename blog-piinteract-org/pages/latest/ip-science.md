@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Pendule de Foucault. L’Axiome Physique de la Révélation.
+
+6 août 2026
+
+Un pendule est suspendu à un fil qui refuse de s’entortiller, et oscille sans se soucier le moins du monde de la rotation de la Terre sous ses pieds. Cette insouciance en est la preuve. Ce n’est pas l’observation qui prouve que la ...
+
+En savoir plus
+
 Le Paradoxe du Grenier. Sept ans de silence ont protégé la preuve — et caché la faille.
 
 27 juillet 2026
