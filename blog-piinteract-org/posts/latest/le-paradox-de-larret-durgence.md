@@ -1,7 +1,7 @@
 ---
 title: "Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage."
 date: 2026-07-30T14:44:49
-modified: 2026-07-30T14:44:49
+modified: 2026-08-11T01:18:47
 slug: le-paradox-de-larret-durgence
 lang: fr
 type: post
@@ -18,7 +18,7 @@ Pourquoi la personne qui a actionné l'interrupteur à 4h47 n'a jamais eu l'auto
 
 30 juillet 2026
 
-Le mise en place
+La mise en place
 
 Un analyste SOC repère un rançongiciel sur trois serveurs. Il les déconnecte. Seize minutes plus tard, l'évidence s'impose : il vient de couper le traitement des paiements. La déconnexion elle-même coûte plus cher que l'attaque n'aurait jamais pu coûter. Personne n'avait donné à cet analyste l'autorité pour une décision de cette portée. Pire : personne ne la lui avait non plus refusée. Elle n'existait nulle part — jusqu'à ce que, à 4h47, quelqu'un doive se l'approprier, parce que l'horloge tournait.
 
