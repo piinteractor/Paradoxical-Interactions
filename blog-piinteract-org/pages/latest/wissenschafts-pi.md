@@ -50,6 +50,14 @@ Andrew Wiles works alone for seven years on a proof nobody has produced in 358 y
 
 Mehr erfahren
 
+Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
+
+27. Juli 2026
+
+Im chinesischen Zimmer sitzt jemand, der kein Chinesisch kann, und tauscht Zettel mit Symbolen, die er nicht versteht. So weit die bekannte Version. Weniger bekannt: Damit das Experiment funktioniert, muss auch draußen niemand ...
+
+Mehr erfahren
+
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 24. Juli 2026
