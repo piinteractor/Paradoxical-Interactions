@@ -1,7 +1,7 @@
 ---
 title: "The Chinese Room and the Absent Referee. Understanding only gets proven by the one person who never checks."
 date: 2026-07-27T16:42:49
-modified: 2026-07-27T16:42:49
+modified: 2026-08-11T20:30:53
 slug: the-chinese-room-and-the-absent-referee
 lang: en
 type: post
