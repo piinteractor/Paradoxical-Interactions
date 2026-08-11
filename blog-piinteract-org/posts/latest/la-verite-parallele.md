@@ -1,7 +1,7 @@
 ---
 title: "La vérité parallèle. Pourquoi la structure peut la laisser exister sans jamais la percevoir."
 date: 2026-07-29T06:58:49
-modified: 2026-07-29T06:59:03
+modified: 2026-08-11T01:19:27
 slug: la-verite-parallele
 lang: fr
 type: post
@@ -12,55 +12,19 @@ url: https://blog.piinteract.org/fr/la-verite-parallele/
 
 Warum eine Struktur eine widersprechende Wahrheit nicht widerlegen muss — weil sie sie gar nicht als Input verarbeitet
 
-
-
-
-
-
-
 « Ils n'ont pas besoin d'accepter le mensonge. Il leur suffit d'avoir accepté de vivre avec lui et en lui. Car c'est précisément par ce geste qu'ils confirment le système, l'accomplissent, le constituent, en sont. »
 
 — Václav Havel, Le pouvoir des sans-pouvoir (1978)
 
-
-
-
 29 juillet 2026
-
-
-
 
 Un système ne réagit qu'à ce qui correspond à son propre code. Ce qui ne correspond pas n'est pas réprimé. Il n'est même pas vu. La BaFin n'a jamais eu besoin de défendre le bilan de Wirecard — il lui suffisait de classer les révélations des journalistes du Financial Times comme manipulation de marché plutôt que comme avertissement. L'auditeur n'a jamais eu besoin d'expliquer les relevés de comptes manquants — il lui suffisait de les enregistrer comme un retard, non comme une fiction. Entre les deux, aucun mensonge. Il y a une structure qui n'a tout simplement prévu aucune entrée pour cette vérité-là. Ce n'est pas un complot. C'est de l'administration.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Le mise en place
+La mise en place
 
 Prague, 1977. Un épicier accroche entre les oignons et les carottes une pancarte dans sa vitrine : « Prolétaires de tous les pays, unissez-vous ! » Il n'en croit pas un mot. Tous ceux qui passent devant le savent. Le Parti aussi le sait. La pancarte reste accrochée quand même — chaque année, dans chaque vitrine, dans chaque ville de Tchécoslovaquie. Personne ne l'oblige à croire le slogan. Seulement à l'accrocher.
 
 C'est précisément là que la structure commence à tenir — non pas dans la conviction, mais dans le comportement.
-
-
-
-
-
-
 
 La vitrine
 
@@ -70,12 +34,6 @@ Le système n'a pas besoin de réfuter cette vérité parallèle. Il n'existe au
 
 C'est la différence entre la censure et la structure. La censure a besoin de quelqu'un qui voit la vérité et la supprime. La structure n'a besoin de personne. Il lui suffit de ne jamais laisser la vérité prendre une forme qu'elle pourrait traiter.
 
-
-
-
-
-
-
 Une fraude de plusieurs milliards à côté d'un bilan certifié
 
 Dan McCrum, journaliste au Financial Times, commence dès 2015 à enquêter sur des irrégularités chez Wirecard, l'entreprise allemande de paiements. Ses articles pointent des trous dans le bilan, des relations clients fictives, des relevés de comptes que personne ne peut produire. Wirecard dément tout. L'action continue de monter.
@@ -83,12 +41,6 @@ Dan McCrum, journaliste au Financial Times, commence dès 2015 à enquêter sur 
 En 2019, l'autorité allemande de régulation financière, la BaFin, réagit enfin — mais pas contre Wirecard. Elle impose une interdiction de vente à découvert de deux mois sur l'action, la première jamais prononcée contre une seule entreprise dans son histoire, et dépose une plainte pénale contre deux journalistes du FT pour soupçon de manipulation de marché. La BaFin n'avait aucune compétence sur les activités principales de Wirecard — seulement sur sa petite filiale bancaire. L'auditeur EY certifie le bilan année après année, en s'appuyant sur les déclarations de la direction, sans jamais vérifier de manière indépendante les 1,9 milliard d'euros manquants, censés dormir sur des comptes fiduciaires aux Philippines.
 
 En 2020, Wirecard s'effondre. L'argent n'a jamais existé. La commission d'enquête du Bundestag aura besoin, plus tard, de plus de deux mille pages pour reconstituer ce qui se trouvait déjà sous les yeux de tous.
-
-
-
-
-
-
 
 L'entrée manquante
 
@@ -110,12 +62,6 @@ Résultat — structurel, non intentionnel : 1,9 milliard d'euros de comptabilit
 
 Tous sont coupables. Personne n'y peut rien.
 
-
-
-
-
-
-
 Ce que cela signifie
 
 Celui qui cherche le menteur cherche au mauvais endroit. La question n'est pas de savoir qui cache la vérité. La question est de savoir quel code devrait la traiter — et si ce code existe seulement. Un lanceur d'alerte dont le signalement passe par un service des ressources humaines qui ne connaît que « conflit » ou « performance » n'est pas ignoré. Il est classé correctement — dans la seule catégorie disponible.
@@ -126,28 +72,7 @@ Ceci n'est pas un mode d'emploi. Il n'existe pas cinq étapes pour installer, da
 
 La vérité n'attend pas d'être crue. Elle attend que quelqu'un invente une forme dans laquelle la structure puisse enfin la lire.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Articles Connexes
-
-
-
 
 Luhmann et l’Auto-Enfermement
 
@@ -167,9 +92,6 @@ Comment la conscience de soi devient la forme la plus élégante d'immobilité s
 
 No results found.
 
-
-
-
 Sur piinteract.org:
 
 ["Angle mort partagé"] — La vérité parallèle n'est pas un secret. C'est un angle mort que tout le monde partage, parce qu'aucun des codes impliqués ne la reçoit.
@@ -179,9 +101,6 @@ Sur piinteract.org:
 ["Capture réglementaire"] — Wirecard montre une variante : non pas une capture par le lobbying, mais par la simple absence d'une catégorie d'audit adaptée.
 
 ["Tirer sur le messager"] — La plainte pénale contre les journalistes du FT n'était pas une vengeance. C'était la seule réponse disponible pour un code qui ne connaît l'enquête que comme attaque.
-
-
-
 
 Voir aussi (liens externes) :
 
@@ -193,18 +112,9 @@ What are the wider supervisory implications of the Wirecard case? — Étude ins
 
 Nach Wirecard: Mehr Kompetenzen für die BaFin — Le régulateur lui-même, dans ses propres mots, sur la lacune qu'il n'a pu combler qu'après l'effondrement.
 
-
-
-
-
-
-
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
 Tous sont coupables. Personne n'est responsable.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
