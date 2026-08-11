@@ -50,6 +50,14 @@ Andrew Wiles travaille seul pendant sept ans sur une preuve que personne n'a pro
 
 En savoir plus
 
+La chambre chinoise et l’arbitre absent. Pourquoi la compréhension ne se prouve que si personne ne vient vérifier.
+
+27 juillet 2026
+
+Quelqu'un qui ne parle pas chinois est assis dans une pièce, échangeant sous la porte des feuillets couverts de symboles qu'il ne comprend pas. Voilà la version connue. Moins connu : pour que l'expérience fonctionne, personne à ...
+
+En savoir plus
+
 L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
 
 26 juillet 2026
