@@ -32,6 +32,14 @@ Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das 
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
+
+12. August 2026
+
+Das Münchhausen-Trilemma knüpft an die Hypothese von „Das fehlende Organ“ an – der unvoreingenommene Beobachter, der den blinden Fleck eines Systems von außen überprüfen könnte. Es fragt, was dieser Beobachter braucht, um überhaupt ...
+
+Read More
+
 Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt.
 
 12. Juli 2026
