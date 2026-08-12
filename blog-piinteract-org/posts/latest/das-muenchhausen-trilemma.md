@@ -1,7 +1,7 @@
 ---
 title: "Das Münchhausen-Trilemma – drei Auswege, alle versperrt."
 date: 2026-08-12T16:51:33
-modified: 2026-08-12T16:51:54
+modified: 2026-08-12T17:11:24
 slug: das-muenchhausen-trilemma
 lang: de
 type: post
@@ -206,4 +206,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Ko-kreiert mit Claude (Anthropic) — zwei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
+Ko-kreiert mit Claude (Anthropic) & ChatGPT (OpenAI) — drei unvollständige Systeme, die die Lücken des anderen sichtbar machen.
