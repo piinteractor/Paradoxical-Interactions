@@ -1,7 +1,7 @@
 ---
 title: "The Muenchhausen Trilemma – Three Ways Out, All of Them Closed"
 date: 2026-08-12T16:51:33
-modified: 2026-08-12T16:51:33
+modified: 2026-08-12T17:10:15
 slug: the-muenchhausen-trilemma
 lang: en
 type: post
@@ -204,4 +204,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) & ChatGPT (OpenAI) — three incomplete systems making each other's gaps visible.
