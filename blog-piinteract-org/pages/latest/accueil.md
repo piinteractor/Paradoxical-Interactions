@@ -56,6 +56,10 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le trilemme de Munchhausen : trois issues, toutes fermées
+
+L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
+
 Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
 
 Le Pendule de Foucault. L’Axiome Physique de la Révélation.
@@ -75,7 +79,3 @@ Le Paradoxe du Grenier. Sept ans de silence ont protégé la preuve — et cach�
 La chambre chinoise et l’arbitre absent. Pourquoi la compréhension ne se prouve que si personne ne vient vérifier.
 
 L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
-
-L’inégalité forcée. Pourquoi l’équilibre ne dure jamais.
-
-L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
