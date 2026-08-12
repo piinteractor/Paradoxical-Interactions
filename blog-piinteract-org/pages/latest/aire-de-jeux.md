@@ -58,4 +58,12 @@ La lucidité n'est pas un objet. C'est un état où l'on arrive au bout d'un che
 
 En savoir plus
 
+Le trilemme de Munchhausen : trois issues, toutes fermées
+
+12 août 2026
+
+Le trilemme de Munchhausen s'inscrit dans la lignée de l'hypothèse de « l'organe manquant » — un observateur impartial capable d'examiner de l'extérieur le point aveugle d'un système. Il pose la question suivante : de quoi cet ...
+
+En savoir plus
+
 No results found.
