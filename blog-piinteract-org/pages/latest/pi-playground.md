@@ -57,4 +57,20 @@ Insight is not an object. It is a state reached after a long way. Only the formu
 
 Read More
 
+The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing
+
+11. August 2026
+
+The Missing Organ is based on a hypothesis, not a case study. It asks whether the organ that would notice a structural blind spot could ever notice its own failure — and argues that the question may be unanswerable from inside.
+
+Read More
+
+The Muenchhausen Trilemma – Three Ways Out, All of Them Closed
+
+12. August 2026
+
+This article continues the hypothesis of "The Missing Organ" — an uncorrupted observer that could audit a system's blind spot from outside. It asks what that observer would need in order to audit anything at all, and finds that the ...
+
+Read More
+
 No results found.
