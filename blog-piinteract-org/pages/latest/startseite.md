@@ -131,6 +131,10 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
+
+Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
+
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
@@ -150,7 +154,3 @@ Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und vers
 Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
 
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
-
-Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
-
-Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
