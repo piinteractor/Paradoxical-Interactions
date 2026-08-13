@@ -1,7 +1,7 @@
 ---
 title: "„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg."
 date: 2026-08-06T11:48:16
-modified: 2026-08-08T14:08:38
+modified: 2026-08-13T18:57:03
 slug: mein-konigreich-fur-ein-pferd
 lang: de
 type: post
