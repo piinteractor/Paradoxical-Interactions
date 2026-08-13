@@ -1,7 +1,7 @@
 ---
 title: "Le Point d’Archimède. Pourquoi Einstein commence par l’homme dans un train."
 date: 2026-08-03T14:21:30
-modified: 2026-08-13T18:54:52
+modified: 2026-08-13T19:08:04
 slug: le-point-darchimede
 lang: fr
 type: post
