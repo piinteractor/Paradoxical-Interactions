@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
+
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
@@ -613,8 +615,6 @@ Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
 
 Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
-
-England und die Angst zu gewinnen. Wie eine Führung zur eigenen Bedrohung wird.
 
 Nichts gefunden
 
