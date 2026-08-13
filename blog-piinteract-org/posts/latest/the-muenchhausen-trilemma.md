@@ -156,7 +156,7 @@ Related Posts
 
 The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing
 
-Second Title
+Why the one part of you that could tell you something is missing is built from the same tissue as the thing that is missing.
 
 Luhmann and the Self-Enclosure
 
