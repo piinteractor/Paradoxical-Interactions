@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
+
+11. August 2026
+
+Das fehlende Organ basiert auf einer Hypothese und nicht auf einer Fallstudie. Er geht der Frage nach, ob das Organ, das einen strukturellen blinden Fleck wahrnehmen würde, jemals sein eigenes Versagen erkennen könnte – und ...
+
+Mehr erfahren
+
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 8. August 2026
@@ -288,15 +296,6 @@ Das Nockherberg-Paradox. Die schärfste Kritik ist die beste Freundin des System
 5. März 2026
 
 Jeden Jahr, am ersten Freitag nach Aschermittwoch, öffnet die Paulaner-Brauerei ihre Nockherberg-Halle zum Starkbieranstich. Bayerns Politiker nehmen in der ersten Reihe Platz. Der Ministerpräsident. Die Oppositionsführer. Die ...
-
-Mehr erfahren
-
-Die rote Linie ziehen – Ohne genau zu wissen, wo sie verläuft.
-
-28. Februar 2026
-
-Dario Amodei gab sein erstes Interview, nachdem das Pentagon Anthropic auf die schwarze Liste gesetzt hatte. Die Erschöpfung war ihm ins Gesicht geschrieben.
-Man stellte ihm eine einzige Frage: Was würden Sie dem Präsidenten jetzt ...
 
 Mehr erfahren
 
