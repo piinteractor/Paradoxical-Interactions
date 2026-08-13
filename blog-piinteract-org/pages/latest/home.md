@@ -66,6 +66,8 @@ Foucault’s Pendulum. The Physical Axiom of Revelation.
 
 “A horse. A horse. My kingdom for a horse.” Two Houses, One Bloodline, No Way Out.
 
+The Archimedean Point. Why Einstein Begins With the Man on a Train.
+
 The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
 
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
@@ -125,5 +127,3 @@ The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
 
 The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
-
-The Blind Spot That Sees Everything. Why Physics Cannot Observe What Makes Physics Possible.
