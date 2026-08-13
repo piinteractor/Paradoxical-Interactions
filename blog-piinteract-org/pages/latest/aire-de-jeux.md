@@ -58,6 +58,14 @@ La lucidité n'est pas un objet. C'est un état où l'on arrive au bout d'un che
 
 En savoir plus
 
+L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
+
+11 août 2026
+
+L'organe manquant repose sur une hypothèse, et non sur une étude de cas. Il demande si l’organe censé détecter un angle mort structurel pourrait jamais détecter sa propre défaillance – et soutient que cette question est peut-être ...
+
+En savoir plus
+
 Le trilemme de Munchhausen : trois issues, toutes fermées
 
 12 août 2026
