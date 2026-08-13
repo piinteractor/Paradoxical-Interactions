@@ -1,7 +1,7 @@
 ---
 title: "Le trilemme de Munchhausen : trois issues, toutes fermées"
 date: 2026-08-12T16:51:33
-modified: 2026-08-12T17:22:07
+modified: 2026-08-13T12:12:49
 slug: le-trilemme-de-munchhausen
 lang: fr
 type: post
