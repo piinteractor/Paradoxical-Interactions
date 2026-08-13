@@ -42,6 +42,14 @@ Un pendule est suspendu à un fil qui refuse de s’entortiller, et oscille sans
 
 En savoir plus
 
+Le Point d’Archimède. Pourquoi Einstein commence par l’homme dans un train.
+
+3 août 2026
+
+Einstein n'ouvre pas sa théorie de la relativité avec deux référentiels placés côte à côte. Il l'ouvre à la première personne : il se tient à la fenêtre d'un train en marche. Le second observateur n'apparaît qu'ensuite — le piéton ...
+
+En savoir plus
+
 Le Paradoxe du Grenier. Sept ans de silence ont protégé la preuve — et caché la faille.
 
 27 juillet 2026
