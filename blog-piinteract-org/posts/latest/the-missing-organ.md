@@ -1,7 +1,7 @@
 ---
 title: "The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing"
 date: 2026-08-11T14:53:45
-modified: 2026-08-12T16:52:21
+modified: 2026-08-13T05:44:35
 slug: the-missing-organ
 lang: en
 type: post
