@@ -579,6 +579,8 @@ Connexes :
 
 
 
+L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
+
 Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
 
 Le Pendule de Foucault. L’Axiome Physique de la Révélation.
@@ -600,8 +602,6 @@ Le Château des Este à Ferrara. Construit contre le peuple qu’il était cens�
 Le Concert des Systèmes d’Alarme. Quand tout le monde sonne l’alarme, tout ce qu’on obtient, c’est une cacophonie.
 
 L’IP de Schrödinger. Le paradoxe qui se prouve en échouant à se réfuter.
-
-L’Axiome de Nuremberg. La seule façon de punir le crime était d’en commettre un.
 
 No results found.
 
