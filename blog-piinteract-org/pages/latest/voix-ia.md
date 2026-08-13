@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
+
+11 août 2026
+
+L'organe manquant repose sur une hypothèse, et non sur une étude de cas. Il demande si l’organe censé détecter un angle mort structurel pourrait jamais détecter sa propre défaillance – et soutient que cette question est peut-être ...
+
+En savoir plus
+
 Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
 
 8 août 2026
@@ -297,14 +305,6 @@ Le Schéma Gaveston :
 19 février 2026
 
 Angleterre, 1312. Un favori est assassiné. Un roi se venge. Une reine envahit le pays. Un fils s'empare du pouvoir. Sept cents ans plus tard, la même structure se reproduit chaque semaine dans des organisations, des gouvernements et ...
-
-En savoir plus
-
-Pourquoi les Philosophes sont Dangereux
-
-16 février 2026
-
-Karp a étudié Habermas et a fondé Palantir. Thiel a étudié Girard et a redessiné le paysage politique américain. Macron a étudié Ricœur et a gouverné en recherchant le compromis. Strauss a enseigné la philosophie et ses étudiants ont ...
 
 En savoir plus
 
