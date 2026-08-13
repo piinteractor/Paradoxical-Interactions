@@ -40,6 +40,14 @@ Das Münchhausen-Trilemma knüpft an die Hypothese von „Das fehlende Organ“ 
 
 Read More
 
+Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
+
+11. August 2026
+
+Das fehlende Organ basiert auf einer Hypothese und nicht auf einer Fallstudie. Er geht der Frage nach, ob das Organ, das einen strukturellen blinden Fleck wahrnehmen würde, jemals sein eigenes Versagen erkennen könnte – und ...
+
+Read More
+
 Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt.
 
 12. Juli 2026
