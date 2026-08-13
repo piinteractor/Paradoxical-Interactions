@@ -1,7 +1,7 @@
 ---
 title: "Das Münchhausen-Trilemma – drei Auswege, alle versperrt."
 date: 2026-08-12T16:51:33
-modified: 2026-08-13T05:39:32
+modified: 2026-08-13T12:15:32
 slug: das-muenchhausen-trilemma
 lang: de
 type: post
