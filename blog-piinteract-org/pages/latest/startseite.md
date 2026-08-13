@@ -141,6 +141,8 @@ Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
 
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
 
+Der Archimedische Punkt. Warum Einstein mit dem Mann im Zug beginnt.
+
 Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
 
 Die parallele Wahrheit. Warum die Struktur sie stehenlassen kann, ohne sie wahrnehmen zu müssen.
@@ -152,5 +154,3 @@ Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder
 Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
 
 Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
-
-Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
