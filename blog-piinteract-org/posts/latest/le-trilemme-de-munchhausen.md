@@ -162,7 +162,7 @@ Articles Connexes
 
 L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
 
-Second Title
+Pourquoi la seule partie de vous qui pourrait vous dire qu’il manque quelque chose est faite du même tissu que ce qui manque.
 
 Luhmann et l’Auto-Enfermement
 
