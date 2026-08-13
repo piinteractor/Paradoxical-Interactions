@@ -42,6 +42,16 @@ A pendulum hangs from a wire that refuses to twist, and swings without any conce
 
 Read More
 
+The Archimedean Point. Why Einstein Begins With the Man on a Train.
+
+3. August 2026
+
+Einstein begins with a man at the window of a moving train. He drops a stone. For him, it falls in a straight line. A pedestrian beside the track sees a parabola.
+
+The event is the same. Its trajectory is not. To describe it ...
+
+Read More
+
 The Attic Paradox. Seven Years of Silence Protected the Proof — and Hid the Flaw.
 
 27. July 2026
