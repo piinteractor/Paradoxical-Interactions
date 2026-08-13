@@ -66,6 +66,8 @@ Le Pendule de Foucault. L’Axiome Physique de la Révélation.
 
 « Un cheval. Un cheval. Mon royaume pour un cheval. » Deux maisons, une même lignée, aucune issue.
 
+Le Point d’Archimède. Pourquoi Einstein commence par l’homme dans un train.
+
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
 
 La vérité parallèle. Pourquoi la structure peut la laisser exister sans jamais la percevoir.
@@ -77,5 +79,3 @@ Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à c
 Le Paradoxe du Grenier. Sept ans de silence ont protégé la preuve — et caché la faille.
 
 La chambre chinoise et l’arbitre absent. Pourquoi la compréhension ne se prouve que si personne ne vient vérifier.
-
-L’Interdit de progrès. Pourquoi les systèmes établis combattent toute amélioration.
