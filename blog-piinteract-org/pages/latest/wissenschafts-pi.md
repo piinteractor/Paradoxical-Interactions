@@ -42,6 +42,14 @@ Ein Pendel hängt an einem Draht, der sich nicht mitverdreht, und schwingt, ohne
 
 Mehr erfahren
 
+Der Archimedische Punkt. Warum Einstein mit dem Mann im Zug beginnt.
+
+3. August 2026
+
+Einstein beginnt seine Relativitätstheorie nicht mit zwei Bezugssystemen nebeneinander. Er beginnt mit einem Satz in der ersten Person: Er steht am Fenster eines fahrenden Zuges. Erst danach taucht der zweite Beobachter auf — der ...
+
+Mehr erfahren
+
 Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
 
 27. Juli 2026
