@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucrates — pas la bureaucratie.
+
 Le trilemme de Munchhausen : trois issues, toutes fermées
 
 L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
@@ -77,5 +79,3 @@ Le paradoxe de Stuttgart 21. Comment un référendum a permis de sauver un proje
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
 
 Le Paradoxe du Grenier. Sept ans de silence ont protégé la preuve — et caché la faille.
-
-La chambre chinoise et l’arbitre absent. Pourquoi la compréhension ne se prouve que si personne ne vient vérifier.
