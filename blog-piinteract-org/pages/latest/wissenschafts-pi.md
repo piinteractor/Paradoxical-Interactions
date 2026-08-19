@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
+
+19. August 2026
+
+Bürokratieabbau ist ein Versprechen mit zwei möglichen Objekten, und die Politik wählt fast immer das falsche. Man kann die Regeln abbauen — Formulare streichen, Fristen verkürzen, Zuständigkeiten bündeln. Das ist langsam, unpopulär ...
+
+Mehr erfahren
+
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
 
 6. August 2026
