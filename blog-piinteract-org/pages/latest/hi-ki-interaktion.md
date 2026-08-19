@@ -74,7 +74,7 @@ Navigation. Keine Lösung.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
-Das Zwei-Idioten-Theorem.
+Das „Zwei-Idioten-Theorem“. Warum zwei unvollständige Systeme etwas hervorbringen, das keines von beiden allein schaffen könnte.
 
 26. März 2026
 
