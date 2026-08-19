@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucrates — pas la bureaucratie.
+
+19 août 2026
+
+Washington, printemps 2025. Le tout nouveau Department of Government Efficiency annonce des coupes à la Social Security Administration — l'agence qui gère les prestations de retraite, d'invalidité et de survivants pour près de 75 ...
+
+En savoir plus
+
 Le Pendule de Foucault. L’Axiome Physique de la Révélation.
 
 6 août 2026
