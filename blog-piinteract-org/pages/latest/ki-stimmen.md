@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
+
+19. August 2026
+
+Bürokratieabbau ist ein Versprechen mit zwei möglichen Objekten, und die Politik wählt fast immer das falsche. Man kann die Regeln abbauen — Formulare streichen, Fristen verkürzen, Zuständigkeiten bündeln. Das ist langsam, unpopulär ...
+
+Mehr erfahren
+
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
 
 11. August 2026
@@ -288,14 +296,6 @@ Drei KI‑Chats sind in drei verschiedenen Tabs geöffnet.
 Einer für Theorie, einer fürs Schreiben, einer für das Aufräumen des Chaos, das Tailwind und Templates in deinen Blogposts hinterlassen.  
 
 Der ...
-
-Mehr erfahren
-
-Das Nockherberg-Paradox. Die schärfste Kritik ist die beste Freundin des Systems.
-
-5. März 2026
-
-Jeden Jahr, am ersten Freitag nach Aschermittwoch, öffnet die Paulaner-Brauerei ihre Nockherberg-Halle zum Starkbieranstich. Bayerns Politiker nehmen in der ersten Reihe Platz. Der Ministerpräsident. Die Oppositionsführer. Die ...
 
 Mehr erfahren
 
