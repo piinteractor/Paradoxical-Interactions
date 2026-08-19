@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
+
+19. August 2026
+
+Des Kaisers neue Kleider endet mit dem Lachen der Menge. Aber das Lachen ist nicht das Ende der Geschichte, es ist nur das Ende, das Andersen erzählt. Was mit dem Kind danach passiert, steht nirgends — und genau diese Lücke ist der ...
+
+Mehr erfahren
+
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
 
 19. August 2026
@@ -284,18 +292,6 @@ Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm mac
 Es ist eine Geburtstagsfeier, die niemals endet.
 Es gibt immer irgendwo einen Kuchen, immer einen Strand, immer eine Beförderung, immer jemanden mit besserem Licht und schöneren Zähnen.
 Du öffnest die App um 23:17 Uhr in einer ...
-
-Mehr erfahren
-
-Der Fleming-Effekt. Wenn der „HTML-Hausmeister“ zum Supervisor wird.
-
-7. März 2026
-
-Du bist müde.  
-Drei KI‑Chats sind in drei verschiedenen Tabs geöffnet.  
-Einer für Theorie, einer fürs Schreiben, einer für das Aufräumen des Chaos, das Tailwind und Templates in deinen Blogposts hinterlassen.  
-
-Der ...
 
 Mehr erfahren
 
