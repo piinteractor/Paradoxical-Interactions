@@ -589,6 +589,8 @@ Related:
 
 
 
+The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
+
 We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
 
 Foucault’s Pendulum. The Physical Axiom of Revelation.
@@ -610,8 +612,6 @@ From Cybernetics to Superlearners: The Lonely Observer of PI
 The Pike Syndrome: How Conditioning Destroys Skills.
 
 The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
-
-The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
 
 No results found.
 
