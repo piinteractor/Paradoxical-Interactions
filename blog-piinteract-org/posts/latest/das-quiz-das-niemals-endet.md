@@ -882,9 +882,9 @@ Wir alle sind es.
 
 Verwandt:
 
-Das Zwei-Idioten-Theorem.
+Das „Zwei-Idioten-Theorem“. Warum zwei unvollständige Systeme etwas hervorbringen, das keines von beiden allein schaffen könnte.
 
-How Luhmann Refutes Himself. And Why It's Urgently Necessary.
+Warum die produktivste Struktur in den Paradoxen Interaktionen keine Lösung darstellt – sondern eine Lücke, die auf eine andere Lücke trifft.
 
 Kontrolle vs. Ko-Operation. Die Frage, die niemand stellt.
 
