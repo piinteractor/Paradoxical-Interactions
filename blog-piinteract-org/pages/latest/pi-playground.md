@@ -73,4 +73,17 @@ This article continues the hypothesis of "The Missing Organ" — an uncorrupted 
 
 Read More
 
+Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
+
+19. August 2026
+
+Why the child who saw the emperor naked isn't celebrated afterward, but fixed in place as a thing — and why that isn't malice, it's structure
+
+"Whoever tells the truth needs a fast horse."
+— Balkan proverb
+
+"The Emperor's New ...
+
+Read More
+
 No results found.
