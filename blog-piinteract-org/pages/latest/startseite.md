@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
+
 Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
 
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
@@ -152,5 +154,3 @@ Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so n
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
 
 Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
-
-Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
