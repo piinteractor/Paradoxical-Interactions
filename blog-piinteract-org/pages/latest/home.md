@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
+
 The Muenchhausen Trilemma – Three Ways Out, All of Them Closed
 
 The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing
@@ -125,5 +127,3 @@ The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itsel
 The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 The Ice Giant’s Gambit. How Jupiter Saved Earth Without Knowing It.
-
-The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
