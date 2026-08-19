@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
+
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
 
 Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
@@ -152,5 +154,3 @@ Die parallele Wahrheit. Warum die Struktur sie stehenlassen kann, ohne sie wahrn
 Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
 
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
-
-Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
