@@ -589,6 +589,8 @@ Related:
 
 
 
+Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
+
 The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
 
 We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
@@ -610,8 +612,6 @@ The PI of Mathematics Or: Why every attempt at closure blows open the space it m
 From Cybernetics to Superlearners: The Lonely Observer of PI
 
 The Pike Syndrome: How Conditioning Destroys Skills.
-
-The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
 
 No results found.
 
