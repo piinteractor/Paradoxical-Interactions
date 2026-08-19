@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucrates — pas la bureaucratie.
+
+19 août 2026
+
+Washington, printemps 2025. Le tout nouveau Department of Government Efficiency annonce des coupes à la Social Security Administration — l'agence qui gère les prestations de retraite, d'invalidité et de survivants pour près de 75 ...
+
+En savoir plus
+
 L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
 
 11 août 2026
@@ -297,14 +305,6 @@ L’Épée Qui Se Contredit Elle-Même
 
 Deux personnes. Une épée entre eux. L'un en forge depuis quarante ans. L'autre étudie pourquoi les choses échouent.
 Ils parlent depuis une heure. Ils commencent à peine.
-
-En savoir plus
-
-Le Schéma Gaveston :
-
-19 février 2026
-
-Angleterre, 1312. Un favori est assassiné. Un roi se venge. Une reine envahit le pays. Un fils s'empare du pouvoir. Sept cents ans plus tard, la même structure se reproduit chaque semaine dans des organisations, des gouvernements et ...
 
 En savoir plus
 
