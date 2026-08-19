@@ -48,6 +48,18 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
+
+19. August 2026
+
+“Cutting bureaucracy” has two possible objects.
+
+One is the process: fewer forms, fewer approvals, clearer rules, shorter paths. The other is the workforce: fewer positions, lower payroll, a smaller number in the budget.
+
+The ...
+
+Read More
+
 We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
 
 8. August 2026
@@ -380,14 +392,6 @@ The Doorkeeper Breakout
 6. February 2026
 
 What if the real prison isn’t the closed gate, but the ordinary person who enjoys keeping you waiting outside? The Doorkeeper Breakout maps how you reclaim your work the moment you stop treating gatekeepers as judges of your insight.
-
-Read More
-
-The Sacrificial Principle
-
-6. February 2026
-
-Adele Spitzeder promised 10% interest per month. Two years later: convicted of fraud. Banks did the same thing—only more slowly. 150 years later: Greensill Capital collapses. The industry carries on. Why is it always just one that ...
 
 Read More
 
