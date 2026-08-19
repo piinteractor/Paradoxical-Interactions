@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
+
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
 
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
@@ -613,8 +615,6 @@ Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehe
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
-
-Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
 
 Nichts gefunden
 
