@@ -48,6 +48,19 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
+
+19. August 2026
+
+Why the child who saw the emperor naked isn't celebrated afterward, but fixed in place as a thing — and why that isn't malice, it's structure
+
+"Whoever tells the truth needs a fast horse."
+— Balkan proverb
+
+"The Emperor's New ...
+
+Read More
+
 The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
 
 19. August 2026
@@ -384,14 +397,6 @@ The PI of Peter Thiel
 
 Peter Thiel wrote a book explaining why you shouldn't compete. Then he competed — harder than almost anyone else. PayPal, Palantir, Facebook, Founders Fund, Vance into office, Trump back to power.
 That's not a contradiction. That's ...
-
-Read More
-
-The Doorkeeper Breakout
-
-6. February 2026
-
-What if the real prison isn’t the closed gate, but the ordinary person who enjoys keeping you waiting outside? The Doorkeeper Breakout maps how you reclaim your work the moment you stop treating gatekeepers as judges of your insight.
 
 Read More
 
