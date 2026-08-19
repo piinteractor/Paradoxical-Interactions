@@ -34,6 +34,18 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
+
+19. August 2026
+
+“Cutting bureaucracy” has two possible objects.
+
+One is the process: fewer forms, fewer approvals, clearer rules, shorter paths. The other is the workforce: fewer positions, lower payroll, a smaller number in the budget.
+
+The ...
+
+Read More
+
 Foucault’s Pendulum. The Physical Axiom of Revelation.
 
 6. August 2026
