@@ -32,6 +32,14 @@ Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das 
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
+
+19. August 2026
+
+Des Kaisers neue Kleider endet mit dem Lachen der Menge. Aber das Lachen ist nicht das Ende der Geschichte, es ist nur das Ende, das Andersen erzählt. Was mit dem Kind danach passiert, steht nirgends — und genau diese Lücke ist der ...
+
+Read More
+
 Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
 
 12. August 2026
