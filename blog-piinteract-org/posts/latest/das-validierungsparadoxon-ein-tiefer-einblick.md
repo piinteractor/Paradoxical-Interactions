@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
+
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
 
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
@@ -613,8 +615,6 @@ Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
 Absente Männer, präsente Frauen. Warum die Debatte um Gleichberechtigung die Struktur nicht erreicht.
-
-Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
 
 Nichts gefunden
 
