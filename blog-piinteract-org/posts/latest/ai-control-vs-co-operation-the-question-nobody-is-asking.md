@@ -193,7 +193,7 @@ Related Posts
 
 The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone.
 
-How Luhmann Refutes Himself. And Why It's Urgently Necessary.
+Why the most productive structure in Paradoxical Interactions isn't a solution — it's a gap meeting another gap.
 
 AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
