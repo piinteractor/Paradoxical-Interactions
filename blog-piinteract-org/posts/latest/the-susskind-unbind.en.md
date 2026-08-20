@@ -1,4 +1,4 @@
-—————————————————————————————————————————————————---
+---
 title: "The Susskind Unbind. When a Theory Severs Its Own Leash."
 date: 2026-06-05T13:52:40
 modified: 2026-06-05T15:40:12
