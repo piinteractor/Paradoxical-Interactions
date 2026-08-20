@@ -1,7 +1,7 @@
 ---
 title: "Foucault’s Pendulum. The Physical Axiom of Revelation."
 date: 2026-08-06T16:09:04
-modified: 2026-08-08T14:09:20
+modified: 2026-08-20T11:37:31
 slug: foucaults-pendulum
 lang: en
 type: post
@@ -112,7 +112,7 @@ The Device That Lets You See The Earth Turn: The Foucault Pendulum — A concise
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
-All are guilty. None are at fault.
+All are guilty. None is at fault.
 
 Peter Senner Thinking beyond the Tellerrand
 
