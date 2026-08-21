@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
+
 The Nonsense War. Why Every Better Truth Sounds Like an Attack.
 
 Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
@@ -125,5 +127,3 @@ The Susskind Unbind. When a Theory Severs Its Own Leash.
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
 
 The Party Nobody Built. How Every Rational Actor Produced the AfD.
-
-The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
