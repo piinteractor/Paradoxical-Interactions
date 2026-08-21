@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
+
+21. August 2026
+
+Jeder, der KI nutzt, um schneller zu schreiben, besser zu entscheiden, mehr zu schaffen, handelt vernünftig. Genau das ist das Problem. Adam Smith versprach: Wer seinem eigenen Interesse folgt, fördert automatisch das der ...
+
+Mehr erfahren
+
 Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
 
 19. August 2026
@@ -282,16 +290,6 @@ Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem
 
 Das Alignment Research Center hat ein neues Ziel. Es ist konkreter als zuvor. Direkter mit nützlichen Anwendungen verknüpft. Sie nennen es „Sampling übertreffen".
 Das bedeutet: Anstatt dass Menschen verstehen, was ein neuronales Netz ...
-
-Mehr erfahren
-
-Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
-
-7. März 2026
-
-Es ist eine Geburtstagsfeier, die niemals endet.
-Es gibt immer irgendwo einen Kuchen, immer einen Strand, immer eine Beförderung, immer jemanden mit besserem Licht und schöneren Zähnen.
-Du öffnest die App um 23:17 Uhr in einer ...
 
 Mehr erfahren
 
