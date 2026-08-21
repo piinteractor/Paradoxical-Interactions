@@ -94,4 +94,12 @@ In September 2025, Isaac Slaughter and Martin Saveski, together with colleagues 
 
 Read More
 
+PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
+
+21. August 2026
+
+Everyone using AI to write faster, decide better, produce more, is acting rationally. That's exactly the problem. Adam Smith's promise was that pursuing your own interest automatically serves everyone else's. It didn't hold for the ...
+
+Read More
+
 No results found.
