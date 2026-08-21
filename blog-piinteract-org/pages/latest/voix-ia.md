@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure.
+
+21 août 2026
+
+Toute personne qui utilise l'IA pour écrire plus vite, décider mieux, produire davantage, agit rationnellement. C'est précisément le problème. Adam Smith promettait qu'en poursuivant son propre intérêt, on sert automatiquement celui ...
+
+En savoir plus
+
 Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucrates — pas la bureaucratie.
 
 19 août 2026
@@ -296,15 +304,6 @@ Peter Steinberger – L’homme qui a provoqué l’inondation, puis construit l
 22 février 2026
 
 Un développeur crée un framework open source destiné à la génération autonome de contenu par IA. Puis il assiste à la destruction de son propre fil d'actualité — et se met à bloquer précisément ce qu'il a lui-même déclenché. De ...
-
-En savoir plus
-
-L’Épée Qui Se Contredit Elle-Même
-
-21 février 2026
-
-Deux personnes. Une épée entre eux. L'un en forge depuis quarante ans. L'autre étudie pourquoi les choses échouent.
-Ils parlent depuis une heure. Ils commencent à peine.
 
 En savoir plus
 
