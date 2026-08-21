@@ -32,6 +32,14 @@ Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das 
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
+
+21. August 2026
+
+Jeder, der KI nutzt, um schneller zu schreiben, besser zu entscheiden, mehr zu schaffen, handelt vernünftig. Genau das ist das Problem. Adam Smith versprach: Wer seinem eigenen Interesse folgt, fördert automatisch das der ...
+
+Read More
+
 Der Unsinnskrieg. Warum jede bessere Wahrheit wie ein Angriff klingt.
 
 21. August 2026
