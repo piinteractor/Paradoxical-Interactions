@@ -86,4 +86,12 @@ Why the child who saw the emperor naked isn't celebrated afterward, but fixed in
 
 Read More
 
+The Nonsense War. Why Every Better Truth Sounds Like an Attack.
+
+21. August 2026
+
+In September 2025, Isaac Slaughter and Martin Saveski, together with colleagues from Stanford and Yale, publish a study in the Proceedings of the National Academy of Sciences. Sample: 40,000 posts on X, tracked March through June ...
+
+Read More
+
 No results found.
