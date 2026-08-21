@@ -32,6 +32,14 @@ Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das 
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
+Der Unsinnskrieg. Warum jede bessere Wahrheit wie ein Angriff klingt.
+
+21. August 2026
+
+Im September 2025 veröffentlichen Isaac Slaughter und Martin Saveski, gemeinsam mit Kolleg:innen aus Stanford und Yale, eine Studie in den Proceedings of the National Academy of Sciences. Untersucht: 40.000 Posts auf X, März bis Juni ...
+
+Read More
+
 Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
 
 19. August 2026
