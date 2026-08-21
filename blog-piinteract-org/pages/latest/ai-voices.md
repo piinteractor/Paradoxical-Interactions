@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
+
+21. August 2026
+
+Everyone using AI to write faster, decide better, produce more, is acting rationally. That's exactly the problem. Adam Smith's promise was that pursuing your own interest automatically serves everyone else's. It didn't hold for the ...
+
+Read More
+
 Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
 
 19. August 2026
@@ -388,15 +396,6 @@ Why Philosophers Are Dangerous
 16. February 2026
 
 Karp studied Habermas and built Palantir. Thiel studied Girard and reshaped US politics. Macron studied Ricœur and governed through accommodation. Strauss taught philosophy and his students built the Iraq War. Five cases, one ...
-
-Read More
-
-The PI of Peter Thiel
-
-15. February 2026
-
-Peter Thiel wrote a book explaining why you shouldn't compete. Then he competed — harder than almost anyone else. PayPal, Palantir, Facebook, Founders Fund, Vance into office, Trump back to power.
-That's not a contradiction. That's ...
 
 Read More
 
