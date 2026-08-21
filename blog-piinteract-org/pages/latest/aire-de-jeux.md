@@ -74,4 +74,12 @@ Le trilemme de Munchhausen s'inscrit dans la lignée de l'hypothèse de « l'org
 
 En savoir plus
 
+La Guerre du Non-Sens. Pourquoi toute vérité meilleure sonne comme une attaque.
+
+21 août 2026
+
+En septembre 2025, Isaac Slaughter et Martin Saveski publient, avec des collègues de Stanford et de Yale, une étude dans les Proceedings of the National Academy of Sciences. Échantillon : 40 000 publications sur X, suivies de mars à ...
+
+En savoir plus
+
 No results found.
