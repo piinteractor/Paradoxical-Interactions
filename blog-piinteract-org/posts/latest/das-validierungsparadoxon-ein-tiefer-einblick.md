@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
+
 Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
 
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
@@ -613,8 +615,6 @@ Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
 
 Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
-
-Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
 Nichts gefunden
 
