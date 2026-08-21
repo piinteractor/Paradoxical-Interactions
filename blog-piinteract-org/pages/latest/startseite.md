@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Der Unsinnskrieg. Warum jede bessere Wahrheit wie ein Angriff klingt.
+
 Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
 
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
@@ -152,5 +154,3 @@ Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
 Die parallele Wahrheit. Warum die Struktur sie stehenlassen kann, ohne sie wahrnehmen zu müssen.
 
 Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
-
-Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
