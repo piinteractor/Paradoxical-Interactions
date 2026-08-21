@@ -1,7 +1,7 @@
 ---
 title: "L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure."
 date: 2026-08-21T13:59:35
-modified: 2026-08-21T13:59:35
+modified: 2026-08-21T14:01:17
 slug: le-paradoxe-de-navigation
 lang: fr
 type: post
