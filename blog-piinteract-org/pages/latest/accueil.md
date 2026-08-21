@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+La Guerre du Non-Sens. Pourquoi toute vérité meilleure sonne comme une attaque.
+
 Figée en chose. Pourquoi celle qui dit la vérité en devient la traîtresse.
 
 Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucrates — pas la bureaucratie.
@@ -77,5 +79,3 @@ Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenc
 La vérité parallèle. Pourquoi la structure peut la laisser exister sans jamais la percevoir.
 
 Le paradoxe de Stuttgart 21. Comment un référendum a permis de sauver un projet dont personne ne voulait.
-
-Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
