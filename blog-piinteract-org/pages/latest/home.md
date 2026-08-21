@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Nonsense War. Why Every Better Truth Sounds Like an Attack.
+
 Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
 
 The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
@@ -125,5 +127,3 @@ The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You G
 The Party Nobody Built. How Every Rational Actor Produced the AfD.
 
 The Schrödinger PI. The Paradox That Proves Itself by Failing to Disprove Itself.
-
-The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
