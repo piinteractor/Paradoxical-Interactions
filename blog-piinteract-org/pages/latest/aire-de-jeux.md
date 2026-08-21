@@ -82,4 +82,12 @@ En septembre 2025, Isaac Slaughter et Martin Saveski publient, avec des collègu
 
 En savoir plus
 
+L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure.
+
+21 août 2026
+
+Toute personne qui utilise l'IA pour écrire plus vite, décider mieux, produire davantage, agit rationnellement. C'est précisément le problème. Adam Smith promettait qu'en poursuivant son propre intérêt, on sert automatiquement celui ...
+
+En savoir plus
+
 No results found.
