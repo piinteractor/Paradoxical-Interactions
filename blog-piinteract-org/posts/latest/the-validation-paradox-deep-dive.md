@@ -589,6 +589,8 @@ Related:
 
 
 
+PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
+
 Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
 
 The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
@@ -610,8 +612,6 @@ The Forced Inequality. Why Balance Never Lasts.
 The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
 
 From Cybernetics to Superlearners: The Lonely Observer of PI
-
-The Pike Syndrome: How Conditioning Destroys Skills.
 
 No results found.
 
