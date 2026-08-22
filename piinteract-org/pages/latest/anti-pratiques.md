@@ -1,7 +1,7 @@
 ---
 title: "Anti-Pratiques"
 date: 2025-12-17T22:10:00
-modified: 2026-05-26T07:20:49
+modified: 2026-08-22T15:18:48
 slug: anti-pratiques
 lang: fr
 type: page
