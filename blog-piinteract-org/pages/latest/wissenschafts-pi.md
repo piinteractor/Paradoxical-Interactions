@@ -34,6 +34,14 @@ Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenscha
 
 Alle sind schuldig. Niemand ist schuld.
 
+Der Rückkopplungs-Bug. Die Hawking-Strahlung lässt die Quelle nicht unberührt — sie erzeugt einen Rückstoß.
+
+21. August 2026
+
+Im Juli 2026 veröffentlicht ein Team um Lorenzo M. Procopio an der Universität Paderborn, gemeinsam mit dem Cinvestav in Mexiko-Stadt und dem Weizmann-Institut in Israel, ein Ergebnis in Nature, das schmal klingt und sich als alles ...
+
+Mehr erfahren
+
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
 
 19. August 2026
