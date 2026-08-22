@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Backreaction Bug. Hawking Radiation Doesn’t Leave the Source Untouched — It Recoils.
+
+21. August 2026
+
+In July 2026, a team led by Lorenzo M. Procopio at Paderborn University, working with Cinvestav in Mexico City and the Weizmann Institute in Israel, published a result in Nature that sounds narrow and turns out not to be. Using a ...
+
+Read More
+
 The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
 
 19. August 2026
