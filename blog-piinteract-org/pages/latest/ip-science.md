@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Bug de la Rétroaction. Le Rayonnement de Hawking ne Laisse pas sa Source Intacte — il Produit un Recul.
+
+21 août 2026
+
+En juillet 2026, une équipe dirigée par Lorenzo M. Procopio à l'université de Paderborn, en collaboration avec le Cinvestav à Mexico et l'Institut Weizmann en Israël, publie dans Nature un résultat qui paraît étroit et se révèle tout ...
+
+En savoir plus
+
 Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucrates — pas la bureaucratie.
 
 19 août 2026
