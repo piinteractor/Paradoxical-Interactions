@@ -58,6 +58,8 @@ This blog explores Paradoxical Interactions through real-world examples, theoret
 
 PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
 
+The Backreaction Bug. Hawking Radiation Doesn’t Leave the Source Untouched — It Recoils.
+
 The Nonsense War. Why Every Better Truth Sounds Like an Attack.
 
 Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
@@ -125,5 +127,3 @@ The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 The Susskind Unbind. When a Theory Severs Its Own Leash.
 
 The Concert of the Alarm Systems. When Everyone Is Sounding the Alarm, All You Get Is a Cacophony.
-
-The Party Nobody Built. How Every Rational Actor Produced the AfD.
