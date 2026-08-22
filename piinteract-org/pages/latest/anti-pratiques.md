@@ -1,7 +1,7 @@
 ---
 title: "Anti-Pratiques"
 date: 2025-12-17T22:10:00
-modified: 2026-08-22T15:18:48
+modified: 2026-08-22T16:31:03
 slug: anti-pratiques
 lang: fr
 type: page
@@ -522,7 +522,7 @@ Aucune de ces questions ne résout l'ambiguïté. Mais elles remplacent la reche
 
 Pourquoi ça ne marche pas ?
 
-La capacité même qui permet d’avoir une intuition empêche sa réception. La personne qui perçoit le problème de structure avec suffisamment de clarté pour le nommer avec précision a déjà dépassé le seuil que le groupe est capable d’assimiler. La précision passe pour de l’arrogance. La clarté passe pour de la condescendance. Plus l’analyse est pointue, plus elle confirme le verdict social : « Klugscheißer ». L'instrument qui diagnostique la situation est le même qui rend le diagnostic inacceptable.
+La capacité même qui permet d’avoir une intuition empêche sa réception. La personne qui perçoit le problème de structure avec suffisamment de clarté pour le nommer avec précision a déjà dépassé le seuil que le groupe est capable d’assimiler. La précision passe pour de l’arrogance. La clarté passe pour de la condescendance. Plus l’analyse est pointue, plus elle confirme le verdict social : « Petit malin ». L'instrument qui diagnostique la situation est le même qui rend le diagnostic inacceptable.
 
 Le piège
 
