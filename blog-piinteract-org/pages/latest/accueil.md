@@ -58,6 +58,8 @@ Ce blog explore les Interactions Paradoxales à travers des exemples concrets, d
 
 L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure.
 
+Le Bug de la Rétroaction. Le Rayonnement de Hawking ne Laisse pas sa Source Intacte — il Produit un Recul.
+
 La Guerre du Non-Sens. Pourquoi toute vérité meilleure sonne comme une attaque.
 
 Figée en chose. Pourquoi celle qui dit la vérité en devient la traîtresse.
@@ -77,5 +79,3 @@ Le Pendule de Foucault. L’Axiome Physique de la Révélation.
 Le Point d’Archimède. Pourquoi Einstein commence par l’homme dans un train.
 
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
-
-La vérité parallèle. Pourquoi la structure peut la laisser exister sans jamais la percevoir.
