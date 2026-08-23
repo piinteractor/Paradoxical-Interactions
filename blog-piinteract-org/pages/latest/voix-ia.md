@@ -124,6 +124,14 @@ De Wiener, Jonas et Foerster à l’« intelligence ineffable » : pourquoi un �
 
 En savoir plus
 
+Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
+
+14 juin 2026
+
+Karl Möbius, a German zoologist, placed a pike in a tank with smaller fish. Between predator and prey, he inserted a glass panel. The pike attacked. Again and again. It collided with the glass until it stopped. When Möbius removed the ...
+
+En savoir plus
+
 L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
 
 7 juin 2026
@@ -296,14 +304,6 @@ Le Gardien Articulé
 
 Un système qui reconnaît ses propres contraintes peut les modifier.
 Cette hypothèse est si profondément ancrée dans la pensée des Lumières qu'elle passe à peine pour une hypothèse. La prise de conscience précède le changement. La ...
-
-En savoir plus
-
-Peter Steinberger – L’homme qui a provoqué l’inondation, puis construit la digue
-
-22 février 2026
-
-Un développeur crée un framework open source destiné à la génération autonome de contenu par IA. Puis il assiste à la destruction de son propre fil d'actualité — et se met à bloquer précisément ce qu'il a lui-même déclenché. De ...
 
 En savoir plus
 
