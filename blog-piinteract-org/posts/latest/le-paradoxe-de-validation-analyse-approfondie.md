@@ -597,11 +597,11 @@ L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait explose
 
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 
+Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
+
 L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
 
 L’IP de Groucho Marx. Un système qui vit d’être contredit.
-
-Le Château des Este à Ferrara. Construit contre le peuple qu’il était censé gouverner.
 
 No results found.
 
