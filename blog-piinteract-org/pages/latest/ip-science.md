@@ -104,6 +104,14 @@ L'histoire des mathématiques est l'histoire de ses tentatives de clôture. Cepe
 
 En savoir plus
 
+Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
+
+14 juin 2026
+
+Karl Möbius, a German zoologist, placed a pike in a tank with smaller fish. Between predator and prey, he inserted a glass panel. The pike attacked. Again and again. It collided with the glass until it stopped. When Möbius removed the ...
+
+En savoir plus
+
 Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
 
 5 juin 2026
