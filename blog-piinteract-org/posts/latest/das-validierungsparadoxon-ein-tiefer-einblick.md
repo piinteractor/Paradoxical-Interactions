@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfolgreich zu sein
+
 PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
 
 Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
@@ -613,8 +615,6 @@ Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so n
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
 
 Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
-
-Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
 
 Nichts gefunden
 
