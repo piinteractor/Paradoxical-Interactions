@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Bug de l’industrie de l’aide — Pourquoi une bonne aide ne peut pas se permettre de réussir
+
+26 août 2026
+
+Une bonne aide devrait avoir une sortie. Un kinésithérapeute veut que le genou guérisse. Un coach emploi veut que le placement tienne sans coach. Un plan d'accompagnement devrait se réduire, non s'étendre, à mesure que la personne ...
+
+En savoir plus
+
 L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure.
 
 21 août 2026
@@ -295,15 +303,6 @@ La polarisation qui n’a pas été choisie
 27 février 2026
 
 Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
-
-En savoir plus
-
-Le Gardien Articulé
-
-25 février 2026
-
-Un système qui reconnaît ses propres contraintes peut les modifier.
-Cette hypothèse est si profondément ancrée dans la pensée des Lumières qu'elle passe à peine pour une hypothèse. La prise de conscience précède le changement. La ...
 
 En savoir plus
 
