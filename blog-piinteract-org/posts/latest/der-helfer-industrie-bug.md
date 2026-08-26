@@ -1,7 +1,7 @@
 ---
 title: "Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfolgreich zu sein"
 date: 2026-08-26T20:13:55
-modified: 2026-08-26T20:13:56
+modified: 2026-08-26T23:59:27
 slug: der-helfer-industrie-bug
 lang: de
 type: post
@@ -46,7 +46,7 @@ Der Leistungserbringer hat recht. In einer Landschaft, in der mehr Hilfsbedürft
 
 Die Helferindustrie-PI
 
-Die paradoxe Interaktion innerhalb der Helfer-Industrie:
+Die paradoxe Interaktion in der Helfer-Industrie:
 
 Ein System, darauf ausgelegt, Abhängigkeiten zu verringern, muss sich durch die Nachfrage nach genau jenen Abhängigkeiten finanzieren, die es eigentlich beseitigen soll. Jeder rationale Akteur innerhalb dieses Systems strebt daher danach, die Zahlungsfähigkeit des Systems sicherzustellen: es braucht noch mehr nachgewiesenen Bedarf und nicht weniger.
 
@@ -80,7 +80,7 @@ Was es daran ändert, wie wir „Hilfe“ beurteilen
 
 Die eigentliche Frage ist nicht mehr, ob der einzelne Sachbearbeiter, die Werkstatt oder der Kostenträger ihre Arbeit gut machen — die meisten tun das. Es geht darum, ob ein bestimmtes Programm über einen finanziell ausgestatteten und personell besetzten Mechanismus verfügt, dessen spezielle Aufgabe es ist, die eigene Fallzahl zu reduzieren, und ob jemandes Gehalt davon abhängt, dass er funktioniert.
 
-Die meisten Hilfsprogramme können die erste Hälfte beantworten. Fast keines kann die zweite. Diese Lücke ist kein Skandal. Sie ist die Struktur, die exakt so funktioniert, wie sie gebaut wurde.
+Die meisten Hilfsprogramme können die erste Hälfte beantworten. Fast keines kann die zweite. Diese Lücke ist kein Aufreger. Sie ist die Struktur, die exakt so funktioniert, wie sie gebaut wurde.
 
 Wenn Ihnen das nächste Mal jemand sagt, ein Programm helfe Menschen, fragen Sie nicht, ob Hilfe geleistet wird. Fragen Sie, ob Abhängigkeiten reduziert werden — und wer dafür bezahlt wird, wenn es so ist.
 
