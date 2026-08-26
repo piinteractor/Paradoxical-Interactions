@@ -579,6 +579,8 @@ Connexes :
 
 
 
+Le Bug de l’industrie de l’aide — Pourquoi une bonne aide ne peut pas se permettre de réussir
+
 L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure.
 
 Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucrates — pas la bureaucratie.
@@ -600,8 +602,6 @@ De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
 
 L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
-
-L’IP de Groucho Marx. Un système qui vit d’être contredit.
 
 No results found.
 
