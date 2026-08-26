@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfolgreich zu sein
+
 PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
 
 Der Rückkopplungs-Bug. Die Hawking-Strahlung lässt die Quelle nicht unberührt — sie erzeugt einen Rückstoß.
@@ -152,5 +154,3 @@ Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
 
 Der Archimedische Punkt. Warum Einstein mit dem Mann im Zug beginnt.
-
-Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
