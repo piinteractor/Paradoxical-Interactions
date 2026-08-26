@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfolgreich zu sein
+
+26. August 2026
+
+Good help is supposed to have an exit. A physiotherapist wants the knee to heal. A job coach wants the placement to hold without a coach. A care plan should shrink, not grow, as the person it serves becomes stronger. That is the ...
+
+Mehr erfahren
+
 PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
 
 21. August 2026
@@ -281,15 +289,6 @@ Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
 15. März 2026
 
 Habermas hat jahrzehntelang dafür gestritten, dass rationale Diskurse — das kommunikative Handeln, wie er es nannte — die Grundlage demokratischer Legitimität sein könnten. Er war provokativ. Er wurde kritisiert. Er wurde ...
-
-Mehr erfahren
-
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
-
-11. März 2026
-
-Das Alignment Research Center hat ein neues Ziel. Es ist konkreter als zuvor. Direkter mit nützlichen Anwendungen verknüpft. Sie nennen es „Sampling übertreffen".
-Das bedeutet: Anstatt dass Menschen verstehen, was ein neuronales Netz ...
 
 Mehr erfahren
 
