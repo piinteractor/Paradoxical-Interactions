@@ -589,6 +589,8 @@ Related:
 
 
 
+The Help Industry Bug – Why Good Help Cannot Afford to Succeed
+
 PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
 
 Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
@@ -610,8 +612,6 @@ The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out 
 The Forced Inequality. Why Balance Never Lasts.
 
 The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
-
-From Cybernetics to Superlearners: The Lonely Observer of PI
 
 No results found.
 
