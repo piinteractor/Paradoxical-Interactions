@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Help Industry Bug – Why Good Help Cannot Afford to Succeed
+
+26. August 2026
+
+Good help is supposed to have an exit. A physiotherapist wants the knee to heal. A job coach wants the placement to hold without a coach. A care plan should shrink, not grow, as the person it serves becomes stronger. That is the ...
+
+Read More
+
 PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
 
 21. August 2026
@@ -388,14 +396,6 @@ The Gaveston Pattern:
 19. February 2026
 
 Medieval England, 1312. A favorite is murdered. A king takes revenge. A queen invades. A son seizes power. Seven hundred years later, the same structure runs every week in organizations, governments, and tech companies worldwide.
-
-Read More
-
-Why Philosophers Are Dangerous
-
-16. February 2026
-
-Karp studied Habermas and built Palantir. Thiel studied Girard and reshaped US politics. Macron studied Ricœur and governed through accommodation. Strauss taught philosophy and his students built the Iraq War. Five cases, one ...
 
 Read More
 
