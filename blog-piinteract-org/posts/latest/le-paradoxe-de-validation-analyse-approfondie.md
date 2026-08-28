@@ -579,6 +579,8 @@ Connexes :
 
 
 
+Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
+
 Le Bug de l’industrie de l’aide — Pourquoi une bonne aide ne peut pas se permettre de réussir
 
 L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure.
@@ -600,8 +602,6 @@ L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait explose
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 
 Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
-
-L’économie du miroir. Pourquoi toute plateforme qui promet la diversité ne produit finalement qu’une uniformité.
 
 No results found.
 
