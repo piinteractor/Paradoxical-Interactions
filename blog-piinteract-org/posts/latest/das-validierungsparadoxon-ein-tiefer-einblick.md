@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
+
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
@@ -613,8 +615,6 @@ Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als 
 Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
 
 Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
-
-Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
 
 Nichts gefunden
 
