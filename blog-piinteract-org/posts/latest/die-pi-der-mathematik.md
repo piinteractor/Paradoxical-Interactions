@@ -1,7 +1,7 @@
 ---
 title: "Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will."
 date: 2026-07-24T14:08:32
-modified: 2026-07-24T14:09:18
+modified: 2026-08-28T03:48:39
 slug: die-pi-der-mathematik
 lang: de
 type: post
