@@ -592,6 +592,10 @@ Verwandt:
 
 
 
+Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
+
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
+
 Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfolgreich zu sein
 
 PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
@@ -606,15 +610,11 @@ Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, das
 
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
-Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
-
 Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
 
 Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
 
 Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
-
-Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehement abwehren.
 
 Nichts gefunden
 
