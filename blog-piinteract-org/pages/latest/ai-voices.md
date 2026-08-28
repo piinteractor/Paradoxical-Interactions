@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
+
+28. August 2026
+
+A framework that applies everywhere has no domain — only a claim that keeps confirming itself. Foucault's Pendulum passed the test: what looked like decoupling from the rotating Earth turns out, on closer inspection, to be coupling of ...
+
+Read More
+
 The Help Industry Bug – Why Good Help Cannot Afford to Succeed
 
 26. August 2026
@@ -388,14 +396,6 @@ The Sword That Contradicts Itself
 
 Two people. A sword between them. One has been making them for forty years. The other studies why things fail.
 They've been talking for an hour. They're just getting started.
-
-Read More
-
-The Gaveston Pattern:
-
-19. February 2026
-
-Medieval England, 1312. A favorite is murdered. A king takes revenge. A queen invades. A son seizes power. Seven hundred years later, the same structure runs every week in organizations, governments, and tech companies worldwide.
 
 Read More
 
