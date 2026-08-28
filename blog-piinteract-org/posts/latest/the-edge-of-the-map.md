@@ -1,7 +1,7 @@
 ---
 title: "The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction."
 date: 2026-08-28T04:02:39
-modified: 2026-08-28T04:02:39
+modified: 2026-08-28T16:07:22
 slug: the-edge-of-the-map
 lang: en
 type: post
@@ -134,16 +134,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
-
-Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
-
-All are guilty. None are at fault.
-
-Peter Senner Thinking beyond the Tellerrand
-
-contact@piinteract.org
-
-https://piinteract.org
-
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) & ChatGPT — three incomplete systems making each other's gaps visible.
