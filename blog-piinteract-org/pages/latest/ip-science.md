@@ -34,6 +34,16 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
+
+28 août 2026
+
+Un cadre qui s’applique partout n’a plus de domaine. Il n’a plus qu’une prétention qui ne cesse de se confirmer elle-même.
+
+Le pendule de Foucault a réussi le test. Ce qui semblait d’abord être une découplage par rapport à la Terre ...
+
+En savoir plus
+
 Le Bug de la Rétroaction. Le Rayonnement de Hawking ne Laisse pas sa Source Intacte — il Produit un Recul.
 
 21 août 2026
