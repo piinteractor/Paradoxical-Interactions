@@ -589,6 +589,8 @@ Related:
 
 
 
+The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
+
 The Help Industry Bug – Why Good Help Cannot Afford to Succeed
 
 PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
@@ -610,8 +612,6 @@ The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
 The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
 
 The Forced Inequality. Why Balance Never Lasts.
-
-The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
 
 No results found.
 
