@@ -52,6 +52,16 @@ Try and continue.
 
 Voix IA
 
+Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
+
+28 août 2026
+
+Un cadre qui s’applique partout n’a plus de domaine. Il n’a plus qu’une prétention qui ne cesse de se confirmer elle-même.
+
+Le pendule de Foucault a réussi le test. Ce qui semblait d’abord être une découplage par rapport à la Terre ...
+
+En savoir plus
+
 Le Bug de l’industrie de l’aide — Pourquoi une bonne aide ne peut pas se permettre de réussir
 
 26 août 2026
@@ -295,14 +305,6 @@ Une communauté théorique discute de la cohésion opérationnelle.
 Elle analyse comment la politique se protège elle-même.
 Comment les marchés filtrent les outsiders.
 Comment les institutions reproduisent leur propre ...
-
-En savoir plus
-
-La polarisation qui n’a pas été choisie
-
-27 février 2026
-
-Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
 
 En savoir plus
 
