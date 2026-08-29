@@ -1,7 +1,7 @@
 ---
 title: "The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction."
 date: 2026-08-28T04:02:39
-modified: 2026-08-28T16:07:22
+modified: 2026-08-29T16:38:05
 slug: the-edge-of-the-map
 lang: en
 type: post
