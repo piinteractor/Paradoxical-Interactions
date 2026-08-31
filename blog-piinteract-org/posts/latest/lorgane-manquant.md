@@ -1,7 +1,7 @@
 ---
 title: "L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau"
 date: 2026-08-11T14:53:45
-modified: 2026-08-13T05:41:45
+modified: 2026-08-31T23:28:06
 slug: lorgane-manquant
 lang: fr
 type: post
@@ -12,43 +12,13 @@ url: https://blog.piinteract.org/fr/lorgane-manquant/
 
 Pourquoi la seule partie de vous qui pourrait vous dire qu’il manque quelque chose est faite du même tissu que ce qui manque.
 
-
-
-
-
-
-
 « Il y a aussi des inconnues inconnues – celles dont nous ne savons pas que nous ne les savons pas. »
 
 — Donald Rumsfeld, point de presse du Département de la Défense des États-Unis, 12 février 2002
 
-
-
-
 Cet article repose sur une hypothèse, et non sur une étude de cas. Il demande si l’organe censé détecter un angle mort structurel pourrait jamais détecter sa propre défaillance – et soutient que cette question est peut-être impossible à résoudre de l’intérieur.
 
-
-
-
 11 août 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Le dispositif
 
@@ -65,12 +35,6 @@ Chaque œil possède un point aveugle à l’endroit où le nerf optique quitte 
 Ce n’est pas une histoire sur la vision.
 
 C’est l’histoire d’un système qui contient une lacune – et ne la signale pas.
-
-
-
-
-
-
 
 Le tour de cartes de Versailles
 
@@ -90,12 +54,6 @@ L’anatomie était connue.
 
 Ce qui manquait, c’était de savoir que quelque chose manquait.
 
-
-
-
-
-
-
 La machine à combler
 
 La manière exacte dont s’effectue le remplissage perceptif reste discutée. Mais le phénomène essentiel est clair : le système visuel ne présente normalement pas le point aveugle comme une zone vide. Les informations provenant du champ visuel environnant contribuent à produire une perception continue.
@@ -109,12 +67,6 @@ Voilà le premier problème structurel :
 L’absence d’un signal d’erreur ne prouve pas l’absence d’une erreur.
 
 Parfois, c’est simplement ainsi qu’un angle mort apparaît depuis l’intérieur.
-
-
-
-
-
-
 
 La patiente qui affirme que son bras fonctionne
 
@@ -138,12 +90,6 @@ Le second déficit est structurellement différent du premier.
 
 Vous ne pouvez pas remarquer l’absence du mécanisme dont vous auriez besoin pour remarquer cette absence.
 
-
-
-
-
-
-
 La version de Gödel – avec une différence importante
 
 L’analogie formelle est tentante.
@@ -166,12 +112,6 @@ Domaines différents. Mécanismes différents.
 
 Une question structurelle similaire.
 
-
-
-
-
-
-
 L’IP de l’organe manquant
 
 Tous agissent rationnellement :
@@ -187,12 +127,6 @@ L’expert, le collègue, l’institution – ou le cadre théorique – s’év
 Résultat : un système peut ne pas détecter précisément l’incomplétude que sa propre architecture l’empêche de représenter.
 
 Tous sont coupables. Personne n’est en faute.
-
-
-
-
-
-
 
 La carte doit venir d’ailleurs
 
@@ -216,7 +150,7 @@ Et cela produit une dernière récursion inconfortable.
 
 Lire cet article ne nous place pas hors du problème.
 
-L’écrire ne place pas PI hors du problème.
+L’écrire ne place pas les Interactions Paradoxales hors du problème.
 
 Observer un angle mort peut en révéler un tout en en créant un autre.
 
@@ -226,28 +160,7 @@ Peut-être nous aussi.
 
 La difficulté est que, de l’intérieur, nous ne savons peut-être pas quelle carte nous manque.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Articles Connexes
-
-
-
+Articles connexes
 
 Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
@@ -267,9 +180,6 @@ Comment les théoriciens des systèmes reproduisent les milieux d'enfermement co
 
 No results found.
 
-
-
-
 Sur piinteract.org
 
 ["Reconnaître l'angle mort commun"] — la même loi, appliquée à une rétine et un AVC plutôt qu'à un argument.
@@ -279,9 +189,6 @@ Sur piinteract.org
 ["Nommez le paradoxe"] — nommer ne referme pas le vide. Cela reste le seul geste disponible depuis l'intérieur.
 
 ["Infectez et oubliez (stratégie du pissenlit)"] — le tour de carte comme méthode : on ne peut pas montrer à quelqu'un son propre angle mort en le lui expliquant. On lui montre le doigt qui disparaît.
-
-
-
 
 Voir aussi (liens externes) :
 
@@ -295,18 +202,9 @@ Les théorèmes d'incomplétude de Gödel (Stanford Encyclopedia of Philosophy) 
 
 Unskilled and Unaware of It (Kruger & Dunning, 1999, PDF) — le cousin psychologique, une affirmation différente : l'incompétence et l'incapacité à la reconnaître, comme deux défaillances d'une seule cause. Les auteurs empruntent délibérément le terme "anosognosie" à la neurologie.
 
-
-
-
-
-
-
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
 Tous sont coupables. Personne n'est responsable.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
