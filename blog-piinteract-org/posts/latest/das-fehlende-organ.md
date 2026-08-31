@@ -1,7 +1,7 @@
 ---
 title: "Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt"
 date: 2026-08-11T14:53:45
-modified: 2026-08-31T09:45:27
+modified: 2026-08-31T14:53:08
 slug: das-fehlende-organ
 lang: de
 type: post
@@ -10,13 +10,13 @@ wp_id: 9095
 url: https://blog.piinteract.org/de/das-fehlende-organ/
 ---
 
-Warum ausgerechnet der Teil von dir, der dir sagen könnte, dass etwas fehlt, aus demselben Stoff besteht wie das, was fehlt.
+Warum ausgerechnet der Teil von dir, der dir sagen könnte, dass etwas fehlt, aus demselben Stoff gemacht ist wie das, was fehlt.
 
 „Es gibt auch unbekanntes Unbekanntes – jenes, von dem wir nicht wissen, dass wir es nicht wissen.“
 
 — Donald Rumsfeld, Pressekonferenz des US-Verteidigungsministeriums, 12. Februar 2002
 
-Dieser Artikel basiert auf einer Annahme, nicht auf einer Fallstudie. Er fragt, ob das Organ, das einen strukturellen blinden Fleck bemerken müsste, sein eigenes Scheitern überhaupt bemerken kann – und argumentiert damit, dass diese Frage möglicherweise innen nicht beantwortet werden kann.
+Dieser Artikel basiert auf einer Annahme, nicht auf einer Fallstudie. Er fragt, ob das Organ, das einen strukturellen blinden Fleck bemerken müsste, sein eigenes Scheitern überhaupt bemerken kann – und argumentiert damit, dass diese Frage möglicherweise von innen heraus nicht beantwortet werden kann.
 
 11. August 2026
 
@@ -38,15 +38,15 @@ Es ist die Geschichte eines Systems, das eine Lücke enthält – und diese Lüc
 
 Der Kartentrick von Versailles
 
-Edme Mariotte entdeckte den blinden Fleck in den 1660er Jahren. Die Anatomie der Eintrittsstelle des Sehnervs ins Auge war bereits bekannt. Was nicht erkannt worden war, war deren Konsequenz: die entsprechende Lücke im Gesichtsfeld.
+Edme Mariotte entdeckte im Jahr 1660 den blinden Fleck. Die Anatomie des Eintritts des Sehnervs ins Auge war bereits bekannt. Was nicht erkannt worden war, war deren Konsequenz: die entsprechende Lücke im Gesichtsfeld.
 
 Mariotte schloss per anatomischem Umkehrschluss: keine Rezeptoren am Sehnervkopf, also kein Sehen an dieser Stelle, also musste dort ein blinder Fleck existieren – obwohl niemand ihn wahrnahm.
 
-Er machte aus dieser Schlussfolgerung ein Experiment. Mit zwei Markierungen in einem definierten Abstand demonstrierte er am französischen Hof, dass eine davon einfach verschwinden konnte, während der Beobachter weiterhin ein scheinbar vollständiges Gesichtsfeld wahrnahm. Dreieinhalb Jahrhunderte später ist der blinde Fleck noch immer als Mariotte-Fleck bekannt.
+Er machte aus dieser Schlussfolgerung ein Experiment. Mit zwei Markierungen in einem definierten Abstand demonstrierte er am französischen Hof, dass eine davon einfach verschwinden konnte, während der Beobachter weiterhin ein scheinbar vollständiges Gesichtsfeld wahrnahm. Dreieinhalb Jahrhunderte später ist der blinde Fleck immer noch als Mariotte-Fleck bekannt.
 
 Doch Mariotte demonstrierte etwas viel Interessanteres als die Existenz dieser Lücke.
 
-Er demonstrierte, dass der Beobachter sie nicht durch Beobachten entdeckte.
+Er demonstrierte, dass der Beobachter sie nicht durch Beobachten entdecken konnte.
 
 Der blinde Fleck war immer schon da. Um ihn zu erkennen, brauchte es eine Versuchsanordnung: einen zweiten Punkt, einen definierten Abstand, eine veränderte Relation.
 
@@ -56,17 +56,17 @@ Was fehlte, war das Wissen darum, dass etwas fehlte.
 
 Die Auffüllmaschine
 
-Wie genau das perzeptuelle Auffüllen funktioniert, wird weiterhin diskutiert. Das wesentliche Phänomen jedoch ist klar: Das visuelle System präsentiert den blinden Fleck normalerweise nicht als leere Stelle. Informationen aus dem umgebenden Gesichtsfeld tragen zu einer kontinuierlichen Wahrnehmung bei.
+Wie genau das perzeptuelle Auffüllen funktioniert, wird weiterhin diskutiert. Das wesentliche Phänomen jedoch ist klar: Das visuelle System präsentiert den blinden Fleck eben nicht als leere Stelle. Sondern die Informationen aus dem umgebenden Gesichtsfeld vervollständigen die kontinuierliche Wahrnehmung.
 
-Es gibt keinen unabhängigen Beobachter oberhalb des Sehens, der Wahrnehmung und Wirklichkeit miteinander vergleicht.
+Es gibt keinen unabhängigen Beobachter über das Sehen hinaus, der Wahrnehmung und Wirklichkeit miteinander vergleicht.
 
-Das System, das das Bild konstruiert, ist zugleich Teil des Systems, dessen Unvollständigkeit infrage steht.
+Das System, das das Bild zusammenbaut, ist zugleich Teil des Systems, dessen Vollständigkeit infrage gestellt wird.
 
 Damit entsteht das erste strukturelle Problem:
 
-Das Fehlen eines Fehlersignals ist kein Beweis für das Fehlen eines Fehlers.
+Das Fehlen eines Fehlersignals ist kein Beweis für das Fehlen des Fehlers.
 
-Manchmal ist es schlicht das, wie ein blinder Fleck von innen aussieht.
+Manchmal ist es schlichtweg nur das, wie ein blinder Fleck von innen auszusehen hat.
 
 Die Patientin, die darauf besteht, dass ihr Arm funktioniert
 
