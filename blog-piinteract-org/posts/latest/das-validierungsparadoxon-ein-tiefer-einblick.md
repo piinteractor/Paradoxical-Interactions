@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
+
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
 
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
@@ -607,8 +609,6 @@ Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wah
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
 
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
-
-Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
 
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
