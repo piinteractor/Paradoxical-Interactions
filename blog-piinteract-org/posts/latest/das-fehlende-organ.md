@@ -1,7 +1,7 @@
 ---
 title: "Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt"
 date: 2026-08-11T14:53:45
-modified: 2026-08-31T14:53:08
+modified: 2026-08-31T23:23:37
 slug: das-fehlende-organ
 lang: de
 type: post
@@ -94,7 +94,7 @@ Gödels Version – mit einem wichtigen Unterschied
 
 Eine formale Analogie liegt nahe.
 
-Gödels zweiter Unvollständigkeitssatz zeigt unter bestimmten Voraussetzungen, dass ein hinreichend mächtiges konsistentes formales System seine eigene Konsistenz nicht allein mit seinen eigenen Mitteln beweisen kann.
+Gödels zweiter Unvollständigkeitssatz zeigt unter bestimmten Voraussetzungen, dass ein hinreichend mächtiges konsistentes formales System seine eigene Konsistenz nicht allein mit den eigenen Mitteln beweisen kann.
 
 Das ist nicht dasselbe Phänomen wie ein retinaler blinder Fleck oder eine Anosognosie. Gödel bewies einen Satz über formale Systeme, nicht über Gehirne.
 
@@ -144,13 +144,13 @@ Das beweist nicht, dass Introspektion nutzlos ist.
 
 Es zeigt etwas Näheres und Interessanteres:
 
-Ein System kann nicht voraussetzen, dass genaueres Hinsehen mit demselben Apparat sichtbar macht, was dieser Apparat strukturell nicht registrieren kann.
+Ein System kann nicht voraussetzen, dass genaueres Hinsehen etwas mit demselben Apparat sichtbar macht, was dieser Apparat strukturell nicht registrieren kann.
 
 Und daraus entsteht eine unangenehme letzte Rekursion.
 
 Diesen Artikel zu lesen, stellt uns nicht außerhalb des Problems.
 
-Ihn zu schreiben, stellt die Theore der PI nicht außerhalb des Problems.
+Ihn zu schreiben, stellt die Theorie der Paradoxen Interaktionen nicht außerhalb des Problems.
 
 Die Beobachtung eines blinden Flecks kann einen blinden Fleck sichtbar machen und dabei einen anderen erzeugen.
 
