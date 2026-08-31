@@ -1,7 +1,7 @@
 ---
 title: "The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing"
 date: 2026-08-11T14:53:45
-modified: 2026-08-13T05:44:35
+modified: 2026-08-31T23:25:46
 slug: the-missing-organ
 lang: en
 type: post
@@ -12,43 +12,13 @@ url: https://blog.piinteract.org/the-missing-organ/
 
 Why the one part of you that could tell you something is missing is built from the same tissue as the thing that is missing.
 
-
-
-
-
-
-
 "There are also unknown unknowns – the ones we don't know we don't know."
 
 — Donald Rumsfeld, U.S. Department of Defense news briefing, 12 February 2002
 
-
-
-
 This article is based on a hypothesis, not a case study. It asks whether the organ that would notice a structural blind spot could ever notice its own failure — and argues that the question may be unanswerable from inside.
 
-
-
-
-
-
-
 11. August 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 The Setup
 
@@ -65,12 +35,6 @@ Every eye has a blind spot where the optic nerve exits the retina and there are 
 This is not a story about vision.
 
 It is a story about a system that contains a gap — and does not report the gap.
-
-
-
-
-
-
 
 The Card Trick at Versailles
 
@@ -90,12 +54,6 @@ The anatomy was known.
 
 What was missing was the knowledge that something was missing.
 
-
-
-
-
-
-
 The Filling-In Machine
 
 Exactly how perceptual filling-in works remains debated, but the essential phenomenon is clear: the visual system does not ordinarily present the blind spot as an empty patch. Information from the surrounding visual field contributes to a continuous percept.
@@ -109,12 +67,6 @@ That gives us the first structural problem:
 The absence of an error signal is not evidence for the absence of an error.
 
 Sometimes it is simply what a blind spot looks like from inside.
-
-
-
-
-
-
 
 The Patient Who Insists Her Arm Works
 
@@ -140,12 +92,6 @@ You cannot notice the absence of the mechanism required to notice the absence.
 
  
 
-
-
-
-
-
-
 Gödel's Version, Without the Formalism
 
 There is a tempting formal analogy.
@@ -168,12 +114,6 @@ Different domains. Different mechanisms.
 
 A similar structural question.
 
-
-
-
-
-
-
 The Missing-Organ PI
 
 Everyone acts rationally:
@@ -189,12 +129,6 @@ The expert, colleague, institution — or framework — evaluates itself using c
 The result: a system may fail to detect precisely the incompleteness its own architecture prevents it from representing.
 
 All are guilty. None are at fault.
-
-
-
-
-
-
 
 The Card Must Come From Somewhere Else
 
@@ -218,7 +152,7 @@ And that creates an uncomfortable final recursion.
 
 Reading this article does not put us outside the problem.
 
-Writing it does not put PI outside the problem.
+Writing it does not put Paradoxical Interactions outside the problem.
 
 Observing a blind spot may reveal one blind spot while creating another.
 
@@ -228,25 +162,7 @@ Perhaps we do too.
 
 The difficulty is that from inside, we may not know which card is missing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Related Posts
-
-
-
 
 AI Recognition Trap: When Understanding Doesn’t Set You Free
 
@@ -266,9 +182,6 @@ How systems theorists reproduce the enclosure milieus Luhmann warned against
 
 No results found.
 
-
-
-
 On piinteract.org:
 
 ["Recognize the Shared Blindspot"] — the same law, run through a retina and a stroke instead of an argument.
@@ -278,9 +191,6 @@ On piinteract.org:
 ["Name the Paradox"] — naming the gap doesn't close it. It's still the only move available from inside.
 
 ["Infect and Forget"] — the card trick as method: you cannot show someone their own blind spot by explaining it to them. You show them the finger disappearing.
-
-
-
 
 See also (external links):
 
@@ -294,18 +204,9 @@ Gödel's Incompleteness Theorems (Stanford Encyclopedia of Philosophy) — the f
 
 Unskilled and Unaware of It (Kruger & Dunning, 1999, PDF) — the psychological cousin, not the same claim: incompetence and the inability to recognize it, as two failures from one cause. The authors borrow "anosognosia" from neurology on purpose.
 
-
-
-
-
-
-
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
