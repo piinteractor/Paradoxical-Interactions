@@ -1,7 +1,7 @@
 ---
 title: "Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt"
 date: 2026-08-11T14:53:45
-modified: 2026-08-13T05:43:13
+modified: 2026-08-31T09:45:27
 slug: das-fehlende-organ
 lang: de
 type: post
@@ -10,48 +10,15 @@ wp_id: 9095
 url: https://blog.piinteract.org/de/das-fehlende-organ/
 ---
 
-Warum ausgerechnet der Teil von dir, der dir sagen könnte, dass etwas fehlt, aus demselben Gewebe besteht wie das, was fehlt.
-
-
-
-
-
-
+Warum ausgerechnet der Teil von dir, der dir sagen könnte, dass etwas fehlt, aus demselben Stoff besteht wie das, was fehlt.
 
 „Es gibt auch unbekanntes Unbekanntes – jenes, von dem wir nicht wissen, dass wir es nicht wissen.“
 
 — Donald Rumsfeld, Pressekonferenz des US-Verteidigungsministeriums, 12. Februar 2002
 
-
-
-
-Dieser Artikel basiert auf einer Hypothese, nicht auf einer Fallstudie. Er fragt, ob das Organ, das einen strukturellen blinden Fleck bemerken müsste, sein eigenes Versagen überhaupt bemerken kann – und argumentiert, dass diese Frage möglicherweise von innen nicht beantwortbar ist.
-
-
-
-
-
-
+Dieser Artikel basiert auf einer Annahme, nicht auf einer Fallstudie. Er fragt, ob das Organ, das einen strukturellen blinden Fleck bemerken müsste, sein eigenes Scheitern überhaupt bemerken kann – und argumentiert damit, dass diese Frage möglicherweise innen nicht beantwortet werden kann.
 
 11. August 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Die Versuchsanordnung
 
@@ -61,29 +28,23 @@ Irgendwann verschwindet die Fingerspitze.
 
 Sie wird nicht unscharf. Sie verblasst nicht. Sie verschwindet.
 
-Doch die Wand dahinter zeigt kein Loch. Sie zeigt einfach mehr Wand.
+Doch die Wand dahinter zeigt kein Loch. Sie zeigt schlichtweg mehr Wand.
 
-Jedes Auge hat einen blinden Fleck dort, wo der Sehnerv die Netzhaut verlässt und keine Fotorezeptoren vorhanden sind. Unter normalen Bedingungen nehmen wir dort jedoch keine Lücke wahr. Das visuelle System ergänzt die fehlende Information so nahtlos, dass die Abwesenheit selbst verschwindet.
+Jedes Auge hat einen blinden Fleck dort, wo der Sehnerv die Netzhaut verlässt und keine Fotorezeptoren vorhanden sind. Unter normalen Bedingungen nehmen wir dort jedoch keine Lücke wahr. Das visuelle System ergänzt die fehlende Information so lückenlos, dass die Abwesenheit selbst verschwindet.
 
-Dies ist keine Geschichte über das Sehen.
+Dies ist keine Story über das Sehen.
 
 Es ist die Geschichte eines Systems, das eine Lücke enthält – und diese Lücke nicht meldet.
 
-
-
-
-
-
-
 Der Kartentrick von Versailles
 
-Edme Mariotte entdeckte den blinden Fleck in den 1660er Jahren. Die Anatomie der Eintrittsstelle des Sehnervs ins Auge war bereits bekannt. Was nicht erkannt worden war, war ihre Konsequenz: die entsprechende Lücke im Gesichtsfeld.
+Edme Mariotte entdeckte den blinden Fleck in den 1660er Jahren. Die Anatomie der Eintrittsstelle des Sehnervs ins Auge war bereits bekannt. Was nicht erkannt worden war, war deren Konsequenz: die entsprechende Lücke im Gesichtsfeld.
 
 Mariotte schloss per anatomischem Umkehrschluss: keine Rezeptoren am Sehnervkopf, also kein Sehen an dieser Stelle, also musste dort ein blinder Fleck existieren – obwohl niemand ihn wahrnahm.
 
 Er machte aus dieser Schlussfolgerung ein Experiment. Mit zwei Markierungen in einem definierten Abstand demonstrierte er am französischen Hof, dass eine davon einfach verschwinden konnte, während der Beobachter weiterhin ein scheinbar vollständiges Gesichtsfeld wahrnahm. Dreieinhalb Jahrhunderte später ist der blinde Fleck noch immer als Mariotte-Fleck bekannt.
 
-Doch Mariotte demonstrierte etwas Interessanteres als die Existenz dieser Lücke.
+Doch Mariotte demonstrierte etwas viel Interessanteres als die Existenz dieser Lücke.
 
 Er demonstrierte, dass der Beobachter sie nicht durch Beobachten entdeckte.
 
@@ -91,13 +52,7 @@ Der blinde Fleck war immer schon da. Um ihn zu erkennen, brauchte es eine Versuc
 
 Die Anatomie war bekannt.
 
-Was fehlte, war das Wissen, dass etwas fehlte.
-
-
-
-
-
-
+Was fehlte, war das Wissen darum, dass etwas fehlte.
 
 Die Auffüllmaschine
 
@@ -112,12 +67,6 @@ Damit entsteht das erste strukturelle Problem:
 Das Fehlen eines Fehlersignals ist kein Beweis für das Fehlen eines Fehlers.
 
 Manchmal ist es schlicht das, wie ein blinder Fleck von innen aussieht.
-
-
-
-
-
-
 
 Die Patientin, die darauf besteht, dass ihr Arm funktioniert
 
@@ -141,12 +90,6 @@ Der zweite Ausfall unterscheidet sich strukturell vom ersten.
 
 Du kannst das Fehlen des Mechanismus nicht bemerken, den du benötigst, um dieses Fehlen zu bemerken.
 
-
-
-
-
-
-
 Gödels Version – mit einem wichtigen Unterschied
 
 Eine formale Analogie liegt nahe.
@@ -169,12 +112,6 @@ Verschiedene Bereiche. Verschiedene Mechanismen.
 
 Eine ähnliche strukturelle Frage.
 
-
-
-
-
-
-
 Die paradoxe Interaktion des fehlenden Organs
 
 Alle handeln rational:
@@ -190,12 +127,6 @@ Der Experte, der Kollege, die Institution – oder das Framework – evaluiert s
 Das Ergebnis: Ein System kann genau jene Unvollständigkeit nicht erkennen, die seine eigene Architektur daran hindert, sie überhaupt zu repräsentieren.
 
 Alle sind schuldig. Keiner kann was dafür.
-
-
-
-
-
-
 
 Die Karte kommt von woanders
 
@@ -229,28 +160,7 @@ Vielleicht brauchen wir auch eine.
 
 Die Schwierigkeit besteht darin, dass wir von innen möglicherweise nicht wissen, welche Karte uns fehlt.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Verwandte Beiträge
-
-
-
 
 Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
 
@@ -268,9 +178,6 @@ Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann war
 
 No results found.
 
-
-
-
 Auf piinteract.org
 
 ["Erkenne den gemeinsamen blinden Fleck"] — dasselbe Gesetz, nur durch eine Netzhaut und einen Schlaganfall geführt statt durch ein Argument.
@@ -280,9 +187,6 @@ Auf piinteract.org
 ["Benenne das Paradox"] — Benennen löst die Lücke nicht auf. Es bleibt der einzige Zug, der von innen verfügbar ist.
 
 ["Infiziere und Vergiss (Löwenzahn-Strategie)"] — der Kartentrick als Methode: Man kann jemandem den eigenen blinden Fleck nicht erklären. Man zeigt ihm den verschwindenden Finger.
-
-
-
 
 Siehe auch (externe Links):
 
@@ -296,18 +200,9 @@ Gödels Unvollständigkeitssätze (Stanford Encyclopedia of Philosophy) — die 
 
 Unskilled and Unaware of It (Kruger & Dunning, 1999, PDF) — der psychologische Cousin, nicht dieselbe Behauptung: Inkompetenz und die Unfähigkeit, sie zu erkennen, als zwei Ausfälle einer Ursache. Die Autoren entlehnen "Anosognosie" bewusst aus der Neurologie.
 
-
-
-
-
-
-
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
 Alle sind schuldig. Keiner kann etwas dafür.
-
-
-
 
 Peter Senner Thinking beyond the Tellerrand
 
