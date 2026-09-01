@@ -1,7 +1,7 @@
 ---
 title: "La Cloche de Fin. Nous avons construit l’expérience. Nous étions l’expérience."
 date: 2026-03-19T18:50:08
-modified: 2026-03-19T19:12:37
+modified: 2026-09-01T19:17:56
 slug: la-cloche-de-fin-nous-avons-construit-lexperience-nous-etions-lexperience
 lang: fr
 type: post
@@ -18,7 +18,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 19 mars 2026
 
-Peter Senner co-created with Anthropic Claude
+Peter Senner co-creé avec Anthropic Claude
 
 La plus vieille histoire
 
@@ -144,7 +144,7 @@ Exemples : Science & Académie — Les structures qui déterminent ce qui peut �
 
 Interactions Paradoxales (IP) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non par échec, mais par structure.
 
-Tous sont coupables. Personne n'est en faute.
+Tous sont coupables. Personne n'y peut rien.
 
 Peter Senner
 
