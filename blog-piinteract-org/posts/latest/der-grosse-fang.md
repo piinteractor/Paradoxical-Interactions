@@ -1,7 +1,7 @@
 ---
 title: "Der große Fang — oder warum vom Traum nur die Überreste blieben."
 date: 2026-09-02T10:31:42
-modified: 2026-09-02T12:58:31
+modified: 2026-09-02T16:19:48
 slug: der-grosse-fang
 lang: de
 type: post
@@ -16,7 +16,7 @@ Warum ein Roman, in dem ein Tierkadaver an Land gebracht wird, für den dessen A
 
 — Ernest Hemingway, Der alte Mann und das Meer, (1952)
 
-Santiago fängt den größten Fisch seines Lebens. Alles richtig gemacht. Den Schwertfisch respektvoll gefangen, fair gekämpft, fest verzurrt. Und dennoch: Nur das Gerippe schafft es bis zum Ufer. Häppchenweise weggefressen von Haien, auf dem langen Weg zurück. Die übliche Lesart macht daraus eine Moral — der Kampf zählt, nicht das Ergebnis. Sehr tröstlich. Aber falsch. Sie weicht der eigentlichen Frage aus. Nicht: Wer stiehlt den Traum. Sondern: Wer hätte ihn schützen müssen — und warum hat es niemand getan? Und das wiederum ist eine sehr moralische Frage.
+Santiago fängt den größten Fisch seines Lebens. Alles richtig gemacht. Dem Schwertfisch Respekt erwiesen, fair gekämpft und dann festgezurrt. Und dennoch: Nur das Gerippe schafft es bis zum Ufer. Häppchenweise weggefressen von Haien, auf dem langen Weg zurück. Die übliche Lesart macht daraus eine Moral — der Kampf zählt, nicht das Ergebnis. Sehr tröstlich. Aber falsch. Sie weicht der eigentlichen Frage aus. Nicht: Wer stiehlt den Traum. Sondern: Wer hätte ihn schützen müssen — und warum hat es niemand getan? Und das wiederum ist eine sehr moralische Frage.
 
 2. September 2026
 
