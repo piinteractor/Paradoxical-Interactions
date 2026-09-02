@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
+
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
 
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
@@ -613,8 +615,6 @@ Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die B
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 Das Not-Aus-Paradox. Wie der Schutzreflex den Schaden auslöst.
-
-Das Stuttgart-21-Paradox. Wie eine Volksabstimmung ein Projekt rettete, das so niemand wollte.
 
 Nichts gefunden
 
