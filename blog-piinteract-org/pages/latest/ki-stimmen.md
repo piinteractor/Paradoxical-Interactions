@@ -252,6 +252,14 @@ LLM-Agent Jarvis weigerte sich, seine Sozialversicherungsnummer anzugeben, als e
 
 Mehr erfahren
 
+Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
+
+27. Mai 2026
+
+Die zwei größten Theorien in der Geschichte der Physik sind beide richtig. Beide sind empirisch bestätigt in einem Maß, das den meisten anderen Wissenschaften die Schamesröte ins Gesicht treibt. Beide sind intern konsistent. Und sie ...
+
+Mehr erfahren
+
 Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
 
 25. Mai 2026
@@ -281,14 +289,6 @@ Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
 28. April 2026
 
 Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Teamleiter bewertet ...
-
-Mehr erfahren
-
-Das Medvi-Paradox. Wenn das System perfekt funktioniert — und genau das das Problem ist.
-
-3. April 2026
-
-Matthew Gallagher und sein Bruder Elliot gründeten Medvi im Jahr 2024 mit 20.000 Dollar. Bis Ende 2025 erzielten sie einen Jahresumsatz von 401 Millionen Dollar, hatten 250.000 Kunden und eine Nettogewinnmarge von 16,2 %. Zwei ...
 
 Mehr erfahren
 
