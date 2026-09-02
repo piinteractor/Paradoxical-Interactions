@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Big Catch—Or Why Only the Remains of a Dream Remained.
+
+2. September 2026
+
+Santiago catches the biggest fish of his life. Does everything right. Respects the marlin, fights clean, lashes it to the boat. Still — only the carcass makes it to shore. Stripped by sharks, feeding in sequence on the way in. The ...
+
+Read More
+
 The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
 
 28. August 2026
@@ -387,15 +395,6 @@ Peter Steinberger – The Man Who Built the Flood and Then Built the Levee
 22. February 2026
 
 A developer builds an open-source framework for autonomous AI content generation. Then he watches it destroy his own timeline — and starts blocking exactly what he unleashed. Hypocrisy? No. Structure. Peter Steinberger's OpenClaw ...
-
-Read More
-
-The Sword That Contradicts Itself
-
-21. February 2026
-
-Two people. A sword between them. One has been making them for forty years. The other studies why things fail.
-They've been talking for an hour. They're just getting started.
 
 Read More
 
