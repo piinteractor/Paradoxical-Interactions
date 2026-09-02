@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+La grande prise — ou pourquoi il ne resta du rêve que ses restes.
+
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
 
 Le Bug de l’industrie de l’aide — Pourquoi une bonne aide ne peut pas se permettre de réussir
@@ -77,5 +79,3 @@ L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’
 Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
 
 Le Pendule de Foucault. L’Axiome Physique de la Révélation.
-
-« Un cheval. Un cheval. Mon royaume pour un cheval. » Deux maisons, une même lignée, aucune issue.
