@@ -200,6 +200,10 @@ Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernp
 
 Warum jede strukturelle Analyse des Nationalsozialismus genau die Pathologie ausführt, die sie analysiert — und warum das von innen heraus nicht korrigiert werden kann.
 
+Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
+
+Warum die unaufgelöste Spannung zwischen Relativitätstheorie und Quantentheorie keine Lücke in der Physik ist — sondern der Beweis, dass die Physik funktioniert.
+
 Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
 
 Warum das Sonnensystem ein Zufallsprodukt gegenseitiger Verschiebungen ist – und warum dies die einzige Art von Stabilität ist, die Bestand hat.
@@ -207,10 +211,6 @@ Warum das Sonnensystem ein Zufallsprodukt gegenseitiger Verschiebungen ist – u
 Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
 
 Warum das berühmteste Gedankenexperiment der Physik dazu gedacht war, eine Theorie zu töten — und ihr dauerhaftester Beweis wurde.
-
-„Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
-
-Warum die Stringtheorie die Physik nicht zum Scheitern brachte — und warum die Struktur dafür gesorgt hat, dass das nicht möglich war.
 
 No results found.
 
