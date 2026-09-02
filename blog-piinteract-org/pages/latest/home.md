@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Big Catch—Or Why Only the Remains of a Dream Remained.
+
 The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
 
 The Help Industry Bug – Why Good Help Cannot Afford to Succeed
@@ -125,5 +127,3 @@ The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd 
 The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
 
 The Groucho Marx PI. A System That Lives on Being Contradicted.
-
-The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
