@@ -589,6 +589,8 @@ Related:
 
 
 
+The Big Catch—Or Why Only the Remains of a Dream Remained.
+
 The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
 
 The Help Industry Bug – Why Good Help Cannot Afford to Succeed
@@ -610,8 +612,6 @@ The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
 The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
 
 The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
-
-The Forced Inequality. Why Balance Never Lasts.
 
 No results found.
 
