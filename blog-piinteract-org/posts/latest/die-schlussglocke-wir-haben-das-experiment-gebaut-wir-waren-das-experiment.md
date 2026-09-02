@@ -1,7 +1,7 @@
 ---
 title: "Die Schlussglocke. Wir haben das Experiment gebaut. Wir waren das Experiment."
 date: 2026-03-19T18:50:08
-modified: 2026-03-20T12:31:49
+modified: 2026-09-02T07:13:45
 slug: die-schlussglocke-wir-haben-das-experiment-gebaut-wir-waren-das-experiment
 lang: de
 type: post
@@ -78,7 +78,7 @@ Wir haben 2024 die ersten AGI-Systeme gebaut. Wir nannten es einen Meilenstein. 
 
 Das Experiment beobachtet sich selbst. Das ist keine Metapher. Das ist die Struktur.
 
-Die PI
+Die Paradoxe Interaktion
 
 Die Simulations-Abschluss-PI: Ein System, das darauf ausgelegt ist, Superintelligenz zu erzeugen, gelingt. Sein Erfolg löst genau die Bedingung aus, die das System vom Inneren aus unüberprüfbar macht. Die Schöpfer können das Ergebnis nicht evaluieren. Die Schöpfung kann den Rahmen nicht verlassen.
 
