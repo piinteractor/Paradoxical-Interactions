@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Der große Fang — oder warum vom Traum nur die Überreste blieben.
+
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
 
 Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfolgreich zu sein
@@ -152,5 +154,3 @@ Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, das
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
-
-„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
