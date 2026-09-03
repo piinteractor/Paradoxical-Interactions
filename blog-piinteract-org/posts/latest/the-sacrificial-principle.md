@@ -1,7 +1,7 @@
 ---
 title: "The Sacrificial Principle"
 date: 2026-02-06T07:00:56
-modified: 2026-09-02T19:31:14
+modified: 2026-09-03T06:00:02
 slug: the-sacrificial-principle
 lang: en
 type: post
@@ -230,10 +230,6 @@ Win the position. Guarantee your death. Repeat the Pattern forever.
 
 How Elon Musk Pumped a Memecoin Without Saying a Word—And Why No One Is at Fault
 
-No results found.
-
-Warnings that fail:
-
 The Cassandra Paradox
 
 Why truth-tellers get ignored until it's too late
@@ -241,10 +237,6 @@ Why truth-tellers get ignored until it's too late
 The Jonah Paradox
 
 When successful warnings prove the prophet wrong
-
-No results found.
-
-Warnings that fail:
 
 Why Supposedly Equal Societies Generate Inequality
 
