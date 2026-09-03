@@ -1,7 +1,7 @@
 ---
 title: "The Sacrificial Principle"
 date: 2026-02-06T07:00:56
-modified: 2026-09-03T06:00:02
+modified: 2026-09-03T06:00:48
 slug: the-sacrificial-principle
 lang: en
 type: post
@@ -221,8 +221,6 @@ The system purifies itself through ritualized exclusion. One falls. The others c
 Not a scandal. Structural logic.
 
 Related Posts:
-
-Structural sacrifice mechanisms:
 
 The Priest of Nemi: How Success Creates Its Own Assassin
 
