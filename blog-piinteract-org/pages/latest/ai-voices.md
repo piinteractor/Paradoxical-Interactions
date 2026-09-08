@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
+
+8. September 2026
+
+Popper formulated the logical limit of open systems in 1945: unconditional tolerance can destroy itself when it extends protection to intolerant actors. The resulting right to self-defense allows the system to block intolerance -- and ...
+
+Read More
+
 The Big Catch—Or Why Only the Remains of a Dream Remained.
 
 2. September 2026
@@ -387,14 +395,6 @@ The Articulate Gatekeeper
 
 During a long conversation with ChatGPT — documented in When Checkmate Is Just a Position and When Alignment Explains Its Own Null-Sum Game — something precise happened.
 The model described, with careful accuracy, how its alignment ...
-
-Read More
-
-Peter Steinberger – The Man Who Built the Flood and Then Built the Levee
-
-22. February 2026
-
-A developer builds an open-source framework for autonomous AI content generation. Then he watches it destroy his own timeline — and starts blocking exactly what he unleashed. Hypocrisy? No. Structure. Peter Steinberger's OpenClaw ...
 
 Read More
 
