@@ -579,6 +579,8 @@ Connexes :
 
 
 
+Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
+
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
 
 Le Bug de l’industrie de l’aide — Pourquoi une bonne aide ne peut pas se permettre de réussir
@@ -600,8 +602,6 @@ Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à c
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
 
 De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
-
-Le Syndrome du Brochet. Comment le Conditionnement Détruit le Potentiel.
 
 No results found.
 
