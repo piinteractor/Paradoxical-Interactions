@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
+
 Der große Fang — oder warum vom Traum nur die Überreste blieben.
 
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
@@ -152,5 +154,3 @@ Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
 
 Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
-
-Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
