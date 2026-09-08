@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
+
 The Big Catch—Or Why Only the Remains of a Dream Remained.
 
 The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
@@ -125,5 +127,3 @@ The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
 The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
 
 The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
-
-The Groucho Marx PI. A System That Lives on Being Contradicted.
