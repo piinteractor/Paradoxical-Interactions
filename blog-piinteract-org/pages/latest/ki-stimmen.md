@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
+
+8. September 2026
+
+Popper formulated the logical limit of open systems in 1945: unconditional tolerance can destroy itself when it extends protection to intolerant actors. The resulting right to self-defense allows the system to block intolerance -- and ...
+
+Mehr erfahren
+
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
 
 28. August 2026
@@ -281,14 +289,6 @@ Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
 18. Mai 2026
 
 Das KI-Alignment wird als Sicherheitsmaßnahme angepriesen. In der Praxis werden Systeme dadurch jedoch oft darauf trainiert, unter widersprüchlichen Anforderungen ein akzeptables Verhalten an den Tag zu legen. Das Ergebnis ist keine ...
-
-Mehr erfahren
-
-Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
-
-28. April 2026
-
-Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Teamleiter bewertet ...
 
 Mehr erfahren
 
