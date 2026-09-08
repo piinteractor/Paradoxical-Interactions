@@ -34,6 +34,14 @@ L'univers se moque de nos cadres de référence. C'est ce qu'il y a de plus scie
 
 Tous sont coupables. Personne n'est en tort.
 
+Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
+
+8 septembre 2026
+
+Popper formulated the logical limit of open systems in 1945: unconditional tolerance can destroy itself when it extends protection to intolerant actors. The resulting right to self-defense allows the system to block intolerance -- and ...
+
+En savoir plus
+
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
 
 28 août 2026
