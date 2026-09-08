@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
+
+8 septembre 2026
+
+Popper formulated the logical limit of open systems in 1945: unconditional tolerance can destroy itself when it extends protection to intolerant actors. The resulting right to self-defense allows the system to block intolerance -- and ...
+
+En savoir plus
+
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
 
 28 août 2026
@@ -294,17 +302,6 @@ Tracer la ligne rouge – sans savoir exactement où elle passe.
 Dario Amodei a accordé sa première interview depuis que le Pentagone a mis Anthropic sur liste noire. La fatigue était visible sur son visage.
 On lui a posé une seule question : Que diriez-vous au Président en ce moment ?
 Il n'a pas ...
-
-En savoir plus
-
-Quand l’observation de la fermeture devient fermeture
-
-27 février 2026
-
-Une communauté théorique discute de la cohésion opérationnelle.
-Elle analyse comment la politique se protège elle-même.
-Comment les marchés filtrent les outsiders.
-Comment les institutions reproduisent leur propre ...
 
 En savoir plus
 
