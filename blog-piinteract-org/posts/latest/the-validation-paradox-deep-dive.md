@@ -589,6 +589,8 @@ Related:
 
 
 
+The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
+
 The Big Catch—Or Why Only the Remains of a Dream Remained.
 
 The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
@@ -610,8 +612,6 @@ The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
 
 The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
-
-The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
 
 No results found.
 
