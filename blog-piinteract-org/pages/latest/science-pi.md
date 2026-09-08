@@ -34,6 +34,14 @@ The universe doesn't care about our frameworks. That's the most scientific thing
 
 All are guilty. None are at fault.
 
+The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
+
+8. September 2026
+
+Popper formulated the logical limit of open systems in 1945: unconditional tolerance can destroy itself when it extends protection to intolerant actors. The resulting right to self-defense allows the system to block intolerance -- and ...
+
+Read More
+
 The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
 
 28. August 2026
