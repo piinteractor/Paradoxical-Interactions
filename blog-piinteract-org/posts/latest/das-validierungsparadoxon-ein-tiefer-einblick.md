@@ -592,13 +592,13 @@ Verwandt:
 
 
 
+Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
+
 Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
 
 Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
 
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
-
-Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
 
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
 
