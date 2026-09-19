@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
+
 Das Rennen mit angezogener Handbremse. Jeder verlangt, dass der andere zuerst bremst.
 
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
@@ -603,8 +605,6 @@ Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was d
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
 
 Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
-
-Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
 
 Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfolgreich zu sein
 
