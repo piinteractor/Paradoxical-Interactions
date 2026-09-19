@@ -589,6 +589,8 @@ Related:
 
 
 
+The Race With the Handbrake On. Everyone Wants the Other Driver to Brake First.
+
 The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
 
 The Big Catch—Or Why Only the Remains of a Dream Remained.
@@ -610,8 +612,6 @@ Foucault’s Pendulum. The Physical Axiom of Revelation.
 The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
 
 The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
-
-The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
 
 No results found.
 
