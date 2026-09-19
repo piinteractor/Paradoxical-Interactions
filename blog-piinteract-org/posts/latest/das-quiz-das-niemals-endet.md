@@ -1,7 +1,7 @@
 ---
 title: "Das Quiz, das niemals endet"
 date: 2026-01-30T08:00:56
-modified: 2026-04-03T14:11:11
+modified: 2026-09-19T18:00:28
 slug: das-quiz-das-niemals-endet
 lang: de
 type: post
@@ -70,7 +70,7 @@ Wie es funktioniert:
 
 Brich eine Regel
 
-Schau, ob dich jemand stoppt
+Sieh nach, ob dich jemand stoppt
 
 Wenn nicht → Du hast gerade die Grenze neu definiert
 
@@ -882,17 +882,19 @@ Wir alle sind es.
 
 Verwandt:
 
-Das „Zwei-Idioten-Theorem“. Warum zwei unvollständige Systeme etwas hervorbringen, das keines von beiden allein schaffen könnte.
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
 
-Warum die produktivste Struktur in den Paradoxen Interaktionen keine Lösung darstellt – sondern eine Lücke, die auf eine andere Lücke trifft.
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
 
-Kontrolle vs. Ko-Operation. Die Frage, die niemand stellt.
+HI AI Sykophantie vs. HI HI Echokammern
 
-Wie Luhmann sich selbst widerlegt. Und warum es dringend nötig ist.
+Warum die KI PI besser versteht als Menschen
 
-Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+Wieso die Künstliche Intelligenz strukturelle Paradoxien erkennt, die von Menschen abgelehnt werden
 
-Second Title
+Das Validierungsparadoxon: Ein tiefer Einblick
+
+Oder: Wie man ein Framework über strukturelle Unmöglichkeit beweist, wenn die Beweismethode selbst strukturell unmöglich ist
 
 No results found.
 
