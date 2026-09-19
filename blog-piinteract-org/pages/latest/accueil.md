@@ -56,6 +56,8 @@ Les solutions apparentes renforcent souvent les problèmes sous-jacents
 
 Ce blog explore les Interactions Paradoxales à travers des exemples concrets, des fondements théoriques et des applications pratiques. Découvrez comment la pensée IP peut transformer votre compréhension des systèmes complexes et des défis organisationnels persistants.
 
+La course avec le frein à main serré. Chacun réclame le freinage — dans la voiture d’à côté.
+
 Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
 
 La grande prise — ou pourquoi il ne resta du rêve que ses restes.
@@ -77,5 +79,3 @@ Le bug de la réduction bureaucratique. Ce qui disparaît, ce sont les bureaucra
 Le trilemme de Munchhausen : trois issues, toutes fermées
 
 L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
-
-Nous commencerons les bombardements dans cinq minutes. Pourquoi ce dérapage a pesé plus lourd que n’importe quel plan.
