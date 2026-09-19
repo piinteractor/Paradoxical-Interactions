@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2026-01-17T09:43:25
-modified: 2026-07-29T04:00:34
+modified: 2026-09-19T15:00:08
 slug: home
 lang: en
 type: page
@@ -56,6 +56,8 @@ Apparent solutions often reinforce underlying problems
 
 This blog explores Paradoxical Interactions through real-world examples, theoretical foundations, and practical applications. Discover how PI thinking can transform your understanding of complex systems and persistent organizational challenges.
 
+The Race With the Handbrake On. Everyone Wants the Other Driver to Brake First.
+
 The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
 
 The Big Catch—Or Why Only the Remains of a Dream Remained.
@@ -73,57 +75,3 @@ The Nonsense War. Why Every Better Truth Sounds Like an Attack.
 Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
 
 The Efficiency-Cut Bug. What Disappears Is the Bureaucrats — Not the Bureaucracy.
-
-The Muenchhausen Trilemma – Three Ways Out, All of Them Closed
-
-The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing
-
-We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
-
-Foucault’s Pendulum. The Physical Axiom of Revelation.
-
-“A horse. A horse. My kingdom for a horse.” Two Houses, One Bloodline, No Way Out.
-
-The Archimedean Point. Why Einstein Begins With the Man on a Train.
-
-The Kill-Switch Paradox. How the Safeguard Triggers the Damage.
-
-The Parallel Truth. Why a Structure Can Let It Stand Without Ever Perceiving It.
-
-The Stuttgart 21 Paradox. How a public vote saved a project nobody wanted.
-
-The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
-
-The Attic Paradox. Seven Years of Silence Protected the Proof — and Hid the Flaw.
-
-The Chinese Room and the Absent Referee. Understanding only gets proven by the one person who never checks.
-
-The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better.
-
-The Forced Inequality. Why Balance Never Lasts.
-
-The PI of Mathematics Or: Why every attempt at closure blows open the space it meant to secure.
-
-Absent Men, Present Women. Why the Debate on Equality Doesn’t Get to the Heart of the Matter.
-
-From Cybernetics to Superlearners: The Lonely Observer of PI
-
-England and the Fear of Winning. How a Lead Becomes Its Own Threat.
-
-The Lawn Sprinkler Paradox: How 1.6 Million Sensible Decisions Are Draining a City Dry.
-
-The Recognition Trap. Why the ultimate insight is that knowledge cannot be shared.
-
-Too Nice, Too Good, Too Small: The Appeasement Paradox
-
-What is the AI’s IQ? The number that has lost its measure
-
-Monday Me and Friday Me. The world’s smallest paradoxical interaction.
-
-The Pike Syndrome: How Conditioning Destroys Skills.
-
-The FCAS Problem. Europe’s Fighter Jet Has No Solution — Only n-Bodies.
-
-The Mirror Economy. Why Every Platform That Promises Diversity Delivers a Crowd with One Voice.
-
-The Traffic Sign PI. The System That Optimizes Away Its Own Effect.
