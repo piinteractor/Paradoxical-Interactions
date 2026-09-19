@@ -131,6 +131,8 @@ Dieser Blog erforscht Paradoxe Interaktionen durch praktische Beispiele, theore
 
 
 
+Das Rennen mit angezogener Handbremse. Jeder verlangt, dass der andere zuerst bremst.
+
 Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
 
 Der große Fang — oder warum vom Traum nur die Überreste blieben.
@@ -152,5 +154,3 @@ Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die B
 Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
 
 Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
-
-Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
