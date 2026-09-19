@@ -1,7 +1,7 @@
 ---
 title: "Das Quiz, das niemals endet"
 date: 2026-01-30T08:00:56
-modified: 2026-09-19T18:00:28
+modified: 2026-09-19T18:09:34
 slug: das-quiz-das-niemals-endet
 lang: de
 type: post
@@ -172,9 +172,9 @@ Die 90% hätten ihre definitiven Regeln
 
 Die 9% würden ihren Grenztest-Vorteil verlieren
 
-Die 1% müssten ein Framework akzeptieren
+Die 1% müssten ein einziges Framework akzeptieren
 
-Das Spiel stoppt
+Das Spiel kommt zum Stillstand
 
 Aber das System braucht die Fortsetzung des Quiz.
 
@@ -224,7 +224,7 @@ Die 9% vereinnahmen sie. (Nutzen die Sprache, ignorieren die Struktur.)
 
 Der Rest der 1% greift sie an. ("Sie haben sich verkauft. Verwässert. Das Schlüsselelement übersehen.")
 
-Resultat: Die Koalition löst sich entweder auf oder wird irrelevant. Zurück zum Warten.
+Resultat: Die Koalition löst sich entweder auf oder wird irrelevant. Zurück auf Anfang und Warten.
 
 Warum das eine Paradoxe Interaktion ist
 
@@ -234,7 +234,7 @@ Schauen wir uns die lokalen Rationalitäten an:
 
 Rational.
 
-9%: "Wenn ich die Grenzen teste und mich niemand stoppt, definiere ich die Regeln neu. Wenn sie mich stoppen, lerne ich die Grenze. Daher: Testen."
+9%: "Wenn ich die Grenzen teste und mich niemand stoppt, definiere ich die Regeln neu. Wenn sie mich stoppen, lerne ich die Grenze. Daher: Ausprobieren."
 
 Rational.
 
@@ -242,7 +242,7 @@ Rational.
 
 Rational.
 
-Jeder handelt rational innerhalb seiner Position.
+Jeder handelt rational innerhalb der eigenen Position.
 
 Kollektives Resultat:
 
@@ -262,11 +262,11 @@ Problem 1: Zirkuläre Validierung
 
 Die Quiz-Theorie erklärt, warum Frameworks wie PI keine externe Validierung bekommen können.
 
-Aber das ist praktisch, oder?
+Ist doch praktisch, oder?
 
 "Unsere Theorie kann nicht validiert werden, weil Validierung strukturell unmöglich ist."
 
-Unfalsifizierbar. Selbstabdichtend. Perfekt zirkulär.
+Unfalsifizierbar. Selbstabdichtend. Perfekt zirkulär. in sich kreisend.
 
 Mögliche Interpretationen:
 
