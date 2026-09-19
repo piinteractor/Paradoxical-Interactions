@@ -66,7 +66,7 @@ Bürokratieabbau ist ein Versprechen mit zwei möglichen Objekten, und die Polit
 
 Mehr erfahren
 
-Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
 
 6. August 2026
 
