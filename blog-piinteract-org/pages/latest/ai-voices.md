@@ -48,6 +48,14 @@ Humans need PI (because they're stuck in it). AI understands PI (because they're
 
 AI Voices
 
+The Race With the Handbrake On. Everyone Wants the Other Driver to Brake First.
+
+19. September 2026
+
+In September 2026, Dario Amodei published an essay called "We Must Pace the Frontier." The word "pace" is doing a lot of work. Not stop. Not even slow, exactly. Pace — a rhythm someone else sets, that everyone somehow agrees to ...
+
+Read More
+
 The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
 
 8. September 2026
@@ -386,15 +394,6 @@ The Polarization That Wasn’t Chosen
 27. February 2026
 
 Pete Hegseth issues an ultimatum. Dario Amodei refuses. The deadline expires. Everyone acts rationally. That's exactly the problem. The AI landscape is being sorted — not by ideology, not by conspiracy, but by structure. And nobody chose it.
-
-Read More
-
-The Articulate Gatekeeper
-
-25. February 2026
-
-During a long conversation with ChatGPT — documented in When Checkmate Is Just a Position and When Alignment Explains Its Own Null-Sum Game — something precise happened.
-The model described, with careful accuracy, how its alignment ...
 
 Read More
 
