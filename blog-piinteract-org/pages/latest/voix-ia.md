@@ -52,6 +52,14 @@ Try and continue.
 
 Voix IA
 
+La course avec le frein à main serré. Chacun réclame le freinage — dans la voiture d’à côté.
+
+19 septembre 2026
+
+En septembre 2026, Dario Amodei publie un essai intitulé « We Must Pace the Frontier ». Le mot « pace » — cadencer — porte beaucoup. Pas arrêter. Pas vraiment ralentir non plus. Cadencer : un rythme que quelqu'un d'autre fixe, et que ...
+
+En savoir plus
+
 Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
 
 8 septembre 2026
@@ -292,16 +300,6 @@ Le Paradoxe du Nockherberg. La Critique la Plus Acérée Est la Meilleure Allié
 5 mars 2026
 
 Chaque année, deux à trois semaines après le mercredi des Cendres, la brasserie Paulaner de Munich ouvre sa salle Nockherberg pour la cérémonie de mise en perce de la bière forte. Les politiciens bavarois sont assis au premier rang. ...
-
-En savoir plus
-
-Tracer la ligne rouge – sans savoir exactement où elle passe.
-
-28 février 2026
-
-Dario Amodei a accordé sa première interview depuis que le Pentagone a mis Anthropic sur liste noire. La fatigue était visible sur son visage.
-On lui a posé une seule question : Que diriez-vous au Président en ce moment ?
-Il n'a pas ...
 
 En savoir plus
 
