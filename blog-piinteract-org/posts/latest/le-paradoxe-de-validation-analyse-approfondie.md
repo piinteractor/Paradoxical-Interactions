@@ -579,6 +579,8 @@ Connexes :
 
 
 
+La course avec le frein à main serré. Chacun réclame le freinage — dans la voiture d’à côté.
+
 Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
 
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
@@ -600,8 +602,6 @@ Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenc
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
 
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
-
-De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
 
 No results found.
 
