@@ -124,7 +124,7 @@ Am 11. August 1984 testet ein Techniker vor Ronald Reagans wöchentlicher Radioa
 
 Mehr erfahren
 
-Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
 
 6. August 2026
 
