@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Quiz, das niemals endet
+
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
 
 Das Rennen mit angezogener Handbremse. Jeder verlangt, dass der andere zuerst bremst.
@@ -613,8 +615,6 @@ PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere
 Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
 
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
-
-„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
 
 Nichts gefunden
 
