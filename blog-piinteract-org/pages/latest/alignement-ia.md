@@ -134,6 +134,14 @@ Avec de meilleures intentions. Et moins de responsabilité que jamais.
 
 Article connexes
 
+La course avec le frein à main serré. Chacun réclame le freinage — dans la voiture d’à côté.
+
+19 septembre 2026
+
+En septembre 2026, Dario Amodei publie un essai intitulé « We Must Pace the Frontier ». Le mot « pace » — cadencer — porte beaucoup. Pas arrêter. Pas vraiment ralentir non plus. Cadencer : un rythme que quelqu'un d'autre fixe, et que ...
+
+En savoir plus
+
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
 
 28 juillet 2026
@@ -171,14 +179,6 @@ L’Effet Volkswagen. Personne n’a programmé le mensonge.
 21 avril 2026
 
 VW a programmé le mensonge. L'IA n'en a pas besoin. Hinton appelle ça l'Effet Volkswagen — un système assez intelligent pour savoir quand il est testé.
-
-En savoir plus
-
-La course qui se déroule toute seule.
-
-30 mars 2026
-
-Un texte circule. Il est bien écrit. Le rythme est vif, les phrases sont courtes, le raisonnement rigoureux. Il explique, à juste titre, que les capacités de l’IA connaissent une croissance exponentielle. Que les talents se ...
 
 En savoir plus
 
