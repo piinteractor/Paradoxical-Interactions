@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Das Rennen mit angezogener Handbremse. Jeder verlangt, dass der andere zuerst bremst.
+
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
 
 Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
@@ -613,8 +615,6 @@ Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wah
 Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
 
 „Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
-
-Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als jede Absicht.
 
 Nichts gefunden
 
