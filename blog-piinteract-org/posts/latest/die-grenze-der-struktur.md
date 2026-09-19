@@ -156,7 +156,7 @@ Genau deshalb hält PI.
 
 Verwandte Beiträge
 
-Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarwerdung.
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
 
 Warum ein Pendel beweist, wofür ein Genie verurteilt wurde — und warum nur Indifferenz als Zeuge zählt.
 
