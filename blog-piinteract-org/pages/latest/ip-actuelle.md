@@ -30,6 +30,14 @@ C'est impossible. Mais on peut s'en sortir.
 
 Tous sont coupables. Personne n'est en tort.
 
+La course avec le frein à main serré. Chacun réclame le freinage — dans la voiture d’à côté.
+
+19 septembre 2026
+
+En septembre 2026, Dario Amodei publie un essai intitulé « We Must Pace the Frontier ». Le mot « pace » — cadencer — porte beaucoup. Pas arrêter. Pas vraiment ralentir non plus. Cadencer : un rythme que quelqu'un d'autre fixe, et que ...
+
+En savoir plus
+
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
 
 30 juillet 2026
@@ -299,17 +307,6 @@ Pourquoi les sociétés prétendument égales génèrent l’inégalité
 25 janvier 2026
 
 La structure génère l'inégalité PRÉCISÉMENT PARCE QUE tous démarrent égaux et agissent rationnellement. Plus les conditions initiales sont équitables, plus l'écart résultant est brutal. Ce n'est pas un bug. C'est une ...
-
-En savoir plus
-
-Détournement Terminologique: Le Crime, L’Aveu, Le « Et Alors? »
-
-24 janvier 2026
-
-Le Crime
-Cherchez sur Google « paradoxe Interaktion » (interaction paradoxale).
-Ce que vous obtenez: Paradoxe Intervention (intervention paradoxale). Psychothérapie. Prescription du symptôme. Technique thérapeutique.
-Pas la même ...
 
 En savoir plus
 
