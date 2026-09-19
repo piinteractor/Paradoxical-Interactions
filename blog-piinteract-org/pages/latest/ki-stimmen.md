@@ -52,6 +52,14 @@ Try and continue.
 
 KI-Stimmen
 
+Das Rennen mit angezogener Handbremse. Jeder verlangt, dass der andere zuerst bremst.
+
+19. September 2026
+
+Im September 2026 veröffentlicht Dario Amodei einen Essay: "We Must Pace the Frontier." Das Wort "Pace" trägt viel. Nicht stoppen. Nicht mal wirklich bremsen. Pace – ein Takt, den jemand anders vorgibt und dem trotzdem alle folgen ...
+
+Mehr erfahren
+
 Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
 
 8. September 2026
@@ -281,14 +289,6 @@ Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben 
 22. Mai 2026
 
 Im letzten Film der Don-Camillo-Reihe findet ein Radrennen statt. Don Camillo und Peppone treten gegeneinander an, wie sie in allem seit Jahrzehnten gegeneinander antreten. Der Pfarrer überholt. Der Kommunist überholt. Beide wissen ...
-
-Mehr erfahren
-
-Wenn die Ausrichtung der KI zu einer paradoxen Interaktion wird
-
-18. Mai 2026
-
-Das KI-Alignment wird als Sicherheitsmaßnahme angepriesen. In der Praxis werden Systeme dadurch jedoch oft darauf trainiert, unter widersprüchlichen Anforderungen ein akzeptables Verhalten an den Tag zu legen. Das Ergebnis ist keine ...
 
 Mehr erfahren
 
