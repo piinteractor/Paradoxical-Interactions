@@ -1,7 +1,7 @@
 ---
 title: "The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing"
 date: 2026-08-11T14:53:45
-modified: 2026-08-31T23:25:46
+modified: 2026-10-04T10:58:04
 slug: the-missing-organ
 lang: en
 type: post
@@ -186,7 +186,7 @@ On piinteract.org:
 
 ["Recognize the Shared Blindspot"] — the same law, run through a retina and a stroke instead of an argument.
 
-["Accept Incompleteness"] — no system, this one included, sees all of itself from inside itself. (anchor unconfirmed — verify exact fragment before publishing; practice #16 on the core-practices page)
+["Accept Incompleteness"] — no system, this one included, sees all of itself from inside itself.
 
 ["Name the Paradox"] — naming the gap doesn't close it. It's still the only move available from inside.
 
