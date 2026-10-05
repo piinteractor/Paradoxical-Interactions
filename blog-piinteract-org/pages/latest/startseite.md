@@ -186,7 +186,7 @@ Kontrolle vs. Ko-Operation. Die Frage, die niemand stellt.
 
 Das „Zwei-Idioten-Theorem“. Warum zwei unvollständige Systeme etwas hervorbringen, das keines von beiden allein schaffen könnte.
 
-Der Nostradamus-Mechanismus. Der Prophet, der die Struktur der Prophezeiung verstand.
+Der Nostradamus-Mechanismus. Der Prophet, der wusste wie Prophezeiung ging.
 
 Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
 
