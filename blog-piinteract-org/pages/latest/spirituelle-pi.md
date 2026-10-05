@@ -51,4 +51,12 @@ Sam Altman ...
 
 Mehr erfahren
 
+Der Nostradamus-Mechanismus. Der Prophet, der wusste wie Prophezeiung ging.
+
+24. März 2026
+
+Nostradamus veröffentlichte seine Centuries 1555. Mehr als 6.000 Vierzeiler. Er ist seit fast fünf Jahrhunderten ununterbrochen im Druck. Jede Generation findet darin ihre eigenen Kriege, ihre eigenen Tyrannen, ihre eigenen ...
+
+Mehr erfahren
+
 No results found.
