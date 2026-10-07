@@ -1,16 +1,16 @@
 ---
 title: "Practices"
 date: 2025-12-17T22:09:59
-modified: 2026-02-04T10:44:50
+modified: 2026-02-04T10:47:12
 slug: practices
-lang: en
+lang: de
 type: page
 status: publish
-wp_id: 286
-url: https://piinteract.org/practices/
+wp_id: 1274
+url: https://piinteract.org/de/practices/
 ---
 
-"Now we've got them right where they want us."
+„Jetzt haben wir sie genau da, wo sie uns haben wollen."
 
 — Admiral James Tiberius Kirk, Star Trek
 
@@ -25,23 +25,9 @@ Practices
 
 
 
-Navigation, Not Solutions
+Navigation, keine Lösungen
 
-Practices in the PI framework are not step-by-step instructions. Not best practices for success. Not solutions to paradoxes. They are orientation points in structural fog. Ways to move without guarantees. Tools for navigation, not resolution.
-
-
-
-
-
-
-
-The Core Principle
-
-You cannot solve Paradoxical Interactions. You can only navigate them.
-
-These practices help you see where you are, what movements are possible, and what to expect.
-
-No promises. No illusions.
+Practices im PI-Framework sind keine Schritt-für-Schritt-Anleitungen. Keine Best Practices für Erfolg. Keine Lösungen für Paradoxien. Sie sind Orientierungspunkte im strukturellen Nebel. Wege, sich ohne Garantien zu bewegen. Werkzeuge für Navigation, nicht für Auflösung.
 
 
 
@@ -49,19 +35,13 @@ No promises. No illusions.
 
 
 
-What This Means
+Das Kernprinzip
 
-Not: "Do X, then Y gets better"
+Du kannst Paradoxe Interaktionen nicht lösen. Du kannst nur in ihnen navigieren.
 
-But: "If you're in structure Z, here are orientation points"
+Diese Anwendungen helfen dir zu sehen, wo du bist, welche Bewegungen möglich sind und was zu erwarten ist.
 
-Not: "Follow these 5 steps"
-
-But: "These movements are possible. No guarantees."
-
-Not: "Best practices"
-
-But: "Structural intelligence"
+Keine Versprechen. Keine Illusionen.
 
 
 
@@ -69,17 +49,13 @@ But: "Structural intelligence"
 
 
 
-Why Navigate Instead of Solve?
+Was das bedeutet
 
-Because PIs are structural, not personal.
+Nicht: „Tu X, dann wird Y besser" Sondern: „Wenn du in Struktur Z bist, hier sind Orientierungspunkte"
 
-Because rational actors produce irrational outcomes.
+Nicht: „Folge diesen 5 Schritten" Sondern: „Diese Schritte sind möglich. Keine Sicherheiten."
 
-Because the pattern strengthens when recognized.
-
-You can't break the pattern. You can move through it.
-
-"Try and continue."
+Nicht: „Best Practices" Sondern: „Strukturelle Intelligenz"
 
 
 
@@ -87,19 +63,37 @@ You can't break the pattern. You can move through it.
 
 
 
-Explore the Practices
+Warum navigieren statt lösen?
 
-[Core Practices – The essential navigation tools]
+Weil PIs strukturell sind, nicht persönlich.
 
-[Anti-Practices – What guarantees failure]
+Weil rationale Akteure irrationale Ergebnisse produzieren.
 
-[Scenarios – "If you're here..." guidance]
+Weil das Muster sich verstärkt, wenn es erkannt wird.
+
+Du kannst das Muster nicht brechen. Du kannst dich nur hindurch bewegen.
+
+„Try and continue."
 
 
 
 
-Apply to Real Cases
 
-[Examples]
+
+
+Erforsche die Anwendungen
+
+[Core Practices – Die essentiellen Navigationswerkzeuge]
+
+[Anti-Practices – Was garantiert Scheitern]
+
+[Scenarios – „Wenn du hier bist…" Orientierung]
+
+
+
+
+Anwenden auf reale Fälle
+
+[Beispiele]
 
 [Framework]
