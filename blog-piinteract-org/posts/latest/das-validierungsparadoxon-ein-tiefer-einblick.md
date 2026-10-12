@@ -592,6 +592,8 @@ Verwandt:
 
 
 
+Der große Fang — oder warum vom Traum nur die Gräten blieben.
+
 Das Quiz, das niemals endet
 
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
@@ -613,8 +615,6 @@ Der Helfer-Industrie-Bug – Warum die gute Tat es sich nicht leisten kann, erfo
 PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
 
 Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
-
-Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
 
 Nichts gefunden
 
