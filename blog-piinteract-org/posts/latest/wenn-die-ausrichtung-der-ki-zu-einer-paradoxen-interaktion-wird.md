@@ -68,7 +68,7 @@ Das macht die Ausrichtung nicht überflüssig. Es macht das naive Gerede über A
 
 Vewandte Beiträge
 
-Das Validierungsparadoxon: Ein tiefer Einblick
+Das Validierungsparadox: Ein Tieftauchgang
 
 Oder: Wie man ein Framework über strukturelle Unmöglichkeit beweist, wenn die Beweismethode selbst strukturell unmöglich ist
 
@@ -126,7 +126,7 @@ Ko-kreiert mit Perplexity — zwei unvollständige Systeme, die die Lücken des 
 
 Verwandte Beiträge
 
-Das Validierungsparadoxon: Ein tiefer Einblick
+Das Validierungsparadox: Ein Tieftauchgang
 
 Oder: Wie man ein Framework über strukturelle Unmöglichkeit beweist, wenn die Beweismethode selbst strukturell unmöglich ist
 
