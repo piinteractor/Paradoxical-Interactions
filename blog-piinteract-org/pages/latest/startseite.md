@@ -60,7 +60,7 @@ Das Rennen mit angezogener Handbremse. Jeder verlangt, dass der andere zuerst br
 
 Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
 
-Der große Fang — oder warum vom Traum nur die Überreste blieben.
+Der große Fang — oder warum vom Traum nur die Gräten blieben.
 
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
 
