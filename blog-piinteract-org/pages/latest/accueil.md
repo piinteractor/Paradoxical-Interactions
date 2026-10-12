@@ -60,7 +60,7 @@ La course avec le frein à main serré. Chacun réclame le freinage — dans la 
 
 Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
 
-La grande prise — ou pourquoi il ne resta du rêve que ses restes.
+La grande prise — ou pourquoi il ne resta du rêve que ses arêtes.
 
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
 
