@@ -180,7 +180,7 @@ Wenn die KI-Ausrichtung ihren besten Verbündeten auslöscht:
 
 Another Note on Paradoxical Interactions
 
-Das Validierungsparadox: Ein Tieftauchgang
+Das Validierungsparadox: Im Tieftauchgang
 
 Oder: Wie man ein Framework über strukturelle Unmöglichkeit beweist, wenn die Beweismethode selbst strukturell unmöglich ist
 
