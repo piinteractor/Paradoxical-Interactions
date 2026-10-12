@@ -68,6 +68,14 @@ Popper formulated the logical limit of open systems in 1945: unconditional toler
 
 En savoir plus
 
+La grande prise — ou pourquoi il ne resta du rêve que ses arêtes.
+
+2 septembre 2026
+
+Santiago attrape le plus gros poisson de sa vie. Il fait tout comme il faut. Il respecte le marlin, le combat avec fair-play, l’attache au bateau. Et pourtant, seule la carcasse parvient jusqu’au rivage. Dévorée par les requins, qui ...
+
+En savoir plus
+
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
 
 28 août 2026
@@ -292,14 +300,6 @@ Le faux paradis. Comment les réseaux sociaux transforment la vie réelle en bru
 C'est une fête d'anniversaire qui ne s'arrête jamais.
 Il y a toujours un gâteau quelque part, toujours une plage, toujours une promotion, toujours quelqu'un avec un meilleur éclairage et de plus belles dents.
 Vous ouvrez ...
-
-En savoir plus
-
-Le Paradoxe du Nockherberg. La Critique la Plus Acérée Est la Meilleure Alliée du Système.
-
-5 mars 2026
-
-Chaque année, deux à trois semaines après le mercredi des Cendres, la brasserie Paulaner de Munich ouvre sa salle Nockherberg pour la cérémonie de mise en perce de la bière forte. Les politiciens bavarois sont assis au premier rang. ...
 
 En savoir plus
 
