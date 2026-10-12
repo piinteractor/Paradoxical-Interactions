@@ -583,6 +583,8 @@ La course avec le frein à main serré. Chacun réclame le freinage — dans la 
 
 Le Parasite de la Pureté – Karl Popper et le paradoxe au sein du paradoxe
 
+La grande prise — ou pourquoi il ne resta du rêve que ses arêtes.
+
 Le bord de la carte. Pourquoi la singularité ne connaît pas d’Interaction Paradoxale
 
 Le Bug de l’industrie de l’aide — Pourquoi une bonne aide ne peut pas se permettre de réussir
@@ -600,8 +602,6 @@ Le Pendule de Foucault. L’Axiome Physique de la Révélation.
 Le Paradox de l’arrêt d’urgence. Comment le réflexe de protection déclenche le dommage.
 
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
-
-L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
 
 No results found.
 
