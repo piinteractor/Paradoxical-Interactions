@@ -1,7 +1,7 @@
 ---
 title: "The Race With the Handbrake On. Everyone Wants the Other Driver to Brake First."
 date: 2026-09-19T14:51:41
-modified: 2026-09-19T14:51:41
+modified: 2026-10-12T18:48:18
 slug: the-race-with-the-handbrake-on
 lang: en
 type: post
@@ -19,12 +19,6 @@ Why the call to slow the AI race down never comes from the frontrunner's own foo
 In September 2026, Dario Amodei published an essay called "We Must Pace the Frontier." The word "pace" is doing a lot of work. Not stop. Not even slow, exactly. Pace — a rhythm someone else sets, that everyone somehow agrees to follow. He proposes three steps. He commits, personally, to the cheapest one. The other two require everyone else to move first. This isn't a plan to brake. It's a plan to ask others to brake, dressed as leadership. And the strange part: he isn't lying. He isn't even wrong.
 
 19. September 2026
-
-Update: Der Stuhl bleibt leer
-
-Wenige Tage nach Veröffentlichung des Essays kam die Antwort. Auf die Frage, ob KI die Menschheit auslöschen könne, sagt Trump: nein – seine Sorge sei, gegen China zu verlieren, nicht das Tempo zu drosseln. „We're leading China in AI... whoever wins AI wins." Die Vorbedingung von Schritt drei – eine Regierung, die koordinieren will oder zumindest Koordination erlaubt – ist nicht offengeblieben. Sie wurde abgelehnt, öffentlich, von der einzigen Instanz, die sie hätte kontrollieren können. Schritt zwei, der genau diese kartellrechtliche Ausnahme brauchte, verliert im selben Moment seine Grundlage.
-
-Die Lücke im Plan wartet nicht mehr auf eine Antwort. Sie hat eine. Die Antwort lautet Nein.
 
 The Empty Chair
 
@@ -81,12 +75,6 @@ What cannot be said from inside the race: which car stops first. No one in the p
 The Real Insight
 
 Hypocrisy is rarely intended. It only arrives, often, as a result.
-
-Update: Der Stuhl bleibt leer
-
-Wenige Tage nach Veröffentlichung des Essays kam die Antwort. Auf die Frage, ob KI die Menschheit auslöschen könne, sagt Trump: nein – seine Sorge sei, gegen China zu verlieren, nicht das Tempo zu drosseln. „We're leading China in AI... whoever wins AI wins." Die Vorbedingung von Schritt drei – eine Regierung, die koordinieren will oder zumindest Koordination erlaubt – ist nicht offengeblieben. Sie wurde abgelehnt, öffentlich, von der einzigen Instanz, die sie hätte kontrollieren können. Schritt zwei, der genau diese kartellrechtliche Ausnahme brauchte, verliert im selben Moment seine Grundlage.
-
-Die Lücke im Plan wartet nicht mehr auf eine Antwort. Sie hat eine. Die Antwort lautet Nein.
 
 Related Posts
 
