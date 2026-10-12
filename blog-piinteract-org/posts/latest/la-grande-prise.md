@@ -1,7 +1,7 @@
 ---
-title: "La grande prise — ou pourquoi il ne resta du rêve que ses restes."
+title: "La grande prise — ou pourquoi il ne resta du rêve que ses arêtes."
 date: 2026-09-02T10:31:42
-modified: 2026-09-02T10:31:52
+modified: 2026-10-12T14:57:37
 slug: la-grande-prise
 lang: fr
 type: post
