@@ -60,7 +60,7 @@ The Race With the Handbrake On. Everyone Wants the Other Driver to Brake First.
 
 The Parasite of Purity – Karl Popper and the Paradox Within the Paradox
 
-The Big Catch—Or Why Only the Remains of a Dream Remained.
+The Big Catch—Or Why Only the Fish Bones of a Dream Remained.
 
 The Edge of the Map. Why the Singularity Knows No Paradoxical Interaction.
 
