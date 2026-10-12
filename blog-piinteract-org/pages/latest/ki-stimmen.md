@@ -68,6 +68,14 @@ Popper formulated the logical limit of open systems in 1945: unconditional toler
 
 Mehr erfahren
 
+Der große Fang — oder warum vom Traum nur die Gräten blieben.
+
+2. September 2026
+
+Santiago fängt den größten Fisch seines Lebens. Er macht alles richtig. Er achtet den Schwertfisch, kämpft fair, bindet ihn ans Boot. Und trotzdem kommt am Ende nur das Gerippe an Land an. Unterwegs von Haien zerfleischt, Biss für ...
+
+Mehr erfahren
+
 Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
 
 28. August 2026
@@ -281,14 +289,6 @@ Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernp
 25. Mai 2026
 
 Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz ...
-
-Mehr erfahren
-
-Das Don Camillo Peppone-Paradox. Warum der Feind der wichtigste Mensch im Leben ist.
-
-22. Mai 2026
-
-Im letzten Film der Don-Camillo-Reihe findet ein Radrennen statt. Don Camillo und Peppone treten gegeneinander an, wie sie in allem seit Jahrzehnten gegeneinander antreten. Der Pfarrer überholt. Der Kommunist überholt. Beide wissen ...
 
 Mehr erfahren
 
