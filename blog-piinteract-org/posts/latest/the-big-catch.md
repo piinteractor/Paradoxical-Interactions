@@ -1,7 +1,7 @@
 ---
-title: "The Big Catch—Or Why Only the Remains of a Dream Remained."
+title: "The Big Catch—Or Why Only the Fish Bones of a Dream Remained."
 date: 2026-09-02T10:31:42
-modified: 2026-09-02T10:31:42
+modified: 2026-10-12T14:55:37
 slug: the-big-catch
 lang: en
 type: post
