@@ -64,7 +64,7 @@ Popper formulated the logical limit of open systems in 1945: unconditional toler
 
 Read More
 
-The Big Catch—Or Why Only the Remains of a Dream Remained.
+The Big Catch—Or Why Only the Fish Bones of a Dream Remained.
 
 2. September 2026
 
