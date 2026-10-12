@@ -139,7 +139,7 @@ Verwandte Beiträge
 
 
 
-Das Validierungsparadox: Ein Tieftauchgang
+Das Validierungsparadox: Im Tieftauchgang
 
 Oder: Wie man ein Framework über strukturelle Unmöglichkeit beweist, wenn die Beweismethode selbst strukturell unmöglich ist
 
