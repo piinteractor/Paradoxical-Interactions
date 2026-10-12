@@ -92,7 +92,7 @@ Die Intelligenz-Falle
 
 Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
 
-Das Validierungsparadox: Im Tieftauchgang
+Das Validierungsparadox: Ein Tauchgang in die Tiefe.
 
 Oder: Wie man ein Framework über strukturelle Unmöglichkeit beweist, wenn die Beweismethode selbst strukturell unmöglich ist
 
