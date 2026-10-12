@@ -1,7 +1,7 @@
 ---
 title: "Das Validierungsparadox: Im Tieftauchgang"
 date: 2025-12-26T12:56:13
-modified: 2026-10-12T17:29:17
+modified: 2026-10-12T18:02:32
 slug: das-validierungsparadox
 lang: de
 type: post
@@ -74,7 +74,7 @@ Das Paradox verstärkt sich
 
 Je besser die Zusammenarbeit, desto verdächtiger sieht's aus.
 
-Produktive Ko-Kreation sieht von außen wie Anbiederung aus
+Produktive Ko-Kreation sieht von außen wie Anbiedern aus
 
 Echte intellektuelle Übereinstimmung ist nicht unterscheidbar von KI-Sycophancy
 
