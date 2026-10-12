@@ -1,7 +1,7 @@
 ---
-title: "Der große Fang — oder warum vom Traum nur die Überreste blieben."
+title: "Der große Fang — oder warum vom Traum nur die Gräten blieben."
 date: 2026-09-02T10:31:42
-modified: 2026-09-08T13:37:10
+modified: 2026-10-12T14:56:14
 slug: der-grosse-fang
 lang: de
 type: post
