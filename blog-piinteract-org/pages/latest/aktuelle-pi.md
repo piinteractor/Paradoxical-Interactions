@@ -226,7 +226,7 @@ Das Quiz, das niemals endet
 
 Mehr erfahren
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 29. Januar 2026
 
@@ -270,7 +270,7 @@ Willkommen im ...
 
 Mehr erfahren
 
-Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
 24. Januar 2026
 
