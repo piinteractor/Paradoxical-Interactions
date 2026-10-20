@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Der Satiriker, der den König zum Lachen bringt, hat verloren.“
+„Der Satiriker, der den König zum Lachen bringt, hat verloren.”
 
 — Karl Kraus zugeschrieben
 
@@ -206,7 +206,7 @@ Das Gaveston-Muster:
 
 Wie jede Lösung zum nächsten Problem wird
 
-Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
 Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
 
