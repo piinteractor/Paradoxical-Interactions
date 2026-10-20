@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„„Die Wahrheit ist selten rein und niemals einfach.“
+„„Die Wahrheit ist selten rein und niemals einfach.”
 
 — Oscar Wilde, The Importance of Being Earnest, 1895
 
@@ -237,7 +237,7 @@ Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
 Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
 
-Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
 Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
 
