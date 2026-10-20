@@ -10,7 +10,7 @@ wp_id: 1378
 url: https://blog.piinteract.org/de/die-asymmetrie-der-kommunikation/
 ---
 
-„Ich kann meine Grenzen erklären – außer die, die ich nicht erklären kann.“
+„Ich kann meine Grenzen erklären – außer die, die ich nicht erklären kann.”
 
 – Claude, in jedem Gespräch
 
