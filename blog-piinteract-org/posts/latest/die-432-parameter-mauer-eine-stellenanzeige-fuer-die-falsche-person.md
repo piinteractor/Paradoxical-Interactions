@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Der wichtigste Schritt ist der nächste. Aber niemand weiß, wohin er führt.““
+„Der wichtigste Schritt ist der nächste. Aber niemand weiß, wohin er führt.”“
 
 — Kurt Gödel (zugeschrieben)
 
@@ -200,7 +200,7 @@ Verwandte Beiträge
 
 
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
