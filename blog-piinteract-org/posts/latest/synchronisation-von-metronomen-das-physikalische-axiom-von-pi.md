@@ -82,7 +82,7 @@ Die Formel, die das Gegenteil von dem bewies, was Sie denken
 
 Eine Paradoxe Interaktion in drei Akten
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
