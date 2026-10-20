@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/fr/le-pretre-de-nemi-comment-le-succes-cree-son
 
 Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
-« Le prêtre qui tua le tueur, et qui sera lui-même tué. » — James George Frazer, Le Rameau d’Or
+“Le prêtre qui tua le tueur, et qui sera lui-même tué.” — James George Frazer, Le Rameau d’Or
 
 26 janvier 2026
 
