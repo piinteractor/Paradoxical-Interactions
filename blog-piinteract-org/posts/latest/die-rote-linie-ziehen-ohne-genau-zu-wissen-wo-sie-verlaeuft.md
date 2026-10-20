@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Wer Krieg in sklavischem Gehorsam gegenüber Regeln führt, wird scheitern.“
+„Wer Krieg in sklavischem Gehorsam gegenüber Regeln führt, wird scheitern.”
 
 — Ulysses S. Grant, Persönliche Memoiren
 
@@ -214,7 +214,7 @@ Die engsten thematischen Verbindungen:
 
 
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
