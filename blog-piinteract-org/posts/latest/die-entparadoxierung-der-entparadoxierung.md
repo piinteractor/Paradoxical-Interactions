@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Das System beobachtet sich selbst — und wird dabei zur Beobachtung, die es vollzieht.“
+„Das System beobachtet sich selbst — und wird dabei zur Beobachtung, die es vollzieht.”
 
 — Heinz von Foerster
 
