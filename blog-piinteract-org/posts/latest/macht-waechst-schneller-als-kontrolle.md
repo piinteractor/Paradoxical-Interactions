@@ -1,5 +1,5 @@
 ---
-title: "„Macht wächst schneller als Kontrolle“"
+title: "“Macht wächst schneller als Kontrolle”"
 date: 2026-01-29T08:00:56
 modified: 2026-03-21T05:53:12
 slug: macht-waechst-schneller-als-kontrolle
