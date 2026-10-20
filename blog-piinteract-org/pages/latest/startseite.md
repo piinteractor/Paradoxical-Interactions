@@ -84,7 +84,7 @@ Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als 
 
 Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
 
-„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
+„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.” Zwei Häuser, ein Stammbaum, kein Ausweg.
 
 Der Archimedische Punkt. Warum Einstein mit dem Mann im Zug beginnt.
 
@@ -274,7 +274,7 @@ Das Quiz, das niemals endet
 
 Entfehlerung in der Praxis
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Das Propheten-Paradox
 
@@ -290,7 +290,7 @@ Luhmann und der Selbsteinschluss
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
-Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
 Die Ökonomie der Gerechtigkeit.
 
