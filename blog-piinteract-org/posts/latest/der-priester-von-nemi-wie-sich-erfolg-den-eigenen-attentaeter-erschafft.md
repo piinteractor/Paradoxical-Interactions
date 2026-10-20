@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/der-priester-von-nemi-wie-sich-erfolg-den-ei
 
 Erlange die Position. Gewährleiste, dass du stirbst. Wiederhole das immer wieder.
 
-Der Priester, der den Schlächter erschlug, und selbst erschlagen werden wird.“
+Der Priester, der den Schlächter erschlug, und selbst erschlagen werden wird.”
  — James George Frazer, Der Goldene Zweig
 
 26. Januar 2026
