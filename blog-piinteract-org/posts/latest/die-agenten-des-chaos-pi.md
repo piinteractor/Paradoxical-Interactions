@@ -92,7 +92,7 @@ Der Unterschied ist, dass die meisten von ihnen nicht von dreißig Forschern beo
 
 Verwandte Beiträge
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
