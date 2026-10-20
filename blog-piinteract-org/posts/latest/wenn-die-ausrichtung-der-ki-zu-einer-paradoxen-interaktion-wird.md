@@ -148,7 +148,7 @@ Die Ökonomie der Gerechtigkeit.
 
 Warum Verantwortung kollabiert, wenn Verbrechen skalieren
 
-Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
 Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
 
