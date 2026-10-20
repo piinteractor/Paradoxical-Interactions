@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Ein Theologe, der kein Mystiker wird, ist ein Theoretiker. Ein Mystiker, der kein Theologe wird, ist ein Häretiker.“
+„Ein Theologe, der kein Mystiker wird, ist ein Theoretiker. Ein Mystiker, der kein Theologe wird, ist ein Häretiker.”
 
 — Thomas von Aquin
 
