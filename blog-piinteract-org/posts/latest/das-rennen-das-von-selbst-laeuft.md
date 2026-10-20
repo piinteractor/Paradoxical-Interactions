@@ -122,7 +122,7 @@ Aber es ist der Anfang davon, nicht überrascht zu sein, wohin sie führt.
 
 Verwandte Themen
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
