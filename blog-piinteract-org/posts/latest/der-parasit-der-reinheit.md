@@ -80,7 +80,7 @@ Der Türhüter-Ausbruch
 
 Warum nur der kognitive Ausbruch aus der Struktur herausführt
 
-Terminologisches Hijacking: Das Verbrechen, das Geständnis, das „Na und?“
+Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
 Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
 
