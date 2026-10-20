@@ -10,7 +10,7 @@ wp_id: 1925
 url: https://blog.piinteract.org/de/die-pi-des-peter-thiel/
 ---
 
-„Konkurrenz ist für Loser.“
+„Konkurrenz ist für Loser.”
 
 — Peter Thiel, Zero to One
 
