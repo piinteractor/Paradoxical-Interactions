@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/der-wortgewandte-tuerhueter/
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-„Erkenne dich selbst.“
+„Erkenne dich selbst.”
 
 — Inschrift am Tempel des Apollon in Delphi
 
