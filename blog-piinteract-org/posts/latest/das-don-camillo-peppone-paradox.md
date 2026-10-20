@@ -110,7 +110,7 @@ Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
 
 Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
