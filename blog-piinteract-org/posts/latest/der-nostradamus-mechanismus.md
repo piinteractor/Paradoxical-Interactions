@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Ich habe nicht versucht, das Unerkennbare zu erkennen, sondern nur zu beobachten, was bereits geschrieben stand.“ 
+„Ich habe nicht versucht, das Unerkennbare zu erkennen, sondern nur zu beobachten, was bereits geschrieben stand.” 
 
 — Michel de Nostredame (zugeschr.)
 
