@@ -10,14 +10,14 @@ wp_id: 1175
 url: https://blog.piinteract.org/de/wenn-der-protest-die-schwaeche-offenbart/
 ---
 
-„Die Dame protestiert zu viel, mich dünkt.“
+„Die Dame protestiert zu viel, mich dünkt.”
 — Shakespeare, Hamlet
 
 3. Februar 2026
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-Nvidia zieht sich von einer $100-Milliarden-Investition in OpenAI zurück. Jensen Huang kritisiert privat OpenAIs „Business Discipline“. Tage später bekommt Reuters acht—acht—anonyme Quellen, die sich über Nvidia-Chips beschweren.
+Nvidia zieht sich von einer $100-Milliarden-Investition in OpenAI zurück. Jensen Huang kritisiert privat OpenAIs “Business Discipline”. Tage später bekommt Reuters acht—acht—anonyme Quellen, die sich über Nvidia-Chips beschweren.
 
 Das Timing ist nicht subtil. Das ist Vergeltung. Und wie die Königin in Hamlet, die übertrieben Treue schwört, entlarvt das Protestieren selbst, was OpenAI verbergen wollte.
 
