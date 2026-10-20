@@ -164,7 +164,7 @@ Das Kassandra Paradox
 
 Warum Wahrheitssager ignoriert werden – bis es zu spät ist
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
