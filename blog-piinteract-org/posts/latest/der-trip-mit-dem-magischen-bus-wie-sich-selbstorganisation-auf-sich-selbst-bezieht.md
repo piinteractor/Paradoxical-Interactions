@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/der-trip-mit-dem-magischen-bus-wie-sich-selb
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-„Die Ordnung wird nicht von oben auferlegt. Sie entsteht von unten — und vergisst sofort, dass sie entstanden ist.“ 
+„Die Ordnung wird nicht von oben auferlegt. Sie entsteht von unten — und vergisst sofort, dass sie entstanden ist.” 
 
 — Norbert Wiener, The Human Use of Human Beings, 1950
 
