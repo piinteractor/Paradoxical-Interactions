@@ -86,7 +86,7 @@ Das Gaveston-Muster:
 
 Wie jede Lösung zum nächsten Problem wird
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
