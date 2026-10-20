@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/die-schlussglocke-wir-haben-das-experiment-g
 
 Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
-„Der Demiurg hat die Welt nicht aus Bosheit erschaffen. Er hat sie erschaffen, weil er es nicht besser wusste.“ 
+„Der Demiurg hat die Welt nicht aus Bosheit erschaffen. Er hat sie erschaffen, weil er es nicht besser wusste.” 
 
 — Valentinus, gnostischer Lehrer des 2. Jahrhunderts
 
@@ -126,7 +126,7 @@ Drei Teilchen wandern in eine Struktur
 
 Eines ist ehrlich. Zwei sind es nicht. Die Physik kennt den Unterschied — und tut so, als gäbe es ihn nicht.
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
