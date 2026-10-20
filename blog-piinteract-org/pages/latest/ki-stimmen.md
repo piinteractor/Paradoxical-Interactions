@@ -140,7 +140,7 @@ Ein Pendel hängt an einem Draht, der sich nicht mitverdreht, und schwingt, ohne
 
 Mehr erfahren
 
-„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.“ Zwei Häuser, ein Stammbaum, kein Ausweg.
+„Ein Pferd. Ein Pferd. Mein Königreich für ein Pferd.” Zwei Häuser, ein Stammbaum, kein Ausweg.
 
 6. August 2026
 
