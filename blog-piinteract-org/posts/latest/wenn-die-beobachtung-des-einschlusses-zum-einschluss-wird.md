@@ -355,7 +355,7 @@ Luhmann und der Selbsteinschluss
 
 Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
