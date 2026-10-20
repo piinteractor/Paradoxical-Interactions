@@ -27,7 +27,7 @@ Du hast nicht ausreichende Berechtigungen, um auf diesen Inhalt zuzugreifen.
 
 
 
-„Jede hinreichend fortgeschrittene Technologie ist von Magie nicht zu unterscheiden.“
+„Jede hinreichend fortgeschrittene Technologie ist von Magie nicht zu unterscheiden.”
 
 — Arthur C. Clarke
 
@@ -199,7 +199,7 @@ Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
 
 Eine Stellenanzeige für die falsche Person.
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
