@@ -70,7 +70,7 @@ Bessere Werkzeuge machen bessere Individuen. Sie machen aber keine bessere Gesam
 
 Verwandte Beiträge
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
