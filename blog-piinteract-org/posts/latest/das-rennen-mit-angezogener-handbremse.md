@@ -78,7 +78,7 @@ Doppelmoral ist wenig beabsichtigt. Sie kommt als Resultat nur oft so an.
 
 Verwandte Beiträge
 
-„Macht wächst schneller als Kontrolle“
+“Macht wächst schneller als Kontrolle”
 
 Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
 
