@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Thomas d’Aquin
 
-2 avril 2026
+2. avril 2026
 
 Peter Senner co-crée avec Anthropic Claude
 
