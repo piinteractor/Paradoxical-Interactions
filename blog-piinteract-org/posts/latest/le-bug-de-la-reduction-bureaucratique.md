@@ -33,7 +33,7 @@ Pourquoi réduire les bureaucrates n'est pas réduire la bureaucratie — et pou
 
 
 
-19 août 2026
+19. août 2026
 
 
 
