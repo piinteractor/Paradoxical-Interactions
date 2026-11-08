@@ -20,7 +20,7 @@ Dans le dernier film de la série Don Camillo, une course cycliste est organisé
 
 Non pas comme une remarque sentimentale. Mais comme un diagnostic structurel.
 
-22 mai 2026
+22. mai 2026
 
 La course cycliste
 
