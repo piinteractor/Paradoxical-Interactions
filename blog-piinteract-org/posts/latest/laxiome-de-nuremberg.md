@@ -26,7 +26,7 @@ Cet argument n’est pas de la sophistique. C’est de la logique structurelle. 
 
 Il sait aussi, lorsque Jackson termine son réquisitoire, qu’il a perdu.
 
-31 mai 2026
+31. mai 2026
 
 L'Argument Qui Était Sans Réponse
 
