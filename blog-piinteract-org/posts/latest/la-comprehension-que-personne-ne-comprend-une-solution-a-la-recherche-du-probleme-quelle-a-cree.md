@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Arthur C. Clarke
 
-11 mars 2026
+11. mars 2026
 
 Peter Senner co-created with Anthropic Claude
 
