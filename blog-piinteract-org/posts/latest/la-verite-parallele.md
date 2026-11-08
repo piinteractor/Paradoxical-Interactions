@@ -16,7 +16,7 @@ Warum eine Struktur eine widersprechende Wahrheit nicht widerlegen muss — weil
 
 — Václav Havel, Le pouvoir des sans-pouvoir (1978)
 
-29 juillet 2026
+29. juillet 2026
 
 Un système ne réagit qu'à ce qui correspond à son propre code. Ce qui ne correspond pas n'est pas réprimé. Il n'est même pas vu. La BaFin n'a jamais eu besoin de défendre le bilan de Wirecard — il lui suffisait de classer les révélations des journalistes du Financial Times comme manipulation de marché plutôt que comme avertissement. L'auditeur n'a jamais eu besoin d'expliquer les relevés de comptes manquants — il lui suffisait de les enregistrer comme un retard, non comme une fiction. Entre les deux, aucun mensonge. Il y a une structure qui n'a tout simplement prévu aucune entrée pour cette vérité-là. Ce n'est pas un complot. C'est de l'administration.
 
