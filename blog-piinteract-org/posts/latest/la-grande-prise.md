@@ -20,7 +20,7 @@ Santiago attrape le plus grand poisson de sa vie. Il fait tout comme il faut. Il
 
 La lecture habituelle en tire une morale : ce qui compte, c’est la lutte, pas le résultat. C’est réconfortant. Mais c’est faux. Cela esquive la vraie question. Non pas : qui vole le rêve ? Mais : qui aurait dû le protéger — et pourquoi personne ne l’a fait ? Et cela, au fond, est une question profondément morale.
 
-2 septembre 2026
+2. septembre 2026
 
 La longue distance entre la prise et le port
 
