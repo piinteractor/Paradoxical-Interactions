@@ -22,7 +22,7 @@ Pas une conspiration de donateurs obscurs, pas une opération d'influence étran
 
 Voilà à quoi ressemblent les Interactions Paradoxales à grande échelle.
 
-4 juin 2026
+4. juin 2026
 
 Le vide
 
