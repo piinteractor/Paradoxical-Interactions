@@ -25,7 +25,7 @@ Pourquoi chaque tentative de clôturer définitivement les mathématiques les a 
 
 
 
-24 juillet 2026
+24. juillet 2026
 
 
 
