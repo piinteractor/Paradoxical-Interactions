@@ -33,7 +33,7 @@ Un pendule est suspendu à un fil qui refuse de se tordre, et oscille sans se so
 
 
 
-6 août 2026
+6. août 2026
 
 
 
