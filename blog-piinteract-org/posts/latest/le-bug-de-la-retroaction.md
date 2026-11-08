@@ -18,7 +18,7 @@ Pourquoi un modèle vieux de soixante ans sur l'évaporation des trous noirs vie
 
 En juillet 2026, une équipe dirigée par Lorenzo M. Procopio à l'université de Paderborn, en collaboration avec le Cinvestav à Mexico et l'Institut Weizmann en Israël, publie dans Nature un résultat qui paraît étroit et se révèle tout sauf tel. À l'aide d'une fibre optique non linéaire, les chercheurs construisent en laboratoire l'analogue d'un horizon des événements — la lumière se déplaçant dans la fibre comme des ondes près de la frontière d'un trou noir. Ils mesurent ainsi quelque chose que personne n'avait isolé auparavant : une asymétrie spectrale dans l'impulsion de pompe elle-même, celle qui crée l'horizon. L'impulsion de pompe a subi un recul. Produire l'analogue du rayonnement de Hawking a laissé une trace mesurable sur ce qui le produisait.
 
-21 août 2026
+21. août 2026
 
 Le dispositif
 
