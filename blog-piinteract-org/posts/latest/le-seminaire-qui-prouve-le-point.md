@@ -41,7 +41,7 @@ Non pas parce que l'analyse est fausse. Parce qu'elle est juste exactement de la
 
 
 
-25 mai 2026
+25. mai 2026
 
 
 
