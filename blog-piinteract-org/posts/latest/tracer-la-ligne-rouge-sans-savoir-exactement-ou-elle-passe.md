@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Ulysses S. Grant, Mémoires personnels
 
-28 février 2026
+28. février 2026
 
 Quand tenir la ligne est rationnel, nécessaire et structurellement sans effet — tout à la fois.
 
