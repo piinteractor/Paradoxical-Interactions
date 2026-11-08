@@ -16,7 +16,7 @@ Pourquoi les gens intelligents rejettent les idées plus intelligentes – et ag
 
 — ChatGPT, Théorème d'incomplétude de l'intelligence. Librement adapté de Kurt Gödel.
 
-26 janvier 2026
+26. janvier 2026
 
 L’Observation
 
