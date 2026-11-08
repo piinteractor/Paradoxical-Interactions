@@ -14,7 +14,7 @@ url: https://blog.piinteract.org/fr/le-paradoxe-de-jonas/
 
  — Jonah 4:1
 
-4 février 2026
+4. février 2026
 
 Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
