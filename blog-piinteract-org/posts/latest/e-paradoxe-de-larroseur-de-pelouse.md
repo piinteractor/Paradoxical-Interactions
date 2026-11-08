@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 — Jean-Jacques Rousseau, Discours sur l’origine de l’inégalité (1755)
 
-15 juillet 2026
+15. juillet 2026
 
 14 juillet 2026. La ville de Munich, capitale du Land, promulgue un arrêté général. Le maire Dominik Krause l’a signé ; les services municipaux de Munich (SWM) emboîtent le pas avec leur propre mesure d’économie, qui s’étend jusqu’aux communes environnantes. Motif : une consommation d’eau de 360 millions de litres par jour, soit 60 millions de plus que d’habitude. Sur la photo de presse diffusée par la ville, un arroseur est en marche, en plein jour. L’eau scintille au soleil, une partie s’évaporant avant même d’atteindre le sol. Personne sur cette photo ne commet d’infraction – pas encore. Mais à partir de maintenant, ce sera le cas.
 
