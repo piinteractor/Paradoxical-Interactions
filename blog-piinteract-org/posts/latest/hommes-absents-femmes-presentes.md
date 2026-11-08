@@ -16,7 +16,7 @@ Pourquoi le débat sur l'égalité de droits traite de la question de savoir qui
 
 — Ulysse à Calypso, dans son lit. Homère, Odyssée V, 219–220
 
-23 juillet 2026
+23. juillet 2026
 
 La structure récompense doublement l’absence. D’une part financièrement : les revenus, le statut social et l’ascension professionnelle sont accordés là où l’on n’est pas chez soi. Et d’autre part en termes de nostalgie : celui qui part manque à ses proches. Celui qui reste se retrouve avec pour seule consolation l’espoir d’être à nouveau ensemble. Depuis cinquante ans, le débat sur l’égalité porte sur la première forme de rémunération : les postes, les quotas, l’accès. La seconde n’y est pas abordée. Elle ne peut d’ailleurs pas l’être : un débat sur la justice ne dispose pas de vocabulaire pour exprimer le désir. C’est pourquoi il peut être entièrement remporté sans que l’architecture ne bouge d’un pouce. L’architecture est plus ancienne que chacune de ses revendications. Elle est même plus ancienne que l’argent.
 
