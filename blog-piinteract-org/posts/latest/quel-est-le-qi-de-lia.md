@@ -28,7 +28,7 @@ Pourquoi un modèle linguistique doté d'un QI de 155 n'est pas plus intelligent
 
 
 
-9 juillet 2026
+9. juillet 2026
 
 
 
