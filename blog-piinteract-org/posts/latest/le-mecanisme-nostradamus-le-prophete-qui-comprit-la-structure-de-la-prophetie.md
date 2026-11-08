@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Michel de Nostredame (attr.)
 
-24 mars 2026
+24. mars 2026
 
 Peter Senner Co-créé avec Anthropic Claude
 
