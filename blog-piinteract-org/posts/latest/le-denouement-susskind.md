@@ -26,7 +26,7 @@ La déclaration de Susskind n'est pas un aveu. C'est un document de position. La
 
 Voilà à quoi ressemble la structure de l'intérieur.
 
-5 juin 2026
+5. juin 2026
 
 Ce que la théorie des cordes affirme vraiment
 
