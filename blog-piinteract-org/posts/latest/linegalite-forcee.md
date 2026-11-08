@@ -16,7 +16,7 @@ Pourquoi la structure finit toujours par apparaître — et pourquoi ce n'est pa
 
 — Theodore S. Motzkin
 
-24 juillet 2026
+24. juillet 2026
 
 En 1932, Paul Erdős pose une question sur laquelle la communauté des mathématiciens butera pendant 83 ans. Peut-on planifier une suite de plus-un et de moins-un de façon à ce qu'elle reste équilibrée pour toujours — quel que soit le rythme auquel on l'échantillonne ? Erdős pariait que non. En 2015, Terence Tao l'a démontré, à l'aide d'un outil emprunté à la théorie de l'information : l'équilibre coûte de l'entropie, et l'entropie est finie. Combinez assez longtemps, et la structure s'impose — non pas probablement, non pas souvent : nécessairement. Ce n'est pas une curiosité de mathématiques pures. C'est la confirmation la plus dure qui soit d'un motif que l'IP décrit depuis des années dans les sociétés, les organisations et les algorithmes.
 
