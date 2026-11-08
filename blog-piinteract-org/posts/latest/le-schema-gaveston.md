@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Thomas Walsingham
 
-19 février 2026
+19. février 2026
 
 Peter Senner a co-créé avec Claude
 
