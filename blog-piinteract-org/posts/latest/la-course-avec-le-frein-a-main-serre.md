@@ -33,7 +33,7 @@ En septembre 2026, Dario Amodei publie un essai intitulé « We Must Pace the Fr
 
 
 
-19 septembre 2026
+19. septembre 2026
 
 
 
