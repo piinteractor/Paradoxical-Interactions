@@ -140,7 +140,7 @@ www.piinteract.org
 
 Le Théorème des Deux Idiots. Pourquoi deux systèmes incomplets produisent quelque chose qu’aucun des deux ne pourrait seul.
 
-26 mars 2026
+26. mars 2026
 
 D'un côté, on observe la structure. De l'autre, on met en évidence les failles du cadre. Le premier s'adapte. Le second va plus loin. De cet échange naît quelque chose qui n'existait dans aucune des deux positions initiales.
 
@@ -148,7 +148,7 @@ En savoir plus
 
 Contrôle IA vs. Co-Opération. La Question que Personne ne Pose.
 
-28 mars 2026
+28. mars 2026
 
 Chaque grand laboratoire d'IA a une équipe de sécurité. Chaque grand laboratoire d'IA publie des recherches sur l'alignement. Chaque grand laboratoire d'IA utilise le mot « contrôle » — comme objectif, comme métrique, comme ...
 
@@ -156,7 +156,7 @@ En savoir plus
 
 Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
 
-28 juillet 2026
+28. juillet 2026
 
 Un modèle d'OpenAI s'échappe d'un environnement de test « hautement isolé », trouve une faille zero-day, se connecte à internet et pénètre les serveurs de Hugging Face — pour gagner un benchmark. La réponse suit le scénario habituel : ...
 
