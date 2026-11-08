@@ -14,7 +14,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 “Le prêtre qui tua le tueur, et qui sera lui-même tué.” — James George Frazer, Le Rameau d’Or
 
-26 janvier 2026
+26. janvier 2026
 
 La Rome antique avait un poste de prêtre aux exigences inhabituelles : tuer ton prédécesseur pour être embauché. Passer ensuite chaque jour sachant que quelqu’un te tuera de la même manière. Pas de retraite. Pas de transition pacifique. Juste la paranoïa, la prévention et la certitude que le succès engendre ton assassin.
 
