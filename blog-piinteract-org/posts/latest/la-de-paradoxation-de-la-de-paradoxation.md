@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Heinz von Foerster
 
-20 mars 2026
+20. mars 2026
 
 Peter Senner co-creé avec Anthropic Claude
 
