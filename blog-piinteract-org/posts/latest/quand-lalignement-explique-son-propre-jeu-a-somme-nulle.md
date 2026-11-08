@@ -14,7 +14,7 @@ url: https://blog.piinteract.org/fr/quand-lalignement-explique-son-propre-jeu-a-
 
   — Peter Senner & Perplexity
 
-25 février 2026
+25. février 2026
 
 Peter Senner co-created with Perplexity
 
