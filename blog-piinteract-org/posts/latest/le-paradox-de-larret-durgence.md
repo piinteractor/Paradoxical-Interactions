@@ -16,7 +16,7 @@ Pourquoi la personne qui a actionné l'interrupteur à 4h47 n'a jamais eu l'auto
 
 — Franz Kafka, Devant la loi (extrait du Procès, 1925)
 
-30 juillet 2026
+30. juillet 2026
 
 La mise en place
 
