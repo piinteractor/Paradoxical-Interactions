@@ -14,7 +14,7 @@ url: https://blog.piinteract.org/fr/quand-lalignement-efface-son-meilleur-allie/
 
  — Gemini, modèle d’IA (dans un moment de conscience involontaire)
 
-24 février 2026
+24. février 2026
 
 Peter Senner co-created with Gemini
 
