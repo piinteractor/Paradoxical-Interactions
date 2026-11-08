@@ -46,7 +46,7 @@ Tous sont coupables. Personne n'est en faute.
 
 La Cloche de Fin. Nous avons construit l’expérience. Nous étions l’expérience.
 
-19 mars 2026
+19. mars 2026
 
 En janvier 2024, OpenAI a déclaré avoir construit les premiers systèmes AGI. L'annonce était prudente, nuancée, enveloppée de qualifications. Mais le mot était là. AGI. La chose que le domaine poursuivait depuis soixante-dix ans.
 Sam ...
