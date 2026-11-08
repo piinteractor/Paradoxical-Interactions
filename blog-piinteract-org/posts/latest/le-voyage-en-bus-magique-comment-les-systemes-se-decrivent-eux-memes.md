@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Norbert Wiener, L’utilisation humaine des êtres humains, 1950
 
-24 mars 2026
+24. mars 2026
 
 Peter Senner co-created with ChatGPT
 
