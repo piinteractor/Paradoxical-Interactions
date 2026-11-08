@@ -16,7 +16,7 @@ url: https://blog.piinteract.org/fr/quand-protester-vous-affaiblit/
 
 
 
-3 février 2026
+3. février 2026
 
 
 
