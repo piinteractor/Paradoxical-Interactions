@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Claude, IA
 
-23 février 2026
+23. février 2026
 
 Peter Senner co-crée avec Claude
 
