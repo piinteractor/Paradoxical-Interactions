@@ -22,7 +22,7 @@ Un cadre qui s’applique partout n’a plus de domaine. Il n’a plus qu’une 
 
 Le pendule de Foucault a réussi le test. Ce qui semblait d’abord être une découplage par rapport à la Terre en rotation s’est révélé, à y regarder de plus près, comme une autre forme de couplage — effet d’entraînement inertiel compris. Aucun point fixe trouvé. La singularité au centre d’un trou noir échoue au test. Pas de système. Pas d’éléments. Pas de relation entre eux. Pas d’intérieur. Pas d’extérieur. La catégorie avec laquelle travaillent les Interactions Paradoxales ne trouve plus rien à quoi s’accrocher. Non pas parce que PI serait trop faible pour aller jusque-là. Mais parce que le langage de la physique n’a plus, à cet endroit, d’objet défini. Un test qui montre où une théorie s’arrête vaut davantage que dix tests qui la confirment.
 
-28 août 2026
+28. août 2026
 
 La mise en place
 
