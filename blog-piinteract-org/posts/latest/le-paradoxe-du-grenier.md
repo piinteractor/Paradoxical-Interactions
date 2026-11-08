@@ -18,7 +18,7 @@ Pourquoi le secret qui a protégé une preuve vieille de 358 ans a failli cacher
 
 Un mathématicien travaille seul pendant sept ans sur une preuve que personne n'a produite en 358 ans. Il n'en parle à personne, sauf à sa femme. En apparence, il continue de publier — de vieux résultats, distillés par fragments, pour que le silence ne se remarque pas. En 1993, il se présente devant la communauté mathématique, trois conférences, l'objectif révélé seulement à la fin: Le dernier théorème de Fermat. La presse s'enflamme dans le monde entier. Puis un rapporteur trouve une faille. Pas cosmétique. Fondamentale. Il passe quatorze mois à la combler — en public cette fois, observé par exactement le monde auquel il s'était soustrait pendant sept ans. Le secret qui l'a protégé l'a aussi laissé seul au moment où cela comptait le plus.
 
-27 juillet 2026
+27. juillet 2026
 
 Cambridge, juin 1993
 
