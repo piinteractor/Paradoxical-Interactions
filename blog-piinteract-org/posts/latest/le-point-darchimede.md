@@ -39,7 +39,7 @@ La distinction paraît évidente. Elle est aussi remarquablement facile à oubli
 
 
 
-3 août 2026
+3. août 2026
 
 
 
