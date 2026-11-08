@@ -20,7 +20,7 @@ Nuremberg, avril 1946. Hermann Göring — ancien Reichsmarschall, deuxième hom
 
 Il ne décrit pas le mal. Il décrit un mécanisme.
 
-14 mai 2026
+14. mai 2026
 
 L'Aveu Qui N'en Est Pas Un
 
