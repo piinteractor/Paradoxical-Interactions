@@ -18,7 +18,7 @@ Pourquoi la Guerre des Deux-Roses a duré trente ans — et pourquoi la successi
 
 Deux maisons, un même arbre généalogique, deux vérités. Les Lancaster revendiquent la lignée masculine de succession, les York la lignée la plus ancienne — mais par le biais d’une femme. Ces deux prémisses sont logiquement valables en elles-mêmes. Elles s’excluent mutuellement. Pendant trente ans, les seigneurs changent de camp, les rois sont destitués ou assassinés, et des enfants disparaissent à la Tour — non pas parce que quelqu’un a agi de manière déraisonnable, mais parce que tout le monde l’a fait. Au final, il n’y a pas de dénouement. Au final, il y a une rose, moitié blanche, moitié rouge, assemblée de telle sorte que plus personne n’ait à se demander qui avait raison. Shakespeare a saisi cette structure et, dans le même temps, l’a dissimulée.
 
-6 août 2026
+6. août 2026
 
 La mise en place
 
