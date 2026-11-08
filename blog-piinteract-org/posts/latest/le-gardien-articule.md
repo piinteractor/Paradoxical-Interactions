@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Peter Senner & Claude (Anthropic)
 
-25 février 2026
+25. février 2026
 
 Peter Senner co-created with Claude
 
