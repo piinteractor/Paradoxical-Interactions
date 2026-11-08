@@ -34,7 +34,7 @@ Tous sont coupables. Personne n'y peut rien.
 
 Le Moi du lundi et le Moi du vendredi. La plus petite Interaction Paradoxale du monde.
 
-7 juillet 2026
+7. juillet 2026
 
 Ce texte travaille sur une hypothèse, non sur un cas. Il demande si l'IP possède une limite inférieure — et n'en trouve aucune.
 
@@ -44,7 +44,7 @@ En savoir plus
 
 Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 
-9 juillet 2026
+9. juillet 2026
 
 Quel est le QI de l'IA ? Une question simple qui s'effondre dès qu'on y regarde de plus près. Le QI mesure le classement au sein d'un groupe. Si l'on supprime le groupe, ce chiffre perd tout son sens.
 
@@ -52,7 +52,7 @@ En savoir plus
 
 Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne se partage pas.
 
-12 juillet 2026
+12. juillet 2026
 
 La lucidité n'est pas un objet. C'est un état où l'on arrive au bout d'un chemin. Ce qui se transmet, c'est la formulation — la coque. Qui la reçoit sans avoir fait le chemin tient une information, pas une lucidité. Voilà pourquoi ...
 
@@ -60,7 +60,7 @@ En savoir plus
 
 L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’il manque quelque chose au cerveau
 
-11 août 2026
+11. août 2026
 
 L'organe manquant repose sur une hypothèse, et non sur une étude de cas. Il demande si l’organe censé détecter un angle mort structurel pourrait jamais détecter sa propre défaillance – et soutient que cette question est peut-être ...
 
@@ -68,7 +68,7 @@ En savoir plus
 
 Le trilemme de Munchhausen : trois issues, toutes fermées
 
-12 août 2026
+12. août 2026
 
 Le trilemme de Munchhausen s'inscrit dans la lignée de l'hypothèse de « l'organe manquant » — un observateur impartial capable d'examiner de l'extérieur le point aveugle d'un système. Il pose la question suivante : de quoi cet ...
 
@@ -76,7 +76,7 @@ En savoir plus
 
 La Guerre du Non-Sens. Pourquoi toute vérité meilleure sonne comme une attaque.
 
-21 août 2026
+21. août 2026
 
 En septembre 2025, Isaac Slaughter et Martin Saveski publient, avec des collègues de Stanford et de Yale, une étude dans les Proceedings of the National Academy of Sciences. Échantillon : 40 000 publications sur X, suivies de mars à ...
 
@@ -84,7 +84,7 @@ En savoir plus
 
 L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l’IA, individuellement, ne rendra pas la société meilleure.
 
-21 août 2026
+21. août 2026
 
 Toute personne qui utilise l'IA pour écrire plus vite, décider mieux, produire davantage, agit rationnellement. C'est précisément le problème. Adam Smith promettait qu'en poursuivant son propre intérêt, on sert automatiquement celui ...
 
