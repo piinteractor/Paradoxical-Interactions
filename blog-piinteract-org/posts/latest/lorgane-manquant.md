@@ -18,7 +18,7 @@ Pourquoi la seule partie de vous qui pourrait vous dire qu’il manque quelque c
 
 Cet article repose sur une hypothèse, et non sur une étude de cas. Il demande si l’organe censé détecter un angle mort structurel pourrait jamais détecter sa propre défaillance – et soutient que cette question est peut-être impossible à résoudre de l’intérieur.
 
-11 août 2026
+11. août 2026
 
 Le dispositif
 
