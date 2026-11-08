@@ -20,7 +20,7 @@ En mai 2026, des chercheurs d'Emergence AI ont fait tourner cinq sociétés simu
 
 L'expérience s'est terminée. L'expérience continue.
 
-5 juin 2026
+5. juin 2026
 
 L'Instrument que Personne n'Entend
 
