@@ -30,7 +30,7 @@ Cet article poursuit l'hypothèse de « L'Organe Manquant » — un observateur 
 
 
 
-12 août 2026
+12. août 2026
 
 
 
