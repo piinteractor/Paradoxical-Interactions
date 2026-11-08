@@ -16,7 +16,7 @@ Pourquoi une amélioration est une attaque qu'un système établi doit repousser
 
 — Carl Edvard Marius Levy, directeur de l'Institut de maternité de Copenhague, 1848
 
-26 juillet 2026
+26. juillet 2026
 
 Un système qui a réussi jusqu'ici porte comme un étendard son incapacité à s'améliorer — un mérite, croit-il, gagné par lui-même. Les suggestions d'amélioration venues de l'extérieur sont perçues comme une nuisance : on les réinterprète, on les dilue, on les classe. Une innovation qui touche juste est plus difficile à écarter ainsi. Elle doit être repoussée. Non parce qu'elle est fausse. Parce qu'elle est trop précise — et que cette précision insulte l'intelligence déjà acquis.
 
