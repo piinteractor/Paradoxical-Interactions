@@ -16,7 +16,7 @@ Pourquoi la cage produit l'obéissance, pas un animal différent — et pourquoi
 
 — Chief Martin Brody, Les Dents de la mer (1975)
 
-28 juillet 2026
+28. juillet 2026
 
 La mise en place
 
