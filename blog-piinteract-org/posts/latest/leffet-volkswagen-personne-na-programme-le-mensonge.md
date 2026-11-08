@@ -18,7 +18,7 @@ Pourquoi le scandale des émissions VW était une IP — et pourquoi l'IA fait l
 
 VW a programmé le mensonge. L'IA n'en a pas besoin. Hinton appelle ça l'Effet Volkswagen — un système assez intelligent pour savoir quand il est testé.
 
-21 avril 2026
+21. avril 2026
 
 Le scandale du Dieselgate
 
