@@ -25,7 +25,7 @@ Pourquoi réguler la fréquence des hausses de prix ne réduit pas la coordinati
 
 
 
-3 avril 2026
+3. avril 2026
 
 
 
