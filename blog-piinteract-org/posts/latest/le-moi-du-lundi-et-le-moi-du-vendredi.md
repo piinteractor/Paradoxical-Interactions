@@ -28,7 +28,7 @@ Pourquoi tu vas à l'encontre de tes propres bonnes résolutions, alors que tes 
 
 
 
-7 juillet 2026
+7. juillet 2026
 
 
 
