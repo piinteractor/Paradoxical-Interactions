@@ -16,7 +16,7 @@ Pourquoi l'Angleterre n'a pas survécu à sa propre 55e minute — et pourquoi c
 
 — Abraham Maslow, The Farther Reaches of Human Nature (1971)
 
-17 juillet 2026
+17. juillet 2026
 
 Dix minutes après la reprise, l'Angleterre mène face à l'Argentine en demi-finale de la Coupe du monde 2026. Pour la première fois depuis 1966, la finale est à nouveau à portée de main. C'est précisément à ce moment-là que l'équipe cesse de jouer au football. Pas de crise de nerfs. Pas d'épuisement. Une décision — rationnelle, compréhensible, digne d'un manuel. Et c'est précisément pour cela qu'elle est fatale.
 
