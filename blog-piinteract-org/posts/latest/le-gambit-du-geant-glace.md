@@ -24,7 +24,7 @@ Pousse les autres de telle sorte qu'ils te poussent là où tu veux qu'ils te po
 
 Cette phrase ressemble à une stratégie. Ce n'est pas le cas. C'est là tout l'intérêt.
 
-31 mai 2026
+31. mai 2026
 
 La poussée qui n'était pas un plan
 
