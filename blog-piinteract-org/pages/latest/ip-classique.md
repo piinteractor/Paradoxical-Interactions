@@ -34,7 +34,7 @@ Exemples
 
 Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atteint jamais la structure.
 
-23 juillet 2026
+23. juillet 2026
 
 « Hommes absents, femmes présentes » analyse comment un débat sur l'égalité, en apparence égalitaire, laisse inchangée la structure sous-jacente – car l'absence même des hommes devient une norme invisible.
 
@@ -42,7 +42,7 @@ En savoir plus
 
 Le Paradoxe de Jonas
 
-4 février 2026
+4. février 2026
 
 Un prophète avertit d'une catastrophe. Si l'avertissement fonctionne, la catastrophe n'arrive pas. La prophétie devient fausse. Le succès fait de lui un menteur.
 Si l'avertissement échoue, la catastrophe frappe. La prophétie se ...
@@ -51,7 +51,7 @@ En savoir plus
 
 Bornéité plutôt que sagesse – l’IP du philosophe
 
-28 janvier 2026
+28. janvier 2026
 
 Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
 Pourtant, il incarne la structure même qu'il critique. Il ne le voit simplement ...
@@ -60,7 +60,7 @@ En savoir plus
 
 Le Paradoxe du Prophète
 
-28 janvier 2026
+28. janvier 2026
 
 L'étranger avec des références est entendu. L'ami ou le parent qui connaît le schéma est écarté.
 Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont inconnus. Inconnu signifie non testé. Non testé peut se ...
@@ -69,7 +69,7 @@ En savoir plus
 
 Le Paradoxe de Cassandre
 
-26 janvier 2026
+26. janvier 2026
 
 Apollon offre à Cassandre le don de prophétie. Elle le rejette. Il la maudit : elle dira la vérité, mais personne ne la croira. Elle avertit Troie du cheval de bois. Troie brûle quand même.
 Fin de l'histoire ? Non. Début du schéma.
@@ -78,7 +78,7 @@ En savoir plus
 
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
-26 janvier 2026
+26. janvier 2026
 
 La Rome antique avait un poste de prêtre aux exigences inhabituelles : tuer ton prédécesseur pour être embauché. Passer ensuite chaque jour sachant que quelqu'un te tuera de la même manière. Pas de retraite. Pas de transition ...
 
