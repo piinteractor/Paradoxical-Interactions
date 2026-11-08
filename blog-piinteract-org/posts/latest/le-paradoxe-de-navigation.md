@@ -18,7 +18,7 @@ Pourquoi de meilleurs outils pour l'individu ne font pas une meilleure somme col
 
 Toute personne qui utilise l'IA pour écrire plus vite, décider mieux, produire davantage, agit rationnellement. C'est précisément le problème. Adam Smith promettait qu'en poursuivant son propre intérêt, on sert automatiquement celui des autres. Ça ne s'est pas vérifié dans les rues résidentielles du New Jersey, le jour où des millions de conducteurs ont suivi la même application. Ça ne se vérifie pas non plus, en ce moment, dans le recrutement, où candidats et recruteurs s'arment mutuellement d'IA. La structure est toujours la même : optimale localement, incontrôlée collectivement. L'IA n'invente pas ce schéma. Elle l'exécute plus vite, plus invisiblement, sur davantage de niveaux à la fois.
 
-21 août 2026
+21. août 2026
 
 La mise en place
 
