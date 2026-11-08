@@ -33,7 +33,7 @@ Teaser Text
 
 
 
-28 juillet 2026
+28. juillet 2026
 
 
 
