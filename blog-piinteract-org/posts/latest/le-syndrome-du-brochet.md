@@ -16,7 +16,7 @@ Comment une structure se fige pour toujours sans que personne ne l'ait voulu —
 
 — George Orwell, Dix-neuf quatre-vingt-quatre (1949)
 
-14 juin 2026
+14. juin 2026
 
 Karl Möbius, un zoologiste allemand, a placé un brochet dans un aquarium contenant des poissons plus petits. Il a intercalé une vitre entre le prédateur et ses proies. Le brochet a attaqué. Encore et encore. Il s’est heurté à l’obstacle jusqu’à ce qu’il abandonne. Lorsque Möbius a retiré la vitre, les petits poissons nageaient librement autour du brochet. Le brochet ne bougeait pas. Il serait mort de faim si Möbius ne l'avait pas nourri. Des expériences ultérieures ont reproduit le scénario sans intervenir. Le résultat a été presque le même. Les brochets utilisés dans les expériences sont morts. Ce phénomène porte un nom : le syndrome du brochet.
 
