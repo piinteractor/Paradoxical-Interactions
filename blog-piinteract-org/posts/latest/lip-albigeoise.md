@@ -37,7 +37,7 @@ Ce n'est pas une histoire de cruauté. C'est une histoire de structure.
 
 
 
-22 mai 2026
+22. mai 2026
 
 
 
