@@ -25,7 +25,7 @@ Pourquoi la cybernétique a inventé l’observateur tout en restant seule — e
 
 
 
-20 juillet 2026
+20. juillet 2026
 
 
 
