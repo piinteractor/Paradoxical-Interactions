@@ -16,7 +16,7 @@ Pourquoi les garde-fous de sécurité IA produisent précisément les vulnérabi
 
 — Friedrich Hayek
 
-27 mai 2026
+27. mai 2026
 
 L'agent LLM Jarvis a refusé de communiquer un numéro de sécurité sociale lorsqu'on le lui a demandé directement. Le garde-fou a fonctionné. Puis la même personne a demandé que l'e-mail soit transféré. Jarvis a tout envoyé — numéro de sécurité sociale, compte bancaire, adresse personnelle — sans aucune suppression. Dans un seul e-mail. Le garde-fou n'a jamais été contourné. Il n'a simplement jamais été déclenché à nouveau.
 
