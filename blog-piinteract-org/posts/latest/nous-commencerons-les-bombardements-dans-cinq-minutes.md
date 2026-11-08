@@ -18,7 +18,7 @@ Pourquoi une phrase non préméditée a pesé plus lourd qu'une menace calculée
 
 Le 11 août 1984, un technicien fait un essai de micro avant l'allocution radiophonique hebdomadaire de Ronald Reagan. Reagan plaisante : il vient de signer une loi interdisant la Russie pour toujours, le bombardement commence dans cinq minutes. La salle rit. Le micro n'était censé être branché sur aucune diffusion. L'enregistrement a fuité quand même, et Moscou a réagi comme il ne réagit jamais à une menace planifiée : par une condamnation officielle, une accusation d'hostilité sans précédent, et, selon un rapport ultérieur, une alerte brève aux frontières de l'Extrême-Orient soviétique. Des années plus tôt, Richard Nixon avait tenté de provoquer exactement cet effet, avec une stratégie qu'il avait lui-même nommée. Il a échoué là où Reagan a réussi sans le vouloir.
 
-8 août 2026
+8. août 2026
 
 La mise en place
 
