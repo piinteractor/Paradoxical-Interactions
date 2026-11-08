@@ -18,7 +18,7 @@ Pourquoi l'expérience de pensée la plus célèbre de la philosophie de l'espri
 
 Quelqu'un qui ne parle pas chinois est assis dans une pièce, échangeant sous la porte des feuillets couverts de symboles qu'il ne comprend pas. Voilà la version connue. Moins connu : pour que l'expérience fonctionne, personne à l'extérieur de la pièce n'a besoin de parler chinois non plus. Il suffit que les deux parties s'en remettent à une autorité qui ne met elle-même jamais les pieds dans le laboratoire — quelqu'un issu de la communauté des véritables locuteurs chinois, dont les deux présupposent le jugement sans jamais le solliciter. Faites intervenir cette autorité pour de bon, et il se passe quelque chose d'inattendu. Soit elle démasque immédiatement la supercherie. Soit elle la confirme — et pose alors la seule question qui fait s'effondrer tout le dispositif : quel est le sens de l'expérience ?
 
-27 juillet 2026
+27. juillet 2026
 
 Le Dispositif
 
