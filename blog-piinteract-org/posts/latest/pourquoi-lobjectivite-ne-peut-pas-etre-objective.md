@@ -25,7 +25,7 @@ Pourquoi l'exigence d'objectivité est structurellement auto-destructrice — et
 
 
 
-28 avril 2026
+28. avril 2026
 
 
 
