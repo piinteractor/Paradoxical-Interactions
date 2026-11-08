@@ -20,7 +20,7 @@ Un embouteillage fantôme se forme parce que chaque conducteur réagit à la voi
 
 Les autorités routières allemandes l’ont compris. La solution était élégante : des panneaux à portique couvrant toutes les voies, reliés à des capteurs, ajustant les limitations de vitesse en temps réel. Lisser la vague avant qu’elle ne se forme. La physique fonctionne.
 
-6 juin 2026
+6. juin 2026
 
 Le panneau qui criait au loup
 
