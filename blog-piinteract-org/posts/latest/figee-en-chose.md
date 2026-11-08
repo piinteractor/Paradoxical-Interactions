@@ -18,7 +18,7 @@ Pourquoi l'enfant qui a vu l'empereur nu n'est pas célébrée après coup, mais
 
 « Les habits neufs de l’empereur » se termine par le rire de la foule. Mais ce rire ne marque pas la fin de l’histoire — ce n’est que la fin qu’Andersen nous offre. Ce qu’il advient de l’enfant par la suite n’apparaît nulle part, et c’est justement là que réside le véritable cœur de l’affaire. La foule, qui restait silencieuse une minute auparavant, ne peut se pardonner d’avoir eu besoin d’un enfant pour y voir clair. Et celui qui est témoin de sa propre lâcheté est rarement apprécié pour avoir eu raison.
 
-19 août 2026
+19. août 2026
 
 L'enfant et le cortège
 
