@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Peter Steinberger, créateur d’OpenClaw
 
-22 février 2026
+22. février 2026
 
 Peter Senner co-created with Claude
 
