@@ -25,7 +25,7 @@ Pourquoi la plus célèbre expérience de pensée de la physique a été conçue
 
 
 
-1 juin 2026
+1. juin 2026
 
 
 
