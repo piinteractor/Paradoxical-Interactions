@@ -16,7 +16,7 @@ Pourquoi les réseaux sociaux ne peuvent pas être réparés — et pourquoi cha
 
 — H.G. Wells
 
-8 avril 2026
+8. avril 2026
 
 Le contexte
 
