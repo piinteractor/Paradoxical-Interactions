@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Héraclite, Fragment 51 (vers 500 avant J.-C.)
 
-21 février 2026
+21. février 2026
 
 Peter Senner a co-créé avec Claude
 
