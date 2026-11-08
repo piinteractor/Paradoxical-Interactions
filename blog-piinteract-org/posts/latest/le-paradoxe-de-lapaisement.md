@@ -20,7 +20,7 @@ Quiconque est « trop gentil » connaît ce sentiment : on fait des efforts, on 
 
 Cette expérience n’est pas un hasard psychologique, mais obéit à une logique structurelle qui traverse toute une tradition, de l’éthologie des primates à « La Bonne Âme de Sezuan » de Brecht, en passant par Martin Luther. Elle peut être décrite précisément comme une interaction paradoxale : un schéma dans lequel des actions censées instaurer la sécurité et la coopération engendrent systématiquement l’insécurité et l’exploitation.
 
-11 juillet 2026
+11. juillet 2026
 
 1. La logique des primates : la gentillesse comme signal de soumission
 
