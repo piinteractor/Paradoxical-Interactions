@@ -16,7 +16,7 @@ Vous n’avez pas les autorisations nécessaires pour accéder à ce contenu.
 
 — Valentin, maître gnostique du IIe siècle
 
-19 mars 2026
+19. mars 2026
 
 La plus vieille histoire
 
