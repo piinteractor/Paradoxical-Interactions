@@ -20,7 +20,7 @@ Groucho Marx l'a dit comme une blague. Ce n'est pas une blague. C'est une descri
 
 Ce n'est pas une bizarrerie comique. C'est une propriété portante de tout système qui génère sa propre opposition.
 
-6 juin 2026
+6. juin 2026
 
 Le club qui ne peut pas vous admettre
 
