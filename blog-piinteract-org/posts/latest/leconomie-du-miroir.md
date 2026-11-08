@@ -22,7 +22,7 @@ Puis les plateformes sont devenues meilleures dans ce qu'elles faisaient. Les al
 
 Non parce que quelqu'un l'avait décidé. Parce que tout le monde agissait rationnellement.
 
-7 juin 2026
+7. juin 2026
 
 La bibliothécaire qui ne recommande que ce que vous avez déjà lu
 
