@@ -33,7 +33,7 @@ Toute discussion qui commence par « ce n'est pas vrai » se termine rarement pa
 
 
 
-21 août 2026
+21. août 2026
 
 
 
