@@ -16,7 +16,7 @@ Où est la connaissance que nous avons perdue dans l’information ? »
 
 — T.S. Eliot, The Rock (1934)
 
-6 février 2026
+6. février 2026
 
 Peter Senner co-created with Claude
 
