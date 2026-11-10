@@ -12,31 +12,13 @@ url: https://piinteract.org/fr/bases/
 
 Bases
 
-
-
-
 « Eh bien, voilà encore une belle pagaille dans laquelle tu m'as mis ! »
 
 — Oliver Hardy à Stan Laurel
 
-
-
-
-
-
-
 Catégories fondamentales d'interaction paradoxale
 
-
-
-
 Ensemble, ces cinq catégories forment une grille d'observation qui peut être appliquée à une grande variété de contextes, allant de l'économie et la culture à l'interaction avec l'IA.
-
-
-
-
-
-
 
 1. Paradoxes structurels (paradoxes d'incitation ou de règle)
 
@@ -50,12 +32,6 @@ Chaque action est rationnelle individuellement, mais destructrice collectivement
 
 • Exemple : dans les écosystèmes web, tous les opérateurs de sites « optimisent » les clics ou le référencement, ce qui entraîne une surcharge, des contenus falsifiés et une perte de confiance. 
 
-
-
-
-
-
-
 2. Paradoxes informationnels
 
 Le paradoxe résulte d'une distribution asymétrique ou trop complexe de l'information.
@@ -65,12 +41,6 @@ Les acteurs agissent de manière rationnelle en fonction de ce qu'ils savent, ma
 • Forme typique : cascades d'informations, effets de signalisation, boucles de rétroaction.
 
 • Exemple : dans les médias sociaux, les boucles de rétroaction algorithmiques ne font qu'amplifier les contenus qui génèrent un engagement à court terme, jusqu'à ce que la qualité globale s'effondre.
-
-
-
-
-
-
 
 3. Paradoxes intentionnels (paradoxes liés aux motivations ou à la confiance)
 
@@ -82,12 +52,6 @@ C'est précisément la tentative d'agir de manière rationnelle qui détruit la 
 
 • Exemple : dans les projets d'équipe, chacun se protège contre les erreurs éventuelles commises par les autres, créant ainsi des structures de contrôle inefficaces.
 
-
-
-
-
-
-
 4. Paradoxes systémiques (paradoxes émergents ou récursifs)
 
 Le paradoxe ne réside pas dans le comportement des individus, mais dans la dynamique de la structure globale, qui s'autoalimente souvent.
@@ -95,12 +59,6 @@ Le paradoxe ne réside pas dans le comportement des individus, mais dans la dyna
 • Forme typique : dépendance au cheminement, spirale d'escalade, dynamique de la Reine rouge.
 
 • Exemple : les plateformes doivent constamment stimuler davantage d'interactions afin de rester pertinentes, ce qui détruit la confiance qui les soutient à long terme.
-
-
-
-
-
-
 
 5. Paradoxes de perception (pièges d'interprétation ou de réflexion)
 
