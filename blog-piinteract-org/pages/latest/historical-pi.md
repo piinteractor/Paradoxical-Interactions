@@ -10,7 +10,7 @@ wp_id: 339
 url: https://blog.piinteract.org/pi-cases/historical-pi/
 ---
 
-"Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances existing already, given and transmitted from the past."
+“Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances existing already, given and transmitted from the past.”
 
 — Karl Marx, The Eighteenth Brumaire of Louis Bonaparte
 
@@ -18,7 +18,7 @@ Historical PI
 
 They knew what they were doing. They did it anyway. The outcome surprised everyone.
 
-History doesn't repeat itself. The structure does.
+History doesn’t repeat itself. The structure does.
 
 History is full of intelligent people making rational decisions that produced catastrophic outcomes. This is not a paradox. It is a pattern.
 
@@ -26,7 +26,7 @@ Von Papen thought he could control Hitler. He was not stupid — he was structur
 
 The same structure appears in the collapse of the Roman Republic, in the Treaty of Versailles, in the slow implosion of every reform that succeeds — and thereby creates the conditions for its own reversal. Each time, the actors knew what they were doing. Each time, the outcome surprised everyone.
 
-History doesn't repeat itself. Historians keep saying this. They are right in the details and wrong in the structure. The names change. The costumes change. The mechanism doesn't.
+History doesn’t repeat itself. Historians keep saying this. They are right in the details and wrong in the structure. The names change. The costumes change. The mechanism doesn’t.
 
 What you will find here: cases where rational actors, acting in good faith and in their own interest, produced outcomes that none of them wanted and none of them could stop. Not because they failed. Because they succeeded — at the wrong level.
 
@@ -36,7 +36,7 @@ We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
 
 8. August 2026
 
-On August 11, 1984, a technician runs a sound check before Ronald Reagan's weekly radio address. Reagan jokes: he's just signed legislation outlawing Russia forever, bombing begins in five minutes. The room laughs. The mic was never ...
+On August 11, 1984, a technician runs a sound check before Ronald Reagan’s weekly radio address. Reagan jokes: he’s just signed legislation outlawing Russia forever, bombing begins in five minutes. The room laughs. The mic was never …
 
 Read More
 
@@ -44,7 +44,7 @@ Read More
 
 6. August 2026
 
-Two houses, one family tree, two truths. Lancaster stands on male succession. York stands on the older line, carried through a woman. Both premises hold. Both cancel each other out. For thirty years, lords switch sides, kings get ...
+Two houses, one family tree, two truths. Lancaster stands on male succession. York stands on the older line, carried through a woman. Both premises hold. Both cancel each other out. For thirty years, lords switch sides, kings get …
 
 Read More
 
@@ -52,7 +52,7 @@ The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better.
 
 26. July 2026
 
-A system that has succeeded so far carries its own unimprovability like a flag — earned, it believes, by its own merit. Suggestions for improvement arriving from outside register as an annoyance: reinterpret them, dilute them, file ...
+A system that has succeeded so far carries its own unimprovability like a flag — earned, it believes, by its own merit. Suggestions for improvement arriving from outside register as an annoyance: reinterpret them, dilute them, file …
 
 Read More
 
@@ -60,7 +60,7 @@ The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
 
 5. June 2026
 
-In 1385, the people of Ferrara killed a tax collector on the market square. His name was Tommaso da Tortona. The Este had him collecting what the city could not afford to pay. The city responded the way cities respond when they have ...
+In 1385, the people of Ferrara killed a tax collector on the market square. His name was Tommaso da Tortona. The Este had him collecting what the city could not afford to pay. The city responded the way cities respond when they have …
 
 Read More
 
@@ -68,7 +68,7 @@ The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
 
 31. May 2026
 
-Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He has already explained, in private, how the mechanism works. He knows the argument. He built it. And he ...
+Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He has already explained, in private, how the mechanism works. He knows the argument. He built it. And he …
 
 Read More
 
@@ -76,7 +76,7 @@ The Albigensian PI. How Christians Launched a Crusade Against Christians.
 
 22. May 2026
 
-In July 1209, crusader forces arrived at the walls of Béziers in what is now southern France. They had come to root out the Cathar heresy — a dualist Christian movement the Church of Rome had declared an existential threat. Inside the ...
+In July 1209, crusader forces arrived at the walls of Béziers in what is now southern France. They had come to root out the Cathar heresy — a dualist Christian movement the Church of Rome had declared an existential threat. Inside the …
 
 Read More
 
@@ -84,7 +84,7 @@ The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
 
 14. May 2026
 
-Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he ...
+Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he …
 
 Read More
 
@@ -108,7 +108,7 @@ Von Papen, Schleicher & Co.
 
 23. January 2026
 
-How did Hitler's opponents become his enablers? Von Papen, Schleicher, and Hugenberg each acted rationally—yet collectively produced the outcome they tried to prevent. A Paradoxical Interaction case study from 1933.
+How did Hitler’s opponents become his enablers? Von Papen, Schleicher, and Hugenberg each acted rationally—yet collectively produced the outcome they tried to prevent. A Paradoxical Interaction case study from 1933.
 
 Read More
 
@@ -125,7 +125,7 @@ Justice That Could Be Afforded
 23. January 2026
 
 The Nazi regime was organized mass murder. The moral diagnosis was unambiguous. Yet postwar justice remained structurally incomplete.
-Not because perpetrators were innocent. Not because evidence was lacking. But because the system ...
+Not because perpetrators were innocent. Not because evidence was lacking. But because the system …
 
 Read More
 
