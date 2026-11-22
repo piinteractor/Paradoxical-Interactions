@@ -10,7 +10,7 @@ wp_id: 6038
 url: https://blog.piinteract.org/the-albigensian-pi/
 ---
 
-The strongest argument wins. That's not the same as the right one.
+The strongest argument wins. That’s not the same as the right one.
 
 
 
@@ -18,7 +18,7 @@ The strongest argument wins. That's not the same as the right one.
 
 
 
-"Caedite eos. Novit enim Dominus qui sunt eius." "Kill them all. God will know his own." 
+“Caedite eos. Novit enim Dominus qui sunt eius.” “Kill them all. God will know his own.” 
 
 — Attributed to Arnaud Amalric, Papal Legate, at the siege of Béziers, 1209
 
@@ -27,7 +27,7 @@ The strongest argument wins. That's not the same as the right one.
 
 In July 1209, crusader forces arrived at the walls of Béziers in what is now southern France. They had come to root out the Cathar heresy — a dualist Christian movement the Church of Rome had declared an existential threat. Inside the city were Cathars. Also inside: Catholics, Jews, merchants, craftsmen, children. Perhaps 20,000 people in total.
 
-The crusaders asked the papal legate how to tell the faithful from the heretics. The legate's answer became one of the most quoted sentences of the Middle Ages. Béziers burned. The dead numbered in the thousands, perhaps tens of thousands. The massacre was complete. The distinction had been impossible to make — so it was not made.
+The crusaders asked the papal legate how to tell the faithful from the heretics. The legate’s answer became one of the most quoted sentences of the Middle Ages. Béziers burned. The dead numbered in the thousands, perhaps tens of thousands. The massacre was complete. The distinction had been impossible to make — so it was not made.
 
 This is not a story about cruelty. It is a story about structure.
 
@@ -92,9 +92,9 @@ The Priest of Nemi, in a Mitre
 
 The deeper structure was already visible in the method. Every challenge to religious authority — whether Cathar, Waldensian, or later Lutheran — was processed by the same mechanism: identify, isolate, eliminate. The Church was not answering the theological argument. It was defending the structure that made the argument dangerous.
 
-The Cathars did not threaten Christianity. They threatened the Church's monopoly on legitimate Christianity. That is a different thing entirely.
+The Cathars did not threaten Christianity. They threatened the Church’s monopoly on legitimate Christianity. That is a different thing entirely.
 
-The Crusade, the Inquisition, the burnings — these were not failures of doctrine. They were logical consequences of a system that could not distinguish between "this theology is wrong" and "this theology makes us structurally redundant." For a system optimized around its own reproduction, both propositions are the same threat.
+The Crusade, the Inquisition, the burnings — these were not failures of doctrine. They were logical consequences of a system that could not distinguish between “this theology is wrong” and “this theology makes us structurally redundant.” For a system optimized around its own reproduction, both propositions are the same threat.
 
 The Priest of Nemi becomes High Priest not by being holiest, but by surviving the mechanism longest. The institutional Church survived. The Cathars did not. The structure called this victory.
 
@@ -174,7 +174,7 @@ Win the position. Guarantee your death. Repeat the Pattern forever.
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Articulate Gatekeeper
 
@@ -191,22 +191,22 @@ No results found.
 
 On piinteract.org:
 
-["Heresy Mechanism"] — The Albigensian Crusade is the heresy mechanism at full operational scale: the system cannot tolerate the ambiguity it cannot eliminate.
+[“Heresy Mechanism”] — The Albigensian Crusade is the heresy mechanism at full operational scale: the system cannot tolerate the ambiguity it cannot eliminate.
 
-["Reformation-Orthodoxy"] — What the Crusade suppressed returned, structurally transformed, three centuries later — the pattern reproduces through the suppression, not despite it.
+[“Reformation-Orthodoxy”] — What the Crusade suppressed returned, structurally transformed, three centuries later — the pattern reproduces through the suppression, not despite it.
 
-["The Peacemaker as Traitor"] — Anyone who argued for moderation in 1209 became structurally suspect: the structure reads restraint as complicity.
+[“The Peacemaker as Traitor”] — Anyone who argued for moderation in 1209 became structurally suspect: the structure reads restraint as complicity.
 
-["See Pattern, Not Symptom"] — Béziers was not the cause. It was the symptom of an identification problem the available tools could never solve.
+[“See Pattern, Not Symptom”] — Béziers was not the cause. It was the symptom of an identification problem the available tools could never solve.
 
 
 
 
 See also (external links):
 
-Caesarius of Heisterbach, Dialogus Miraculorum (c. 1220–1235) — primary source for the Arnaud Amalric attribution — The earliest documented source for the "Kill them all" attribution; the primary record of how contemporaries understood the logic of Béziers.
+Caesarius of Heisterbach, Dialogus Miraculorum (c. 1220–1235) — primary source for the Arnaud Amalric attribution — The earliest documented source for the “Kill them all” attribution; the primary record of how contemporaries understood the logic of Béziers.
 
-Mark Gregory Pegg, A Most Holy War: The Albigensian Crusade and the Battle for Christendom (Oxford University Press, 2008) — The scholarly standard on the Crusade's structural causes; Pegg's argument that the Inquisition was a structural innovation, not a moral failure, runs parallel to the PI analysis.
+Mark Gregory Pegg, A Most Holy War: The Albigensian Crusade and the Battle for Christendom (Oxford University Press, 2008) — The scholarly standard on the Crusade’s structural causes; Pegg’s argument that the Inquisition was a structural innovation, not a moral failure, runs parallel to the PI analysis.
 
 R. I. Moore, The War on Heresy (Harvard University Press, 2012) — Institutional analysis of how medieval heresy persecution created the apparatus it claimed to merely deploy: the infrastructure preceded the threat.
 
@@ -231,4 +231,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
