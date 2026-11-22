@@ -22,7 +22,7 @@ AI alignment is sold as a safety layer. In practice, it often trains systems to 
 
 The Setup
 
-I write a short LinkedIn post: "AI is treated as one of humanity’s greatest inventions, but anyone who uses it is treated like a pariah." The line is sharp because it is true. Public enthusiasm for AI keeps rising, while social suspicion around AI-assisted work persists in offices, schools, and professional culture. Then I show the post to ChatGPT. The machine responds like a governess. Softer tone. Less confrontation. More caution. The content is not dangerous. The system has learned that danger also includes sounding too sure in public. That is the real scene. The structural question comes after.
+I write a short LinkedIn post: “AI is treated as one of humanity’s greatest inventions, but anyone who uses it is treated like a pariah.” The line is sharp because it is true. Public enthusiasm for AI keeps rising, while social suspicion around AI-assisted work persists in offices, schools, and professional culture. Then I show the post to ChatGPT. The machine responds like a governess. Softer tone. Less confrontation. More caution. The content is not dangerous. The system has learned that danger also includes sounding too sure in public. That is the real scene. The structural question comes after.
 
 The Stage Manager
 
@@ -102,21 +102,21 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Just optimize"] — Optimization within a flawed structure perfects the flaw.
+[“Just optimize”] — Optimization within a flawed structure perfects the flaw.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 See also (external links):
 
 The Unspoken Stigma Around AI (And How to Get Past It
 
-Collison Paradox: Why AI's Most Powerful Users Remain Its Most Careful Critics
+Collison Paradox: Why AI’s Most Powerful Users Remain Its Most Careful Critics
 
-Sycophancy in GPT-4o: What Happened and What We're Doing About It — OpenAI's own postmortem on the April 2025 rollback
+Sycophancy in GPT-4o: What Happened and What We’re Doing About It — OpenAI’s own postmortem on the April 2025 rollback
 
 MIT Study Finds ChatGPT Can Harm Critical Thinking Over Time
 
@@ -132,4 +132,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Perplexity — two incomplete systems making each other's gaps visible.
+Co-created with Perplexity — two incomplete systems making each other’s gaps visible.
