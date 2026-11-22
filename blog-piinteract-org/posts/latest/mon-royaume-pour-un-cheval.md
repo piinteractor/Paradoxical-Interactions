@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/fr/mon-royaume-pour-un-cheval/
 
 Pourquoi la Guerre des Deux-Roses a duré trente ans — et pourquoi la succession censée y mettre fin portait déjà en elle les germes de la guerre suivante.
 
-« J'enrichis les couleurs du caméléon, je change de forme avec Protée, pour mon avantage, et donne leçon au Machiavel meurtrier lui-même. »
+« J’enrichis les couleurs du caméléon, je change de forme avec Protée, pour mon avantage, et donne leçon au Machiavel meurtrier lui-même. »
 
 — William Shakespeare, Henry VI, Part 3 (Richard, duc de Gloucester)
 
@@ -62,7 +62,7 @@ Articles Connexes
 
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
-Gagne la position. Garantis ta mort. Répète à l'infini.
+Gagne la position. Garantis ta mort. Répète à l’infini.
 
 Le Schéma Gaveston :
 
@@ -70,7 +70,7 @@ Comment chaque solution devient le prochain problème
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 La Correction Posthume. Pourquoi avoir raison exige d’être parti.
 
@@ -80,27 +80,27 @@ No results found.
 
 Sur piinteract.org:
 
-["Pourquoi les guerres ne finissent pas plus tôt"] — La guerre des Deux-Roses dure trente ans parce que chaque réaction rationnelle prolonge la prémisse au lieu de la trancher.
+[“Pourquoi les guerres ne finissent pas plus tôt”] — La guerre des Deux-Roses dure trente ans parce que chaque réaction rationnelle prolonge la prémisse au lieu de la trancher.
 
-["La loyauté avant la compétence"] — Warwick change de camp. Pas une trahison — la loyauté n'a plus de socle stable quand la légitimité elle-même est contestée.
+[“La loyauté avant la compétence”] — Warwick change de camp. Pas une trahison — la loyauté n’a plus de socle stable quand la légitimité elle-même est contestée.
 
-["Reconnaître la domination interprétative"] — Shakespeare écrit sous les Tudor, « The White Queen » sous d'autres prémisses. Celui qui raconte décide qui est le monstre.
+[“Reconnaître la domination interprétative”] — Shakespeare écrit sous les Tudor, « The White Queen » sous d’autres prémisses. Celui qui raconte décide qui est le monstre.
 
-["Le pacificateur comme traître"] — Chaque tentative de médiation entre Lancastre et York a été lue par son propre camp comme une faiblesse.
+[“Le pacificateur comme traître”] — Chaque tentative de médiation entre Lancastre et York a été lue par son propre camp comme une faiblesse.
 
 Voir aussi (liens externes) :
 
-Richard III: Discovery and Identification — Le compte rendu de l'université de Leicester sur les fouilles et l'identification de 2012-2013, source primaire des blessures et de la colonne courbée décrites dans ce texte.
+Richard III: Discovery and Identification — Le compte rendu de l’université de Leicester sur les fouilles et l’identification de 2012-2013, source primaire des blessures et de la colonne courbée décrites dans ce texte.
 
 Perimortem trauma in King Richard III: a skeletal analysis — Étude évaluée par les pairs, publiée dans The Lancet (2014) : onze blessures, dont neuf au crâne — la base médico-légale du récit de sa mort à Bosworth.
 
 Henry VI, Part 3, Act 3, Scene 2 — Folger Shakespeare Library, texte source du monologue cité dans ce texte.
 
-The Lancastrians — Le site officiel de la monarchie britannique sur la ligne de succession, qui situe la prétention de Lancastre face à celle d'York.
+The Lancastrians — Le site officiel de la monarchie britannique sur la ligne de succession, qui situe la prétention de Lancastre face à celle d’York.
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -108,4 +108,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
