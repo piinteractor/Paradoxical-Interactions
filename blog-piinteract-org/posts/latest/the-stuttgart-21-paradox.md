@@ -18,7 +18,7 @@ Why a democratic referendum produced the exact opposite of what it was meant to 
 
 
 
-"Irreversibility is the real instrument of power."
+“Irreversibility is the real instrument of power.”
 
 — Albert O. Hirschman, Exit, Voice, and Loyalty, 1970
 
@@ -27,7 +27,7 @@ Why a democratic referendum produced the exact opposite of what it was meant to 
 
 Stuttgart, October 2010. Tens of thousands take to the streets against the demolition of the old train station. Trees are felled. Water cannons are deployed. The project appears close to collapse.
 
-One year later, 58.9 percent of Baden-Württemberg's voters choose to keep building.
+One year later, 58.9 percent of Baden-Württemberg’s voters choose to keep building.
 
 They call that democracy. But what was the actual question?
 
@@ -187,7 +187,7 @@ Win the position. Guarantee your death. Repeat the Pattern forever.
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 No results found.
 
@@ -196,13 +196,13 @@ No results found.
 
 On piinteract.org:
 
-["Just Fund It — Sunk Cost Fallacy"] — Stuttgart 21 is the textbook case: investment justifies investment, until stopping costs more than continuing.
+[“Just Fund It — Sunk Cost Fallacy”] — Stuttgart 21 is the textbook case: investment justifies investment, until stopping costs more than continuing.
 
-["More of the Same"] — Every cost overrun is answered with more resources, never a new question.
+[“More of the Same”] — Every cost overrun is answered with more resources, never a new question.
 
-["Systems & Governance"] — The structural conditions under which democratic decisions produce the opposite of what was intended.
+[“Systems & Governance”] — The structural conditions under which democratic decisions produce the opposite of what was intended.
 
-["Name the Paradox"] — Naming the mechanism is not an exit — but it is the only honest orientation available.
+[“Name the Paradox”] — Naming the mechanism is not an exit — but it is the only honest orientation available.
 
 
 
@@ -215,7 +215,7 @@ What Causes Cost Overrun in Transport Infrastructure Projects? — Flyvbjerg et 
 
 Costs and financing of Stuttgart 21 — Wikipedia documentation with primary sources — Timeline of cost escalation from 2.6 billion (1995) to 11.3 billion euros (2025), with references to Deutsche Bahn annual reports and court rulings.
 
-Exit, Voice, and Loyalty — Albert O. Hirschman (1970) — The theoretical foundation: Hirschman's analysis of why exit from a system becomes structurally impossible once enough has been invested.
+Exit, Voice, and Loyalty — Albert O. Hirschman (1970) — The theoretical foundation: Hirschman’s analysis of why exit from a system becomes structurally impossible once enough has been invested.
 
 
 
@@ -236,7 +236,7 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
 
 
 
@@ -266,4 +266,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
