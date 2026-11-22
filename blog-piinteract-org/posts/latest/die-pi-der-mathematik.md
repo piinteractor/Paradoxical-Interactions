@@ -18,7 +18,7 @@ Warum jeder Versuch, die Mathematik endgültig zu schließen, sie erweitert hat 
 
 
 
-„Wir müssen wissen. Wir werden wissen."
+„Wir müssen wissen. Wir werden wissen.”
 
  — David Hilbert, Grabinschrift, Göttingen
 
@@ -51,7 +51,7 @@ Drei Schließungen, drei Sprengungen
 
 Die Pythagoreer wollten die Welt aus Verhältnissen ganzer Zahlen bauen. Alles sollte rational sein – im doppelten Wortsinn. Dann fiel ihnen die Diagonale des Einheitsquadrats vor die Füße: √2. Kein Verhältnis, nirgends. Die Legende sagt, sie hätten den Entdecker ertränkt. Die Zahl blieb. Der Zahlenraum erweiterte sich um das Irrationale – erzwungen durch den Versuch, ihn rational zu halten.
 
-Die Algebraiker wollten Gleichungen lösbar machen. Ein bescheidenes Ziel: Jede Gleichung soll eine Antwort haben. Doch x + 5 = 3 verlangt Zahlen unter Null. x² = −1 verlangt Zahlen, die es „nicht geben kann". Man nannte sie negativ, imaginär, absurd – lauter Abwehrvokabeln. Heute rechnet jede Wechselstromleitung mit ihnen. Der Anspruch der Lösbarkeit, gedacht als Vollendung des Systems, produzierte Zahl um Zahl, die das System nicht vorgesehen hatte.
+Die Algebraiker wollten Gleichungen lösbar machen. Ein bescheidenes Ziel: Jede Gleichung soll eine Antwort haben. Doch x + 5 = 3 verlangt Zahlen unter Null. x² = −1 verlangt Zahlen, die es „nicht geben kann”. Man nannte sie negativ, imaginär, absurd – lauter Abwehrvokabeln. Heute rechnet jede Wechselstromleitung mit ihnen. Der Anspruch der Lösbarkeit, gedacht als Vollendung des Systems, produzierte Zahl um Zahl, die das System nicht vorgesehen hatte.
 
 Hilbert schließlich wollte den Deckel endgültig schließen: die gesamte Mathematik auf ein vollständiges, widerspruchsfreies Axiomensystem gründen. Jede wahre Aussage beweisbar, jeder Zweifel mechanisch entscheidbar. 1931 zeigte Gödel: Jedes widerspruchsfreie formale System, das die Arithmetik umfasst, enthält wahre Sätze, die es nicht beweisen kann. Und seine eigene Widerspruchsfreiheit gehört dazu. Das ist keine Meinung und kein Kulturpessimismus. Es ist ein Theorem. Der ehrgeizigste Schließungsversuch der Mathematikgeschichte hat die Unabschließbarkeit der Mathematik bewiesen.
 
@@ -83,7 +83,7 @@ Der Münchhausen-Zug
 
 Man kann es auch so sagen: Die Mathematik zieht sich am eigenen Schopf aus dem Sumpf. Das ist eigentlich verboten – kein System kann sich aus sich selbst begründen, das ist ja gerade Gödels Punkt. Und doch geschieht es, immer wieder.
 
-Der Trick liegt im Detail: Die Hand, die zieht, gehört nicht zum System, das versinkt. Sie gehört einer Mathematik, die es im Moment des Versinkens noch gar nicht gibt. √2 versenkt die rationale Arithmetik – gerettet wird sie von den reellen Zahlen, die erst erfunden werden mussten. x² = −1 versenkt die reelle Algebra – gerettet von der komplexen Ebene, die vorher „unmöglich" hieß. Die Krise erzwingt die Erfindung des Bodens, auf dem sie sich nachträglich als lösbar erweist.
+Der Trick liegt im Detail: Die Hand, die zieht, gehört nicht zum System, das versinkt. Sie gehört einer Mathematik, die es im Moment des Versinkens noch gar nicht gibt. √2 versenkt die rationale Arithmetik – gerettet wird sie von den reellen Zahlen, die erst erfunden werden mussten. x² = −1 versenkt die reelle Algebra – gerettet von der komplexen Ebene, die vorher „unmöglich” hieß. Die Krise erzwingt die Erfindung des Bodens, auf dem sie sich nachträglich als lösbar erweist.
 
 Münchhausen lügt nur, solange er derselbe bleiben will. Die Mathematik kommt aus dem Sumpf, weil sie bereit ist, als eine andere herauszusteigen.
 
@@ -109,7 +109,7 @@ Genau das hätte Gödel vorhergesagt.
 
 
 
-Eine Präzisierung, der Redlichkeit halber: Gödels Unvollständigkeitssätze gelten für formale Systeme, die mächtig genug für die Arithmetik sind. Sie besagen nicht, dass „alles offen" oder „nichts beweisbar" wäre – im Gegenteil: Sie sind selbst ein Beweis, geführt mit äußerster Strenge. Die Offenheit der Mathematik ist keine Beliebigkeit. Sie ist ein präzises, bewiesenes Strukturmerkmal. Das macht sie stärker, nicht schwächer.
+Eine Präzisierung, der Redlichkeit halber: Gödels Unvollständigkeitssätze gelten für formale Systeme, die mächtig genug für die Arithmetik sind. Sie besagen nicht, dass „alles offen” oder „nichts beweisbar” wäre – im Gegenteil: Sie sind selbst ein Beweis, geführt mit äußerster Strenge. Die Offenheit der Mathematik ist keine Beliebigkeit. Sie ist ein präzises, bewiesenes Strukturmerkmal. Das macht sie stärker, nicht schwächer.
 
 
 
@@ -161,9 +161,9 @@ Auf piinteract.org
 
 Siehe auch (externe Links):
 
-Geoffrey Hinton im Gespräch mit Yascha Mounk — Vollständiges Interview-Transkript, Primärquelle für Hintons Aussage, Mathematik sei ein "geschlossenes System".
+Geoffrey Hinton im Gespräch mit Yascha Mounk — Vollständiges Interview-Transkript, Primärquelle für Hintons Aussage, Mathematik sei ein “geschlossenes System”.
 
-Gödel's Incompleteness Theorems – Stanford Encyclopedia of Philosophy — Die formale, akademisch geprüfte Darstellung beider Unvollständigkeitssätze, Grundlage für den Hilbert-Abschnitt.
+Gödel’s Incompleteness Theorems – Stanford Encyclopedia of Philosophy — Die formale, akademisch geprüfte Darstellung beider Unvollständigkeitssätze, Grundlage für den Hilbert-Abschnitt.
 
 Pythagoras – MacTutor History of Mathematics (University of St Andrews) — Institutionelle Quelle zur historischen Einordnung der Entdeckung des Irrationalen bei den Pythagoreern.
 
