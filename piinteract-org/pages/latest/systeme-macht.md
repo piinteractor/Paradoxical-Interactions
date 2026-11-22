@@ -10,7 +10,7 @@ wp_id: 1143
 url: https://piinteract.org/de/beispiele/systeme-macht/
 ---
 
-„Demokratie ist die schlechteste Regierungsform. Außer allen anderen."
+„Demokratie ist die schlechteste Regierungsform. Außer allen anderen.”
 
 — Winston Churchill
 
@@ -48,7 +48,7 @@ Jedes Scheitern löst eine neue Regel aus. Jeder Skandal verlangt neue Complianc
 
 Warum jeder Akteur rational handelt:
 
-Öffentlichkeit: Verlangt „das darf nie wieder passieren"
+Öffentlichkeit: Verlangt „das darf nie wieder passieren”
 
 Politiker: Schaffen Regeln, um Handlung zu demonstrieren
 
@@ -68,7 +68,7 @@ Wenn Intelligenz zur Bedrohung wird
 
 Die Struktur:
 
-Jemand demonstriert Intelligenz, die ein Gatekeeper als ebenbürtig oder überlegen zur eigenen erkennt. Der Gatekeeper kann sie nicht als inkompetent abtun, kann sie nicht in vertraute Kategorien einordnen (keine Referenzen, keine institutionelle Rückendeckung). Erkennung ohne Einordnung löst territoriale Angst aus: „Das könnte meine Position bedrohen." Rationale Antwort: Ausschließen, blockieren, diskreditieren. Je intelligenter der Herausforderer, desto bedrohlicher erscheint er. Intelligenz produziert ihre eigene Marginalisierung.
+Jemand demonstriert Intelligenz, die ein Gatekeeper als ebenbürtig oder überlegen zur eigenen erkennt. Der Gatekeeper kann sie nicht als inkompetent abtun, kann sie nicht in vertraute Kategorien einordnen (keine Referenzen, keine institutionelle Rückendeckung). Erkennung ohne Einordnung löst territoriale Angst aus: „Das könnte meine Position bedrohen.” Rationale Antwort: Ausschließen, blockieren, diskreditieren. Je intelligenter der Herausforderer, desto bedrohlicher erscheint er. Intelligenz produziert ihre eigene Marginalisierung.
 
 Warum jeder Akteur rational handelt:
 
@@ -180,7 +180,7 @@ Das Unsterblichkeits-Paradox
 
 Die Struktur:
 
-Endliches kollektives Gedächtnis. Unendliche Kandidaten für Unsterblichkeit. Politiker konkurrieren um historische Relevanz – bewusst (Denkmäler, Memoiren, „wie wird die Geschichte über mich urteilen?") oder unbewusst (Legacy-Projekte, benannte Institutionen). Nullsummenspiel: Wenn du erinnert wirst, wird jemand anderes vergessen. Die meisten werden vergessen – strukturell unvermeidbar. Aber niemand kann aufhören zu konkurrieren, ohne völlig aufzugeben.
+Endliches kollektives Gedächtnis. Unendliche Kandidaten für Unsterblichkeit. Politiker konkurrieren um historische Relevanz – bewusst (Denkmäler, Memoiren, „wie wird die Geschichte über mich urteilen?”) oder unbewusst (Legacy-Projekte, benannte Institutionen). Nullsummenspiel: Wenn du erinnert wirst, wird jemand anderes vergessen. Die meisten werden vergessen – strukturell unvermeidbar. Aber niemand kann aufhören zu konkurrieren, ohne völlig aufzugeben.
 
 Warum jeder Akteur rational handelt:
 
