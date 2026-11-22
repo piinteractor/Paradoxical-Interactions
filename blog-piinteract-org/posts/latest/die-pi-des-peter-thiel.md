@@ -26,7 +26,7 @@ Peter Thiel hat ein Buch geschrieben, das erklärt, warum man nicht konkurrieren
 
 Das ist kein Widerspruch. Das ist Struktur.
 
-Thiel ist vielleicht der präziseste Analytiker struktureller Dynamiken im Silicon Valley. „Zero to One" beschreibt, warum Monopole funktionieren und Wettbewerb zerstört. Die These ist klar, die Logik bestechend, die Schlussfolgerung radikal: Wer konkurriert, hat schon verloren. Wer gewinnt, schafft etwas Neues. Geht von null auf eins.
+Thiel ist vielleicht der präziseste Analytiker struktureller Dynamiken im Silicon Valley. „Zero to One” beschreibt, warum Monopole funktionieren und Wettbewerb zerstört. Die These ist klar, die Logik bestechend, die Schlussfolgerung radikal: Wer konkurriert, hat schon verloren. Wer gewinnt, schafft etwas Neues. Geht von null auf eins.
 
 Was Thiel nicht beschreibt — und strukturell nicht beschreiben kann — ist, was mit dem passiert, der von null auf eins gegangen ist. Was passiert, wenn der Contrarian gewonnen hat.
 
@@ -34,7 +34,7 @@ Die Antwort: Er wird zum Establishment. Nicht aus Schwäche. Nicht aus Heuchelei
 
 Der Nemi-Priester
 
-James George Frazer hat „Der Goldene Zweig" mit einem Bild eröffnet, das er zwölf Bände lang nicht losgelassen hat: Der Priester am Heiligtum von Nemi, im Hain der Diana. Er erlangt sein Amt, indem er seinen Vorgänger tötet. Er weiß, dass sein Nachfolger ihn auf dieselbe Weise ablösen wird. Er bewacht den Hain trotzdem.
+James George Frazer hat „Der Goldene Zweig” mit einem Bild eröffnet, das er zwölf Bände lang nicht losgelassen hat: Der Priester am Heiligtum von Nemi, im Hain der Diana. Er erlangt sein Amt, indem er seinen Vorgänger tötet. Er weiß, dass sein Nachfolger ihn auf dieselbe Weise ablösen wird. Er bewacht den Hain trotzdem.
 
 Das ist kein Wahnsinn. Das ist Struktur.
 
@@ -42,7 +42,7 @@ Thiel ist der Rex Nemorensis des Silicon Valley. Er hat die alte Ordnung getöte
 
 Und jedes Mal: der Moment, in dem der Durchbrecher zur neuen Struktur wird.
 
-Palantir, gegründet um Terrorismus zu bekämpfen, baut jetzt eine „Master Database" für die Überwachung der amerikanischen Bevölkerung. Der Contrarian, der gegen das Establishment antrat, ist das Establishment. Die Firma, die Freiheit durch Technologie versprach, liefert die Infrastruktur der Kontrolle. Nicht weil Thiel seine Prinzipien verraten hat. Sondern weil es keinen Ort gibt, von dem aus man Contrarian bleibt und gleichzeitig wirkt.
+Palantir, gegründet um Terrorismus zu bekämpfen, baut jetzt eine „Master Database” für die Überwachung der amerikanischen Bevölkerung. Der Contrarian, der gegen das Establishment antrat, ist das Establishment. Die Firma, die Freiheit durch Technologie versprach, liefert die Infrastruktur der Kontrolle. Nicht weil Thiel seine Prinzipien verraten hat. Sondern weil es keinen Ort gibt, von dem aus man Contrarian bleibt und gleichzeitig wirkt.
 
 Warum Thiel keine Alternative hat
 
@@ -50,7 +50,7 @@ Hier hören die meisten auf mitzudenken. Weil es bequemer ist, Thiel als moralis
 
 Aber die PI-Analyse ist erbarmungsloser als jede moralische Kritik.
 
-Thiel sieht die Struktur. Beschreibt sie in „Zero to One" präziser als die meisten Akademiker. Und vollzieht sie trotzdem. Weil die Optionen strukturell begrenzt sind:
+Thiel sieht die Struktur. Beschreibt sie in „Zero to One” präziser als die meisten Akademiker. Und vollzieht sie trotzdem. Weil die Optionen strukturell begrenzt sind:
 
 Wirkungslosigkeit. Der Widersacher, der seine Gegnerschaft bewahrt, indem er keine Macht annimmt. Rein bleibt. Irrelevant wird. Die Wahrheit stirbt mit ihm — oder wird zum akademischen Zitat, das niemand ernst nimmt.
 
@@ -164,7 +164,7 @@ Auf piinteract.org
 
 [The Jesus Paradox] — The Jesus Paradox and the Heresy Mechanism
 
-[Anti-Practices: "This Time Will Be Different"] — The technical dimension of structural impossibility
+[Anti-Practices: “This Time Will Be Different”] — The technical dimension of structural impossibility
 
 [Core Practices] — Navigation, not solution
 
