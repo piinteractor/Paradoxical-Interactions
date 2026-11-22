@@ -10,17 +10,17 @@ wp_id: 5036
 url: https://blog.piinteract.org/fr/leconomie-de-la-justice/
 ---
 
-Pourquoi les systèmes judiciaires échouent lorsque les crimes touchent des millions de personnes. Une analyse structurelle des procès de l'après-guerre, de la dénazification et des limites de la responsabilité.
+Pourquoi les systèmes judiciaires échouent lorsque les crimes touchent des millions de personnes. Une analyse structurelle des procès de l’après-guerre, de la dénazification et des limites de la responsabilité.
 
 « La loi, dans sa majestueuse égalité, interdit tant aux riches qu’aux pauvres de dormir sous les ponts. »
 
 — Anatole France
 
-La justice promet l'universalité.
+La justice promet l’universalité.
 
-La réalité n'offre que la sélection.
+La réalité n’offre que la sélection.
 
-Lorsque des millions de personnes commettent des crimes, la question n'est plus de savoir qui est coupable —
+Lorsque des millions de personnes commettent des crimes, la question n’est plus de savoir qui est coupable —
 
 mais ce que le système est capable de traiter.
 
@@ -44,7 +44,7 @@ Mais parce que la capacité diminue.
 
 Le problème structurel
 
-L'Allemagne d'après-guerre n'était pas confrontée à un dilemme moral.
+L’Allemagne d’après-guerre n’était pas confrontée à un dilemme moral.
 
 Elle était confrontée à un dilemme arithmétique.
 
@@ -60,7 +60,7 @@ Capacité des tribunaux : quelques dizaines par an.
 
 Conclusion :
 
-Ce n'était pas difficile. C'était impossible.
+Ce n’était pas difficile. C’était impossible.
 
 Pourquoi les hauts responsables
 
@@ -70,7 +70,7 @@ Non pas parce que la culpabilité y était exclusive —
 
 mais parce que les poursuites y étaient possibles.
 
-Peu d'individus
+Peu d’individus
 
 Des preuves claires
 
@@ -112,7 +112,7 @@ Le système a choisi le fonctionnement.
 
 Les chiffres
 
-Procès d'Auschwitz à Francfort :
+Procès d’Auschwitz à Francfort :
 
 22 accusés
 
@@ -128,23 +128,23 @@ Maintenant, multipliez cela par des dizaines de milliers.
 
 La limite devient évidente.
 
-La stratégie de l'attente
+La stratégie de l’attente
 
-Le temps a résolu ce que la justice n'avait pas pu faire.
+Le temps a résolu ce que la justice n’avait pas pu faire.
 
-Années 1950 : les procès s'estompent. Le système est débordé.
+Années 1950 : les procès s’estompent. Le système est débordé.
 
 Années 1960 : les procès reprennent.
 
 Pourquoi ?
 
-Parce que le nombre d'accusés avait diminué.
+Parce que le nombre d’accusés avait diminué.
 
 Non pas par le biais de jugements.
 
 Mais par la mort.
 
-C'est la structure, et non la moralité, qui a rétabli la faisabilité.
+C’est la structure, et non la moralité, qui a rétabli la faisabilité.
 
 Échec du traitement en masse
 
@@ -166,7 +166,7 @@ Raccourcis administratifs
 
 Amnistie finale
 
-Le système n'a pas pu tenir sur la durée.
+Le système n’a pas pu tenir sur la durée.
 
 Rwanda (1994) : même structure
 
@@ -210,7 +210,7 @@ Réaction du système : Blocage.
 
 Logique de sélection
 
-Qui fait l'objet de poursuites :
+Qui fait l’objet de poursuites :
 
 Visibles
 
@@ -220,7 +220,7 @@ Utiles sur le plan symbolique
 
 Sacrifiables sur le plan opérationnel
 
-Qui n'en fait pas l'objet :
+Qui n’en fait pas l’objet :
 
 Nombreux
 
@@ -234,7 +234,7 @@ La justice suit les contraintes, pas la culpabilité.
 
 Le double dilemme
 
-Tenter d'appliquer une justice totale :
+Tenter d’appliquer une justice totale :
 
 Effondrement du système
 
@@ -242,7 +242,7 @@ Perte de légitimité
 
 Défaillance des procédures
 
-Tenter d'appliquer une justice sélective :
+Tenter d’appliquer une justice sélective :
 
 Incomplétude morale
 
@@ -250,9 +250,9 @@ Impunité résiduelle
 
 Les deux échouent.
 
-L'une sur le plan opérationnel.
+L’une sur le plan opérationnel.
 
-L'autre sur le plan moral.
+L’autre sur le plan moral.
 
 Le mécanisme silencieux
 
@@ -268,7 +268,7 @@ jusqu’à ce qu’il devienne soluble.
 
 Le schéma
 
-Ce n'est pas un cas isolé.
+Ce n’est pas un cas isolé.
 
 Yougoslavie
 
@@ -290,7 +290,7 @@ Par témoin
 
 Par an
 
-L'évolution est linéaire.
+L’évolution est linéaire.
 
 Les ressources, elles, ne le sont pas.
 
@@ -330,17 +330,17 @@ Moins de 1 % de responsables traduits en justice
 
 Non pas parce que 99 % étaient innocents.
 
-Mais parce que le système n'était pas en mesure de les juger.
+Mais parce que le système n’était pas en mesure de les juger.
 
-Pas d'échappatoire
+Pas d’échappatoire
 
-Ce n'est pas une question de volonté.
+Ce n’est pas une question de volonté.
 
-C'est une question de structure.
+C’est une question de structure.
 
 Aucun système ne peut traiter des millions de cas
 
-sans s'autodétruire.
+sans s’autodétruire.
 
 La justice ne faillit pas.
 
