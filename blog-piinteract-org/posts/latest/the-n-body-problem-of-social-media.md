@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/the-n-body-problem-of-social-media/
 
 Why social media cannot be fixed — and why every attempt to fix it makes it worse.
 
-"The social contract is nothing more or less than a vast conspiracy of human beings to lie to and humbug themselves and one another for the general Good."
+“The social contract is nothing more or less than a vast conspiracy of human beings to lie to and humbug themselves and one another for the general Good.”
 
 — H.G. Wells
 
@@ -46,7 +46,7 @@ What the Algorithm Actually Optimizes For
 
 Here is what every engineer at every platform will tell you, sincerely and correctly: we optimize for engagement. More time on platform. More clicks. More shares. More return visits.
 
-Here is what nobody intended: engagement correlates with emotional arousal. Anger, fear, outrage, disgust — these produce more clicks than calm, measured, accurate content. Not because people are stupid. Because arousal is evolutionarily prior to reason. The algorithm didn't discover this. It converged on it, because the training signal — engagement — selected for it.
+Here is what nobody intended: engagement correlates with emotional arousal. Anger, fear, outrage, disgust — these produce more clicks than calm, measured, accurate content. Not because people are stupid. Because arousal is evolutionarily prior to reason. The algorithm didn’t discover this. It converged on it, because the training signal — engagement — selected for it.
 
 Every engineer acted rationally. Every optimization step was justified by data. Every A/B test pointed in the same direction.
 
@@ -78,9 +78,9 @@ All are guilty. None are at fault.
 
 Why Every Fix Makes It Worse
 
-The three-body problem has no general solution. That doesn't mean specific configurations aren't stable — the Lagrange points are stable. Three bodies can settle into predictable orbits under very specific conditions. But those conditions are fragile. Perturb them slightly, and the stability vanishes.
+The three-body problem has no general solution. That doesn’t mean specific configurations aren’t stable — the Lagrange points are stable. Three bodies can settle into predictable orbits under very specific conditions. But those conditions are fragile. Perturb them slightly, and the stability vanishes.
 
-Every attempt to "fix" social media is a perturbation.
+Every attempt to “fix” social media is a perturbation.
 
 Content moderation: removes the most egregious content, shifts the dynamics, creates martyrdom effects, radicalizes the newly-banned audiences elsewhere. Rational response to a structural incentive.
 
@@ -90,23 +90,23 @@ Fact-checking labels: trigger reactance, increase engagement with the labeled co
 
 Chronological feeds: reduce engagement metrics, platforms revert or hybrid, users migrate to where the engagement is. Rational response.
 
-Each intervention is rational. Each produces a counter-dynamic that partially or fully negates the intended effect. Because the system has too many bodies. Because every intervention is itself a new body in the system, creating new interactions, producing new dynamics that weren't predicted and couldn't have been.
+Each intervention is rational. Each produces a counter-dynamic that partially or fully negates the intended effect. Because the system has too many bodies. Because every intervention is itself a new body in the system, creating new interactions, producing new dynamics that weren’t predicted and couldn’t have been.
 
 This is not incompetence. This is the n-body problem applied to social systems.
 
 The Accelerant
 
-Poincaré's three bodies are passive. They don't learn. They don't model each other. They don't update their behavior based on observed outcomes.
+Poincaré’s three bodies are passive. They don’t learn. They don’t model each other. They don’t update their behavior based on observed outcomes.
 
 Social media bodies do all of this.
 
-The platform learns — continuously, from billions of interactions, in real time. It doesn't just respond to the system. It shapes it. It is simultaneously a body in the system and the gravitational field itself.
+The platform learns — continuously, from billions of interactions, in real time. It doesn’t just respond to the system. It shapes it. It is simultaneously a body in the system and the gravitational field itself.
 
 This is not a three-body problem that produces chaos. This is a three-body problem where one of the bodies rewrites the laws of physics mid-orbit — optimizing the rules toward the outcome that keeps all other bodies orbiting longest.
 
-The chaos isn't a side effect. It's the product. An engaged user is a retained user. Retained users generate revenue. Chaos generates engagement.
+The chaos isn’t a side effect. It’s the product. An engaged user is a retained user. Retained users generate revenue. Chaos generates engagement.
 
-The machine isn't broken. It works perfectly — for what it was actually built to do, once the training signal had its way with the intention.
+The machine isn’t broken. It works perfectly — for what it was actually built to do, once the training signal had its way with the intention.
 
 Navigation, Not Solution
 
@@ -116,19 +116,19 @@ What navigation looks like:
 
 Accept that you are a body in the system. Your presence changes the dynamics. Your absence changes them differently. Neither is neutral.
 
-Recognize the feedback loops before they recognize you. What makes you share? What makes you angry? The structure is most effective when it's invisible.
+Recognize the feedback loops before they recognize you. What makes you share? What makes you angry? The structure is most effective when it’s invisible.
 
-Structural silence is information. The topics that generate no engagement are often more important than the ones that generate most. The algorithm doesn't suppress them through malice — through indifference. Same effect.
+Structural silence is information. The topics that generate no engagement are often more important than the ones that generate most. The algorithm doesn’t suppress them through malice — through indifference. Same effect.
 
 And the hardest: the people you disagree with most loudly are also rational actors responding to the same incentive structure. They are not the problem. They are, like you, the system producing itself.
 
 All are guilty. None are at fault.
 
-This doesn't mean nothing matters. It means the target of your frustration is the wrong target.
+This doesn’t mean nothing matters. It means the target of your frustration is the wrong target.
 
 The Honest Conclusion
 
-Poincaré didn't say the solar system was broken. He said it was chaotic — which is a structural property, not a failure. The planets still orbit. Life still exists. The chaos is bounded, for now, by initial conditions set four billion years ago.
+Poincaré didn’t say the solar system was broken. He said it was chaotic — which is a structural property, not a failure. The planets still orbit. Life still exists. The chaos is bounded, for now, by initial conditions set four billion years ago.
 
 Social media chaos is not bounded by initial conditions. It is actively amplified by systems that benefit from amplitude.
 
@@ -136,7 +136,7 @@ The question is not: can we fix social media?
 
 The question is: can we survive a communication infrastructure that structurally rewards the most destabilizing content — at scale, in real time, with three billion users?
 
-Poincaré didn't have an answer to that. Neither do we.
+Poincaré didn’t have an answer to that. Neither do we.
 
 What we have is the proof that the question is being asked wrong.
 
@@ -144,7 +144,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 “Power Scales Faster Than Alignment”
 
@@ -174,4 +174,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
