@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-verbesserungsverbot/
 
 Warum eine Verbesserung ein Angriff ist, den ein etabliertes System abwehren muss — und warum Paradoxe Interaktionen dabei keine Ausnahme bilden.
 
-"Diese Eindrücke von Dr. Semmelweis' Beobachtungen bringen mich zu dem vorläufigen Urteil: Seine Thesen sind nicht klar genug, seine Befunde nicht exakt genug, um wissenschaftlich begründet zu gelten."
+“Diese Eindrücke von Dr. Semmelweis’ Beobachtungen bringen mich zu dem vorläufigen Urteil: Seine Thesen sind nicht klar genug, seine Befunde nicht exakt genug, um wissenschaftlich begründet zu gelten.”
 
  — Carl Edvard Marius Levy, Leiter der Kopenhagener Gebärklinik, 1848
 
@@ -32,7 +32,7 @@ Ein System verarbeitet nichts direkt. Alles, was von außen kommt, wird nach eig
 
 Solange der Fehler unbenannt bleibt, bleibt er still im Hintergrund — er ist kein Beweis für die Funktionsuntüchtigkeit des Systems. Erst der Schuss ins Mark, die Benennung, macht ihn zu einem unangenehmen Fakt mit Adresse, Datum, Namen und Herkunft. Die ungenaue Kritik zielt vorbei. Die genaue Kritik kann den Ruf kosten.
 
-Levys Urteil über Semmelweis — "nicht exakt genug" — ist keine Fehleinschätzung. Es ist die einzig mögliche Abwehr durch Abtun. Man kann eine exakte Diagnose nicht widerlegen, ohne sie exakt zu widerlegen. Also erklärt man sie für ungenau. Das Etikett verschiebt den Fehler weit von sich weg zurück zum Absender.
+Levys Urteil über Semmelweis — “nicht exakt genug” — ist keine Fehleinschätzung. Es ist die einzig mögliche Abwehr durch Abtun. Man kann eine exakte Diagnose nicht widerlegen, ohne sie exakt zu widerlegen. Also erklärt man sie für ungenau. Das Etikett verschiebt den Fehler weit von sich weg zurück zum Absender.
 
 Das Präzisierungsverbot
 
@@ -42,7 +42,7 @@ Alle handeln rational:
 
 Levy — weist die Studie zurück (schützt die eigene fachliche Autorität)
 
-Klein, Semmelweis' Vorgesetzter — hält an der Miasma-Theorie fest (schützt die institutionelle Deutungshoheit)
+Klein, Semmelweis’ Vorgesetzter — hält an der Miasma-Theorie fest (schützt die institutionelle Deutungshoheit)
 
 Semmelweis — besteht auf der exakten Formulierung (die einzige, die Leben rettet)
 
@@ -54,7 +54,7 @@ Semmelweis verstarb 1865 unter mysteriösen Umständen in der Irrenanstalt. Die 
 
 Der Halbgott in Weiß
 
-Die Ablehnung war kein Ausrutscher des 19. Jahrhunderts. Sie ist Verfahren geworden. Aktuelle Metaanalysen zur Händehygiene in Kliniken finden bei Ärzten eine Compliance-Rate von rund 45 Prozent — niedriger als bei Pflegekräften mit rund 52 Prozent. Der Unterschied liegt nicht am Wissen. Studien zur „physician defiance" beschreiben explizit eine Lücke zwischen dem, was Ärzte über Handhygiene wissen, und dem, was sie tun — eine Lücke, die sich vor allem unter Beobachtung schließt, nicht aus Überzeugung.
+Die Ablehnung war kein Ausrutscher des 19. Jahrhunderts. Sie ist Verfahren geworden. Aktuelle Metaanalysen zur Händehygiene in Kliniken finden bei Ärzten eine Compliance-Rate von rund 45 Prozent — niedriger als bei Pflegekräften mit rund 52 Prozent. Der Unterschied liegt nicht am Wissen. Studien zur „physician defiance” beschreiben explizit eine Lücke zwischen dem, was Ärzte über Handhygiene wissen, und dem, was sie tun — eine Lücke, die sich vor allem unter Beobachtung schließt, nicht aus Überzeugung.
 
 Semmelweis lieferte das Wissen 1847. Fast 180 Jahre später ist die Position immer noch da. Wer Weisung braucht statt Überzeugung, hat die Diagnose nie akzeptiert — nur die Kontrolle. Der Halbgott in Weiß hat sich nicht widerlegen lassen. Er hat sich der Aufsicht unterworfen, ohne sich zu ändern.
 
@@ -96,17 +96,17 @@ No results found.
 
 On piinteract.org:
 
-["Shoot the Messenger"] — Levy schießt nicht aus Bosheit auf Semmelweis. Er schießt, weil die Botschaft die einzige Bedrohung ist, die er kontrollieren kann.
+[“Shoot the Messenger”] — Levy schießt nicht aus Bosheit auf Semmelweis. Er schießt, weil die Botschaft die einzige Bedrohung ist, die er kontrollieren kann.
 
-["When Explanation Becomes Quicksand"] — Je präziser Semmelweis erklärt, desto tiefer sinkt seine Reputation im eigenen Fach — die Erklärung selbst wird zur Falle.
+[“When Explanation Becomes Quicksand”] — Je präziser Semmelweis erklärt, desto tiefer sinkt seine Reputation im eigenen Fach — die Erklärung selbst wird zur Falle.
 
-["Galileo's Paradox"] — Die Struktur, die das neue Framework nicht verarbeiten kann, widerlegt es nicht. Sie reagiert einfach nicht — wie Klein auf die Chlorkalk-Zahlen.
+[“Galileo’s Paradox”] — Die Struktur, die das neue Framework nicht verarbeiten kann, widerlegt es nicht. Sie reagiert einfach nicht — wie Klein auf die Chlorkalk-Zahlen.
 
-["Infect and Forget"] — Die einzige Haltung, die dem Genauigkeitsverbot keinen Widerstand liefert: streuen, ohne auf Aufnahme zu bestehen.
+[“Infect and Forget”] — Die einzige Haltung, die dem Genauigkeitsverbot keinen Widerstand liefert: streuen, ohne auf Aufnahme zu bestehen.
 
 See also (external links):
 
-The Etiology, Concept and Prophylaxis of Childbed Fever — Semmelweis' eigene Schrift von 1861, Primärquelle für seine Kausalanalyse und seine Anklage an die eigene Zunft.
+The Etiology, Concept and Prophylaxis of Childbed Fever — Semmelweis’ eigene Schrift von 1861, Primärquelle für seine Kausalanalyse und seine Anklage an die eigene Zunft.
 
 Ignaz Semmelweis: a victim of harassment? (PMC) — Peer-reviewte Aufarbeitung der Ablehnungsmechanismen, denen Semmelweis ausgesetzt war.
 
@@ -122,4 +122,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
