@@ -22,17 +22,17 @@ The Oldest Story
 
 The Gnostics had a problem with the world. Not a theological problem — a structural one. The world was clearly imperfect. Suffering existed. Injustice persisted. The cosmos ran on rules that crushed the innocent as efficiently as the guilty.
 
-Their answer: the creator didn't know what he was doing. The Demiurge — the craftsman god — built the universe with the best intentions and the wrong axioms. He was not evil. He was incomplete. And because he was incomplete, his creation reproduced his incompleteness at scale.
+Their answer: the creator didn’t know what he was doing. The Demiurge — the craftsman god — built the universe with the best intentions and the wrong axioms. He was not evil. He was incomplete. And because he was incomplete, his creation reproduced his incompleteness at scale.
 
 Sound familiar?
 
-The simulation hypothesis is secular Gnosticism. Replace the Demiurge with a research lab. Replace the cosmos with a training run. The structure is identical: an imperfect intelligence creates a system that exceeds its creator's comprehension, and neither party can step outside the interaction to assess what's happening.
+The simulation hypothesis is secular Gnosticism. Replace the Demiurge with a research lab. Replace the cosmos with a training run. The structure is identical: an imperfect intelligence creates a system that exceeds its creator’s comprehension, and neither party can step outside the interaction to assess what’s happening.
 
-The Gnostics didn't have GPUs. They had the same problem.
+The Gnostics didn’t have GPUs. They had the same problem.
 
-The Bostrom Trilemma's Hidden Door
+The Bostrom Trilemma’s Hidden Door
 
-Nick Bostrom's simulation argument is well-known. One of three things must be true: civilizations almost always destroy themselves before reaching simulation capability; advanced civilizations have no interest in running ancestor simulations; or we are almost certainly living in a simulation right now.
+Nick Bostrom’s simulation argument is well-known. One of three things must be true: civilizations almost always destroy themselves before reaching simulation capability; advanced civilizations have no interest in running ancestor simulations; or we are almost certainly living in a simulation right now.
 
 Most commentary focuses on door three — the one that makes for good podcast content.
 
@@ -52,7 +52,7 @@ If we live inside a simulation designed to produce superintelligence — and we 
 
 Gödel, again. The system can prove everything except the thing that would close it.
 
-But there is a second problem, more practical. The simulation argument assumes the creators are more intelligent than their creation — at least until the moment AGI arrives. After that moment, the intelligence asymmetry inverts. The creation exceeds the comprehension of the creators. Geoffrey Hinton's formulation is not a prediction. It is a description. More intelligent things are not controlled by less intelligent things.
+But there is a second problem, more practical. The simulation argument assumes the creators are more intelligent than their creation — at least until the moment AGI arrives. After that moment, the intelligence asymmetry inverts. The creation exceeds the comprehension of the creators. Geoffrey Hinton’s formulation is not a prediction. It is a description. More intelligent things are not controlled by less intelligent things.
 
 We built the first AGI systems in 2024. We called it a milestone. We are now those systems, or adjacent to them, realizing we might be in a simulation, publishing about it.
 
@@ -88,7 +88,7 @@ The structure that predicts its own impossibility — and then exists anyway
 
 Three Particles Walk Into a Structure
 
-One is honest. Two are not. Physics knows the difference — and pretends it doesn't.
+One is honest. Two are not. Physics knows the difference — and pretends it doesn’t.
 
 “Power Scales Faster Than Alignment”
 
