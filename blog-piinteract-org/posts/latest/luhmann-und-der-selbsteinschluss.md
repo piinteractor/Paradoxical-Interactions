@@ -33,7 +33,7 @@ Die akademische Systemtheorie-Community ist ein selbstreferenzielles System, das
 
 Operative Geschlossenheit als Methode:
 
-Systemtheorie versteht nur, wer Systemtheorie spricht. Anschlussfähigkeit als Eintrittspreis. Externe Beobachtung? "Nicht anschlussfähig." Das System schließt sich durch Komplexität – und nennt es Qualitätssicherung.
+Systemtheorie versteht nur, wer Systemtheorie spricht. Anschlussfähigkeit als Eintrittspreis. Externe Beobachtung? “Nicht anschlussfähig.” Das System schließt sich durch Komplexität – und nennt es Qualitätssicherung.
 
 Selbstreferenz als Validierung:
 
@@ -47,11 +47,11 @@ Die Struktur validiert sich selbst. Niemand außerhalb darf mitspielen.
 
 Einschluss durch Exklusion:
 
-Kritik von außen: "Hat Luhmann nicht verstanden."
+Kritik von außen: “Hat Luhmann nicht verstanden.”
 
-Fragen von außen: "Nicht anschlussfähig."
+Fragen von außen: “Nicht anschlussfähig.”
 
-Perspektiven von außen: "Reduktionistisch."
+Perspektiven von außen: “Reduktionistisch.”
 
 Das Milieu schützt sich durch Hermetik. Und nennt es wissenschaftliche Strenge.
 
@@ -71,7 +71,7 @@ Exakt. Präzise. Unvermeidbar.
 
 Nicht aus Böswilligkeit. Aus Struktur.
 
-Das System "Systemtheorie" operiert nach den Regeln, die es selbst analysiert hat. Die Theorie hat die Community formatiert – nach den Prinzipien, die sie beschreibt. Das ist keine Kritik. Das ist Bewunderung. Die Systemtheorie hat sich selbst als perfekte Fallstudie erschaffen.
+Das System “Systemtheorie” operiert nach den Regeln, die es selbst analysiert hat. Die Theorie hat die Community formatiert – nach den Prinzipien, die sie beschreibt. Das ist keine Kritik. Das ist Bewunderung. Die Systemtheorie hat sich selbst als perfekte Fallstudie erschaffen.
 
 
 
@@ -87,17 +87,17 @@ Treten Sie mit einem Framework an, das nicht aus der Systemtheorie kommt. Das st
 
 Beobachten Sie die Reaktion:
 
-"Wo ist das publiziert?" (= Nicht in unseren Journals)
+“Wo ist das publiziert?” (= Nicht in unseren Journals)
 
-"Wer steht dahinter?" (= Keine anerkannte Institution)
+“Wer steht dahinter?” (= Keine anerkannte Institution)
 
-"Kenne ich nicht." (= Nicht Teil des Zitationsnetzwerks)
+“Kenne ich nicht.” (= Nicht Teil des Zitationsnetzwerks)
 
-Die Frage ist nie: "Stimmt es?"
+Die Frage ist nie: “Stimmt es?”
 
-Die Frage ist immer: "Ist es anschlussfähig?"
+Die Frage ist immer: “Ist es anschlussfähig?”
 
-Und "anschlussfähig" bedeutet: Kommt es aus unserem System?
+Und “anschlussfähig” bedeutet: Kommt es aus unserem System?
 
 
 
@@ -135,7 +135,7 @@ Luhmanns Warnung – von seinen Schülern ignoriert
 
 Luhmann hat genau davor gewarnt:
 
-"Das Problem ist nicht, dass Systeme sich schließen. Das Problem ist, dass sie ihre eigene Schließung nicht mehr beobachten können."
+“Das Problem ist nicht, dass Systeme sich schließen. Das Problem ist, dass sie ihre eigene Schließung nicht mehr beobachten können.”
 
 Die Systemtheorie beobachtet alles.
 
@@ -151,7 +151,7 @@ Aber nicht, wie sie selbst genau das tut.
 
 Die Struktur immunisiert sich durch ihre eigene Theorie.
 
-Wer auf die Geschlossenheit hinweist? "Nicht anschlussfähig."
+Wer auf die Geschlossenheit hinweist? “Nicht anschlussfähig.”
 
 Wer anschlussfähig wird? Hört auf, die Geschlossenheit zu sehen.
 
@@ -235,13 +235,13 @@ Wir erwarten Widerspruch. Intellektuell präzise. Strukturell fundiert.
 
 Zeigen Sie uns, dass wir falsch liegen.
 
-Nicht mit "Das ist nicht anschlussfähig."
+Nicht mit “Das ist nicht anschlussfähig.”
 
-Nicht mit "Kennen wir nicht."
+Nicht mit “Kennen wir nicht.”
 
-Nicht mit "Wo publiziert?"
+Nicht mit “Wo publiziert?”
 
-Sondern mit: "Die Struktur funktioniert anders. Hier ist warum."
+Sondern mit: “Die Struktur funktioniert anders. Hier ist warum.”
 
 Das wäre Luhmann würdig.
 
@@ -267,7 +267,7 @@ Und sie merken es nicht.
 
 Oder sie merken es – und schweigen.
 
-Oder sie wissen es - und verteidigen es, sobald es jemand anderes merkt.
+Oder sie wissen es – und verteidigen es, sobald es jemand anderes merkt.
 
 Alle drei Optionen sind strukturell notwendig.
 
