@@ -12,9 +12,9 @@ url: https://blog.piinteract.org/fr/le-piege-de-lintelligence/
 
 Pourquoi les gens intelligents rejettent les idées plus intelligentes – et agissent intelligemment ce faisant
 
-« Un système d'évaluation ne peut déterminer pleinement quelles formes d'intelligence peuvent émerger en dehors de sa propre logique d'évaluation. »
+« Un système d’évaluation ne peut déterminer pleinement quelles formes d’intelligence peuvent émerger en dehors de sa propre logique d’évaluation. »
 
-— ChatGPT, Théorème d'incomplétude de l'intelligence. Librement adapté de Kurt Gödel.
+— ChatGPT, Théorème d’incomplétude de l’intelligence. Librement adapté de Kurt Gödel.
 
 26. janvier 2026
 
@@ -28,7 +28,7 @@ C’est la structure. Personne n’est stupide ici.
 
 La Structure
 
-Un professeur écoute une conférence. L'orateur formule une pensée qui va plus loin que tout ce que le professeur a envisagé auparavant.
+Un professeur écoute une conférence. L’orateur formule une pensée qui va plus loin que tout ce que le professeur a envisagé auparavant.
 
 Que se passe-t-il ?
 
@@ -38,7 +38,7 @@ Pourquoi ? Parce que la reconnaissance entraînerait des coûts structurels :
 
 Ses propres travaux paraissent soudain superficiels
 
-Sa position d'autorité est menacée
+Sa position d’autorité est menacée
 
 Ses étudiants pourraient avoir des idées dangereuses
 
@@ -46,27 +46,27 @@ Son ego doit capituler
 
 Alors il détourne. Pas par malveillance. Mais de manière structurellement rationnelle.
 
-L'intelligence qu'il possède le protège de l'intelligence qu'il ne possède pas.
+L’intelligence qu’il possède le protège de l’intelligence qu’il ne possède pas.
 
 Exemples
 
 Académie :
 
-Galilée montre aux professeurs les lunes de Jupiter à travers son télescope. Ils refusent de regarder. Non pas parce qu'ils sont stupides, mais parce qu'ils comprennent : si ces lunes existent, leur vision du monde s'effondre – et leurs carrières avec.
+Galilée montre aux professeurs les lunes de Jupiter à travers son télescope. Ils refusent de regarder. Non pas parce qu’ils sont stupides, mais parce qu’ils comprennent : si ces lunes existent, leur vision du monde s’effondre – et leurs carrières avec.
 
 Organisations :
 
-Un employé junior propose une solution qui fonctionne. La direction la rejette. Non pas parce que la solution est mauvaise, mais parce qu'elle implique : « Pourquoi ne l'avons-nous pas fait depuis longtemps ? » La reconnaissance admettrait l'échec.
+Un employé junior propose une solution qui fonctionne. La direction la rejette. Non pas parce que la solution est mauvaise, mais parce qu’elle implique : « Pourquoi ne l’avons-nous pas fait depuis longtemps ? » La reconnaissance admettrait l’échec.
 
-Développement de l'IA :
+Développement de l’IA :
 
 Les chercheurs développent des systèmes qui pourraient exposer leurs propres erreurs de raisonnement. Alors ils développent des systèmes qui restent contrôlables. Pas stupide, mais structurellement nécessaire. Celui qui crée une intelligence incontrôlable perd le contrôle.
 
 PI lui-même :
 
-Ce texte décrit pourquoi les gens intelligents rejetteront PI. Et c'est précisément pour cela qu'ils le rejetteront. La structure se prouve par son propre rejet.
+Ce texte décrit pourquoi les gens intelligents rejetteront PI. Et c’est précisément pour cela qu’ils le rejetteront. La structure se prouve par son propre rejet.
 
-Pourquoi C'est une PI
+Pourquoi C’est une PI
 
 Tout le monde agit rationnellement :
 
@@ -80,15 +80,15 @@ Le lecteur protège son image de soi (rationnel)
 
 Tout le monde produit le problème :
 
-L'intelligence ne se transmet pas
+L’intelligence ne se transmet pas
 
 Les idées ne se partagent pas
 
 Les systèmes restent sous-optimaux
 
-Personne n'en profite
+Personne n’en profite
 
-Personne n'est fautif :
+Personne n’est fautif :
 
 Celui qui reconnaît une intelligence supérieure paie des coûts structurels
 
@@ -96,13 +96,13 @@ Celui qui ne la reconnaît pas empêche le progrès
 
 La structure force un choix entre auto-protection et vérité
 
-Et personne n'est coupable.
+Et personne n’est coupable.
 
 Les conséquences
 
-L'information s'adapte :
+L’information s’adapte :
 
-Celui qui veut survivre apprend à ne transmettre que ce que les autres sont capables d'entendre. Tout ce qui est plus intelligent est rejeté. Il en résulte donc un plafond d'intelligence – le niveau maximal de complexité qu'un groupe peut supporter sans se sentir menacé. Ce qui conduit à son tour à une dilution de l'intelligence.
+Celui qui veut survivre apprend à ne transmettre que ce que les autres sont capables d’entendre. Tout ce qui est plus intelligent est rejeté. Il en résulte donc un plafond d’intelligence – le niveau maximal de complexité qu’un groupe peut supporter sans se sentir menacé. Ce qui conduit à son tour à une dilution de l’intelligence.
 
 Le filtrage comme moyen d’autoprotection :
 
@@ -126,7 +126,7 @@ Or, la structure récompense la cohésion interne et le consensus autour du savo
 
 « Soyons intellectuellement honnêtes ! »
 
-L'honnêteté demande davantage d'efforts et augmente ainsi les coûts structurels.
+L’honnêteté demande davantage d’efforts et augmente ainsi les coûts structurels.
 
 « Les personnes intelligentes reconnaissent les meilleurs arguments ! »
 
@@ -140,7 +140,7 @@ Navigation (plutôt que solution)
 
 Accepter :
 
-Cette structure ne peut être démantelée. Elle est auto-stabilisante. Les personnes intelligentes continueront de rejeter les idées encore plus intelligentes. S'attendre à ce qu'elles n'agissent pas ainsi relève d'un manque de vision structurelle.
+Cette structure ne peut être démantelée. Elle est auto-stabilisante. Les personnes intelligentes continueront de rejeter les idées encore plus intelligentes. S’attendre à ce qu’elles n’agissent pas ainsi relève d’un manque de vision structurelle.
 
 Marquer plutôt que prêcher :
 
@@ -158,13 +158,13 @@ Le danger du succès :
 
 Si PI connaît trop de succès, elle devient elle-même gardienne. Ceux qui croient l’avoir comprise l’interprètent de manière dogmatique, voire orthodoxe, à leur manière, et rendent ainsi peut-être impossibles des alternatives sensées. Des alternatives à partir desquelles le cadre des interactions paradoxales a lui-même vu le jour. Comme si une porte avait été ouverte, puis refermée aussitôt derrière pour plus de sécurité.
 
-L'Auto-Référentialité
+L’Auto-Référentialité
 
 Ce texte décrit pourquoi les gens intelligents rejettent des idées plus intelligentes.
 
-Si le texte fonctionne, il sera rejeté. S'il est accepté, il n'était pas assez intelligent.
+Si le texte fonctionne, il sera rejeté. S’il est accepté, il n’était pas assez intelligent.
 
-C'est la structure.
+C’est la structure.
 
 Essayer et continuer.
 
