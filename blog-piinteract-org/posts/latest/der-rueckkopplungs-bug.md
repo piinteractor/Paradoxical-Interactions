@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/der-rueckkopplungs-bug/
 
 Warum ein sechzig Jahre altes Modell zur „Verdampfung Schwarzer Löcher“ durch einen faseroptischen Versuchsaufbau in Paderborn korrigiert wurde – und warum es bei dieser Korrektur nicht um Schwarze Löcher ging, sondern um die Rückkopplung zwischen einer Grenze und dem Ereignis, das diese Grenze zieht.
 
-„Die Botschaft dieses Vortrags ist: Schwarze Löcher sind nicht so schwarz, wie sie gemalt werden."
+„Die Botschaft dieses Vortrags ist: Schwarze Löcher sind nicht so schwarz, wie sie gemalt werden.”
 
 — Stephen Hawking, Reith Lectures, 2016
 
