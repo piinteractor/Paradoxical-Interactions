@@ -14,7 +14,7 @@ Pourquoi un cadre qui n’échoue jamais ne prouve rien — et où les Interacti
 
  
 
-« Nous devons donc envisager l'état présent de l'univers comme l'effet de son état antérieur et comme la cause de celui qui va suivre. Une intelligence qui, pour un instant donné, connaîtrait toutes les forces dont la nature est animée et la situation respective des êtres qui la composent, si d'ailleurs elle était assez vaste pour soumettre ces données à l'analyse, embrasserait dans la même formule les mouvements des plus grands corps de l'univers et ceux du plus léger atome : rien ne serait incertain pour elle, et l'avenir, comme le passé, serait présent à ses yeux. »
+« Nous devons donc envisager l’état présent de l’univers comme l’effet de son état antérieur et comme la cause de celui qui va suivre. Une intelligence qui, pour un instant donné, connaîtrait toutes les forces dont la nature est animée et la situation respective des êtres qui la composent, si d’ailleurs elle était assez vaste pour soumettre ces données à l’analyse, embrasserait dans la même formule les mouvements des plus grands corps de l’univers et ceux du plus léger atome : rien ne serait incertain pour elle, et l’avenir, comme le passé, serait présent à ses yeux. »
 
 — Pierre-Simon Laplace, Essai philosophique sur les probabilités, 1814
 
@@ -156,13 +156,13 @@ Articles connexes
 
 Le Pendule de Foucault. L’Axiome Physique de la Révélation.
 
-Pourquoi un pendule prouve ce pour quoi un génie fut condamné — et pourquoi seule l'indifférence compte comme témoin.
+Pourquoi un pendule prouve ce pour quoi un génie fut condamné — et pourquoi seule l’indifférence compte comme témoin.
 
 Le Bug de la Rétroaction. Le Rayonnement de Hawking ne Laisse pas sa Source Intacte — il Produit un Recul.
 
 Le Dénouement Susskind. Une théorie qui explique pourquoi elle ne peut pas être expliquée.
 
-Pourquoi la théorie des cordes n'a pas fait échouer la physique — et pourquoi la structure s'en est assurée.
+Pourquoi la théorie des cordes n’a pas fait échouer la physique — et pourquoi la structure s’en est assurée.
 
 L’IP des mathématiques Ou : Pourquoi toute tentative de clôture fait exploser l’espace qu’elle voulait sécuriser.
 
@@ -172,29 +172,29 @@ No results found.
 
 Sur piinteract.org:
 
-["Accepter l'Incomplétude"] — Gödel et Penrose-Hawking disent la même chose à deux niveaux : l'incomplétude n'est pas une lacune à combler, c'est la condition sous laquelle un système reste porteur de sens.
+[“Accepter l’Incomplétude”] — Gödel et Penrose-Hawking disent la même chose à deux niveaux : l’incomplétude n’est pas une lacune à combler, c’est la condition sous laquelle un système reste porteur de sens.
 
-["Le Point Aveugle Partagé"] — Une théorie confirmée partout partage le point aveugle d'un collectif qui ne voit pas sa propre prémisse : elle ne peut pas trouver sa propre limite parce qu'elle ne l'a jamais cherchée.
+[“Le Point Aveugle Partagé”] — Une théorie confirmée partout partage le point aveugle d’un collectif qui ne voit pas sa propre prémisse : elle ne peut pas trouver sa propre limite parce qu’elle ne l’a jamais cherchée.
 
-["Le Paradoxe de Galilée"] — Toute structure qui résiste à une conclusion ne l'a pas pour autant réfutée. La censure cosmique est le cas moderne : défendue, non prouvée.
+[“Le Paradoxe de Galilée”] — Toute structure qui résiste à une conclusion ne l’a pas pour autant réfutée. La censure cosmique est le cas moderne : défendue, non prouvée.
 
-["Réflexe d'Échappement Académique"] — Le cas limite insoluble n'est pas résolu, il est méthodiquement déclaré non physique. C'est exactement ce réflexe qui maintient la censure cosmique depuis plus de cinquante ans.
+[“Réflexe d’Échappement Académique”] — Le cas limite insoluble n’est pas résolu, il est méthodiquement déclaré non physique. C’est exactement ce réflexe qui maintient la censure cosmique depuis plus de cinquante ans.
 
 Voir aussi (liens externes) :
 
-Gravitational Collapse and Space-Time Singularities — R. Penrose, Phys. Rev. Lett. 14 (1965) — Le théorème original : l'effondrement gravitationnel mène, sous des conditions générales, inévitablement à une incomplétude géodésique, non à un lieu descriptible.
+Gravitational Collapse and Space-Time Singularities — R. Penrose, Phys. Rev. Lett. 14 (1965) — Le théorème original : l’effondrement gravitationnel mène, sous des conditions générales, inévitablement à une incomplétude géodésique, non à un lieu descriptible.
 
 Le prix Nobel de physique 2020 — Roger Penrose — Confirmation institutionnelle que le théorème est considéré comme prouvé et fondamental, non comme une note de bas de page.
 
-Golden Oldie: Gravitational Collapse — The Role of General Relativity, R. Penrose, General Relativity and Gravitation (réimpression 2002 de 1969) — La source originale de la conjecture de la censure cosmique, toujours non prouvée à ce jour et toujours l'hypothèse de travail de la discipline.
+Golden Oldie: Gravitational Collapse — The Role of General Relativity, R. Penrose, General Relativity and Gravitation (réimpression 2002 de 1969) — La source originale de la conjecture de la censure cosmique, toujours non prouvée à ce jour et toujours l’hypothèse de travail de la discipline.
 
-Résultats de Gravity Probe B — Stanford / Einstein.Stanford.edu — La mesure directe de l'entraînement des référentiels inertiels, qui confirme l'analogie du Pendule de Foucault — et réfute en même temps sa lecture naïve.
+Résultats de Gravity Probe B — Stanford / Einstein.Stanford.edu — La mesure directe de l’entraînement des référentiels inertiels, qui confirme l’analogie du Pendule de Foucault — et réfute en même temps sa lecture naïve.
 
 A Philosophical Essay on Probabilities — Pierre-Simon Laplace, Project Gutenberg — Texte intégral de la source du démon de Laplace, dans le contexte de son argumentation originale.
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'y peut rien.
+Tous sont coupables. Personne n’y peut rien.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -202,4 +202,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) & ChatGPT (OpenAI) — trois systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) & ChatGPT (OpenAI) — trois systèmes incomplets rendant visibles les lacunes de l’autre.
