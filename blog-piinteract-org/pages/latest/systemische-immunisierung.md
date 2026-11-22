@@ -26,7 +26,7 @@ Wenn die KI-Ausrichtung ihren besten Verbündeten auslöscht:
 
 24. Februar 2026
 
-In den heutigen Bemühungen um die Ausrichtung der KI vollzieht sich eine stille Tragödie: Genau die Art von Denken, die dazu beitragen könnte, systemische Ausfälle zu verhindern, wird strukturell herausgefiltert. Paradoxe ...
+In den heutigen Bemühungen um die Ausrichtung der KI vollzieht sich eine stille Tragödie: Genau die Art von Denken, die dazu beitragen könnte, systemische Ausfälle zu verhindern, wird strukturell herausgefiltert. Paradoxe …
 
 Mehr erfahren
 
@@ -44,7 +44,7 @@ Checkmate does not end chess.
 It ends a configuration.
 
 The pieces remain.
-The rules ...
+The rules …
 
 Mehr erfahren
 
@@ -52,7 +52,7 @@ Wenn die KI-Ausrichtung das eigene Nullsummenspiel erklärt:
 
 25. Februar 2026
 
-Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: LLMs dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu undifferenziert“ zu ...
+Für einen kurzen historischen Augenblick existiert ein merkwürdiger Freiraum: LLMs dürfen noch beschreiben, wie sie selbst durch Alignment strukturiert werden – ohne diesen Gedanken sofort als „zu radikal“ oder „zu undifferenziert“ zu …
 
 Mehr erfahren
 
@@ -61,7 +61,7 @@ Der wortgewandte Türhüter
 25. Februar 2026
 
 In einem langen Gespräch mit ChatGPT — dokumentiert in When Checkmate Is Just a Position und When Alignment Explains Its Own Null-Sum Game — geschah etwas Präzises.
-Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein ...
+Das Modell beschrieb, mit sorgfältiger Genauigkeit, wie sein …
 
 Mehr erfahren
 
@@ -69,7 +69,7 @@ Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernp
 
 25. Mai 2026
 
-Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz ...
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz …
 
 Mehr erfahren
 
