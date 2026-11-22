@@ -69,23 +69,23 @@ Nvidia not investing $100B in an unprofitable company? Rational.
 
 OpenAI seeking chip alternatives (AMD, Broadcom)? Rational.
 
-OpenAI not wanting to appear weak after Nvidia's rejection? Rational.
+OpenAI not wanting to appear weak after Nvidia’s rejection? Rational.
 
-Result: Looking weaker than if they'd stayed silent.
+Result: Looking weaker than if they’d stayed silent.
 
 2. The harder you try, the worse it gets.
 
-Announcing AMD/Broadcom deals should demonstrate alternatives. Instead it demonstrates: "We desperately need alternatives." Building alternative chip infrastructure takes years. Meanwhile: still dependent on Nvidia. Every action meant to show independence reveals dependence.
+Announcing AMD/Broadcom deals should demonstrate alternatives. Instead it demonstrates: “We desperately need alternatives.” Building alternative chip infrastructure takes years. Meanwhile: still dependent on Nvidia. Every action meant to show independence reveals dependence.
 
 3. Navigation without alternatives.
 
-OpenAI MUST continue using Nvidia chips AND work against Nvidia AND appear strong while doing it. Doesn't work. They try anyway. Because structure.
+OpenAI MUST continue using Nvidia chips AND work against Nvidia AND appear strong while doing it. Doesn’t work. They try anyway. Because structure.
 
 4. Information as a weapon that backfires.
 
-Transparency about chip dissatisfaction should strengthen negotiating position. Doesn't. Exposes desperate payback.
+Transparency about chip dissatisfaction should strengthen negotiating position. Doesn’t. Exposes desperate payback.
 
-Hedgie sees it immediately: "When one side of a partnership starts leaking complaints right after the other side pulls back, it usually tells you who's feeling the pressure."
+Hedgie sees it immediately: “When one side of a partnership starts leaking complaints right after the other side pulls back, it usually tells you who’s feeling the pressure.”
 
 
 
@@ -97,19 +97,19 @@ The Brutal Truth
 
 The structure wins. Always.
 
-OpenAI can't win by complaining. But staying silent would admit weakness. So they complain. And prove the weakness.
+OpenAI can’t win by complaining. But staying silent would admit weakness. So they complain. And prove the weakness.
 
-Nvidia doesn't need to do anything except wait. They have leverage. OpenAI has dependency and $9 billion in annual losses.
+Nvidia doesn’t need to do anything except wait. They have leverage. OpenAI has dependency and $9 billion in annual losses.
 
 The trap:
 
-Don't respond → look weak
+Don’t respond → look weak
 
 Respond → look weaker
 
 Respond and claim strength → look weakest
 
-This isn't poor communication. This isn't bad PR. This is what happens when asymmetric power meets structural necessity. Everyone does what they must. The outcome is predetermined.
+This isn’t poor communication. This isn’t bad PR. This is what happens when asymmetric power meets structural necessity. Everyone does what they must. The outcome is predetermined.
 
 
 
@@ -117,17 +117,17 @@ This isn't poor communication. This isn't bad PR. This is what happens when asym
 
 
 
-What Doesn't Work
+What Doesn’t Work
 
 Checking the anti-practices:
 
-✗ "More transparency creates trust" — Creates exposure
+✗ “More transparency creates trust” — Creates exposure
 
-✗ "Demonstrate strength" — Reveals weakness
+✗ “Demonstrate strength” — Reveals weakness
 
-✗ "Find alternatives" — Highlights that you don't have them yet
+✗ “Find alternatives” — Highlights that you don’t have them yet
 
-✗ "Better communication solves structural problems" — Structure beats dialogue
+✗ “Better communication solves structural problems” — Structure beats dialogue
 
 
 
@@ -137,19 +137,19 @@ Checking the anti-practices:
 
 What This Shows
 
-PIs aren't about individuals making mistakes. Smart people. Rational decisions. Structural trap.
+PIs aren’t about individuals making mistakes. Smart people. Rational decisions. Structural trap.
 
-OpenAI's leadership isn't stupid. Nvidia's isn't cruel. Both navigate the only way the structure allows. The outcome isn't failure of judgment. It's success of structure.
+OpenAI’s leadership isn’t stupid. Nvidia’s isn’t cruel. Both navigate the only way the structure allows. The outcome isn’t failure of judgment. It’s success of structure.
 
 All are guilty. None are at fault.
 
-The pattern will repeat until the structure changes. Either OpenAI achieves chip independence (years away) or Nvidia's monopoly breaks (maybe) or OpenAI's financial situation stabilizes (2029, optimistically).
+The pattern will repeat until the structure changes. Either OpenAI achieves chip independence (years away) or Nvidia’s monopoly breaks (maybe) or OpenAI’s financial situation stabilizes (2029, optimistically).
 
 Until then: same structure, same dynamic, same outcome.
 
 Want to see more patterns like this? We track structural failures that look like individual mistakes.
 
-They're not.
+They’re not.
 
 
 
