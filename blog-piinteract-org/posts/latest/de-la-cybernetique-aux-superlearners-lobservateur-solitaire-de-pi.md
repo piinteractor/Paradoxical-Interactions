@@ -141,11 +141,11 @@ Articles Connexes
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 Quand l’observation de la fermeture devient fermeture
 
-Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n'empêche-t-elle pas automatiquement un durcissement structurel ?
+Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n’empêche-t-elle pas automatiquement un durcissement structurel ?
 
 Synchronisation des métronomes. L’axiome physique de l’IP.
 
@@ -193,7 +193,7 @@ TechCrunch : David Silver, de DeepMind, vient de lever 1,1 milliard de dollars �
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 
 
@@ -204,4 +204,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
