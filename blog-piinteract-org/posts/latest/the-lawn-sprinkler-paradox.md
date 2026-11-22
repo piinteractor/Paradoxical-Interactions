@@ -10,7 +10,7 @@ wp_id: 7861
 url: https://blog.piinteract.org/the-lawn-sprinkler-paradox/
 ---
 
-Why No One in Munich Is to Blame for the Water Crisis—and Why the Ban Won't Change That Until August 1.
+Why No One in Munich Is to Blame for the Water Crisis—and Why the Ban Won’t Change That Until August 1.
 
 document.addEventListener('DOMContentLoaded', function() {
   var v = document.querySelector('.lawn-sprinkler video');
@@ -79,7 +79,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 How Elon Musk Pumped a Memecoin Without Saying a Word—And Why No One Is at Fault
 
@@ -121,4 +121,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
