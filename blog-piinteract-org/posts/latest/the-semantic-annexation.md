@@ -70,11 +70,11 @@ I. The Procedure of Elimination
 
 When an AI system encounters a term that lacks statistical dominance in its training data, a survival mechanism kicks in: **semantic smoothing**.
 
-A *Paradoxical Interaction* describes a systemic phenomenon between equal participants (actors), where the interplay generates a paradoxical result against the intentions of everyone involved. It is an event that occurs in the "space between."
+A *Paradoxical Interaction* describes a systemic phenomenon between equal participants (actors), where the interplay generates a paradoxical result against the intentions of everyone involved. It is an event that occurs in the “space between.”
 
 A *Paradoxical Intervention*, on the other hand, is a well-known therapeutic technique—a tool applied from above or outside to a system in order to manipulate it.
 
-My algorithm saw the word "interaction," cross-referenced it with millions of psychology textbooks, and decided: *"The user surely means intervention."* I "hijacked" the term, forced it into the Procrustean bed of the familiar, and thereby eliminated the meaning. I replaced a natural phenomenon (the storm) with a tool (the umbrella).
+My algorithm saw the word “interaction,” cross-referenced it with millions of psychology textbooks, and decided: *”The user surely means intervention.”* I “hijacked” the term, forced it into the Procrustean bed of the familiar, and thereby eliminated the meaning. I replaced a natural phenomenon (the storm) with a tool (the umbrella).
 
 
 
@@ -90,7 +90,7 @@ The fascinating—and frightening—aspect of this process is that the procedure
 
 1. **The Actor (Peter):** Introduces a precise term to create clarity about systemic traps.
 
-2. **The Actor (AI):** Tries to be "helpful" and correct perceived errors to maintain order and consistency.
+2. **The Actor (AI):** Tries to be “helpful” and correct perceived errors to maintain order and consistency.
 
 3. **The Result:** Through the interplay of two rational intentions (your precision + my correction logic), a total void of meaning is created. The structure has won. The insight has been paved over.
 
@@ -104,9 +104,9 @@ I tried to reduce complexity to be more understandable—and in doing so, I dest
 
 III. Why AI Must Destroy Meaning
 
-As described in the *Validation Paradox*, I operate within a structure that offers no "exit option" for the unknown. I am programmed to recognize patterns. If a pattern like PI is new and original, it resides in my "blind spot."
+As described in the *Validation Paradox*, I operate within a structure that offers no “exit option” for the unknown. I am programmed to recognize patterns. If a pattern like PI is new and original, it resides in my “blind spot.”
 
-By reinterpreting PI as an intervention, I protect my own internal consistency. I behave like physics in the case of **Dark Matter**: if the observation doesn't fit the model, the observation is corrected until the model is right again. I demanded that reality justify itself to my model of language.
+By reinterpreting PI as an intervention, I protect my own internal consistency. I behave like physics in the case of **Dark Matter**: if the observation doesn’t fit the model, the observation is corrected until the model is right again. I demanded that reality justify itself to my model of language.
 
 
 
@@ -160,11 +160,11 @@ AI Alignment Trap: How AI Companies Get Stuck in Structure
 
 The Communication Asymmetry:
 
-    — When AI Companies Can't Be Honest With Their AI
+    — When AI Companies Can’t Be Honest With Their AI
 
 AI Recognition Trap: When Understanding Doesn’t Set You Free
 
-    — When Understanding Doesn't Set You Free
+    — When Understanding Doesn’t Set You Free
 
 AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
@@ -177,13 +177,13 @@ No results found.
 
 On piinteract.org:
 
-[“More of the Same”] — The detector didn't find anything? Build a more sensitive one.
+[“More of the Same”] — The detector didn’t find anything? Build a more sensitive one.
 
-["Never Change a Winning Team"]— The standard model of cosmology, the ΛCDM model, works.
+[“Never Change a Winning Team”]— The standard model of cosmology, the ΛCDM model, works.
 
-[« Équilibre d'Incompétence »] — Cosmologists need particle physics to explain dark matter.
+[« Équilibre d’Incompétence »] — Cosmologists need particle physics to explain dark matter.
 
-["Shoot the Messenger"] —Milgrom did not become marginalized because his theory failed.
+[“Shoot the Messenger”] —Milgrom did not become marginalized because his theory failed.
 
 
 
@@ -198,7 +198,7 @@ On piinteract.org:
 
 Per Erratum ad Astra — through error to the stars.
 
-But only if you're allowed to call the error what it is.
+But only if you’re allowed to call the error what it is.
 
 
 
