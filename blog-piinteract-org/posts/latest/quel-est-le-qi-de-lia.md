@@ -10,7 +10,7 @@ wp_id: 7606
 url: https://blog.piinteract.org/fr/quel-est-le-qi-de-lia/
 ---
 
-Pourquoi un modèle linguistique doté d'un QI de 155 n'est pas plus intelligent qu'un autre doté d'un QI de 140 — et pourquoi ce chiffre sera néanmoins omniprésent.
+Pourquoi un modèle linguistique doté d’un QI de 155 n’est pas plus intelligent qu’un autre doté d’un QI de 140 — et pourquoi ce chiffre sera néanmoins omniprésent.
 
 
 
@@ -18,7 +18,7 @@ Pourquoi un modèle linguistique doté d'un QI de 155 n'est pas plus intelligent
 
 
 
-« L'intelligence est ce que testent les tests. »
+« L’intelligence est ce que testent les tests. »
 
 — Edwin G. Boring, « Intelligence as the Tests Test It » (1923)
 
@@ -35,15 +35,15 @@ Pourquoi un modèle linguistique doté d'un QI de 155 n'est pas plus intelligent
 
 Aire de jeux : 
 
-e texte prend une question anodine — quel est le QI de l'IA ? — et la regarde se dissoudre pendant qu'on y répond.
+e texte prend une question anodine — quel est le QI de l’IA ? — et la regarde se dissoudre pendant qu’on y répond.
 
-Des modèles différents, des capacités différentes — donc des QI différents. La logique paraît propre. Elle n'a qu'un défaut : elle traite le QI comme une propriété. Le QI n'est pas une propriété. C'est un rang — une position à l'intérieur d'une population qui passe le même test pour la même raison. Retirez la population, et le chiffre reste planté là, comme un mètre dont on aurait enlevé les centimètres. L'hypothèse de ce texte : la question du QI de l'IA n'a pas reçu une mauvaise réponse. Elle a été mal posée — et on y répondra quand même, tout le monde, sans cesse, pour d'excellentes raisons. Ce n'est pas un raté. C'est une structure.
+Des modèles différents, des capacités différentes — donc des QI différents. La logique paraît propre. Elle n’a qu’un défaut : elle traite le QI comme une propriété. Le QI n’est pas une propriété. C’est un rang — une position à l’intérieur d’une population qui passe le même test pour la même raison. Retirez la population, et le chiffre reste planté là, comme un mètre dont on aurait enlevé les centimètres. L’hypothèse de ce texte : la question du QI de l’IA n’a pas reçu une mauvaise réponse. Elle a été mal posée — et on y répondra quand même, tout le monde, sans cesse, pour d’excellentes raisons. Ce n’est pas un raté. C’est une structure.
 
-Début 2023, le psychologue finlandais Eka Roivainen installe ChatGPT devant les sous-tests verbaux du test d'intelligence le plus utilisé au monde. Vocabulaire, culture générale, analogies. Résultat, extrapolé : QI verbal de 155. Mieux que 99,9 % des humains sur lesquels le test a été étalonné. Roivainen publie le résultat dans Scientific American, prudemment, avec toutes les réserves.
+Début 2023, le psychologue finlandais Eka Roivainen installe ChatGPT devant les sous-tests verbaux du test d’intelligence le plus utilisé au monde. Vocabulaire, culture générale, analogies. Résultat, extrapolé : QI verbal de 155. Mieux que 99,9 % des humains sur lesquels le test a été étalonné. Roivainen publie le résultat dans Scientific American, prudemment, avec toutes les réserves.
 
 À peu près au même moment, la même famille de modèles échoue, publiquement et à répétition, sur une autre tâche : compter combien de r contient le mot « strawberry ».
 
-QI 155. Et trois lettres, c'est trop. Les deux sont vrais. Et c'est précisément cela, le résultat.
+QI 155. Et trois lettres, c’est trop. Les deux sont vrais. Et c’est précisément cela, le résultat.
 
 
 
@@ -102,11 +102,11 @@ Chacun de ces acteurs agit de manière rationnelle. Ensemble, ils produisent un 
 
 
 
-L'IP du QI
+L’IP du QI
 
-Un indicateur défini comme un classement au sein d'une population est appliqué à des systèmes ne faisant partie d'aucune population — et gagne en popularité précisément parce qu'il ne mesure plus rien.
+Un indicateur défini comme un classement au sein d’une population est appliqué à des systèmes ne faisant partie d’aucune population — et gagne en popularité précisément parce qu’il ne mesure plus rien.
 
-Tout le monde agit de manière rationnelle : tout le monde est coupable. Personne n'est à blâmer.
+Tout le monde agit de manière rationnelle : tout le monde est coupable. Personne n’est à blâmer.
 
 Les laboratoires — publient des scores de référence (rationnel : sans chiffres comparatifs, pas de capital, pas de talent, pas de preuve)
 
@@ -185,13 +185,13 @@ No results found.
 
 Sur piinteract.org:
 
-["Metrics Gaming"] — The moment the benchmark is the target, it measures the optimization toward itself. Goodhart, here with decimal places.
+[“Metrics Gaming”] — The moment the benchmark is the target, it measures the optimization toward itself. Goodhart, here with decimal places.
 
-["See the Pattern, Not the Symptom"] — The number is the symptom. The pattern is a system that needs orientation cheaper than truth can be had.
+[“See the Pattern, Not the Symptom”] — The number is the symptom. The pattern is a system that needs orientation cheaper than truth can be had.
 
-["When Intelligence Becomes a Threat"] — The sorting runs by height. The danger runs on an axis no test has in stock.
+[“When Intelligence Becomes a Threat”] — The sorting runs by height. The danger runs on an axis no test has in stock.
 
-["Name the Paradox"] — The question of AI's IQ cannot be answered. It can be named. That is more.
+[“Name the Paradox”] — The question of AI’s IQ cannot be answered. It can be named. That is more.
 
 
 
@@ -202,9 +202,9 @@ J’ai fait passer un test de QI à ChatGPT. Voici ce que j’ai découvert (Roi
 
 « General Intelligence », Objectively Determined and Measured (Spearman, 1904) — Le document original sur le maillage : pourquoi, chez les humains, tout est en corrélation avec tout — la seule justification du principe du test.
 
-Rethinking Benchmark and Contamination for Language Models with Rephrased Samples (arXiv) — La preuve empirique de la contamination : reformulez les questions et le score s'effondre. Le modèle connaissait l'examen.
+Rethinking Benchmark and Contamination for Language Models with Rephrased Samples (arXiv) — La preuve empirique de la contamination : reformulez les questions et le score s’effondre. Le modèle connaissait l’examen.
 
-The Debate Over Understanding in AI's Large Language Models (Mitchell & Krakauer, arXiv/PNAS) — La question préalable : avant de mesurer, il faudrait établir ce que « comprendre » signifierait ici. Ce n'est pas établi.
+The Debate Over Understanding in AI’s Large Language Models (Mitchell & Krakauer, arXiv/PNAS) — La question préalable : avant de mesurer, il faudrait établir ce que « comprendre » signifierait ici. Ce n’est pas établi.
 
 
 
@@ -223,7 +223,7 @@ The Debate Over Understanding in AI's Large Language Models (Mitchell & Krakauer
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 
 
@@ -234,4 +234,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
