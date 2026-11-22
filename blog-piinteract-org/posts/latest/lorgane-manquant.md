@@ -176,35 +176,35 @@ Pourquoi les gens intelligents rejettent les idées plus intelligentes – et ag
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 No results found.
 
 Sur piinteract.org
 
-["Reconnaître l'angle mort commun"] — la même loi, appliquée à une rétine et un AVC plutôt qu'à un argument.
+[“Reconnaître l’angle mort commun”] — la même loi, appliquée à une rétine et un AVC plutôt qu’à un argument.
 
-["Accepter l'incomplétude"] — aucun système, celui-ci y compris, ne referme son propre vide depuis l'intérieur.
+[“Accepter l’incomplétude”] — aucun système, celui-ci y compris, ne referme son propre vide depuis l’intérieur.
 
-["Nommez le paradoxe"] — nommer ne referme pas le vide. Cela reste le seul geste disponible depuis l'intérieur.
+[“Nommez le paradoxe”] — nommer ne referme pas le vide. Cela reste le seul geste disponible depuis l’intérieur.
 
-["Infectez et oubliez (stratégie du pissenlit)"] — le tour de carte comme méthode : on ne peut pas montrer à quelqu'un son propre angle mort en le lui expliquant. On lui montre le doigt qui disparaît.
+[“Infectez et oubliez (stratégie du pissenlit)”] — le tour de carte comme méthode : on ne peut pas montrer à quelqu’un son propre angle mort en le lui expliquant. On lui montre le doigt qui disparaît.
 
 Voir aussi (liens externes) :
 
-Edme Mariotte — notice biographique — le découvreur de l'angle mort rétinien, et l'origine de la démonstration à la carte.
+Edme Mariotte — notice biographique — le découvreur de l’angle mort rétinien, et l’origine de la démonstration à la carte.
 
 Predictive Coding: A Possible Explanation of Filling-In at the Blind Spot (PMC) — la meilleure explication actuelle de la façon dont le système visuel construit le comblement, en utilisant la même voie qui porte le vide.
 
-Anosognosia for hemiplegia as a tripartite disconnection syndrome (PMC) — l'étude d'imagerie structurelle derrière le cas de l'AVC : les réseaux qui enregistreraient le déficit, déconnectés par l'événement même qui l'a causé.
+Anosognosia for hemiplegia as a tripartite disconnection syndrome (PMC) — l’étude d’imagerie structurelle derrière le cas de l’AVC : les réseaux qui enregistreraient le déficit, déconnectés par l’événement même qui l’a causé.
 
-Les théorèmes d'incomplétude de Gödel (Stanford Encyclopedia of Philosophy) — la version formelle : aucun système suffisamment puissant ne se certifie lui-même depuis l'intérieur.
+Les théorèmes d’incomplétude de Gödel (Stanford Encyclopedia of Philosophy) — la version formelle : aucun système suffisamment puissant ne se certifie lui-même depuis l’intérieur.
 
-Unskilled and Unaware of It (Kruger & Dunning, 1999, PDF) — le cousin psychologique, une affirmation différente : l'incompétence et l'incapacité à la reconnaître, comme deux défaillances d'une seule cause. Les auteurs empruntent délibérément le terme "anosognosie" à la neurologie.
+Unskilled and Unaware of It (Kruger & Dunning, 1999, PDF) — le cousin psychologique, une affirmation différente : l’incompétence et l’incapacité à la reconnaître, comme deux défaillances d’une seule cause. Les auteurs empruntent délibérément le terme “anosognosie” à la neurologie.
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -212,4 +212,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
