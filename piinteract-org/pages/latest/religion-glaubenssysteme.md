@@ -10,7 +10,7 @@ wp_id: 1353
 url: https://piinteract.org/de/beispiele/religion-glaubenssysteme/
 ---
 
-„Wenn Du wiederkämest, müsste man Dich verbrennen."
+„Wenn Du wiederkämest, müsste man Dich verbrennen.”
 
 — Der Großinquisitor zu Christus, Dostojewskis Die Brüder Karamasow
 
@@ -56,7 +56,7 @@ Politik: Jede Befreiungsbewegung wird zum neuen Unterdrückungsapparat
 
 Die Falle
 
-Du kannst nicht aus dem Jesus-Paradox „lernen". Weil „lernen" bedeuten würde: Halte die Norm flexibel. Aber flexible Normen sind keine Normen. Also muss sich die Struktur wiederholen.
+Du kannst nicht aus dem Jesus-Paradox „lernen”. Weil „lernen” bedeuten würde: Halte die Norm flexibel. Aber flexible Normen sind keine Normen. Also muss sich die Struktur wiederholen.
 
 Der Großinquisitor weiß das. Christus weiß das. Deshalb sagt er nichts.
 
@@ -80,7 +80,7 @@ Galileos Beweise sind nicht das Problem. Die strukturelle Bedrohung ist es.
 
 Das Ergebnis
 
-Galileo widerruft. Hausarrest. Die Legende sagt, er murmelte danach „Eppur si muove" (Und sie bewegt sich doch).
+Galileo widerruft. Hausarrest. Die Legende sagt, er murmelte danach „Eppur si muove” (Und sie bewegt sich doch).
 
 Spielt keine Rolle. Die Erde bewegte sich vor seiner Beobachtung. Bewegt sich nach seinem Widerruf. Wahrheit existiert unabhängig von institutioneller Genehmigung.
 
@@ -98,7 +98,7 @@ Lektion
 
 Manche Kämpfe kannst du nicht innerhalb der Struktur gewinnen. Die Struktur ist nicht dafür gebaut, Wahrheit aufzunehmen, die sie bedroht. Also geht Wahrheit in den Untergrund, bewegt sich seitwärts, wartet.
 
-„Eppur si muove."
+„Eppur si muove.“
 
 Reformation → Orthodoxie
 
@@ -122,13 +122,13 @@ Evangelikalismus rebelliert gegen Mainline-Rigidität → wird rigide evangelika
 
 Unabhängige Gemeinden rebellieren gegen konfessionelle Struktur → erzeugen neue strukturelle Muster
 
-Jede Welle denkt: „Diesmal wird es anders sein. Wir haben aus ihren Fehlern gelernt."
+Jede Welle denkt: „Diesmal wird es anders sein. Wir haben aus ihren Fehlern gelernt.”
 
 Die Struktur hat sich nicht geändert. Das Ergebnis auch nicht.
 
 Die Falle
 
-Du kannst Freiheit nicht institutionalisieren, ohne Freiheit zu begrenzen. In dem Moment, wo du Regeln für „wie man frei ist" erzeugst, hast du den nächsten Käfig erschaffen.
+Du kannst Freiheit nicht institutionalisieren, ohne Freiheit zu begrenzen. In dem Moment, wo du Regeln für „wie man frei ist” erzeugst, hast du den nächsten Käfig erschaffen.
 
 Jeder Reformer wird zum nächsten Wächter. Jede Revolution wird zum nächsten Establishment. Die Rolle ändert sich. Die Struktur bleibt.
 
@@ -150,7 +150,7 @@ Nennt es Orthodoxie
 
 Historische Beispiele
 
-Jeanne d'Arc: Als Ketzerin verbrannt (1431), als Heilige kanonisiert (1920) – 489 Jahre später
+Jeanne d’Arc: Als Ketzerin verbrannt (1431), als Heilige kanonisiert (1920) – 489 Jahre später
 
 Meister Eckhart: Für Mystizismus verurteilt, später als tiefsinniger christlicher Theologe anerkannt
 
@@ -188,7 +188,7 @@ Die Logik
 
 Uneinigkeit wird unerträglich. Spaltung scheint die Lösung.
 
-„Wir bilden unsere eigene Kirche. Machen es diesmal richtig."
+„Wir bilden unsere eigene Kirche. Machen es diesmal richtig.”
 
 Was tatsächlich passiert
 
@@ -220,7 +220,7 @@ Du hast jetzt zwei Versionen derselben Dysfunktion. Beide überzeugt, sie seien 
 
 Der Multiplikationseffekt
 
-Jede Schisma denkt: „Sie lagen falsch. Wir liegen richtig."
+Jede Schisma denkt: „Sie lagen falsch. Wir liegen richtig.”
 
 Struktur kümmert sich nicht um Inhalt. Sie kümmert sich um Überleben.
 
@@ -240,9 +240,9 @@ Beide Positionen sind intern kohärent. Keine kann die andere strukturell überz
 
 Warum jeder Akteur rational handelt
 
-Gläubige: - Haben Erfahrungen, die sie als real betrachten (Offenbarung, Transzendenz, Begegnung). Diese sind nicht auf empirische Beweise reduzierbar. Beweise zu verlangen würde Glauben zerstören. Bewiesener Glaube wird Wissen, nicht Glaube.
+Gläubige: – Haben Erfahrungen, die sie als real betrachten (Offenbarung, Transzendenz, Begegnung). Diese sind nicht auf empirische Beweise reduzierbar. Beweise zu verlangen würde Glauben zerstören. Bewiesener Glaube wird Wissen, nicht Glaube.
 
-Ungläubige: - Verlangen nachprüfbare Beweise. Nicht böswillig – epistemologische Konsistenz. Behauptungen ohne Beweise akzeptieren bedeutet, beliebige Behauptungen über alles akzeptieren.
+Ungläubige: – Verlangen nachprüfbare Beweise. Nicht böswillig – epistemologische Konsistenz. Behauptungen ohne Beweise akzeptieren bedeutet, beliebige Behauptungen über alles akzeptieren.
 
 Warum es kollektiv scheitert
 
@@ -252,9 +252,9 @@ Jede Seite nutzt Kriterien, die die andere grundsätzlich nicht akzeptieren kann
 
 Die Falle
 
-Für Gläubige: - Je mehr sie „beweisen" wollen, desto schwächer wird der Glaube. Apologetik ist Kapitulation vor fremden Maßstäben. Der Versuch zu überzeugen offenbart: Du glaubst selbst nicht stark genug.
+Für Gläubige: – Je mehr sie „beweisen” wollen, desto schwächer wird der Glaube. Apologetik ist Kapitulation vor fremden Maßstäben. Der Versuch zu überzeugen offenbart: Du glaubst selbst nicht stark genug.
 
-Für Ungläubige: - Je mehr Energie in Widerlegung investiert wird, desto mehr bestätigt es Relevanz. Warum Aufwand für etwas Nicht-Existentes? Die Obsession verrät: Du bist nicht so sicher, wie du behauptest.
+Für Ungläubige: – Je mehr Energie in Widerlegung investiert wird, desto mehr bestätigt es Relevanz. Warum Aufwand für etwas Nicht-Existentes? Die Obsession verrät: Du bist nicht so sicher, wie du behauptest.
 
 Das Muster
 
@@ -358,7 +358,7 @@ Aber niemals, indem du so tust, als würde die Struktur plötzlich anfangen, Wah
 
 Wird sie nicht.
 
-„Eppur si muove."
+„Eppur si muove.“
 
 Siehe auch
 
