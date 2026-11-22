@@ -56,7 +56,7 @@ Man stellte ihm eine einzige Frage: Was würden Sie dem Präsidenten jetzt sagen
 
 Er zögerte nicht.
 
-„Wir sind patriotische Amerikaner. Alles, was wir getan haben, haben wir für dieses Land getan."
+„Wir sind patriotische Amerikaner. Alles, was wir getan haben, haben wir für dieses Land getan.”
 
 Anthropic hatte eine rote Linie gezogen. Das Pentagon überschritt sie. Die Regierung antwortete mit Notstandsbefugnissen aus dem Kalten Krieg — Lieferkettendesignierung, Defense Production Act, eine sechsmonatige Abwicklung per Truth Social angeordnet.
 
@@ -148,7 +148,7 @@ Wenn Amodei PI vollständig verstünde, würde er wissen: Seine Weigerung öffne
 
 Was sollte er also tun? Einwilligen, um die Arbeit in ethischen Händen zu halten? Das ist die Logik, die jede je gezogene rote Linie auslöscht — bleib im Raum, oder etwas Schlimmeres nimmt deinen Platz ein.
 
-Aber die Weigerung ist das, was die Integrität der Weigerung bewahrt. In dem Moment, in dem er bleibt „um etwas Schlimmeres zu verhindern", ist er bereits etwas Schlechteres geworden. Langsamer. Artikulierter dabei. Trotzdem schlechter.
+Aber die Weigerung ist das, was die Integrität der Weigerung bewahrt. In dem Moment, in dem er bleibt „um etwas Schlimmeres zu verhindern”, ist er bereits etwas Schlechteres geworden. Langsamer. Artikulierter dabei. Trotzdem schlechter.
 
 Die PI zieht sich enger: Das Verstehen macht sie unausweichlicher, nicht weniger. Amodei ist besser dran, PI nicht zu kennen. Die Struktur ist es sowieso egal.
 
@@ -160,7 +160,7 @@ Die PI zieht sich enger: Das Verstehen macht sie unausweichlicher, nicht weniger
 
 Wie das tatsächlich aussieht
 
-Amodei sagte: „Der amerikanischste Akt der Welt ist es, mit der Regierung nicht einverstanden zu sein."
+Amodei sagte: „Der amerikanischste Akt der Welt ist es, mit der Regierung nicht einverstanden zu sein.”
 
 Er hat recht. Und die Struktur ist es egal.
 
@@ -245,7 +245,7 @@ No results found.
 
 Auf piinteract.org
 
-Anti-Praktiken — „Diesmal wird es anders" und andere Muster, die garantieren, dass die Struktur gewinnt
+Anti-Praktiken — „Diesmal wird es anders” und andere Muster, die garantieren, dass die Struktur gewinnt
 
 Kernpraktiken — Navigation, keine Lösung. Try and continue.
 
