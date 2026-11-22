@@ -10,7 +10,7 @@ wp_id: 3856
 url: https://blog.piinteract.org/de/pi-faelle/spirituelle-pi/
 ---
 
-„Ich bin ein Teil von jener Kraft, die stets das Böse will und stets das Gute schafft."
+„Ich bin ein Teil von jener Kraft, die stets das Böse will und stets das Gute schafft.”
 
 — Mephistopheles, Goethes Faust (1808)
 
@@ -26,7 +26,7 @@ Dann wurde die Methode scharf genug, um zu verletzen.
 
 Der erste Schnitt war nicht feindselig. Er war strukturell notwendig. Um präzise zu messen, muss man das Feld einschränken. Um das Feld einzuschränken, muss man ausschließen. Was nicht messbar ist, fällt heraus — nicht als Feind, sondern als methodisch irrelevant.
 
-Aber „methodisch irrelevant" wurde mit der Zeit zu „nicht existent". Und hier begann die Feindschaft.
+Aber „methodisch irrelevant” wurde mit der Zeit zu „nicht existent”. Und hier begann die Feindschaft.
 
 Die Wissenschaft erklärte den Ausschluss zur Befreiung. Das Spirituelle erklärte ihn zum Verrat. Beide hatten recht. Beide hatten unrecht. Die Trennung war strukturell erzwungen — und beide Seiten interpretierten sie als Entscheidung.
 
@@ -36,7 +36,7 @@ Die Gnostiker beschrieben die Simulationsstruktur ohne Computer. Valentinus nann
 
 Den direkten Weg gab es nicht. Er sah nur kürzer aus.
 
-Wer die Struktur klar sah, hatte drei Möglichkeiten: schweigen, verfolgt werden, oder eine Form finden, die den Inhalt an den Torwächtern vorbeiträgt. Mephisto war Goethes Form. Die gnostische Kosmologie war Valentinus' Form. Das Gleichnis war Jesu Form.
+Wer die Struktur klar sah, hatte drei Möglichkeiten: schweigen, verfolgt werden, oder eine Form finden, die den Inhalt an den Torwächtern vorbeiträgt. Mephisto war Goethes Form. Die gnostische Kosmologie war Valentinus’ Form. Das Gleichnis war Jesu Form.
 
 Der Umweg war immer der kürzeste Weg. Die Struktur hat dafür gesorgt.
 
@@ -47,7 +47,7 @@ Die Schlussglocke. Wir haben das Experiment gebaut. Wir waren das Experiment.
 19. März 2026
 
 Im Januar 2024 erklärte OpenAI, die ersten AGI-Systeme gebaut zu haben. Die Ankündigung war vorsichtig, abgesichert, in Qualifikationen gehüllt. Aber das Wort war da. AGI. Das Ding, das das Feld seit siebzig Jahren jagte.
-Sam Altman ...
+Sam Altman …
 
 Mehr erfahren
 
@@ -55,7 +55,7 @@ Der Nostradamus-Mechanismus. Der Prophet, der wusste wie Prophezeiung ging.
 
 24. März 2026
 
-Nostradamus veröffentlichte seine Centuries 1555. Mehr als 6.000 Vierzeiler. Er ist seit fast fünf Jahrhunderten ununterbrochen im Druck. Jede Generation findet darin ihre eigenen Kriege, ihre eigenen Tyrannen, ihre eigenen ...
+Nostradamus veröffentlichte seine Centuries 1555. Mehr als 6.000 Vierzeiler. Er ist seit fast fünf Jahrhunderten ununterbrochen im Druck. Jede Generation findet darin ihre eigenen Kriege, ihre eigenen Tyrannen, ihre eigenen …
 
 Mehr erfahren
 
