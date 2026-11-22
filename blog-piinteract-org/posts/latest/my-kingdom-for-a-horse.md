@@ -18,7 +18,7 @@ Why the Wars of the Roses lasted thirty years—and why the succession that was 
 
 
 
-"I can add colours to the chameleon, Change shapes with Proteus for advantages, And set the murderous Machiavel to school."
+“I can add colours to the chameleon, Change shapes with Proteus for advantages, And set the murderous Machiavel to school.”
 
  — William Shakespeare, Henry VI, Part 3 (Richard, Duke of Gloucester)
 
@@ -148,7 +148,7 @@ How Every Solution Becomes the Next Problem
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Posthumous Correction. Why Being Right Requires Being Gone.
 
@@ -161,13 +161,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Warum Kriege nicht früher enden"] — Die Rosenkriege dauern dreißig Jahre, weil jede rationale Reaktion die Prämisse verlängert, nicht klärt.
+[“Warum Kriege nicht früher enden”] — Die Rosenkriege dauern dreißig Jahre, weil jede rationale Reaktion die Prämisse verlängert, nicht klärt.
 
-["Loyalität vor Kompetenz"] — Warwick wechselt die Seiten. Nicht aus Verrat — weil Loyalität keine stabile Grundlage hat, wenn die Legitimität selbst umstritten ist.
+[“Loyalität vor Kompetenz”] — Warwick wechselt die Seiten. Nicht aus Verrat — weil Loyalität keine stabile Grundlage hat, wenn die Legitimität selbst umstritten ist.
 
-["Interpretationshoheit erkennen"] — Shakespeare schreibt unter den Tudors, „The White Queen" unter anderen Vorzeichen. Wer erzählt, bestimmt, wer das Monster ist.
+[“Interpretationshoheit erkennen”] — Shakespeare schreibt unter den Tudors, „The White Queen” unter anderen Vorzeichen. Wer erzählt, bestimmt, wer das Monster ist.
 
-["Der Friedensstifter als Verräter"] — Jeder Vermittlungsversuch zwischen Lancaster und York wurde von der eigenen Seite als Schwäche gelesen.
+[“Der Friedensstifter als Verräter”] — Jeder Vermittlungsversuch zwischen Lancaster und York wurde von der eigenen Seite als Schwäche gelesen.
 
 
 
@@ -201,4 +201,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
