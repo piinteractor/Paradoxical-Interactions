@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-navigations-paradox/
 
 Warum bessere Werkzeuge für den Einzelnen nicht zu einer besseren Summe führen — und warum kein Marketingversprechen das korrigieren kann.
 
-„Indem er sein eigenes Interesse verfolgt, fördert er das der Gesellschaft oft wirksamer, als wenn er es tatsächlich zu fördern beabsichtigt."
+„Indem er sein eigenes Interesse verfolgt, fördert er das der Gesellschaft oft wirksamer, als wenn er es tatsächlich zu fördern beabsichtigt.”
 
 — Adam Smith, Der Wohlstand der Nationen (1776)
 
@@ -62,7 +62,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Navigation, nicht Lösung
 
-Es gibt keine Anleitung, die aus diesem Muster heraus führt, weil jede Anleitung selbst wieder eine individuelle Optimierung wäre — ein weiterer Tipp für den Einzelnen, in einem Problem, das auf der Ebene des Einzelnen gar nicht liegt. Was hilft, ist die Verschiebung der Frage. Nicht: „Wie nutze ich KI besser?" Sondern: „Was passiert, wenn diese Nutzung sich mit jeder anderen Nutzung addiert?" Nicht erwarten, dass Regulierung von außen kommt — wer reguliert, sitzt in derselben Struktur, mit denselben Werkzeugen, demselben begrenzten Blick. Aufhören zu erwarten, dass individuelle Tugend sich zu kollektivem Nutzen summiert; das hat noch nie funktioniert, unabhängig vom Werkzeug.
+Es gibt keine Anleitung, die aus diesem Muster heraus führt, weil jede Anleitung selbst wieder eine individuelle Optimierung wäre — ein weiterer Tipp für den Einzelnen, in einem Problem, das auf der Ebene des Einzelnen gar nicht liegt. Was hilft, ist die Verschiebung der Frage. Nicht: „Wie nutze ich KI besser?” Sondern: „Was passiert, wenn diese Nutzung sich mit jeder anderen Nutzung addiert?” Nicht erwarten, dass Regulierung von außen kommt — wer reguliert, sitzt in derselben Struktur, mit denselben Werkzeugen, demselben begrenzten Blick. Aufhören zu erwarten, dass individuelle Tugend sich zu kollektivem Nutzen summiert; das hat noch nie funktioniert, unabhängig vom Werkzeug.
 
 Was bleibt, lässt sich nicht auflösen: Es gibt keine Antwort auf die Frage, was der Einzelne anders tun soll, damit am Ende das Gesamtbild stimmt. Das ist keine Lücke im Denken. Das ist der Befund.
 
@@ -90,13 +90,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Nur optimieren"] — Genau das tut jeder Akteur im Navi-Paradox: optimieren, ohne die Summe zu sehen.
+[“Nur optimieren”] — Genau das tut jeder Akteur im Navi-Paradox: optimieren, ohne die Summe zu sehen.
 
-["Oslo-Kreisverkehr-Gridlock"] — Dieselbe Struktur, andere Stadt: individuell korrekte Entscheidungen, kollektiv verstopfte Straßen.
+[“Oslo-Kreisverkehr-Gridlock”] — Dieselbe Struktur, andere Stadt: individuell korrekte Entscheidungen, kollektiv verstopfte Straßen.
 
-["Jeder handelt rational — und es scheitert trotzdem"] — Das Szenario, das dieser Post an zwei konkreten Fällen durchspielt.
+[“Jeder handelt rational — und es scheitert trotzdem”] — Das Szenario, das dieser Post an zwei konkreten Fällen durchspielt.
 
-["KI-Alignment"] — Alignment scheitert nicht an bösem Willen, sondern an derselben Optimierungslogik, die das Navi-Paradox beschreibt.
+[“KI-Alignment”] — Alignment scheitert nicht an bösem Willen, sondern an derselben Optimierungslogik, die das Navi-Paradox beschreibt.
 
 Siehe auch (externe Links):
 
