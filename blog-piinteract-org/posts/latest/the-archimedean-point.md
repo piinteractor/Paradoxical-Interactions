@@ -18,7 +18,7 @@ Relativity connects descriptions that no observer experiences at once. Its diagr
 
 
 
-"Give me a place to stand, and I will move the earth."
+“Give me a place to stand, and I will move the earth.”
 
 — Archimedes (as recorded by Pappus of Alexandria)
 
@@ -102,11 +102,11 @@ Still, the diagram performs a small miracle. It lets the reader survey relations
 
 Everyone acts rationally:
 
-- The physicist compresses several coordinate descriptions into one representation.
+– The physicist compresses several coordinate descriptions into one representation.
 
-- The teacher uses that compression to make their relation intelligible.
+– The teacher uses that compression to make their relation intelligible.
 
-- The reader treats the common page as a stable place from which to compare them.
+– The reader treats the common page as a stable place from which to compare them.
 
 Nothing has gone wrong. And yet something can: the stable place on the page begins to feel like a neutral standpoint in reality. A tool for comparison acquires the authority of an observer who is nowhere situated.
 
@@ -128,11 +128,11 @@ The structural transfer begins elsewhere: with the move from a constructed relat
 
 That move is useful. Often indispensable. It is also easy to conceal:
 
-- Without compression, comparison becomes difficult.
+– Without compression, comparison becomes difficult.
 
-- With compression, the conditions of comparison disappear from view.
+– With compression, the conditions of comparison disappear from view.
 
-- The more successful the representation, the less constructed it appears.
+– The more successful the representation, the less constructed it appears.
 
 The attempted solution creates its own blind spot. We gain orientation by producing a standpoint whose situatedness we no longer notice.
 
@@ -150,13 +150,13 @@ Not: abolish diagrams. A map does not become dishonest because no landscape look
 
 The better questions are:
 
-- Which relations does the representation preserve?
+– Which relations does the representation preserve?
 
-- Which differences does it suppress?
+– Which differences does it suppress?
 
-- Who selected the terms of comparison?
+– Who selected the terms of comparison?
 
-- Where does formal translation end and interpretation begin?
+– Where does formal translation end and interpretation begin?
 
 In special relativity, the translation is mathematically constrained. The speed of light in vacuum is invariant, as is the spacetime interval. Observers may assign different spatial and temporal coordinates while agreeing on invariant relations.
 
@@ -198,7 +198,7 @@ How systems theorists reproduce the enclosure milieus Luhmann warned against
 
 Three Particles Walk Into a Structure
 
-One is honest. Two are not. Physics knows the difference — and pretends it doesn't.
+One is honest. Two are not. Physics knows the difference — and pretends it doesn’t.
 
 No results found.
 
@@ -207,26 +207,26 @@ No results found.
 
 On piinteract.org:
 
-["Perspective Switching (Intrinsic ↔ Extrinsic)"] — The man on the train and the pedestrian never trade places. They only ask what would be rational from the other's position — and stay exactly where they're standing.
+[“Perspective Switching (Intrinsic ↔ Extrinsic)”] — The man on the train and the pedestrian never trade places. They only ask what would be rational from the other’s position — and stay exactly where they’re standing.
 
-["Accept Incompleteness"] — The exact gap neither observer can close alone is where the Two-Idiot Theorem actually goes to work.
+[“Accept Incompleteness”] — The exact gap neither observer can close alone is where the Two-Idiot Theorem actually goes to work.
 
-["Recognize the Shared Blindspot"] — The Archimedean point is the blind spot teacher and student share: both need it, neither can justify it.
+[“Recognize the Shared Blindspot”] — The Archimedean point is the blind spot teacher and student share: both need it, neither can justify it.
 
-["Name the Paradox"] — The diagram doesn't disappear once you name it. But you stop mistaking its third party for a real observer.
+[“Name the Paradox”] — The diagram doesn’t disappear once you name it. But you stop mistaking its third party for a real observer.
 
 
 
 
 See also (external links):
 
-Relativity: The Special and the General Theory (1917) — Einstein's own text, Chapter III: the original passage where he introduces himself as the observer on the train, before the second observer even appears.
+Relativity: The Special and the General Theory (1917) — Einstein’s own text, Chapter III: the original passage where he introduces himself as the observer on the train, before the second observer even appears.
 
 On the Electrodynamics of Moving Bodies (1905) — The original paper, where Einstein fixes the one shared invariant every translation between reference frames depends on: the constancy of the speed of light.
 
-K-calculus in 4-dimensional optics (arXiv) — Formalizes Bondi's method: two observers, only light signals, no shared stage from which both would be visible at once.
+K-calculus in 4-dimensional optics (arXiv) — Formalizes Bondi’s method: two observers, only light signals, no shared stage from which both would be visible at once.
 
-Conventionality of Simultaneity — Stanford Encyclopedia of Philosophy: the still-unresolved debate over whether "simultaneous" can be defined independently of a convention at all.
+Conventionality of Simultaneity — Stanford Encyclopedia of Philosophy: the still-unresolved debate over whether “simultaneous” can be defined independently of a convention at all.
 
 
 
@@ -247,4 +247,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) & ChatGPT (OpenAI) — three incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) & ChatGPT (OpenAI) — three incomplete systems making each other’s gaps visible.
