@@ -18,7 +18,7 @@ Why the auditor independent enough to catch your blind spot would need a standar
 
 
 
-"...by my own plait of hair, together with the horse, which I locked firmly between my knees."
+“…by my own plait of hair, together with the horse, which I locked firmly between my knees.”
 
 — Rudolf Erich Raspe, The Surprising Adventures of Baron Munchausen (1785)
 
@@ -180,7 +180,7 @@ All are guilty. None are at fault.
 
 
 
-Navigate, Don't Solve
+Navigate, Don’t Solve
 
 Albert did not offer a fourth door.
 
@@ -258,13 +258,13 @@ No results found.
 
 On piinteract.org
 
-["Recognize the Shared Blindspot"] — the trilemma is this practice's proof: there is no ungrounded ground to stand on to see it from.
+[“Recognize the Shared Blindspot”] — the trilemma is this practice’s proof: there is no ungrounded ground to stand on to see it from.
 
-["Accept Incompleteness"] — no system, and no auditor of a system, closes its own gap from inside. (anchor unconfirmed — verify exact fragment before publishing; practice #16 on the core-practices page)
+[“Accept Incompleteness”] — no system, and no auditor of a system, closes its own gap from inside. (anchor unconfirmed — verify exact fragment before publishing; practice #16 on the core-practices page)
 
-["Name the Paradox"] — the trilemma doesn't resolve when named. It stops pretending a fourth door exists.
+[“Name the Paradox”] — the trilemma doesn’t resolve when named. It stops pretending a fourth door exists.
 
-["Infect and Forget"] — scattering imperfect correctors instead of hiring one perfect one is the trilemma's only working navigation.
+[“Infect and Forget”] — scattering imperfect correctors instead of hiring one perfect one is the trilemma’s only working navigation.
 
 
 
@@ -273,13 +273,13 @@ See also (external links):
 
 Baron Munchausen — biographical and literary record — the 1785 tale, and the origin of the image this piece is built on.
 
-Münchhausen trilemma — Hans Albert's 1968 formulation: regress, circularity, or dogmatism, with no fourth option.
+Münchhausen trilemma — Hans Albert’s 1968 formulation: regress, circularity, or dogmatism, with no fourth option.
 
 Agrippa the Skeptic — the ancient version, recorded by Sextus Empiricus roughly two thousand years earlier.
 
-Problem of the Criterion (Internet Encyclopedia of Philosophy) — Chisholm's modern framing of the same regress: you need a criterion to sort knowledge from non-knowledge, and a criterion for the criterion, going down.
+Problem of the Criterion (Internet Encyclopedia of Philosophy) — Chisholm’s modern framing of the same regress: you need a criterion to sort knowledge from non-knowledge, and a criterion for the criterion, going down.
 
-Gödel's Incompleteness Theorems (Stanford Encyclopedia of Philosophy) — the formal cousin from "The Missing Organ": no sufficiently powerful system certifies itself from within, and the auditor one level up inherits the same problem.
+Gödel’s Incompleteness Theorems (Stanford Encyclopedia of Philosophy) — the formal cousin from “The Missing Organ”: no sufficiently powerful system certifies itself from within, and the auditor one level up inherits the same problem.
 
 
 
@@ -300,4 +300,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) & ChatGPT (OpenAI) — three incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) & ChatGPT (OpenAI) — three incomplete systems making each other’s gaps visible.
