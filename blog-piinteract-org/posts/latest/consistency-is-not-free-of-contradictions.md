@@ -25,9 +25,9 @@ Organizations hate contradictions. Two departments want opposing things? Resolve
 
 Sounds rational.
 
-It's a trap.
+It’s a trap.
 
-Because: Contradictions don't disappear. They shift.
+Because: Contradictions don’t disappear. They shift.
 
 
 
@@ -43,11 +43,11 @@ Solution: Clear hierarchy. Top-down decisions.
 
 New contradiction: Teams lose initiative. Innovation dies. But management wants innovation.
 
-So: "Empowerment programs." Autonomy within controlled boundaries.
+So: “Empowerment programs.” Autonomy within controlled boundaries.
 
-Next contradiction: Teams should decide independently, but only make "correct" decisions. What's correct? Management defines it. That's not autonomy. That's pseudo-autonomy with control overhead.
+Next contradiction: Teams should decide independently, but only make “correct” decisions. What’s correct? Management defines it. That’s not autonomy. That’s pseudo-autonomy with control overhead.
 
-The original contradiction isn't solved. It's disguised.
+The original contradiction isn’t solved. It’s disguised.
 
 
 
@@ -61,11 +61,11 @@ Karl Popper formulated it in 1945: A tolerant society need not tolerate intolera
 
 Contradiction eliminated? No. Shifted.
 
-Because now: Who decides what's intolerant? Who draws the line? By what authority?
+Because now: Who decides what’s intolerant? Who draws the line? By what authority?
 
 Every boundary drawn is itself an act of intolerance toward what gets excluded.
 
-The paradox doesn't vanish. It reproduces itself in the practice of its own solution.
+The paradox doesn’t vanish. It reproduces itself in the practice of its own solution.
 
 
 
@@ -77,11 +77,11 @@ Example 3: Agile vs. Planning
 
 Contradiction: Long-term planning versus flexible response to change.
 
-Solution: Agile methods. "Embrace change."
+Solution: Agile methods. “Embrace change.”
 
 New contradiction: Investors want roadmaps. Customers want reliability. Compliance demands documentation.
 
-So: "Agile at scale." Scrum of Scrums. SAFe. LeSS.
+So: “Agile at scale.” Scrum of Scrums. SAFe. LeSS.
 
 Next contradiction: The frameworks meant to enable flexibility ossify into process bureaucracy.
 
@@ -97,7 +97,7 @@ Why This Is Structural
 
 Consistency sounds like a goal.
 
-It's an illusion.
+It’s an illusion.
 
 Systems operate with multiple logics simultaneously:
 
@@ -109,7 +109,7 @@ Individual vs. collective
 
 Security vs. innovation
 
-These logics are incommensurable. They can't be reduced to a common currency.
+These logics are incommensurable. They can’t be reduced to a common currency.
 
 Every attempt to do so produces:
 
@@ -139,7 +139,7 @@ Balance instead of resolve
 
 Accept instead of deny
 
-Contradictions aren't bugs in the system.
+Contradictions aren’t bugs in the system.
 
 They are the system.
 
@@ -155,15 +155,15 @@ And now the final twist:
 
 This text is contradictory too.
 
-It argues: "Contradictions can't be resolved."
+It argues: “Contradictions can’t be resolved.”
 
-Simultaneously positions itself as solution: "PI helps navigate."
+Simultaneously positions itself as solution: “PI helps navigate.”
 
-That's not a bug. That's a feature.
+That’s not a bug. That’s a feature.
 
-Because whoever claims to stand above contradictions hasn't understood them.
+Because whoever claims to stand above contradictions hasn’t understood them.
 
-We're in the contradictions. Always.
+We’re in the contradictions. Always.
 
 PI offers no resolution. Only navigation.
 
@@ -175,4 +175,4 @@ Try and continue.
 
 
 
-This article is part of the series "Paradoxical Interactions Explained" – understanding structures that can't be solved.
+This article is part of the series “Paradoxical Interactions Explained” – understanding structures that can’t be solved.
