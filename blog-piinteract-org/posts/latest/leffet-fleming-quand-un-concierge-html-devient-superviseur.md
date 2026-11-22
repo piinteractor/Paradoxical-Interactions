@@ -235,7 +235,7 @@ C’est ça, l’effet Fleming.
 
 
 
-L'IP de l’effet Fleming
+L’IP de l’effet Fleming
 
 Un outil affecté à une tâche technique étroite devient superviseur du projet sous‑jacent parce qu’il est exposé en continu à l’ensemble de son contenu.
 
@@ -349,11 +349,11 @@ Les liens thématiques les plus proches :
 
 Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
 
-Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
+Pourquoi demander à l’IA comment aligner l’IA est le paradoxe parfait
 
 « Le pouvoir évolue plus rapidement que l’alignement »
 
-Quand le PDG d'une entreprise de sécurité IA vous dit que le contrôle échoue, croyez-le
+Quand le PDG d’une entreprise de sécurité IA vous dit que le contrôle échoue, croyez-le
 
 Déserrorer la Pratique
 
@@ -372,9 +372,9 @@ No results found.
 
 Sur piinteract.org
 
-Cadre — Définitions fondamentales des interactions paradoxales et pourquoi la structure, et non l'intention, détermine les résultats.
+Cadre — Définitions fondamentales des interactions paradoxales et pourquoi la structure, et non l’intention, détermine les résultats.
 
-Exemples : Technologie et IA — Cas où les systèmes techniques modifient discrètement les rapports de force et de contrôle sans qu'il y ait de méchants explicites.
+Exemples : Technologie et IA — Cas où les systèmes techniques modifient discrètement les rapports de force et de contrôle sans qu’il y ait de méchants explicites.
 
 Pratiques fondamentales — Comment utiliser la PI comme un outil de navigation plutôt que comme un catalogue de solutions.
 
@@ -403,4 +403,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
