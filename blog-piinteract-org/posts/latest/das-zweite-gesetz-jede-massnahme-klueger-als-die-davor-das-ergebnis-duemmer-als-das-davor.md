@@ -18,7 +18,7 @@ Warum ein zweiter regulatorischer Eingriff — noch im Stadium der Diskussion �
 
 
 
-„Für jedes komplexe Problem gibt es eine Antwort, die klar, einfach und falsch ist."
+„Für jedes komplexe Problem gibt es eine Antwort, die klar, einfach und falsch ist.”
 
 — H.L. Mencken
 
@@ -142,7 +142,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Navigation
 
-Das Wort dafür ist nicht „Dummheit". Dummheit impliziert ein Versagen der Intelligenz. Was hier passiert, ist ein Versagen der Struktur — was schlimmer ist, weil es durch klügere Menschen nicht korrigierbar ist.
+Das Wort dafür ist nicht „Dummheit”. Dummheit impliziert ein Versagen der Intelligenz. Was hier passiert, ist ein Versagen der Struktur — was schlimmer ist, weil es durch klügere Menschen nicht korrigierbar ist.
 
 Das erste Gesetz wurde unabhängig analysiert. Es hat seine eigene Kosten-Nutzen-Prüfung bestanden. Es hatte eine vertretbare Veränderungstheorie. Das zweite wird genauso analysiert — unabhängig, nach eigenen Kriterien, gegen eigene Indikatoren.
 
@@ -177,7 +177,7 @@ Die synchronisierte Uhr. Wie ein Gesetz gegen Preischaos ein Preiskartell erzeug
 
 Warum jeder radikale Bruch reproduziert, was er abgeschafft hat — und warum der einzige Mann, der nicht diskutierte, gewann.
 
-How Luhmann Refutes Himself. And Why It's Urgently Necessary.
+How Luhmann Refutes Himself. And Why It’s Urgently Necessary.
 
 Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
 
