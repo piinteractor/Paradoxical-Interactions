@@ -18,7 +18,7 @@ After PI: Where is it not?
 
 Examples
 
-PI exist everywhere. Once you see the pattern, you can't unsee it.
+PI exist everywhere. Once you see the pattern, you can’t unsee it.
 
 These are not isolated failures. They are structural features of how rational actors interact when their goals, constraints, and perspectives collide.
 
