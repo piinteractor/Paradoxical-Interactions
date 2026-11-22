@@ -10,7 +10,7 @@ wp_id: 1112
 url: https://blog.piinteract.org/fr/le-paradoxe-perelman/
 ---
 
-« Je ne m'intéresse ni à l'argent ni à la célébrité ; je ne veux pas être exposé comme un animal dans un zoo. Je ne suis pas un héros des mathématiques. Je ne suis même pas si brillant que ça ; c'est pourquoi je ne veux pas que tout le monde me regarde. »
+« Je ne m’intéresse ni à l’argent ni à la célébrité ; je ne veux pas être exposé comme un animal dans un zoo. Je ne suis pas un héros des mathématiques. Je ne suis même pas si brillant que ça ; c’est pourquoi je ne veux pas que tout le monde me regarde. »
 
 — Grigori Perelman
 
