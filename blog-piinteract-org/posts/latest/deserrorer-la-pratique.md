@@ -80,7 +80,7 @@ Pensez aux systèmes biologiques:
 
 Réplication de l'ADN (Abel/Autopoïèse): Haute fidélité. Correction d'erreurs. Reproduction presque parfaite.
 
-Mutation (Caïn/PI): Erreurs dans la réplication. "Erreurs." Variations.
+Mutation (Caïn/PI): Erreurs dans la réplication. “Erreurs.” Variations.
 
 Si la réplication de l'ADN était 100% parfaite:
 
@@ -128,15 +128,15 @@ La Différence en Pratique
 
 Scénario: Violation de sécurité dans votre système.
 
-Réponse Sans Erreur: "Qui a échoué? Licenciez-les. Implémentez des contrôles pour empêcher cette violation spécifique. Documentez la procédure. Plus jamais."
+Réponse Sans Erreur: “Qui a échoué? Licenciez-les. Implémentez des contrôles pour empêcher cette violation spécifique. Documentez la procédure. Plus jamais.”
 
-Résultat: Cette violation spécifique ne se reproduira pas. Mais le système devient plus rigide. Prochaine violation—légèrement différente—exploite les nouveaux contrôles. Le schéma se répète. Chaque "correction" rend le système plus vulnérable aux attaques inattendues.
+Résultat: Cette violation spécifique ne se reproduira pas. Mais le système devient plus rigide. Prochaine violation—légèrement différente—exploite les nouveaux contrôles. Le schéma se répète. Chaque “correction” rend le système plus vulnérable aux attaques inattendues.
 
-Réponse Tolérante aux Erreurs: "Les échecs arrivent. Apprenons. Construisons la résilience. Acceptons que les violations se produisent."
+Réponse Tolérante aux Erreurs: “Les échecs arrivent. Apprenons. Construisons la résilience. Acceptons que les violations se produisent.”
 
-Résultat: La sécurité psychologique augmente. Mais "accepter l'échec" devient permission de ne pas enquêter sur les causes structurelles. Prochaine violation: "Eh bien, nous avons dit que les échecs arrivent." Le schéma se répète.
+Résultat: La sécurité psychologique augmente. Mais “accepter l'échec” devient permission de ne pas enquêter sur les causes structurelles. Prochaine violation: “Eh bien, nous avons dit que les échecs arrivent.” Le schéma se répète.
 
-Réponse Déserrorée: "Cette violation révèle un schéma structurel. Pas qui a échoué—quelle structure a rendu cette violation inévitable? Comment cette erreur informe-t-elle la prochaine itération?"
+Réponse Déserrorée: “Cette violation révèle un schéma structurel. Pas qui a échoué—quelle structure a rendu cette violation inévitable? Comment cette erreur informe-t-elle la prochaine itération?”
 
 Résultat: La violation n'est pas éliminée ou tolérée. Elle est intégrée. Le système ne devient pas plus rigide (sans erreur) ou plus passif (tolérant aux erreurs). Il devient plus adaptatif.
 
@@ -182,7 +182,7 @@ Pour les investisseurs: "Votre argent pourrait échouer de manières imprévisib
 
 Tout vrai. Tout nécessaire. Tout impossible à vendre.
 
-Le Piège d'Abel
+Le Piège d’Abel
 
 Voici ce qui tue les organisations:
 
@@ -194,31 +194,31 @@ Le marché répond
 
 Le processus se cristallise
 
-"Ne changez jamais une équipe gagnante"
+“Ne changez jamais une équipe gagnante”
 
 Le système optimise pour la reproduction du succès. Élimination des erreurs. Meilleures pratiques. Documentation. Standards.
 
-Résultat: Reproduction parfaite de la solution d'hier. Capacité zéro pour le problème de demain.
+Résultat: Reproduction parfaite de la solution d’hier. Capacité zéro pour le problème de demain.
 
 Quand la perturbation arrive (Caïn apparaît):
 
-"On ne fait pas ça comme ça"
+“On ne fait pas ça comme ça”
 
-"Ce n'est pas notre compétence de base"
+“Ce n’est pas notre compétence de base”
 
-"Nos clients ne veulent pas ça"
+“Nos clients ne veulent pas ça”
 
-"Les données ne le soutiennent pas"
+“Les données ne le soutiennent pas”
 
 Tout vrai. Tout rationnel. Tout fatal.
 
-L'organisation a optimisé sa capacité à gérer Caïn.
+L’organisation a optimisé sa capacité à gérer Caïn.
 
 Quand Abel élimine Caïn, Abel meurt. Finalement.
 
 Pourquoi Dieu Ne Pouvait Pas Sauver Abel
 
-C'est le nœud théologique:
+C’est le nœud théologique:
 
 Dieu devait choisir: Sauver Abel ou sauver le système.
 
@@ -228,11 +228,11 @@ Protéger Caïn = Abel meurt = Douloureux = Le système survit
 
 Dieu a choisi la survie du système plutôt que la préservation individuelle.
 
-"Tous sont coupables. Personne n'est responsable."
+“Tous sont coupables. Personne n’est responsable.”
 
-Abel ne méritait pas de mourir. Caïn devait tuer. Dieu ne pouvait pas l'empêcher sans détruire la capacité au changement.
+Abel ne méritait pas de mourir. Caïn devait tuer. Dieu ne pouvait pas l’empêcher sans détruire la capacité au changement.
 
-Le meurtre n'était pas un échec moral. C'était une nécessité structurelle.
+Le meurtre n’était pas un échec moral. C’était une nécessité structurelle.
 
 Ce Que Cela Signifie pour la Pratique
 
@@ -324,9 +324,9 @@ Les deux pourraient avoir raison.
 
 Pourquoi Cela Valide les PI
 
-Un cadre qui prétend que les problèmes structurels ne peuvent pas être résolus, seulement navigués...
+Un cadre qui prétend que les problèmes structurels ne peuvent pas être résolus, seulement navigués…
 
-Et qui décrit ensuite une pratique qui ne peut pas être prouvée, seulement démontrée par ce qui n'arrive pas...
+Et qui décrit ensuite une pratique qui ne peut pas être prouvée, seulement démontrée par ce qui n'arrive pas…
 
 Ce n'est pas une faiblesse. C'est de la cohérence.
 
@@ -418,7 +418,7 @@ Voir aussi:
 
 Pratiques Fondamentales—Ce qui navigue réellement
 
-Anti-Pratiques—Ce qui garantit l'échec
+Anti-Pratiques—Ce qui garantit l’échec
 
 Cadre—La fondation théorique complète
 
