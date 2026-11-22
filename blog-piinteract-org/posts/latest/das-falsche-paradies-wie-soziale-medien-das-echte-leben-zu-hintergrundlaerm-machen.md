@@ -283,7 +283,7 @@ AI Alignment — Technology & AI Examples — The structural dimension of what A
 
 Core Practices — Foundational PI concepts and navigation strategies
 
-Anti-Practices — "This Time Will Be Different" and other patterns that strengthen PI
+Anti-Practices — “This Time Will Be Different” and other patterns that strengthen PI
 
 The PI Framework — What Paradoxical Interactions are and why they matter
 
