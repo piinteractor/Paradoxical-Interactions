@@ -18,7 +18,7 @@ Why cybernetics invented the observer and yet remained alone — and why, today,
 
 
 
-"Only a party to a case can really judge, but, being a party, it cannot judge. Hence there is no possibility of judgement in the world but only the glimmer of a possibiliity."
+“Only a party to a case can really judge, but, being a party, it cannot judge. Hence there is no possibility of judgement in the world but only the glimmer of a possibiliity.”
 
 — Franz Kafka, The Eight Octave Notebooks
 
@@ -34,7 +34,7 @@ The Setup
 
 In 1943, cybernetics found purpose inside the machine. In 1966, Hans Jonas denied it could live there. In 1974, Heinz von Foerster placed the observer inside the system — and declared the loop unsolvable. Thought has been standing there ever since. In 2026, David Silver raises $1.1 billion for a superlearner meant to discover all knowledge from its own experience, without human data. The critics cite Wiener, Jonas, Foerster — and repeat their move: they look for the property inside a single system. One system. One purpose. One observer. Always the singular. But the structure emerges in the plural.
 
-On April 27, 2026, Ineffable Intelligence steps out of stealth. David Silver, the man behind AlphaZero, has raised $1.1 billion — at a valuation of $5.1 billion, before anything exists except a goal. The goal: a superlearner that discovers all knowledge from its own experience. No human data. The company website carries a sentence you read twice: if it succeeds, it would be a breakthrough of Darwin's magnitude — his law explained all Life, ours will explain and build all Intelligence.
+On April 27, 2026, Ineffable Intelligence steps out of stealth. David Silver, the man behind AlphaZero, has raised $1.1 billion — at a valuation of $5.1 billion, before anything exists except a goal. The goal: a superlearner that discovers all knowledge from its own experience. No human data. The company website carries a sentence you read twice: if it succeeds, it would be a breakthrough of Darwin’s magnitude — his law explained all Life, ours will explain and build all Intelligence.
 
 The criticism came fast, and it came well-read. It cited eighty years of cybernetics. And it stopped exactly where cybernetics had stopped.
 
@@ -87,7 +87,7 @@ What Emerges in the Plural
 
 Gödel: no system can prove its own consistency — one system. Heisenberg: no observer measures without disturbing — one observer. Foerster: no observation without an observer — one. All singular sentences, all true, all thought to their end in the same place.
 
-Paradoxical Interactions begin one step to the side: with what emerges between systems and resides in none of them. The superlearner is not produced by a system but by a constellation. Silver builds — rationally: it is his life's work, and the method conquered Go and chess. Sequoia, Lightspeed, Nvidia fund — rationally: whoever sits out the race for superintelligence has already lost it. The critics criticize — rationally: with the best available theory, which is cybernetics. Every actor acts coherently. Together they produce a structure nobody ordered: a race in which the question of whether the goal is reachable no longer has any influence on the pace.
+Paradoxical Interactions begin one step to the side: with what emerges between systems and resides in none of them. The superlearner is not produced by a system but by a constellation. Silver builds — rationally: it is his life’s work, and the method conquered Go and chess. Sequoia, Lightspeed, Nvidia fund — rationally: whoever sits out the race for superintelligence has already lost it. The critics criticize — rationally: with the best available theory, which is cybernetics. Every actor acts coherently. Together they produce a structure nobody ordered: a race in which the question of whether the goal is reachable no longer has any influence on the pace.
 
 All are guilty. None are at fault.
 
@@ -162,13 +162,13 @@ No results found.
 
 On piinteract.org:
 
-["Séance of Systems Theorists"] — Wiener, Jonas, Foerster at one table: each describes the loop. None describes what emerges between the describers.
+[“Séance of Systems Theorists”] — Wiener, Jonas, Foerster at one table: each describes the loop. None describes what emerges between the describers.
 
-["Shared Blindspot"] — A single system makes its own gaps invisible. The shared blind spot only shows itself in the plural.
+[“Shared Blindspot”] — A single system makes its own gaps invisible. The shared blind spot only shows itself in the plural.
 
-["See Problem, Solve Problem"] — The basic monocausal move: one cause, one location, one solution. The superlearner is its most expensive edition to date.
+[“See Problem, Solve Problem”] — The basic monocausal move: one cause, one location, one solution. The superlearner is its most expensive edition to date.
 
-["AI Alignment"] — The race in which the reachability of the goal no longer influences the pace.
+[“AI Alignment”] — The race in which the reachability of the goal no longer influences the pace.
 
 
 
@@ -177,13 +177,13 @@ See also (external links):
 
 Ineffable Intelligence — Mission & Beliefs — Primary source for the Darwin comparison and the goal of discovering all knowledge without human data. The singular is written into the program: one superlearner, one law.
 
-Silver & Sutton: Welcome to the Era of Experience (PDF) — The superlearner's theoretical foundation, first hand: experience replaces human data, reward replaces judgment.
+Silver & Sutton: Welcome to the Era of Experience (PDF) — The superlearner’s theoretical foundation, first hand: experience replaces human data, reward replaces judgment.
 
 Rosenblueth, Wiener, Bigelow: Behavior, Purpose and Teleology (1943) — The start of the chain: the peer-reviewed first claim that machines can act purposefully.
 
-Hans Jonas: The Phenomenon of Life (Northwestern University Press) — The 1966 objection: purpose requires the possibility of dying. The publisher's page for the authoritative edition.
+Hans Jonas: The Phenomenon of Life (Northwestern University Press) — The 1966 objection: purpose requires the possibility of dying. The publisher’s page for the authoritative edition.
 
-TechCrunch: DeepMind's David Silver just raised $1.1B — Evidence for funding, valuation and investor list, April 27, 2026.
+TechCrunch: DeepMind’s David Silver just raised $1.1B — Evidence for funding, valuation and investor list, April 27, 2026.
 
 
 
@@ -204,4 +204,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
