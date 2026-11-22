@@ -292,7 +292,7 @@ How Every Solution Becomes the Next Problem
 
 Terminological Hijacking: The Crime, The Confession, The “So What?”
 
-Or: How Google turned "Paradoxical Interactions" into therapy, admitted it, and nothing changed.
+Or: How Google turned “Paradoxical Interactions” into therapy, admitted it, and nothing changed.
 
 No results found.
 
@@ -314,4 +314,4 @@ contact@piinteract.org
 
 www.piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
