@@ -120,11 +120,11 @@ Articles connexes
 
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
-Gagne la position. Garantis ta mort. Répète à l'infini.
+Gagne la position. Garantis ta mort. Répète à l’infini.
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 Le Piège de l’Intelligence
 
@@ -132,31 +132,31 @@ Pourquoi les gens intelligents rejettent les idées plus intelligentes – et ag
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 No results found.
 
 Sur piinteract.org:
 
-["Ne combats pas le schéma"] — Santiago ne négocie pas avec les requins. Il navigue.
+[“Ne combats pas le schéma”] — Santiago ne négocie pas avec les requins. Il navigue.
 
-["L'IP n'est pas le désespoir"] — Essayer et continuer ne veut pas dire que ça ira mieux. Ça veut dire repartir en mer.
+[“L’IP n’est pas le désespoir”] — Essayer et continuer ne veut pas dire que ça ira mieux. Ça veut dire repartir en mer.
 
-["Tue le messager"] — le mécanisme que la fin décrit directement.
+[“Tue le messager”] — le mécanisme que la fin décrit directement.
 
-["Le bon outil réglera ça"] — ni bateau plus grand, ni couteau plus aiguisé. Un régulateur absent n'est pas un problème d'outillage.
+[“Le bon outil réglera ça”] — ni bateau plus grand, ni couteau plus aiguisé. Un régulateur absent n’est pas un problème d’outillage.
 
 Voir aussi (liens externes) :
 
 The Nobel Prize in Literature 1954 — NobelPrize.org — La motivation officielle du Nobel, qui cite explicitement The Old Man and the Sea.
 
-When Ernest Hemingway Walked Away From Two Plane Crashes Just Hours Apart (Mental Floss) — Les deux accidents d'avion en Afrique de l'Est en 1954, quelques mois avant la cérémonie du Nobel.
+When Ernest Hemingway Walked Away From Two Plane Crashes Just Hours Apart (Mental Floss) — Les deux accidents d’avion en Afrique de l’Est en 1954, quelques mois avant la cérémonie du Nobel.
 
-Hemingway's Correspondence around Across the River and into the Trees (1949–1950): Process and Reception (The Hemingway Society) — La réception critique du roman qui a immédiatement précédé The Old Man and the Sea.
+Hemingway’s Correspondence around Across the River and into the Trees (1949–1950): Process and Reception (The Hemingway Society) — La réception critique du roman qui a immédiatement précédé The Old Man and the Sea.
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'y peut rien.
+Tous sont coupables. Personne n’y peut rien.
 
 Peter Senner, penser au delà du Tellerrand
 
@@ -164,4 +164,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic)  & ChatGPT (OpenAI) — trois systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic)  & ChatGPT (OpenAI) — trois systèmes incomplets rendant visibles les lacunes de l’autre.
