@@ -76,9 +76,9 @@ Das ist nicht dasselbe wie Zufall. Eine echte Zufallsfolge balanciert sich im Mi
 
 Wie Tao es bewies
 
-Erdős bot in den 1950er-Jahren 500 Dollar für eine Lösung. Er starb 1996, ohne sie zu sehen. 2009 machte Timothy Gowers das Problem zum Gegenstand von Polymath5, einem offenen Kollektivprojekt: Jeder durfte mitrechnen, in den Kommentarspalten seines Blogs. Bis 2012 kam das Projekt zum Stillstand – aber es hinterließ, was Gowers selbst „Griffe an einer glatten Abrisskugel" nannte. Der wichtigste Griff: Es reicht, das Problem für multiplikative Folgen zu lösen, bei denen jeder Eintrag durch Multiplikation seiner Faktoren bestimmt ist.
+Erdős bot in den 1950er-Jahren 500 Dollar für eine Lösung. Er starb 1996, ohne sie zu sehen. 2009 machte Timothy Gowers das Problem zum Gegenstand von Polymath5, einem offenen Kollektivprojekt: Jeder durfte mitrechnen, in den Kommentarspalten seines Blogs. Bis 2012 kam das Projekt zum Stillstand – aber es hinterließ, was Gowers selbst „Griffe an einer glatten Abrisskugel” nannte. Der wichtigste Griff: Es reicht, das Problem für multiplikative Folgen zu lösen, bei denen jeder Eintrag durch Multiplikation seiner Faktoren bestimmt ist.
 
-Im September 2015 fand Terence Tao den letzten Handgriff. Er zerlegt jede Folge in Abschnitte und misst deren Entropie – ein Maß dafür, wie viel Zufälligkeit ein System noch übrig hat. Bei jedem neuen Abschnitt gilt: Entweder bricht die Balance sofort, oder die Entropie sinkt um einen festen Betrag. Entropie kann nicht unter null fallen. Also muss nach endlich vielen Schritten der erste Fall eintreten. Tao nannte es selbst einen „Zaubertrick" – der Gegner scheint die Wahl zu haben, aber jede Wahl führt zum selben Ergebnis. Erdős' 500 Dollar gingen postum an seinen Nachlass.
+Im September 2015 fand Terence Tao den letzten Handgriff. Er zerlegt jede Folge in Abschnitte und misst deren Entropie – ein Maß dafür, wie viel Zufälligkeit ein System noch übrig hat. Bei jedem neuen Abschnitt gilt: Entweder bricht die Balance sofort, oder die Entropie sinkt um einen festen Betrag. Entropie kann nicht unter null fallen. Also muss nach endlich vielen Schritten der erste Fall eintreten. Tao nannte es selbst einen „Zaubertrick” – der Gegner scheint die Wahl zu haben, aber jede Wahl führt zum selben Ergebnis. Erdős’ 500 Dollar gingen postum an seinen Nachlass.
 
 Dieselbe Mathematik trägt die Praxis quantitativer Fonds: Kombiniere genug einzeln fast bedeutungslose Signale über eine lange genug Sequenz, und es entsteht ein Muster – echtes oder scheinbares. Das ist kein Bonus der Kombination. Es ist ihr Preis.
 
@@ -90,7 +90,7 @@ Dieselbe Mathematik trägt die Praxis quantitativer Fonds: Kombiniere genug einz
 
 Warum es niemand vermeiden kann
 
-Genau hier beginnt die Paradoxe Interaktion. Niemand handelt falsch. Der Algorithmus-Ingenieur kombiniert Signale, weil Kombination Rauschen reduziert – das ist der ganze Sinn von Statistik. Der Fondsmanager zahlt für die Fähigkeit, echte von zufälliger Struktur zu unterscheiden – auch das ist rational, denn beide sehen zunächst gleich aus. Die Gesellschaft, die „gleiche Chancen für alle" organisiert, kombiniert über Generationen hinweg Millionen einzeln neutraler Entscheidungen – Bildungswahl, Wohnort, Partnerwahl. Jede für sich erklärbar. Zusammen erzwingen sie exakt das, was die PI bereits in „Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen" beschrieben hat: Ungleichheit, die niemand geplant hat und die trotzdem entsteht.
+Genau hier beginnt die Paradoxe Interaktion. Niemand handelt falsch. Der Algorithmus-Ingenieur kombiniert Signale, weil Kombination Rauschen reduziert – das ist der ganze Sinn von Statistik. Der Fondsmanager zahlt für die Fähigkeit, echte von zufälliger Struktur zu unterscheiden – auch das ist rational, denn beide sehen zunächst gleich aus. Die Gesellschaft, die „gleiche Chancen für alle” organisiert, kombiniert über Generationen hinweg Millionen einzeln neutraler Entscheidungen – Bildungswahl, Wohnort, Partnerwahl. Jede für sich erklärbar. Zusammen erzwingen sie exakt das, was die PI bereits in „Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen” beschrieben hat: Ungleichheit, die niemand geplant hat und die trotzdem entsteht.
 
 Der Unterschied ist: Damals war das eine soziologische Beobachtung. Jetzt ist es ein Theorem. Die Mathematik bestätigt nicht die Moral der Sache – sie bestätigt die Struktur. Balance ist nicht die neutrale Grundeinstellung eines Systems. Balance ist der instabile Sonderfall, der bei jeder ausreichend langen Kombination zusammenbricht.
 
@@ -116,7 +116,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Warum das kein Bug ist
 
-Hier liegt die Versuchung, die Struktur wegzuoptimieren. Rauschen entfernen, Balance erzwingen, das System „fairer" oder „sauberer" machen. Genau das verbietet das Theorem. Die Redundanz, die Kombination erzeugt, ist nicht der Fehler im System. Sie ist der Preis, den jedes System zahlt, das überhaupt etwas zusammenführt – Signale, Regeln, Menschen, Generationen. Ein System ganz ohne emergente Struktur wäre kein robustes System. Es wäre gar kein System – nur eine Ansammlung unverbundener Zufallszahlen, unfähig, irgendetwas zu leisten.
+Hier liegt die Versuchung, die Struktur wegzuoptimieren. Rauschen entfernen, Balance erzwingen, das System „fairer” oder „sauberer” machen. Genau das verbietet das Theorem. Die Redundanz, die Kombination erzeugt, ist nicht der Fehler im System. Sie ist der Preis, den jedes System zahlt, das überhaupt etwas zusammenführt – Signale, Regeln, Menschen, Generationen. Ein System ganz ohne emergente Struktur wäre kein robustes System. Es wäre gar kein System – nur eine Ansammlung unverbundener Zufallszahlen, unfähig, irgendetwas zu leisten.
 
 Was bleibt, ist keine Lösung. Es ist Navigation: die Existenz von Struktur ist garantiert, verlangt aber Urteilsvermögen darüber, welche Struktur trägt und welche nur deshalb auftaucht, weil man lange genug hingesehen hat. Diese Unterscheidung liefert kein Theorem. Sie liefert auch kein Datensatz, egal wie groß. Sie ist der Teil, den keine Formel ersetzt – und genau deshalb der teuerste.
 
@@ -169,13 +169,13 @@ No results found.
 
 Auf piinteract.org
 
-["Widersprüche sind Features, keine Bugs"] — Genau das beweist Tao: die erzwungene Struktur ist keine Panne der Kombination, sie ist ihre Bedingung.
+[“Widersprüche sind Features, keine Bugs”] — Genau das beweist Tao: die erzwungene Struktur ist keine Panne der Kombination, sie ist ihre Bedingung.
 
-["Einfach optimieren"] — Rauschen wegoptimieren heißt, die Fähigkeit wegzuoptimieren, echte Struktur von zufälliger zu unterscheiden.
+[“Einfach optimieren”] — Rauschen wegoptimieren heißt, die Fähigkeit wegzuoptimieren, echte Struktur von zufälliger zu unterscheiden.
 
-["Die Median-Falle"] — Durchschnittswerte verschleiern genau die Diskrepanz, die jede lange genug kombinierte Verteilung zwangsläufig erzeugt.
+[“Die Median-Falle”] — Durchschnittswerte verschleiern genau die Diskrepanz, die jede lange genug kombinierte Verteilung zwangsläufig erzeugt.
 
-["Metriken-Gaming"] — Wer genug schwache Kennzahlen kombiniert, erzeugt Struktur – die dann gemanagt statt verstanden wird.
+[“Metriken-Gaming”] — Wer genug schwache Kennzahlen kombiniert, erzeugt Struktur – die dann gemanagt statt verstanden wird.
 
 
 
@@ -188,9 +188,9 @@ Efficient Capital Markets: A Review of Theory and Empirical Work — Fama, 1970.
 
 That Time Terence Tao Won $500 From Paul Erdős — American Mathematical Society: institutionelle Dokumentation der posthumen 500-Dollar-Belohnung und des Lösungswegs.
 
-A Magical Answer to an 80-Year-Old Puzzle — Quanta Magazine, Erica Klarreich: die zugänglichste Darstellung von Taos Entropie-Argument und dem „Zaubertrick"-Zitat.
+A Magical Answer to an 80-Year-Old Puzzle — Quanta Magazine, Erica Klarreich: die zugänglichste Darstellung von Taos Entropie-Argument und dem „Zaubertrick”-Zitat.
 
-EDP28 — problem solved by Terence Tao! — Timothy Gowers' eigener Blog, Primärquelle für die Polymath5-Kollaboration, die dem Beweis die „Griffe" gab.
+EDP28 — problem solved by Terence Tao! — Timothy Gowers’ eigener Blog, Primärquelle für die Polymath5-Kollaboration, die dem Beweis die „Griffe” gab.
 
 
 
