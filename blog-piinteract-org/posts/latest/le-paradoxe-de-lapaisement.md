@@ -10,7 +10,7 @@ wp_id: 7247
 url: https://blog.piinteract.org/fr/le-paradoxe-de-lapaisement/
 ---
 
-Comment la soumission se crée d'elle-même et comment on ne peut y remédier qu'en faisant preuve d'un manque total de considération, principalement envers soi-même.
+Comment la soumission se crée d’elle-même et comment on ne peut y remédier qu’en faisant preuve d’un manque total de considération, principalement envers soi-même.
 
 « Si tu es trop gentil avec eux, tu les encourages. Il faut les insulter pour les faire sortir de leur tanière. »
 
@@ -154,35 +154,35 @@ Articles connexes
 
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
-Gagne la position. Garantis ta mort. Répète à l'infini.
+Gagne la position. Garantis ta mort. Répète à l’infini.
 
 Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
-Ou : Le paradoxe de l'égalité
+Ou : Le paradoxe de l’égalité
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 No results found.
 
 Sur piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 Liens externes
 
 [Primatologie / Signaux d’apaisement] — Source primaire, par exemple Frans de Waal sur les comportements de réconciliation/soumission chez les primates (article évalué par des pairs, par exemple Peacemaking Among Primates ou un article scientifique).
 
-[Le paradoxe du « gentil »] — une étude sur la gentillesse, le statut social et l'attractivité
+[Le paradoxe du « gentil »] — une étude sur la gentillesse, le statut social et l’attractivité
 
-[Les « discours de haine » de Luther] — The Mighty Hater : les réformes de Martin Luther en matière de rhétorique et d'affect (Leibnitz Zentrum für Literatur und Kulturforschung)
+[Les « discours de haine » de Luther] — The Mighty Hater : les réformes de Martin Luther en matière de rhétorique et d’affect (Leibnitz Zentrum für Literatur und Kulturforschung)
 
 [Bertolt Brecht, La Bonne Âme du Sichuan]
 
@@ -190,7 +190,7 @@ Liens externes
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -198,4 +198,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
