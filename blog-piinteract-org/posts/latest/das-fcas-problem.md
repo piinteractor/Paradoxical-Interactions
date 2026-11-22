@@ -18,7 +18,7 @@ Warum Europas ehrgeizigstes Rüstungsprojekt gescheitert ist — und warum es ei
 
 
 
-„Es gibt keine allgemeine Lösung."
+„Es gibt keine allgemeine Lösung.”
 
 — Henri Poincaré, über das Dreikörperproblem, 1887
 
@@ -118,11 +118,11 @@ Die Führungsillusion
 
 Brantners Formulierung — die Politik muss Führung zeigen, wo die Industrie blockiert — ist die älteste politische Antwort auf ein strukturelles Problem: eine fehlende Qualität benennen, implizieren, sie hätte alles gelöst.
 
-Führung kann ein echtes N-Körper-Problem nicht auflösen. Ein starker deutscher Kanzler, der maximalen politischen Druck auf die französische Regierung ausübt, erzeugt eine Gegenkraft. Ein französischer Premierminister, der beim Technologietransfer nachgibt, löst defensives Repositionieren bei Dassault aus — das nicht unter direkter Regierungskontrolle steht und seinen eigenen Aktionären gegenüber rechenschaftspflichtig ist. Jede Ausübung von „Führung" durch einen Akteur wird zu einer neuen Masse im System und schafft Interaktionen, die vorher nicht da waren.
+Führung kann ein echtes N-Körper-Problem nicht auflösen. Ein starker deutscher Kanzler, der maximalen politischen Druck auf die französische Regierung ausübt, erzeugt eine Gegenkraft. Ein französischer Premierminister, der beim Technologietransfer nachgibt, löst defensives Repositionieren bei Dassault aus — das nicht unter direkter Regierungskontrolle steht und seinen eigenen Aktionären gegenüber rechenschaftspflichtig ist. Jede Ausübung von „Führung” durch einen Akteur wird zu einer neuen Masse im System und schafft Interaktionen, die vorher nicht da waren.
 
 Die Störung stabilisiert die Umlaufbahn nicht. Sie verändert sie.
 
-Das ist keine Anklage gegen Brantner oder irgendeinen Politiker. Die Antwort „bessere Leute an die Spitze setzen" auf systemisches Versagen ist strukturell universell. Es ist das, was politische Sprache zu produzieren gebaut ist. Die Struktur produziert die Diagnose, die die Struktur bestätigt.
+Das ist keine Anklage gegen Brantner oder irgendeinen Politiker. Die Antwort „bessere Leute an die Spitze setzen” auf systemisches Versagen ist strukturell universell. Es ist das, was politische Sprache zu produzieren gebaut ist. Die Struktur produziert die Diagnose, die die Struktur bestätigt.
 
 
 
@@ -187,13 +187,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Muster sehen, nicht Symptome"] — Brantner sieht ein Führungsdefizit; die Struktur zeigt ein Geometrieproblem — das Symptom weist von der Ursache weg.
+[“Muster sehen, nicht Symptome”] — Brantner sieht ein Führungsdefizit; die Struktur zeigt ein Geometrieproblem — das Symptom weist von der Ursache weg.
 
-["Bessere Leute an die Spitze"] — Der politische Reflex, der jeden strukturellen Ausgang als Personalversagen behandelt — und das Problem dadurch reproduziert.
+[“Bessere Leute an die Spitze”] — Der politische Reflex, der jeden strukturellen Ausgang als Personalversagen behandelt — und das Problem dadurch reproduziert.
 
-["Das Problem eines anderen"] — Jeder Akteur schrieb das Scheitern der Sturheit der anderen zu; die Struktur sorgte dafür, dass alle recht hatten.
+[“Das Problem eines anderen”] — Jeder Akteur schrieb das Scheitern der Sturheit der anderen zu; die Struktur sorgte dafür, dass alle recht hatten.
 
-["Beispiele: Systeme & Governance"] — Die Kategorie, in der rationale institutionelle Akteure, die jeweils ihrem Mandat folgen, verlässlich kollektives Scheitern produzieren.
+[“Beispiele: Systeme & Governance”] — Die Kategorie, in der rationale institutionelle Akteure, die jeweils ihrem Mandat folgen, verlässlich kollektives Scheitern produzieren.
 
 
 
@@ -206,7 +206,7 @@ Dassault Aviation — Investor Relations & Geschäftsberichte — Dassaults eige
 
 Der Preiswettbewerb — Institut Mittag-Leffler — Der Bericht des Institut Mittag-Leffler über den König-Oscar-II-Wettbewerb, Poincarés ursprüngliche Einreichung und die Entdeckung des Chaos — historische Primärquelle einschließlich des annotierten Manuskripts, das heute in Stockholm aufbewahrt wird.
 
-SCAF: chronologie d'un projet en crise — Fondation pour la Recherche Stratégique — Institutionelle Analyse der FCAS/SCAF-Zeitlinie einer französischen strategischen Forschungsstiftung — wissenschaftlicher Kontext für die spezifischen Verhandlungsabbrüche, die im Beitrag dokumentiert sind.
+SCAF: chronologie d’un projet en crise — Fondation pour la Recherche Stratégique — Institutionelle Analyse der FCAS/SCAF-Zeitlinie einer französischen strategischen Forschungsstiftung — wissenschaftlicher Kontext für die spezifischen Verhandlungsabbrüche, die im Beitrag dokumentiert sind.
 
 
 
