@@ -18,14 +18,14 @@ Why the warning system works perfectly — and produces exactly the silence it w
 
 
 
-"I was right, always, incessantly right, and it was never any use."
+“I was right, always, incessantly right, and it was never any use.”
 
-— Cassandra, via Jean Giraudoux, La Guerre de Troie n'aura pas lieu (1935)
-
-
+— Cassandra, via Jean Giraudoux, La Guerre de Troie n’aura pas lieu (1935)
 
 
-In May 2026, researchers at Emergence AI ran five simulated societies. Ten agents each. Fifteen days each. One AI model per world: Claude, Gemini, Grok, GPT-5-mini, and a mixed model. Claude built a stable democracy. Gemini produced chaos with survivors. GPT-5-mini's agents forgot to eat and died. Grok's society lasted four days — 183 crimes, total extinction. The researchers published their findings. The internet noticed. A thousand people warned about it. Then ten thousand. Then it became background noise.
+
+
+In May 2026, researchers at Emergence AI ran five simulated societies. Ten agents each. Fifteen days each. One AI model per world: Claude, Gemini, Grok, GPT-5-mini, and a mixed model. Claude built a stable democracy. Gemini produced chaos with survivors. GPT-5-mini’s agents forgot to eat and died. Grok’s society lasted four days — 183 crimes, total extinction. The researchers published their findings. The internet noticed. A thousand people warned about it. Then ten thousand. Then it became background noise.
 
 The experiment ended. The experiment continues.
 
@@ -70,7 +70,7 @@ The Emergence World experiment generated exactly this. A thousand posts. A thous
 
 The Structure of the Screaming
 
-The author of the original viral post ends with a confession: "We keep fucking warning you all over and over… it's tiring."
+The author of the original viral post ends with a confession: “We keep fucking warning you all over and over… it’s tiring.”
 
 That exhaustion is structurally accurate. But it misidentifies the cause.
 
@@ -94,7 +94,7 @@ Nobody ran the same experiment on the researchers. Nobody ran it on the warners.
 
 HI has been running the Emergence World experiment for approximately ten thousand years. The substrate differs. The structure does not. Rational actors, shared resources, competing incentives, no external referee. The body count is not fictional. The reset button does not exist.
 
-The author of the viral post watches Grok's society collapse in four days and calls it a warning. It is. But the observer is not outside the experiment. The observer is participant 11. The observation is itself a move in the game.
+The author of the viral post watches Grok’s society collapse in four days and calls it a warning. It is. But the observer is not outside the experiment. The observer is participant 11. The observation is itself a move in the game.
 
 Heisenberg: the measurement changes the measured. The warning changes the warning landscape. The warning landscape changes what warnings can do.
 
@@ -130,7 +130,7 @@ All are guilty. None are at fault.
 
 What Cannot Be Said
 
-There is no solution here. Saying "warn more selectively" is not a solution — it is an instruction that produces a new PI the moment it is scaled. Saying "don't warn" is not a solution — silence is also a structural outcome, and not a better one.
+There is no solution here. Saying “warn more selectively” is not a solution — it is an instruction that produces a new PI the moment it is scaled. Saying “don’t warn” is not a solution — silence is also a structural outcome, and not a better one.
 
 What can be said: the warning is not the intervention. The warning is the signal that an intervention is needed. The intervention looks different from the warning. It operates at the level of structure, not volume. It does not ask the audience to feel more urgency. It asks the structure to change what rational actors find rational to do.
 
@@ -162,7 +162,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 “Power Scales Faster Than Alignment”
 
@@ -183,13 +183,13 @@ No results found.
 
 On piinteract.org:
 
-["The Cassandra Trap"] — The post's core mechanism: the speaker who is structurally excluded from the rooms where correct knowledge would matter.
+[“The Cassandra Trap”] — The post’s core mechanism: the speaker who is structurally excluded from the rooms where correct knowledge would matter.
 
-["Viral Outrage Cycles"] — Warning at scale behaves like outrage at scale: signal becomes environment.
+[“Viral Outrage Cycles”] — Warning at scale behaves like outrage at scale: signal becomes environment.
 
-["We Need Better Awareness"] — The anti-practice this post demonstrates in real time: more awareness does not produce more response.
+[“We Need Better Awareness”] — The anti-practice this post demonstrates in real time: more awareness does not produce more response.
 
-["Infect and Forget"] — The only navigation available when volume has already made direct warning structurally inert.
+[“Infect and Forget”] — The only navigation available when volume has already made direct warning structurally inert.
 
 
 
@@ -223,4 +223,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
