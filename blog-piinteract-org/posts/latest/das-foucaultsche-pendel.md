@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-foucaultsche-pendel/
 
 Warum ein Pendel beweist, wofür ein Genie verurteilt wurde — und warum nur Indifferenz als Zeuge zählt.
 
-„La terra ruotava, ma il luogo ove il filo era ancorato era l'unico punto fisso dell'universo." „Die Erde drehte sich, aber der Ort, an dem der Faden verankert war, war der einzige fixe Punkt des Universums."
+„La terra ruotava, ma il luogo ove il filo era ancorato era l’unico punto fisso dell’universo.” „Die Erde drehte sich, aber der Ort, an dem der Faden verankert war, war der einzige fixe Punkt des Universums.”
 
 — Umberto Eco, Il pendolo di Foucault (1988)
 
@@ -22,7 +22,7 @@ Ein Pendel hängt an einem Draht, der sich, weil entkoppelt, nicht verdreht und 
 
 Das Setup
 
-Paris, 3. Februar 1851. Léon Foucault lädt mit einem einzigen Satz zur Meridian-Halle des Pariser Observatoriums: „Ich lade Sie ein, der Erde dabei zuzusehen, wie sie sich dreht." Sie kommen. Sie sehen eine Kugel, die an einem Draht schwingt — und eine Ebene, die sich langsam gegen den Raum darunter verschiebt. Sieben Wochen später, am 31. März, im Panthéon: ein 67 Meter langer Draht, eine 28 Kilogramm schwere Messingkugel, ein Stift an ihrer Unterseite, ein Ring aus Sand als Zeichenfläche. Mit jeder Schwingung beschreibt der Stift eine neue Linie. Nach einigen Stunden hat sich die Furche eines Sterns gebildet. Niemand hat ihn bewusst gezeichnet.
+Paris, 3. Februar 1851. Léon Foucault lädt mit einem einzigen Satz zur Meridian-Halle des Pariser Observatoriums: „Ich lade Sie ein, der Erde dabei zuzusehen, wie sie sich dreht.” Sie kommen. Sie sehen eine Kugel, die an einem Draht schwingt — und eine Ebene, die sich langsam gegen den Raum darunter verschiebt. Sieben Wochen später, am 31. März, im Panthéon: ein 67 Meter langer Draht, eine 28 Kilogramm schwere Messingkugel, ein Stift an ihrer Unterseite, ein Ring aus Sand als Zeichenfläche. Mit jeder Schwingung beschreibt der Stift eine neue Linie. Nach einigen Stunden hat sich die Furche eines Sterns gebildet. Niemand hat ihn bewusst gezeichnet.
 
 Die Freiheit, die nichts kostet
 
@@ -92,19 +92,19 @@ No results found.
 
 Auf piinteract.org:
 
-["Shared Blindspot"] — Everyone turns with it. That's why nobody feels it. The pendulum is the one exception that makes the blind spot visible.
+[“Shared Blindspot”] — Everyone turns with it. That’s why nobody feels it. The pendulum is the one exception that makes the blind spot visible.
 
-["Galileo's Paradox"] — Galileo was right and was convicted. The pendulum is right and isn't even asked.
+[“Galileo’s Paradox”] — Galileo was right and was convicted. The pendulum is right and isn’t even asked.
 
-["Perspective Switching"] — No perspective switch in the human sense — but a reference frame that refuses to switch along, and by refusing, shows everyone else's switch.
+[“Perspective Switching”] — No perspective switch in the human sense — but a reference frame that refuses to switch along, and by refusing, shows everyone else’s switch.
 
-["The Framework"] — Why structure outweighs intention, stress-tested here by physics.
+[“The Framework”] — Why structure outweighs intention, stress-tested here by physics.
 
 Siehe auch (externe Links):
 
 From the Geometry of Foucault Pendulum to the Topology of Planetary Waves — The mathematical derivation of why latitude alone sets the precession rate — the invariant this post describes.
 
-Foucault's Pendulum — Panthéon Paris (official page) — Primary source on the 1851 original apparatus: length, weight, stylus, sand ring.
+Foucault’s Pendulum — Panthéon Paris (official page) — Primary source on the 1851 original apparatus: length, weight, stylus, sand ring.
 
 UN Gifts: Foucault Pendulum — An independent replica at UN headquarters: the same proof, a different place, no connection to the original 1851 perception.
 
