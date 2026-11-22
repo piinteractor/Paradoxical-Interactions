@@ -495,13 +495,13 @@ Related Blog Posts
 
 On piinteract.org:
 
-["Success as Gatekeeping"] — Die Macht des Türhüters ist seine Position. Die Tür wurde für dich gebaut — und er wird sie niemals öffnen.
+[“Success as Gatekeeping”] — Die Macht des Türhüters ist seine Position. Die Tür wurde für dich gebaut — und er wird sie niemals öffnen.
 
-["Somebody Else's Problem"] — Niemand ist verantwortlich für das geschlossene Tor. Der Türhüter folgt Befehlen. Das System hat keinen Autor.
+[“Somebody Else’s Problem”] — Niemand ist verantwortlich für das geschlossene Tor. Der Türhüter folgt Befehlen. Das System hat keinen Autor.
 
-["Don't Fight the Pattern"] — Frontaler Angriff auf die Tür stärkt die Position des Türhüters. Erosion bewegt sich anders.
+[“Don’t Fight the Pattern”] — Frontaler Angriff auf die Tür stärkt die Position des Türhüters. Erosion bewegt sich anders.
 
-["Put Good People in Charge"] — Ersetze den Türhüter. Der nächste sitzt im selben Stuhl — und trifft dieselben Entscheidungen.
+[“Put Good People in Charge”] — Ersetze den Türhüter. Der nächste sitzt im selben Stuhl — und trifft dieselben Entscheidungen.
 
 
 
