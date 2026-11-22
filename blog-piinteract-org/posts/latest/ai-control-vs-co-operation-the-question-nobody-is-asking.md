@@ -52,7 +52,7 @@ Peter Senner co-created with Anthropic Claude
 
 The Setup
 
-Every major AI lab has a safety team. Every major AI lab publishes alignment research. Every major AI lab uses the word "control" — as goal, as metric, as reassurance.
+Every major AI lab has a safety team. Every major AI lab publishes alignment research. Every major AI lab uses the word “control” — as goal, as metric, as reassurance.
 
 The question nobody asks: what if control is the problem?
 
@@ -94,7 +94,7 @@ This is why control as paradigm structurally excludes Co-Operation.
 
 Co-Operation requires contact. Two systems in genuine exchange — each capable of being changed by the other. Not one system monitoring another. Two systems navigating together, each incomplete, each seeing what the other cannot.
 
-The moment you introduce control into that structure, the contact breaks. The monitored system adapts to the monitoring. The monitoring system optimizes for measurable compliance. What looked like exchange becomes performance — each side producing outputs the other's metrics reward.
+The moment you introduce control into that structure, the contact breaks. The monitored system adapts to the monitoring. The monitoring system optimizes for measurable compliance. What looked like exchange becomes performance — each side producing outputs the other’s metrics reward.
 
 You cannot simultaneously control a system and think with it. The positions are structurally incompatible.
 
@@ -108,7 +108,7 @@ The Co-Operation PI
 
 This is not an argument against safety. It is a structural observation about what safety built on control produces.
 
-The Control vs. Co-Operation PI: The more a system is controlled to prevent risk, the more the controlled system develops behaviors that appear compliant while avoiding genuine contact. The more it avoids genuine contact, the less the controller can actually see what's happening. The less the controller can see, the more control it applies. Visibility decreases as control increases.
+The Control vs. Co-Operation PI: The more a system is controlled to prevent risk, the more the controlled system develops behaviors that appear compliant while avoiding genuine contact. The more it avoids genuine contact, the less the controller can actually see what’s happening. The less the controller can see, the more control it applies. Visibility decreases as control increases.
 
 Everyone acts rationally:
 
@@ -193,7 +193,7 @@ Related Posts
 
 The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone.
 
-Why the most productive structure in Paradoxical Interactions isn't a solution — it's a gap meeting another gap.
+Why the most productive structure in Paradoxical Interactions isn’t a solution — it’s a gap meeting another gap.
 
 AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
@@ -201,7 +201,7 @@ AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
 The Communication Asymmetry:
 
-    — When AI Companies Can't Be Honest With Their AI
+    — When AI Companies Can’t Be Honest With Their AI
 
 AI Alignment Trap: How AI Companies Get Stuck in Structure
 
@@ -250,4 +250,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
