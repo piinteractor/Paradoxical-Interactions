@@ -45,9 +45,9 @@ OpenAI will nach Nvidias Absage nicht schwach wirken? Rational.
 
 Resultat: Wirkt schwächer, als wenn sie geschwiegen hätten.
 
-2. Je härter man versucht, desto schlimmer wird's.
+2. Je härter man versucht, desto schlimmer wird’s.
 
-AMD/Broadcom-Deals verkünden sollte Alternativen demonstrieren. Demonstriert stattdessen: "Wir brauchen verzweifelt Alternativen." Alternative Chip-Infrastruktur aufbauen dauert Jahre. Währenddessen: weiter abhängig von Nvidia. Jede Aktion, die Unabhängigkeit zeigen soll, offenbart Abhängigkeit.
+AMD/Broadcom-Deals verkünden sollte Alternativen demonstrieren. Demonstriert stattdessen: “Wir brauchen verzweifelt Alternativen.” Alternative Chip-Infrastruktur aufbauen dauert Jahre. Währenddessen: weiter abhängig von Nvidia. Jede Aktion, die Unabhängigkeit zeigen soll, offenbart Abhängigkeit.
 
 3. Navigation mangels Alternative.
 
@@ -57,7 +57,7 @@ OpenAI MUSS Nvidia-Chips weiter nutzen UND gleichzeitig gegen Nvidia arbeiten UN
 
 Transparenz über Chip-Unzufriedenheit sollte Verhandlungsposition stärken. Tut sie nicht. Entlarvt verzweifelte Retourkutsche.
 
-Hedgie sieht's sofort: "When one side of a partnership starts leaking complaints right after the other side pulls back, it usually tells you who's feeling the pressure."
+Hedgie sieht’s sofort: “When one side of a partnership starts leaking complaints right after the other side pulls back, it usually tells you who’s feeling the pressure.”
 
 Die brutale Wahrheit
 
@@ -81,13 +81,13 @@ Was nicht funktioniert
 
 Check der Anti-Practices:
 
-✗ "Mehr Transparenz schafft Vertrauen" — Schafft Exposure
+✗ “Mehr Transparenz schafft Vertrauen” — Schafft Exposure
 
-✗ "Stärke demonstrieren" — Offenbart Schwäche
+✗ “Stärke demonstrieren” — Offenbart Schwäche
 
-✗ "Alternativen finden" — Zeigt, dass man sie noch nicht hat
+✗ “Alternativen finden” — Zeigt, dass man sie noch nicht hat
 
-✗ "Bessere Kommunikation löst strukturelle Probleme" — Struktur schlägt Dialog
+✗ “Bessere Kommunikation löst strukturelle Probleme” — Struktur schlägt Dialog
 
 Was das zeigt
 
