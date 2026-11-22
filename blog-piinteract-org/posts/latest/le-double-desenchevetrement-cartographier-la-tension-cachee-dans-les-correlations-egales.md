@@ -227,7 +227,7 @@ See Also:
 
 Le Paradoxe de Validation : Analyse Approfondie
 
-Ou : Comment prouver un cadre théorique sur l'impossibilité structurelle lorsque la méthode de preuve est elle-même structurellement impossible ?
+Ou : Comment prouver un cadre théorique sur l’impossibilité structurelle lorsque la méthode de preuve est elle-même structurellement impossible ?
 
 Déserrorer la Pratique
 
@@ -235,7 +235,7 @@ Ou: Pourquoi les systèmes sans erreur meurent plus vite que les systèmes défa
 
 Le Quiz qui ne Finit Jamais
 
-ou : Pourquoi nous attendons tous un quizmaster qui a pris l'argent et s'est enfui
+ou : Pourquoi nous attendons tous un quizmaster qui a pris l’argent et s’est enfui
 
 No results found.
 
