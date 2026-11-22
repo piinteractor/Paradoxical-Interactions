@@ -22,7 +22,7 @@ Les structures existaient déjà. Les mythes ont simplement été les premiers �
 
 Les Grecs n’ont pas inventé la tragédie parce qu’ils étaient pessimistes. Ils l’ont inventée parce qu’ils étaient précis. Ils ont vu ce qui se passe lorsqu’une personne agit exactement comme il faut — et aboutit exactement au résultat inverse. Non pas par erreur. Mais par la structure.
 
-Œdipe ne commet pas d'erreur. Il suit toutes les voies raisonnables pour échapper à la prophétie. Chaque pas le rapproche de son destin. Le prêtre de Nemi tue son prédécesseur et prend sa place — sachant que quelqu'un est déjà en train d'aiguiser la lame pour lui. Cassandre dit la vérité. C'est pourquoi personne ne l'écoute.
+Œdipe ne commet pas d’erreur. Il suit toutes les voies raisonnables pour échapper à la prophétie. Chaque pas le rapproche de son destin. Le prêtre de Nemi tue son prédécesseur et prend sa place — sachant que quelqu’un est déjà en train d’aiguiser la lame pour lui. Cassandre dit la vérité. C’est pourquoi personne ne l’écoute.
 
 Ce ne sont pas des contes moraux. Ce sont des observations de terrain. Les Grecs n’avaient pas de mot pour désigner les interactions paradoxales — mais ils les décrivaient avec une précision chirurgicale, les habillaient de dieux et de héros, et appelaient cela de la mythologie.
 
@@ -36,7 +36,7 @@ Hommes absents, femmes présentes. Pourquoi le débat sur l’égalité n’atte
 
 23. juillet 2026
 
-« Hommes absents, femmes présentes » analyse comment un débat sur l'égalité, en apparence égalitaire, laisse inchangée la structure sous-jacente – car l'absence même des hommes devient une norme invisible.
+« Hommes absents, femmes présentes » analyse comment un débat sur l’égalité, en apparence égalitaire, laisse inchangée la structure sous-jacente – car l’absence même des hommes devient une norme invisible.
 
 En savoir plus
 
@@ -44,8 +44,8 @@ Le Paradoxe de Jonas
 
 4. février 2026
 
-Un prophète avertit d'une catastrophe. Si l'avertissement fonctionne, la catastrophe n'arrive pas. La prophétie devient fausse. Le succès fait de lui un menteur.
-Si l'avertissement échoue, la catastrophe frappe. La prophétie se ...
+Un prophète avertit d’une catastrophe. Si l’avertissement fonctionne, la catastrophe n’arrive pas. La prophétie devient fausse. Le succès fait de lui un menteur.
+Si l’avertissement échoue, la catastrophe frappe. La prophétie se …
 
 En savoir plus
 
@@ -53,8 +53,8 @@ Bornéité plutôt que sagesse – l’IP du philosophe
 
 28. janvier 2026
 
-Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
-Pourtant, il incarne la structure même qu'il critique. Il ne le voit simplement ...
+Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d’opinion. Il exige un discours ouvert.
+Pourtant, il incarne la structure même qu’il critique. Il ne le voit simplement …
 
 En savoir plus
 
@@ -62,8 +62,8 @@ Le Paradoxe du Prophète
 
 28. janvier 2026
 
-L'étranger avec des références est entendu. L'ami ou le parent qui connaît le schéma est écarté.
-Non pas parce que les étrangers sont plus intelligents. Parce qu'ils sont inconnus. Inconnu signifie non testé. Non testé peut se ...
+L’étranger avec des références est entendu. L’ami ou le parent qui connaît le schéma est écarté.
+Non pas parce que les étrangers sont plus intelligents. Parce qu’ils sont inconnus. Inconnu signifie non testé. Non testé peut se …
 
 En savoir plus
 
@@ -72,7 +72,7 @@ Le Paradoxe de Cassandre
 26. janvier 2026
 
 Apollon offre à Cassandre le don de prophétie. Elle le rejette. Il la maudit : elle dira la vérité, mais personne ne la croira. Elle avertit Troie du cheval de bois. Troie brûle quand même.
-Fin de l'histoire ? Non. Début du schéma.
+Fin de l’histoire ? Non. Début du schéma.
 
 En savoir plus
 
@@ -80,7 +80,7 @@ Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
 26. janvier 2026
 
-La Rome antique avait un poste de prêtre aux exigences inhabituelles : tuer ton prédécesseur pour être embauché. Passer ensuite chaque jour sachant que quelqu'un te tuera de la même manière. Pas de retraite. Pas de transition ...
+La Rome antique avait un poste de prêtre aux exigences inhabituelles : tuer ton prédécesseur pour être embauché. Passer ensuite chaque jour sachant que quelqu’un te tuera de la même manière. Pas de retraite. Pas de transition …
 
 En savoir plus
 
@@ -88,7 +88,7 @@ No results found.
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -96,4 +96,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
