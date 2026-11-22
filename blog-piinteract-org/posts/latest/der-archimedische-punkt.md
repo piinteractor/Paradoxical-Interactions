@@ -102,11 +102,11 @@ Und doch vollbringt das Diagramm ein kleines Wunder. Es lässt den Leser Beziehu
 
 Alle handeln rational:
 
-- Der Physiker verdichtet mehrere Koordinatenbeschreibungen in einer Darstellung.
+– Der Physiker verdichtet mehrere Koordinatenbeschreibungen in einer Darstellung.
 
-- Der Lehrer nutzt diese Verdichtung, um ihre Beziehung verständlich zu machen.
+– Der Lehrer nutzt diese Verdichtung, um ihre Beziehung verständlich zu machen.
 
-- Der Leser behandelt das gemeinsame Blatt als stabilen Ort, von dem aus er sie vergleichen kann.
+– Der Leser behandelt das gemeinsame Blatt als stabilen Ort, von dem aus er sie vergleichen kann.
 
 Nichts ist schiefgegangen. Und doch kann etwas geschehen: Der stabile Ort auf dem Papier fühlt sich allmählich wie ein neutraler Standpunkt in der Wirklichkeit an. Ein Werkzeug des Vergleichs erhält die Autorität eines Beobachters, der nirgends situiert ist.
 
@@ -128,11 +128,11 @@ Die strukturelle Übertragung beginnt an einer anderen Stelle: beim Übergang vo
 
 Dieser Übergang ist nützlich. Oft unverzichtbar. Und leicht zu verdecken:
 
-- Ohne Verdichtung wird der Vergleich schwierig.
+– Ohne Verdichtung wird der Vergleich schwierig.
 
-- Mit der Verdichtung geraten die Bedingungen des Vergleichs aus dem Blick.
+– Mit der Verdichtung geraten die Bedingungen des Vergleichs aus dem Blick.
 
-- Je erfolgreicher die Darstellung ist, desto weniger konstruiert erscheint sie.
+– Je erfolgreicher die Darstellung ist, desto weniger konstruiert erscheint sie.
 
 Der Lösungsversuch erzeugt seinen eigenen blinden Fleck. Wir gewinnen Orientierung, indem wir einen Standpunkt herstellen, dessen Situiertheit wir nicht mehr wahrnehmen.
 
@@ -150,13 +150,13 @@ Nicht: Diagramme abschaffen. Eine Karte wird nicht unehrlich, nur weil keine Lan
 
 Die besseren Fragen lauten:
 
-- Welche Beziehungen bewahrt die Darstellung?
+– Welche Beziehungen bewahrt die Darstellung?
 
-- Welche Unterschiede unterdrückt sie?
+– Welche Unterschiede unterdrückt sie?
 
-- Wer hat die Vergleichskriterien gewählt?
+– Wer hat die Vergleichskriterien gewählt?
 
-- Wo endet die formale Übersetzung, wo beginnt die Interpretation?
+– Wo endet die formale Übersetzung, wo beginnt die Interpretation?
 
 In der speziellen Relativitätstheorie ist die Übersetzung mathematisch bestimmt. Die Lichtgeschwindigkeit im Vakuum ist invariant, ebenso das Raumzeitintervall. Beobachter können räumliche und zeitliche Koordinaten unterschiedlich zuordnen und dennoch in den invarianten Beziehungen übereinstimmen.
 
@@ -207,13 +207,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Perspektivwechsel: Intrinsisch ↔ Extrinsisch"] — Der Mann im Zug und der Fußgänger tauschen nie den Platz. Sie fragen sich nur, was vom anderen Standpunkt aus rational wäre — und bleiben doch da, wo sie stehen.
+[“Perspektivwechsel: Intrinsisch ↔ Extrinsisch”] — Der Mann im Zug und der Fußgänger tauschen nie den Platz. Sie fragen sich nur, was vom anderen Standpunkt aus rational wäre — und bleiben doch da, wo sie stehen.
 
-["Unvollständigkeit akzeptieren"] — Genau die Lücke, die keiner der beiden Beobachter allein schließen kann, ist der Ort, an dem das Zwei-Idioten-Theorem tatsächlich arbeitet.
+[“Unvollständigkeit akzeptieren”] — Genau die Lücke, die keiner der beiden Beobachter allein schließen kann, ist der Ort, an dem das Zwei-Idioten-Theorem tatsächlich arbeitet.
 
-["Den geteilten blinden Fleck erkennen"] — Der Archimedische Punkt ist der blinde Fleck, den Lehrende und Lernende teilen: Beide brauchen ihn, keiner kann ihn begründen.
+[“Den geteilten blinden Fleck erkennen”] — Der Archimedische Punkt ist der blinde Fleck, den Lehrende und Lernende teilen: Beide brauchen ihn, keiner kann ihn begründen.
 
-["Das Paradox benennen"] — Das Diagramm verschwindet nicht, wenn man es benennt. Aber man hört auf, seinen Dritten für einen echten Beobachter zu halten.
+[“Das Paradox benennen”] — Das Diagramm verschwindet nicht, wenn man es benennt. Aber man hört auf, seinen Dritten für einen echten Beobachter zu halten.
 
 
 
