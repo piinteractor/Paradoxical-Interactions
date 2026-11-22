@@ -18,7 +18,7 @@ Warum das Sonnensystem ein Zufallsprodukt gegenseitiger Verschiebungen ist – u
 
 
 
-„Saturnus autem Caelo, ut Graeci tradunt, a filio Iove dejectus est."„Saturn wurde, wie die Griechen berichten, von seinem Sohn Jupiter vom Himmel gestürzt.“
+„Saturnus autem Caelo, ut Graeci tradunt, a filio Iove dejectus est.”„Saturn wurde, wie die Griechen berichten, von seinem Sohn Jupiter vom Himmel gestürzt.“
 
 — Cicero, De Natura Deorum, II
 
