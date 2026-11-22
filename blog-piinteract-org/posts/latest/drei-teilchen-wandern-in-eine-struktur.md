@@ -58,7 +58,7 @@ Denn wenn Dunkle Materie als Partikel nicht existiert — wenn die Antwort modif
 
 Mordehai Milgrom schlug 1983 MOND vor. Es funktioniert. Nicht perfekt, nicht vollständig, aber mit bemerkenswerter Vorhersagegenauigkeit für galaktische Dynamik. Es wurde marginalisiert — nicht widerlegt, marginalisiert — weil die Struktur nicht absorbieren konnte, was es implizierte.
 
-Der Unterschied zu Gluonen ist präzise: Die QCD sagte „man kann das nicht direkt beobachten" und baute diese Einschränkung in die Theorie ein. Dunkle-Materie-Forschung sagt „wir haben das noch nicht beobachtet" und baut die Fortsetzung der Suche in die Struktur ein. Das eine ist ehrlich gegenüber Unbeobachtbarkeit. Das andere hat Unbeobachtbarkeit zu einem permanenten Finanzierungszyklus gemacht.
+Der Unterschied zu Gluonen ist präzise: Die QCD sagte „man kann das nicht direkt beobachten” und baute diese Einschränkung in die Theorie ein. Dunkle-Materie-Forschung sagt „wir haben das noch nicht beobachtet” und baut die Fortsetzung der Suche in die Struktur ein. Das eine ist ehrlich gegenüber Unbeobachtbarkeit. Das andere hat Unbeobachtbarkeit zu einem permanenten Finanzierungszyklus gemacht.
 
 Does Dark Matter really matter? Die Struktur kann es sich nicht leisten zu fragen.
 
@@ -74,9 +74,9 @@ Niemand hat jemals ein Graviton detektiert. Niemand hat ein plausibles Experimen
 
 Und trotzdem: Die Stringtheorie — das ambitionierteste theoretische Projekt der modernen Physik — ist im Kern der Versuch, das Graviton mathematisch konsistent zu machen. Tausende Physiker. Jahrzehnte Arbeit. Ganze Abteilungen. Karrieren von der Promotion bis zur Emeritierung. Alle bauen theoretische Architektur für ein Teilchen, das nicht getestet werden kann.
 
-Die Verteidiger sagen: „Aber die Mathematik ist schön." Und sie ist es. Die Mathematik der Stringtheorie ist tatsächlich außerordentlich. Sie hat Einsichten in der reinen Mathematik hervorgebracht, die für sich allein bestehen. Das ist real. Das zählt.
+Die Verteidiger sagen: „Aber die Mathematik ist schön.” Und sie ist es. Die Mathematik der Stringtheorie ist tatsächlich außerordentlich. Sie hat Einsichten in der reinen Mathematik hervorgebracht, die für sich allein bestehen. Das ist real. Das zählt.
 
-Aber Schönheit ist kein Beweis. Und „die Mathematik funktioniert" ist nicht „die Physik ist real." Ptolemäische Epizykel waren auch mathematisch schön. Sie sagten Planetenpositionen mit beeindruckender Genauigkeit vorher. Sie waren trotzdem falsch — nicht weil die Mathematik versagte, sondern weil Eleganz den Kontakt zur Realität ersetzt hatte.
+Aber Schönheit ist kein Beweis. Und „die Mathematik funktioniert” ist nicht „die Physik ist real.” Ptolemäische Epizykel waren auch mathematisch schön. Sie sagten Planetenpositionen mit beeindruckender Genauigkeit vorher. Sie waren trotzdem falsch — nicht weil die Mathematik versagte, sondern weil Eleganz den Kontakt zur Realität ersetzt hatte.
 
 Die Stringtheorie hat in ungefähr vierzig Jahren null testbare Vorhersagen produziert, die sie von Alternativen unterscheiden könnten. Nicht null bestätigte Vorhersagen — null testbare. Die Struktur hat etwas Bemerkenswertes geschafft: Sie hat Unfalsifizierbarkeit zum Feature statt zum Bug gemacht.
 
@@ -106,7 +106,7 @@ Warum das jenseits von Physik zählt
 
 Wenn diese Muster nur in der Physik existierten, wären sie faszinierend, aber eingehegt. Das tun sie nicht.
 
-AI Safety spiegelt das Graviton: Alignment-Forschung schreitet voran, als wäre Alignment erreichbar, weil die Struktur — Finanzierung, Karrieren, institutioneller Zweck — „das könnte fundamental unmöglich sein" nicht verarbeiten kann. Die Suche geht weiter. Nicht weil Evidenz sie stützt, sondern weil die Alternative keine Lobby hat.
+AI Safety spiegelt das Graviton: Alignment-Forschung schreitet voran, als wäre Alignment erreichbar, weil die Struktur — Finanzierung, Karrieren, institutioneller Zweck — „das könnte fundamental unmöglich sein” nicht verarbeiten kann. Die Suche geht weiter. Nicht weil Evidenz sie stützt, sondern weil die Alternative keine Lobby hat.
 
 Demokratische Reform spiegelt Dunkle Materie: Jeder kann sehen, dass etwas kaputt ist. Die vorgeschlagene Lösung ist immer mehr vom Gleichen — mehr Transparenz, mehr Regulierung, mehr Partizipation. Vierzig Jahre sinkenden Vertrauens in Institutionen. Der Detektor findet weiter nichts. Die Suche geht weiter.
 
@@ -180,17 +180,17 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — Ein Rahmenwerk funktioniert. Zwei nicht. Die Antwort: mehr Experimente im selben Modell.
+[“More of the Same”] — Ein Rahmenwerk funktioniert. Zwei nicht. Die Antwort: mehr Experimente im selben Modell.
 
-["Just Optimize"] — Optimieren innerhalb einer fehlerhaften Struktur perfektioniert den Fehler. Die Graviton-Suche läuft in dieselbe Falle — bei höherer Energie.
+[“Just Optimize”] — Optimieren innerhalb einer fehlerhaften Struktur perfektioniert den Fehler. Die Graviton-Suche läuft in dieselbe Falle — bei höherer Energie.
 
-["The Right Tool Will Fix This"] — Bessere Beschleuniger. Empfindlichere Arrays. Das Werkzeug überschreibt die Struktur nicht — es skaliert sie.
+[“The Right Tool Will Fix This”] — Bessere Beschleuniger. Empfindlichere Arrays. Das Werkzeug überschreibt die Struktur nicht — es skaliert sie.
 
-["See the Pattern, Not the Symptom"] — Drei Teilchen. Eines funktioniert, zwei haben Imperien auf der Abwesenheit gebaut. Die Struktur wählt das Symptom, nicht die Ursache.
+[“See the Pattern, Not the Symptom”] — Drei Teilchen. Eines funktioniert, zwei haben Imperien auf der Abwesenheit gebaut. Die Struktur wählt das Symptom, nicht die Ursache.
 
 Per Erratum ad Astra — through error to the stars.
 
-But only if you're allowed to call the error what it is.
+But only if you’re allowed to call the error what it is.
 
 Peter Senner
 
