@@ -10,7 +10,7 @@ wp_id: 6162
 url: https://blog.piinteract.org/fr/langle-mort-qui-voit-tout/
 ---
 
-Pourquoi la tension non résolue entre la relativité et la théorie quantique n'est pas une lacune de la physique, mais la preuve que la physique fonctionne.
+Pourquoi la tension non résolue entre la relativité et la théorie quantique n’est pas une lacune de la physique, mais la preuve que la physique fonctionne.
 
 
 
@@ -18,14 +18,14 @@ Pourquoi la tension non résolue entre la relativité et la théorie quantique n
 
 
 
-« Ce que nous observons n'est pas la nature elle-même, mais la nature exposée à notre façon de l'interroger. »
+« Ce que nous observons n’est pas la nature elle-même, mais la nature exposée à notre façon de l’interroger. »
 
 — Werner Heisenberg
 
 
 
 
-Les deux plus grandes théories de l'histoire de la physique sont toutes deux correctes. Elles sont toutes deux confirmées empiriquement à un degré qui fait rougir la plupart des autres sciences. Elles sont toutes deux cohérentes en elles-mêmes. Et elles ne peuvent pas être toutes deux vraies en même temps.
+Les deux plus grandes théories de l’histoire de la physique sont toutes deux correctes. Elles sont toutes deux confirmées empiriquement à un degré qui fait rougir la plupart des autres sciences. Elles sont toutes deux cohérentes en elles-mêmes. Et elles ne peuvent pas être toutes deux vraies en même temps.
 
 Depuis un siècle, les physiciens appellent cela le grand problème ouvert. La théorie unifiée qui les réconciliera est toujours dans vingt ans. La théorie des cordes. La gravité quantique à boucles. La théorie M. Les noms changent. Le fossé demeure.
 
@@ -54,11 +54,11 @@ Ce n’est pas un problème en attente d’une solution. C’est une structure q
 
 
 
-L'observatoire sans sol
+L’observatoire sans sol
 
-Partons d'une idée qui semble évidente, mais qui ne l'est pas.
+Partons d’une idée qui semble évidente, mais qui ne l’est pas.
 
-La physique sans observateur serait complète. Pas de perturbation due à la mesure. Pas de principe d'incertitude. Pas d'effondrement de la fonction d'onde. Pas de référentiel. Pas d'artefact instrumental. Juste la chose en soi, fonctionnant sans interruption, sans modification, sans l'intrusion de quiconque cherchant à la comprendre.
+La physique sans observateur serait complète. Pas de perturbation due à la mesure. Pas de principe d’incertitude. Pas d’effondrement de la fonction d’onde. Pas de référentiel. Pas d’artefact instrumental. Juste la chose en soi, fonctionnant sans interruption, sans modification, sans l’intrusion de quiconque cherchant à la comprendre.
 
 Une physique parfaite. Non observée. Complète.
 
@@ -100,15 +100,15 @@ La tension ne réside pas dans les équations. Elle réside dans la structure m�
 
 
 
-Von Foerster le savait. C'était là le problème.
+Von Foerster le savait. C’était là le problème.
 
-Heinz von Foerster l'a parfaitement mis en évidence. L'observateur fait toujours partie du système. Toute observation s'effectue de l'intérieur. L'objectivité n'est pas une position — c'est une illusion qui naît du fait d'oublier que l'observateur est inclus dans ce qui est observé.
+Heinz von Foerster l’a parfaitement mis en évidence. L’observateur fait toujours partie du système. Toute observation s’effectue de l’intérieur. L’objectivité n’est pas une position — c’est une illusion qui naît du fait d’oublier que l’observateur est inclus dans ce qui est observé.
 
 Humberto Maturana et Francisco Varela sont allés plus loin : les systèmes sont autopoïétiques. Ils produisent leurs propres éléments, leurs propres limites, leur propre logique. Un système vivant ne reçoit pas d’informations de l’extérieur — il construit sa propre réalité à partir de ses propres opérations.
 
-C'était radical et juste. Puis il s'est passé quelque chose que von Foerster, s'il avait été moins honnête, aurait peut-être trouvé gratifiant.
+C’était radical et juste. Puis il s’est passé quelque chose que von Foerster, s’il avait été moins honnête, aurait peut-être trouvé gratifiant.
 
-Les constructivistes ont bâti une école. Des conférences. Des revues. Une communauté qui confirmait mutuellement l'intuition selon laquelle la confirmation est structurellement impossible. Un système qui s'est refermé autour de la théorie de la fermeture. Des chercheurs qui sont devenus l'incarnation institutionnelle du schéma même qu'ils décrivaient.
+Les constructivistes ont bâti une école. Des conférences. Des revues. Une communauté qui confirmait mutuellement l’intuition selon laquelle la confirmation est structurellement impossible. Un système qui s’est refermé autour de la théorie de la fermeture. Des chercheurs qui sont devenus l’incarnation institutionnelle du schéma même qu’ils décrivaient.
 
 Le prêtre de Nemi, revêtu d’épistémologie.
 
@@ -144,23 +144,23 @@ Ce n’est pas un conseil de désespoir. C’est un instrument de navigation. Vo
 
 
 
-L'observateur IP
+L’observateur IP
 
-L'angle mort IP : La physique a besoin d'un observateur pour exister en tant que telle. L'observateur se trouve toujours à l'intérieur d'un cadre. Tout cadre exclut ce qu'il ne peut pas voir. Ce qui est exclu est précisément ce que le cadre suivant doit inclure. Mais ce cadre suivant sera construit par des observateurs qui se trouvent déjà à l'intérieur d'un cadre.
+L’angle mort IP : La physique a besoin d’un observateur pour exister en tant que telle. L’observateur se trouve toujours à l’intérieur d’un cadre. Tout cadre exclut ce qu’il ne peut pas voir. Ce qui est exclu est précisément ce que le cadre suivant doit inclure. Mais ce cadre suivant sera construit par des observateurs qui se trouvent déjà à l’intérieur d’un cadre.
 
 Tout le monde agit de manière rationnelle :
 
 Le relativiste — travaille dans le cadre de la théorie la plus puissante jamais construite pour prédire les structures à grande échelle. Rationnel.
 
-Le physicien quantique — travaille dans le cadre de la théorie la plus précisément confirmée de l'histoire scientifique. Rationnel.
+Le physicien quantique — travaille dans le cadre de la théorie la plus précisément confirmée de l’histoire scientifique. Rationnel.
 
-Le théoricien de l'unification — construit un cadre qui doit satisfaire les deux, depuis l'intérieur de l'un d'entre eux. Rationnel. Structurellement contraint.
+Le théoricien de l’unification — construit un cadre qui doit satisfaire les deux, depuis l’intérieur de l’un d’entre eux. Rationnel. Structurellement contraint.
 
-L'institution — finance ce qu'elle peut évaluer. Elle évalue à l'aide des cadres dont elle dispose. Rationnel.
+L’institution — finance ce qu’elle peut évaluer. Elle évalue à l’aide des cadres dont elle dispose. Rationnel.
 
 Le résultat — un siècle de tensions non résolues, produisant une science extraordinaire dans toutes les directions sauf celle qui permettrait de dissiper ces tensions. Structurel. Non intentionnel.
 
-Tous sont coupables. Personne n'est en tort.
+Tous sont coupables. Personne n’est en tort.
 
 
 
@@ -202,15 +202,15 @@ Article connexes
 
 Trois particules entrent dans une structure
 
-L'une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l'ignorer.
+L’une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l’ignorer.
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 Quand l’observation de la fermeture devient fermeture
 
-Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n'empêche-t-elle pas automatiquement un durcissement structurel ?
+Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n’empêche-t-elle pas automatiquement un durcissement structurel ?
 
 Le Piège de l’Intelligence
 
@@ -240,13 +240,13 @@ Sur piinteract.org:
 
 Voir aussi (liens externes) :
 
-Principe d'incertitude — Werner Heisenberg (1927) — L'article original établissant que l'observation n'est pas neutre : la source première de l'affirmation selon laquelle la mesure modifie ce qui est mesuré.
+Principe d’incertitude — Werner Heisenberg (1927) — L’article original établissant que l’observation n’est pas neutre : la source première de l’affirmation selon laquelle la mesure modifie ce qui est mesuré.
 
-Autopoïèse et cognition : la réalisation du vivant — Maturana & Varela (1980) — Le texte fondateur sur les systèmes autopoïétiques : des systèmes qui produisent leurs propres limites et ne peuvent recevoir d'apports extérieurs non médiatisés.
+Autopoïèse et cognition : la réalisation du vivant — Maturana & Varela (1980) — Le texte fondateur sur les systèmes autopoïétiques : des systèmes qui produisent leurs propres limites et ne peuvent recevoir d’apports extérieurs non médiatisés.
 
-Le problème de la gravité quantique — Steven Carlip, Reports on Progress in Physics (2001) — Aperçu évalué par des pairs expliquant pourquoi l'unification de la relativité générale et de la mécanique quantique reste structurellement incompatible avec les cadres existants, et n'est pas simplement techniquement difficile.
+Le problème de la gravité quantique — Steven Carlip, Reports on Progress in Physics (2001) — Aperçu évalué par des pairs expliquant pourquoi l’unification de la relativité générale et de la mécanique quantique reste structurellement incompatible avec les cadres existants, et n’est pas simplement techniquement difficile.
 
-Heinz von Foerster — Ethics and Second-Order Cybernetics (1992) — Le propre compte rendu de von Foerster sur le problème de l'observateur en cybernétique : l'observateur fait toujours partie du système, et prétendre le contraire n'est pas de l'objectivité, mais de l'oubli.
+Heinz von Foerster — Ethics and Second-Order Cybernetics (1992) — Le propre compte rendu de von Foerster sur le problème de l’observateur en cybernétique : l’observateur fait toujours partie du système, et prétendre le contraire n’est pas de l’objectivité, mais de l’oubli.
 
 
 
@@ -256,7 +256,7 @@ Heinz von Foerster — Ethics and Second-Order Cybernetics (1992) — Le propre 
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'y  peut rien.
+Tous sont coupables. Personne n’y  peut rien.
 
 
 
@@ -267,4 +267,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
