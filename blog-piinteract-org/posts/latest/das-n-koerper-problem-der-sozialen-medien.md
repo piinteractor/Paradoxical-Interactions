@@ -128,7 +128,7 @@ Warum Jede Lösung Es Schlimmer Macht
 
 Das Drei-Körper-Problem hat keine allgemeine Lösung. Das bedeutet nicht, dass spezifische Konfigurationen nicht stabil sind — die Lagrange-Punkte sind stabil. Drei Körper können unter sehr spezifischen Bedingungen in vorhersehbare Orbits verfallen. Aber diese Bedingungen sind fragil. Stört man sie leicht, verschwindet die Stabilität.
 
-Jeder Versuch, Soziale Medien zu „reparieren", ist eine Störung.
+Jeder Versuch, Soziale Medien zu „reparieren”, ist eine Störung.
 
 Inhaltsmoderation: entfernt die offensichtlichsten Inhalte, verändert die Dynamiken, erzeugt Märtyrereffekte, radikalisiert die neu gesperrten Zielgruppen anderswo. Rationale Reaktion auf einen strukturellen Anreiz.
 
