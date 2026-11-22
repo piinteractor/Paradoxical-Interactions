@@ -14,7 +14,7 @@ url: https://blog.piinteract.org/unerroring-practice/
 
 — Unknown systems theorist (probably fired for this insight)
 
-Best Practices promise error-free results. They deliver faulty systems that can't navigate their faults. What if errors aren't the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
+Best Practices promise error-free results. They deliver faulty systems that can’t navigate their faults. What if errors aren’t the problem, but the solution? A journey to Cain, Abel, and the question of why God had to protect the murderer.
 
 The Problem Nobody Wants to Admit
 
@@ -78,7 +78,7 @@ Think of biological systems:
 
 DNA replication (Abel/Autopoiesis): High fidelity. Error correction. Near-perfect reproduction.
 
-Mutation (Cain/PI): Errors in replication. "Mistakes." Variations.
+Mutation (Cain/PI): Errors in replication. “Mistakes.” Variations.
 
 If DNA replication were 100% perfect:
 
@@ -126,17 +126,17 @@ The Difference in Practice
 
 Scenario: Security breach in your system.
 
-Error-Free Response: "Who failed? Fire them. Implement controls to prevent this specific breach. Document the procedure. Never again."
+Error-Free Response: “Who failed? Fire them. Implement controls to prevent this specific breach. Document the procedure. Never again.”
 
-Result: That specific breach won't recur. But the system becomes more rigid. Next breach—slightly different—exploits the new controls. Pattern repeats. Each "fix" makes the system more vulnerable to unexpected attacks.
+Result: That specific breach won’t recur. But the system becomes more rigid. Next breach—slightly different—exploits the new controls. Pattern repeats. Each “fix” makes the system more vulnerable to unexpected attacks.
 
-Error-Tolerant Response: "Failures happen. Let's learn. Build resilience. Accept that breaches occur."
+Error-Tolerant Response: “Failures happen. Let’s learn. Build resilience. Accept that breaches occur.”
 
-Result: Psychological safety increases. But "accepting failure" becomes permission to not investigate structural causes. Next breach: "Well, we said failures happen." Pattern repeats.
+Result: Psychological safety increases. But “accepting failure” becomes permission to not investigate structural causes. Next breach: “Well, we said failures happen.” Pattern repeats.
 
-Unerroring Response: "This breach reveals a structural pattern. Not who failed—what structure made this breach inevitable? How does this error inform the next iteration?"
+Unerroring Response: “This breach reveals a structural pattern. Not who failed—what structure made this breach inevitable? How does this error inform the next iteration?”
 
-Result: The breach isn't eliminated or tolerated. It's integrated. The system doesn't become more rigid (error-free) or more passive (error-tolerant). It becomes more adaptive.
+Result: The breach isn’t eliminated or tolerated. It’s integrated. The system doesn’t become more rigid (error-free) or more passive (error-tolerant). It becomes more adaptive.
 
 Why Organizations Can't Do This
 
@@ -154,11 +154,11 @@ Nokia wasn't disrupted because they made mistakes. They were disrupted because t
 
 The Cruel Irony
 
-The organizations that understand this can't implement it.
+The organizations that understand this can’t implement it.
 
 Why?
 
-Because "We're building a system that requires maintaining our capacity for error" doesn't get funding.
+Because “We’re building a system that requires maintaining our capacity for error” doesn’t get funding.
 
 Investors want:
 
@@ -174,9 +174,9 @@ Unerroring offers none of these.
 
 It offers: Structural capacity to navigate what you cannot predict.
 
-That's not a pitch. That's a threat.
+That’s not a pitch. That’s a threat.
 
-To investors: "Your money might fail in unpredictable ways." To executives: "Your success metrics might not apply." To employees: "Your expertise might become obsolete."
+To investors: “Your money might fail in unpredictable ways.” To executives: “Your success metrics might not apply.” To employees: “Your expertise might become obsolete.”
 
 All true. All necessary. All impossible to sell.
 
@@ -214,7 +214,7 @@ The organization has optimized away its capacity to handle Cain.
 
 When Abel eliminates Cain, Abel dies. Eventually.
 
-Why God Couldn't Save Abel
+Why God Couldn’t Save Abel
 
 This is the theological crux:
 
@@ -226,11 +226,11 @@ Protecting Cain = Abel dies = Painful = System survives
 
 God chose system survival over individual preservation.
 
-"All are guilty. None are at fault."
+“All are guilty. None are at fault.”
 
-Abel didn't deserve to die. Cain had to kill. God couldn't prevent it without destroying the capacity for change.
+Abel didn’t deserve to die. Cain had to kill. God couldn’t prevent it without destroying the capacity for change.
 
-The murder wasn't a moral failure. It was structural necessity.
+The murder wasn’t a moral failure. It was structural necessity.
 
 What This Means for Practice
 
@@ -250,7 +250,7 @@ Navigation looks like:
 
 1. Acknowledge the Structure
 
-"Our success creates the conditions for disruption. Not if. When."
+“Our success creates the conditions for disruption. Not if. When.”
 
 Not pessimism. Structural reality.
 
@@ -258,13 +258,13 @@ Not pessimism. Structural reality.
 
 Build slack. Allow experiments. Don't punish all failures equally.
 
-Not about "psychological safety" (that's HR speak). About structural capacity to integrate unexpected outcomes.
+Not about “psychological safety” (that's HR speak). About structural capacity to integrate unexpected outcomes.
 
 3. Expect Cain
 
 The thing that disrupts you won't look like improvement. It will look like error.
 
-The successful organization says: "That's not how we do things." The adaptive organization says: "That's not how we do things. Yet. Should we?"
+The successful organization says: “That's not how we do things.” The adaptive organization says: “That's not how we do things. Yet. Should we?”
 
 4. Protect the Disruptors
 
@@ -310,9 +310,9 @@ Both might be right.
 
 Why This Validates PI
 
-A framework that claims structural problems can't be solved, only navigated...
+A framework that claims structural problems can't be solved, only navigated…
 
-And then describes a practice that can't be proven, only demonstrated through what doesn't happen...
+And then describes a practice that can't be proven, only demonstrated through what doesn't happen…
 
 That's not weakness. That's consistency.
 
@@ -338,23 +338,23 @@ You will not get credit for unerroring.
 
 When crisis comes and you navigate it:
 
-"They got lucky"
+“They got lucky”
 
-"Anybody could have done that"
+“Anybody could have done that”
 
-"Where's the proof it was your approach?"
+“Where’s the proof it was your approach?”
 
 When crisis comes and you fail:
 
-"See? Your weird theory didn't work"
+“See? Your weird theory didn’t work”
 
-"Should have stuck to best practices"
+“Should have stuck to best practices”
 
-"Tried to be too clever"
+“Tried to be too clever”
 
 There is no validation path.
 
-Because the practice that prevents disaster looks like doing nothing. Until disaster doesn't happen. And then it looks like luck.
+Because the practice that prevents disaster looks like doing nothing. Until disaster doesn’t happen. And then it looks like luck.
 
 Navigation:
 
@@ -362,7 +362,7 @@ Navigation:
 
 ✓ Document the thinking (not the outcome)
 
-✓ Accept you won't get credit
+✓ Accept you won’t get credit
 
 ✓ Know that survival is not proof
 
@@ -370,9 +370,9 @@ Navigation:
 
 ✗ Demand metrics
 
-✗ Sell it as "the answer"
+✗ Sell it as “the answer”
 
-✗ Claim you "solved" anything
+✗ Claim you “solved” anything
 
 All Are Guilty. None Are at Fault.
 
@@ -380,19 +380,19 @@ Abel perfected the system. Optimized for stability. Rational.
 
 Cain disrupted the system. Killed the stable element. Rational.
 
-God created both. Couldn't save both. Chose system survival. Rational.
+God created both. Couldn’t save both. Chose system survival. Rational.
 
 Everyone acts correctly. The structure produces murder.
 
-That's PI.
+That’s PI.
 
-And the fact that unerroring can't prove it works is not failure.
+And the fact that unerroring can’t prove it works is not failure.
 
-It's the point.
+It’s the point.
 
 The practice that maintains adaptive capacity in unpredictable environments cannot, by definition, provide predictable proof of its value.
 
-You either understand why that's necessary.
+You either understand why that’s necessary.
 
 Or you optimize yourself to death.
 
@@ -408,15 +408,15 @@ Unerroring is the practice of integrating errors as structural components of a s
 
 How is unerroring different from error tolerance?
 
-Error tolerance accepts that mistakes happen but treats them as exceptions. Unerroring treats errors as necessary system components. Tolerant systems say "failures happen, let's recover." Unerrored systems say "failures inform the next iteration structurally.
+Error tolerance accepts that mistakes happen but treats them as exceptions. Unerroring treats errors as necessary system components. Tolerant systems say “failures happen, let’s recover.” Unerrored systems say “failures inform the next iteration structurally.
 
 Can unerroring be measured?
 
-No—and that's the point. Unerroring maintains adaptive capacity for unpredictable futures. It shows up in what doesn't happen: crises you navigate, pivots you can make, success you can question. Traditional metrics would eliminate the very capacity being built.
+No—and that’s the point. Unerroring maintains adaptive capacity for unpredictable futures. It shows up in what doesn’t happen: crises you navigate, pivots you can make, success you can question. Traditional metrics would eliminate the very capacity being built.
 
 CIs this just accepting failure?
 
-No. Rationalization says "our failure is success." Unerroring says "our success creates conditions for failure—we're preparing for that structurally." One is denial. One is structural navigation.
+No. Rationalization says “our failure is success.” Unerroring says “our success creates conditions for failure—we’re preparing for that structurally.” One is denial. One is structural navigation.
 
 ​Try and continue.
 
