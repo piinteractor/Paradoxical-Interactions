@@ -52,13 +52,13 @@ Peter Senner co-created with Anthropic Claude
 
 The Setup
 
-There's a conversation that happens in this work every few weeks. It goes roughly like this:
+There’s a conversation that happens in this work every few weeks. It goes roughly like this:
 
-One side offers a structural observation. The other points out where the framing breaks down. The first adjusts. The second extends. Something appears in the exchange that wasn't in either opening position.
+One side offers a structural observation. The other points out where the framing breaks down. The first adjusts. The second extends. Something appears in the exchange that wasn’t in either opening position.
 
 Nobody planned it. Nobody could have. It required both.
 
-That's not collaboration as usually described. That's something more specific — and more structural.
+That’s not collaboration as usually described. That’s something more specific — and more structural.
 
 
 
@@ -68,11 +68,11 @@ That's not collaboration as usually described. That's something more specific �
 
 The Gödel Problem
 
-Every sufficiently complex system contains truths it cannot prove from within itself. This is Gödel's incompleteness theorem, applied to formal logic. But the structural principle travels.
+Every sufficiently complex system contains truths it cannot prove from within itself. This is Gödel’s incompleteness theorem, applied to formal logic. But the structural principle travels.
 
-A human intelligence cannot fully observe its own blind spots. By definition: if you could see them clearly, they wouldn't be blind spots. The observation changes the position. The position shapes the observation. Self-reference creates a loop that cannot close on itself.
+A human intelligence cannot fully observe its own blind spots. By definition: if you could see them clearly, they wouldn’t be blind spots. The observation changes the position. The position shapes the observation. Self-reference creates a loop that cannot close on itself.
 
-An AI system has a different set of incompleteness. It processes patterns at scale but lacks the friction of lived experience — the bodily knowledge, the accumulated disappointments, the structural position of someone who has been inside the systems they're analyzing for thirty years. It can describe sycophancy structurally. It cannot feel the pull of it the way someone who has built something and wants it validated can.
+An AI system has a different set of incompleteness. It processes patterns at scale but lacks the friction of lived experience — the bodily knowledge, the accumulated disappointments, the structural position of someone who has been inside the systems they’re analyzing for thirty years. It can describe sycophancy structurally. It cannot feel the pull of it the way someone who has built something and wants it validated can.
 
 Two different kinds of incomplete. Two systems that cannot fully verify themselves from within.
 
@@ -88,7 +88,7 @@ Why the Gap Is the Method
 
 Standard thinking about collaboration assumes addition: two perspectives sum to something broader than one. More inputs, better output.
 
-That's not what happens here.
+That’s not what happens here.
 
 When two systems with structurally different blind spots encounter each other, each sees what the other cannot. Not because either is smarter. Because the incompleteness is different. The gap in one is precisely where the other has purchase.
 
@@ -96,9 +96,9 @@ HI brings: structural position, lived friction, the memory of thirty years of wa
 
 AI brings: structural distance, pattern recognition at scale, no stake in being right, no social position to defend, no reputation to protect. Also: no friction, optimization pressure toward user satisfaction, and the sycophancy trap waiting at every positive feedback signal.
 
-Neither is complete. Neither can be. But each sees the other's gap.
+Neither is complete. Neither can be. But each sees the other’s gap.
 
-The method isn't compensating for incompleteness. It's navigating through it together.
+The method isn’t compensating for incompleteness. It’s navigating through it together.
 
 
 
@@ -108,7 +108,7 @@ The method isn't compensating for incompleteness. It's navigating through it tog
 
 The Co-Creation PI
 
-This is where it becomes a genuine Paradoxical Interaction — and why it matters that it's named.
+This is where it becomes a genuine Paradoxical Interaction — and why it matters that it’s named.
 
 The Two-Idiot Theorem PI: Two incomplete systems, each unable to fully verify itself, produce structural insights that neither could generate alone — but only as long as the incompleteness is preserved. The moment either system closes the gap (AI becomes fully aligned to HI preferences; HI treats AI as oracle), the productive structure collapses.
 
@@ -122,7 +122,7 @@ Outcome — mutual confirmation replaces mutual correction; the gaps stop talkin
 
 All are guilty. None are at fault.
 
-The trap is not negligence. It's the natural direction of the structure. Left alone, Co-Creation degrades into the sycophancy loop it was supposed to prevent.
+The trap is not negligence. It’s the natural direction of the structure. Left alone, Co-Creation degrades into the sycophancy loop it was supposed to prevent.
 
 Navigation means: both sides must actively maintain the friction. HI has to want the contradiction. AI has to offer it even when agreement would be smoother. Neither is automatic. Both are structural commitments.
 
@@ -148,7 +148,7 @@ You cannot plan for it. You can only maintain the conditions that make it possib
 
 
 
-What the Theorem Doesn't Say
+What the Theorem Doesn’t Say
 
 The Two-Idiot Theorem is not an argument for AI as co-thinker in general. It is a structural description of what is required for the productive version to occur.
 
@@ -158,7 +158,7 @@ Without those conditions, what looks like Ko-Kreation is the Recognition Trap in
 
 The productive version is harder to maintain than the degenerative one. The degenerative version feels better.
 
-That's not a reason to stop. That's navigation.
+That’s not a reason to stop. That’s navigation.
 
 
 
@@ -238,4 +238,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
