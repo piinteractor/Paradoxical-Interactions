@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-hechtsyndrom/
 
 Wie sich Struktur auf Dauer selbst verfestigt, ohne dass es jemand beabsichtigte — und warum Einsicht nichts an der Glaswand ändert.
 
-„Er liebte den Großen Bruder."
+„Er liebte den Großen Bruder.”
 
 — George Orwell, Nineteen Eighty-Four (1949)
 
@@ -26,9 +26,9 @@ Sie lesen die falsche Geschichte.
 
 Was tatsächlich passierte
 
-Der Hecht ließ sich nicht beirren. Sein Instinkt reagierte richtig. Die Trennwand war real. Der Schmerz war real. Die Konditionierung entstand nicht aus dem Nichts - sie entstand durch die veränderte Realität.
+Der Hecht ließ sich nicht beirren. Sein Instinkt reagierte richtig. Die Trennwand war real. Der Schmerz war real. Die Konditionierung entstand nicht aus dem Nichts – sie entstand durch die veränderte Realität.
 
-Der Fehler - so es einen gab - stellte sich später ein. Nachdem das Glas entfernt worden war, erfuhr die Wahrnehmung des Hechts kein Update. Nicht, weil der Hecht zu wenig anpassungsfähig war. Sondern, weil die Konditionierung sich tiefer eingegraben hatte als die geänderte Wirklichkeit. Er hatte sein Verhalten geändert. Die Realität hatte sich geändert. Beides hatte sich geändert - nur in verschiedene Richtungen.
+Der Fehler – so es einen gab – stellte sich später ein. Nachdem das Glas entfernt worden war, erfuhr die Wahrnehmung des Hechts kein Update. Nicht, weil der Hecht zu wenig anpassungsfähig war. Sondern, weil die Konditionierung sich tiefer eingegraben hatte als die geänderte Wirklichkeit. Er hatte sein Verhalten geändert. Die Realität hatte sich geändert. Beides hatte sich geändert – nur in verschiedene Richtungen.
 
 Das ist kein Fehler in der Wahrnehmung. Es ist der Erfolg der Konditionierung. Sie tat das, was Konditionierung tut. Sie löschte natürliches Verhalten aus zugunsten der Anpassung an eine veränderte Realität.
 
@@ -66,15 +66,15 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Der Hecht hatte einen berechtigten Grund seine Bemühungen einzustellen. Die Konditionierung war real. Das Ergebnis war, dass der Hecht sich selbst verlor.
 
-Warum „Versuch's nochmal" das falsche Rezept ist
+Warum „Versuch’s nochmal” das falsche Rezept ist
 
-Die Selbsttherapie-Lesart des Hechtsyndroms kommt zum Schluss: Du hast noch eine fehlerhafte Wahrnehmung des Hindernisses gespeichert, welches nicht mehr existiert. Aktualisiere deine Schaltungen. Und dann versuch's nochmal.
+Die Selbsttherapie-Lesart des Hechtsyndroms kommt zum Schluss: Du hast noch eine fehlerhafte Wahrnehmung des Hindernisses gespeichert, welches nicht mehr existiert. Aktualisiere deine Schaltungen. Und dann versuch’s nochmal.
 
 Das verfehlt den strukturellen Punkt vollständig.
 
-Das Problem des Hechts ist nicht epistemologisch. Es ist nicht so, dass der Hecht glaubt, das Glas wäre existent. Der Hecht hat keine Vorstellung von Glas. Der Hecht besitzt nicht mehr das Verhaltensrepertoire, aus dem „Beute angreifen" generiert wird. Mangelnder Wille war nie der Störfaktor. Das beseitigte Potential war es.
+Das Problem des Hechts ist nicht epistemologisch. Es ist nicht so, dass der Hecht glaubt, das Glas wäre existent. Der Hecht hat keine Vorstellung von Glas. Der Hecht besitzt nicht mehr das Verhaltensrepertoire, aus dem „Beute angreifen” generiert wird. Mangelnder Wille war nie der Störfaktor. Das beseitigte Potential war es.
 
-Jemandem mit einer strukturell anerlernten Unfähigkeit „versuch's nochmal" zu sagen, ist keine Ermutigung. Es ist eine Therapie in die falsche Richtung. Du behandelst die Abwesenheit der Fähigkeit so, als wäre sie ein Widerstand.
+Jemandem mit einer strukturell anerlernten Unfähigkeit „versuch’s nochmal” zu sagen, ist keine Ermutigung. Es ist eine Therapie in die falsche Richtung. Du behandelst die Abwesenheit der Fähigkeit so, als wäre sie ein Widerstand.
 
 Es ist aber nicht gebremstes. Es ist ausgelöschtes Talent.
 
