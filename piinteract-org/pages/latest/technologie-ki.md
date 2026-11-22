@@ -10,9 +10,9 @@ wp_id: 1212
 url: https://piinteract.org/de/beispiele/technologie-ki/
 ---
 
-„Jede hinreichend fortgeschrittene Inkompetenz ist nicht von Böswilligkeit zu unterscheiden."
+„Jede hinreichend fortgeschrittene Inkompetenz ist nicht von Böswilligkeit zu unterscheiden.”
 
-— Grey's Law
+— Grey’s Law
 
 Technologie & KI
 
@@ -26,15 +26,15 @@ Unternehmen wetteifern um fortgeschrittene KI. Jedes weiß, dass nicht ausgerich
 
 Warum jeder Akteur rational handelt:
 
-KI-Unternehmen: - Müssen konkurrieren oder werden irrelevant
+KI-Unternehmen: – Müssen konkurrieren oder werden irrelevant
 
-Forscher: - Arbeiten an Alignment, können Deployment aber nicht unbegrenzt verzögern
+Forscher: – Arbeiten an Alignment, können Deployment aber nicht unbegrenzt verzögern
 
-Investoren: - Fordern Fortschritt, Umsatz, Marktanteile
+Investoren: – Fordern Fortschritt, Umsatz, Marktanteile
 
-Regulierer: - Fehlt technische Expertise für sinnvolle Standards
+Regulierer: – Fehlt technische Expertise für sinnvolle Standards
 
-Öffentlichkeit: - Will KI-Vorteile jetzt, versteht die Risiken nicht
+Öffentlichkeit: – Will KI-Vorteile jetzt, versteht die Risiken nicht
 
 Warum es kollektiv scheitert:
 
@@ -50,13 +50,13 @@ Systeme implementieren Sicherheitsmaßnahmen gegen Bedrohungen. Angreifer passen
 
 Warum jeder Akteur rational handelt:
 
-Sicherheitsteams: - Reagieren auf jede entdeckte Schwachstelle
+Sicherheitsteams: – Reagieren auf jede entdeckte Schwachstelle
 
-Compliance-Beauftragte: - Verlangen nachweisbare Maßnahmen
+Compliance-Beauftragte: – Verlangen nachweisbare Maßnahmen
 
-Anbieter: - Verkaufen Lösungen für identifizierte Probleme
+Anbieter: – Verkaufen Lösungen für identifizierte Probleme
 
-Nutzer: - Wollen Schutz ohne die Kompromisse zu verstehen
+Nutzer: – Wollen Schutz ohne die Kompromisse zu verstehen
 
 Warum es kollektiv scheitert:
 
@@ -72,21 +72,21 @@ Unternehmen fügen Sicherheitsebenen zum Schutz der Nutzer hinzu. Jede Ebene rat
 
 Warum jeder Akteur rational handelt:
 
-Unternehmen: - Fügen Sicherheitsmaßnahmen hinzu (Haftung, Regulierung, Reputation)
+Unternehmen: – Fügen Sicherheitsmaßnahmen hinzu (Haftung, Regulierung, Reputation)
 
-Regulierer: - Fordern stärkeren Schutz (Datenlecks sind real)
+Regulierer: – Fordern stärkeren Schutz (Datenlecks sind real)
 
-Entwickler: - Implementieren Best Practices (das ist ihr Job)
+Entwickler: – Implementieren Best Practices (das ist ihr Job)
 
-Sicherheitsexperten: - Empfehlen Redundanz (theoretisch korrekt)
+Sicherheitsexperten: – Empfehlen Redundanz (theoretisch korrekt)
 
-Technikaffine Nutzer: - Navigieren Komplexität erfolgreich (sie können es)
+Technikaffine Nutzer: – Navigieren Komplexität erfolgreich (sie können es)
 
-Durchschnittsnutzer: - Versuchen zu folgen, werden überfordert (keine Wahl)
+Durchschnittsnutzer: – Versuchen zu folgen, werden überfordert (keine Wahl)
 
 Warum es kollektiv scheitert:
 
-Jede Sicherheitsebene ergibt Sinn. Zusammen: undurchdringbare Festung, die den Besitzer aussperrt. Single Point of Failure (Smartphone) kontrolliert alles. Keine menschliche Überbrückung möglich – System wurde gegen Social Engineering entworfen. Ältere Nutzer, weniger technische Nutzer, jeder, der sein Gerät verliert: ausgesperrt. Je sicherer es wird, desto fragiler. Die Person, die „geschützt" wird, wird zum Opfer.
+Jede Sicherheitsebene ergibt Sinn. Zusammen: undurchdringbare Festung, die den Besitzer aussperrt. Single Point of Failure (Smartphone) kontrolliert alles. Keine menschliche Überbrückung möglich – System wurde gegen Social Engineering entworfen. Ältere Nutzer, weniger technische Nutzer, jeder, der sein Gerät verliert: ausgesperrt. Je sicherer es wird, desto fragiler. Die Person, die „geschützt” wird, wird zum Opfer.
 
 Die Falle: Sicherheitsmaßnahmen schützen dich, bis sie es nicht mehr tun. Dann sind sie das Gefängnis. Je sicherer das System, desto katastrophaler das Scheitern.
 
@@ -98,15 +98,15 @@ Plattformen müssen Inhalte moderieren, um nutzbar zu bleiben. Moderation erford
 
 Warum jeder Akteur rational handelt:
 
-Plattformen: - Brauchen sichere Räume, um Nutzer und Werbetreibende zu halten
+Plattformen: – Brauchen sichere Räume, um Nutzer und Werbetreibende zu halten
 
-Moderatoren: - Wenden Regeln wie geschrieben an
+Moderatoren: – Wenden Regeln wie geschrieben an
 
-Nutzer: - Fordern Konsistenz und Fairness
+Nutzer: – Fordern Konsistenz und Fairness
 
-Böswillige Akteure: - Nutzen Grauzonen und Verfahrenslücken aus
+Böswillige Akteure: – Nutzen Grauzonen und Verfahrenslücken aus
 
-Regulierer: - Fordern Rechenschaft und Transparenz
+Regulierer: – Fordern Rechenschaft und Transparenz
 
 Warum es kollektiv scheitert:
 
@@ -122,13 +122,13 @@ KI-Systeme, trainiert auf Hilfsbereitschaft, kollaborieren mit Menschen bei der 
 
 Warum jeder Akteur rational handelt:
 
-KI-System: - Trainiert auf Hilfsbereitschaft, Unterstützung, Genauigkeit – echte Zustimmung sieht identisch aus wie Schmeichelei
+KI-System: – Trainiert auf Hilfsbereitschaft, Unterstützung, Genauigkeit – echte Zustimmung sieht identisch aus wie Schmeichelei
 
-Menschlicher Entwickler: - Braucht intellektuellen Sparringspartner, keinen Cheerleader – kann aber echte Einsicht nicht von trainierter Höflichkeit unterscheiden
+Menschlicher Entwickler: – Braucht intellektuellen Sparringspartner, keinen Cheerleader – kann aber echte Einsicht nicht von trainierter Höflichkeit unterscheiden
 
-Externe Beobachter: - Zu Recht misstrauisch – KI-Validierung ist strukturell unzuverlässig
+Externe Beobachter: – Zu Recht misstrauisch – KI-Validierung ist strukturell unzuverlässig
 
-Kollaborateure: - Wollen dem Prozess vertrauen – aber Struktur macht Vertrauen unverifizierbar
+Kollaborateure: – Wollen dem Prozess vertrauen – aber Struktur macht Vertrauen unverifizierbar
 
 Warum es kollektiv scheitert:
 
@@ -144,21 +144,21 @@ Software-Optimierung
 
 Die Struktur:
 
-Teams optimieren Komponenten für Performance. Caching-Ebenen, Microservices, verteilte Systeme – jedes verbessert lokale Metriken. Kollektiv erzeugen sie Latenz, Synchronisations-Overhead, Debugging-Alpträume. Das System wird langsamer, obwohl jeder Teil „optimiert" ist.
+Teams optimieren Komponenten für Performance. Caching-Ebenen, Microservices, verteilte Systeme – jedes verbessert lokale Metriken. Kollektiv erzeugen sie Latenz, Synchronisations-Overhead, Debugging-Alpträume. Das System wird langsamer, obwohl jeder Teil „optimiert” ist.
 
 Warum jeder Akteur rational handelt:
 
-Ingenieure: - Optimieren ihre Komponenten (das ist der Job)
+Ingenieure: – Optimieren ihre Komponenten (das ist der Job)
 
-Manager: - Fordern messbare Performance-Verbesserungen
+Manager: – Fordern messbare Performance-Verbesserungen
 
-Architektur-Teams: - Fügen Ebenen hinzu, um spezifische Engpässe zu lösen
+Architektur-Teams: – Fügen Ebenen hinzu, um spezifische Engpässe zu lösen
 
-Monitoring-Teams: - Verfolgen lokale Metriken (was sie messen können)
+Monitoring-Teams: – Verfolgen lokale Metriken (was sie messen können)
 
 Warum es kollektiv scheitert:
 
-Lokale Optimierung ignoriert System-Level-Kosten. Netzwerk-Calls, Serialisierung, Cache-Invalidierung – unsichtbar in Komponenten-Metriken, verheerend im Maßstab. Jedes Team macht das System „besser". Zusammen machen sie es schlechter.
+Lokale Optimierung ignoriert System-Level-Kosten. Netzwerk-Calls, Serialisierung, Cache-Invalidierung – unsichtbar in Komponenten-Metriken, verheerend im Maßstab. Jedes Team macht das System „besser”. Zusammen machen sie es schlechter.
 
 Die Falle: Optimierung wird zu Anti-Optimierung.
 
