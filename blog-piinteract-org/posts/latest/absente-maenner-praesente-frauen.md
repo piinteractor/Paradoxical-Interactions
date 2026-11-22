@@ -18,7 +18,7 @@ Warum die Gleichberechtigungsdebatte verhandelt, wer abwesend sein darf — und 
 
 
 
-„ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα οἴκαδέ τ' ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι." „Doch auch so will ich und sehne mich alle Tage, heimzukehren und den Tag der Rückkehr zu sehen." —
+„ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα οἴκαδέ τ’ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι.” „Doch auch so will ich und sehne mich alle Tage, heimzukehren und den Tag der Rückkehr zu sehen.” —
 
 Odysseus zu Kalypso, in deren Bett. Homer, Odyssee V, 219–220
 
@@ -223,7 +223,7 @@ Care Work and Care Jobs for the Future of Decent Work (ILO) — Der institutione
 
 Sexual Motivation and the Duration of Partnership (Klusmann, Archives of Sexual Behavior) — Der begutachtete Beleg für die zweite Währung: Begehren sinkt mit der Dauer der Sicherheit. Gewöhnung ist messbar.
 
-"I'd like five of them": Internationally Recruited Nurses in the German Healthcare Sector (peer-reviewed) — Begutachteter Beleg für die Delegationskette: importierte Anwesenheit als Bedingung hiesiger Abwesenheit.
+“I’d like five of them”: Internationally Recruited Nurses in the German Healthcare Sector (peer-reviewed) — Begutachteter Beleg für die Delegationskette: importierte Anwesenheit als Bedingung hiesiger Abwesenheit.
 
 
 
