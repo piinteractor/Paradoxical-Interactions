@@ -10,9 +10,9 @@ wp_id: 7907
 url: https://blog.piinteract.org/england-and-the-fear-of-winning/
 ---
 
-Why England didn't survive its own 55th minute — and why that has nothing to do with nerves.
+Why England didn’t survive its own 55th minute — and why that has nothing to do with nerves.
 
-"We fear our highest possibilities…We are generally afraid to become that which we glimpse in our most perfect moments, under the most perfect conditions, under the conditions of greatest courage. We enjoy and even thrill to godlike possibilities we see in ourselves in such peak moments. And yet we simultaneously shiver with weakness, awe, and fear before these very same possibilities."
+“We fear our highest possibilities…We are generally afraid to become that which we glimpse in our most perfect moments, under the most perfect conditions, under the conditions of greatest courage. We enjoy and even thrill to godlike possibilities we see in ourselves in such peak moments. And yet we simultaneously shiver with weakness, awe, and fear before these very same possibilities.”
 
 — Abraham Maslow, The Farther Reaches of Human Nature (1971)
 
@@ -24,13 +24,13 @@ The 55th Minute
 
 Atlanta, July 15, 2026. Anthony Gordon scores. England, having ground through a brutal tournament, suddenly stands ten minutes from a historic turning point: a World Cup final after sixty-four years of waiting. The stadium is already doing the math — thirty-five minutes plus stoppage time left.
 
-What begins in that moment is not a hunt for the second goal. It's the retreat.
+What begins in that moment is not a hunt for the second goal. It’s the retreat.
 
-The Winner's Reflex
+The Winner’s Reflex
 
 Picture someone holding a winning lottery ticket. The second before, the ticket was worthless — a piece of paper you carry around, crumple, forget. The second after, the hands shake. Not from fear of losing the ticket. From the sudden existence of something that can be lost.
 
-That's what happens to a lead in a knockout match. Before the goal, there's nothing to manage — only something to chase. After the goal, there's suddenly something to protect. The brain switches programs without anyone ordering the switch. Pursuit and defense aren't two modes of the same action. They're two different actions, and the transition happens automatically, the instant the goal becomes real.
+That’s what happens to a lead in a knockout match. Before the goal, there’s nothing to manage — only something to chase. After the goal, there’s suddenly something to protect. The brain switches programs without anyone ordering the switch. Pursuit and defense aren’t two modes of the same action. They’re two different actions, and the transition happens automatically, the instant the goal becomes real.
 
 What Happened on July 15, 2026
 
@@ -94,7 +94,7 @@ No results found.
 
 On piinteract.org:
 
-[“The harder you want it, the less you get it”] — The “winner's reflex” in its purest form: The desire to reach the final produces exactly the behavior that prevents it from happening.
+[“The harder you want it, the less you get it”] — The “winner’s reflex” in its purest form: The desire to reach the final produces exactly the behavior that prevents it from happening.
 
 [“Never Change a Winning Team”] — Tuchel changes the winning system the very moment it’s winning. This “anti-practice” is both refuted and confirmed live on the field.
 
@@ -122,4 +122,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
