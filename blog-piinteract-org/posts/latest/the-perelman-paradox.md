@@ -10,7 +10,7 @@ wp_id: 1100
 url: https://blog.piinteract.org/the-perelman-paradox/
 ---
 
-“I'm not interested in money or fame; I don't want to be on display like an animal in a zoo. I'm not a hero of mathematics. I'm not even that successful; that is why I don't want to have everybody looking at me.”
+“I’m not interested in money or fame; I don’t want to be on display like an animal in a zoo. I’m not a hero of mathematics. I’m not even that successful; that is why I don’t want to have everybody looking at me.”
 
 — Grigori Perelman
 
