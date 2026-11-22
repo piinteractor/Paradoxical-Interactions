@@ -42,7 +42,7 @@ In the event of a data protection violation, you have the right to lodge a compl
 
 Data Security
 
-This website uses SSL encryption (Secure Socket Layer) to protect the transmission of confidential data. This ensures that data transmitted via this site cannot be viewed by third parties. An encrypted connection is indicated by the "https://" prefix and the lock icon in your browser's address bar.
+This website uses SSL encryption (Secure Socket Layer) to protect the transmission of confidential data. This ensures that data transmitted via this site cannot be viewed by third parties. An encrypted connection is indicated by the “https://” prefix and the lock icon in your browser’s address bar.
 
 Server Log Files
 
@@ -98,7 +98,7 @@ This website is not intended for children under 14 years of age. We do not knowi
 
 Cookies
 
-This website uses cookies. Cookies are small text files that your browser stores on your device. They help us make our website more user-friendly, effective, and secure. Some cookies are "session cookies" that are automatically deleted at the end of your browser session. Others remain on your device until you delete them, allowing us to recognize you when you return.
+This website uses cookies. Cookies are small text files that your browser stores on your device. They help us make our website more user-friendly, effective, and secure. Some cookies are “session cookies” that are automatically deleted at the end of your browser session. Others remain on your device until you delete them, allowing us to recognize you when you return.
 
 You can monitor, restrict, or disable cookies in your browser settings. Most browsers can be configured to delete cookies when closed. However, disabling cookies may affect the functionality of the website.
 
@@ -106,7 +106,7 @@ Cookies necessary for electronic communication or for providing certain function
 
 Cookie Consent
 
-To manage cookies and similar technologies (tracking pixels, web beacons, etc.) and related consents, we use the consent tool "Real Cookie Banner." Details on how Real Cookie Banner works can be found at: devowl.io/rcb/data-processing
+To manage cookies and similar technologies (tracking pixels, web beacons, etc.) and related consents, we use the consent tool “Real Cookie Banner.” Details on how Real Cookie Banner works can be found at: devowl.io/rcb/data-processing
 
 The legal basis for processing personal data in this context is Art. 6(1)(c) and Art. 6(1)(f) GDPR. Our legitimate interest is the management of cookies and similar technologies and the related consents.
 
