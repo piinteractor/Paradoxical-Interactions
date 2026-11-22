@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/die-boten-pi-wenn-die-botschaft-die-vernicht
 
 Warum die Botschaft sich verbreitet, nachdem der Botschafter vernichtet wurde — und warum das kein Unglück ist, sondern ein Mechanismus.
 
-„Tötet nicht den Boten." — Sprichwort, Herkunft umstritten. Universell ignoriert.
+„Tötet nicht den Boten.” — Sprichwort, Herkunft umstritten. Universell ignoriert.
 
 Das Setup
 
@@ -48,7 +48,7 @@ Die archaische Motorik
 
 Aischylos wusste das 472 v. Chr.
 
-In den Persern kommt ein Bote an den Hof von Xerxes' Mutter. Er trägt die Nachricht von der Niederlage bei Salamis. Er kommentiert nicht. Er interpretiert nicht. Er berichtet, was er gesehen hat.
+In den Persern kommt ein Bote an den Hof von Xerxes’ Mutter. Er trägt die Nachricht von der Niederlage bei Salamis. Er kommentiert nicht. Er interpretiert nicht. Er berichtet, was er gesehen hat.
 
 Er weiß, was folgt.
 
