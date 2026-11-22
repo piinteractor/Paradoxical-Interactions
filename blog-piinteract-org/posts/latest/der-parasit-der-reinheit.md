@@ -22,7 +22,7 @@ Ein Reinraum duldet keinen Staub. Wird er für alles geöffnet, ist Staub keine 
 
 Die Evolution der Paranoia
 
-Popper formulierte 1945 die logische Grenze offener Systeme: Bedingungslose Toleranz kann sich selbst zerstören, wenn sie ebenso intolerante Akteure schützt. Daraus folgertge er ein Recht auf Selbstverteidigung: Das System darf Intoleranz blockieren -- und nur Intoleranz.
+Popper formulierte 1945 die logische Grenze offener Systeme: Bedingungslose Toleranz kann sich selbst zerstören, wenn sie ebenso intolerante Akteure schützt. Daraus folgertge er ein Recht auf Selbstverteidigung: Das System darf Intoleranz blockieren — und nur Intoleranz.
 
 Diese Unterscheidung setzt voraus, dass der tolerante Verteidiger und die intolerante Bedrohung hinreichend präzise auseinander gehalten werden können. In der Praxis gelingt das aber oft nicht. Motive sind operativ nicht messbar, also verschiebt sich die Abwehr von Reaktion zu Prävention. Die Struktur wartet nicht mehr auf den Bruch, sondern sucht nach dessen möglichem Entstehen. Wachsamkeit wird zu epistemischer Paranoia.
 
@@ -38,13 +38,13 @@ Das Paradox des Verdachts
 
 Sobald Verteidigung präventiv wird, braucht es den realen Angriff nicht mehr. Der Verdacht einer möglichen Abweichung reicht völlig aus.
 
-Semantische Nuancen, andere Prioritäten, strukturelle Skepsis -- alles kann als Systemrisiko codiert werden. Akteure schließen aus und isolieren im Selbstverteidigungsmodus. Dabei reproduzieren sieg genau die Mechanismen, die sie bekämpfen. Sie gleichen sich selbst dem Feindbild an, um es anschließend vorbeugend zu eliminieren.
+Semantische Nuancen, andere Prioritäten, strukturelle Skepsis — alles kann als Systemrisiko codiert werden. Akteure schließen aus und isolieren im Selbstverteidigungsmodus. Dabei reproduzieren sieg genau die Mechanismen, die sie bekämpfen. Sie gleichen sich selbst dem Feindbild an, um es anschließend vorbeugend zu eliminieren.
 
 Der Wohlfahrtsausschuss
 
 Im September 1793 verabschiedete die Französische Republik das Gesetz über die Verdächtigen. Verhaftet werden konnte, wer durch Verhalten, Beziehungen, Sprache oder Schrift als Feind der Freiheit erschien. Der Maßstab war nicht Handlung, sondern Signal.
 
-Die Zuordnung dehnte sich aus. Im Oktober 1793 erfasste sie die Girondisten, den moderaten Flügel der Revolution. Im April 1794 traf sie Danton und Desmoulins, Männer, die selbst mit am Aufbau der Terror-Maschinerie beteiligt gewesen waren, weil sie erklärten, diese Maschinerie sei weit genug gegangen. Desmoulins' Forderung nach Milde wurde als konterrevolutionäre Gesinnung umcodiert.
+Die Zuordnung dehnte sich aus. Im Oktober 1793 erfasste sie die Girondisten, den moderaten Flügel der Revolution. Im April 1794 traf sie Danton und Desmoulins, Männer, die selbst mit am Aufbau der Terror-Maschinerie beteiligt gewesen waren, weil sie erklärten, diese Maschinerie sei weit genug gegangen. Desmoulins’ Forderung nach Milde wurde als konterrevolutionäre Gesinnung umcodiert.
 
 Im Juli 1794 traf es Robespierre selbst.
 
@@ -70,7 +70,7 @@ Diese Dynamik lässt sich nicht durch Gegenargumente auflösen. Die Struktur abs
 
 Ein pluralistisches System überlebt nur, wenn es Redundanz, Ambiguität und Rauschen toleriert. Ein System, das jede Kontamination prozedural ausschließen will, optimiert sich in die Erstarrung hinein. Erstarrung ist jedoch keine Sicherheit.
 
-Wer eine offene Struktur offen halten will, muss ein gewisses Maß an systemischem Schmutz akzeptieren. Der Drang zur absoluten Reinheit ist das klarste Warnsignal einer bereits laufenden totalitären Transformation -- gerade dann, wenn er von Menschen getragen wird, die ursprünglich das Gegenteil verteidigen wollten.
+Wer eine offene Struktur offen halten will, muss ein gewisses Maß an systemischem Schmutz akzeptieren. Der Drang zur absoluten Reinheit ist das klarste Warnsignal einer bereits laufenden totalitären Transformation — gerade dann, wenn er von Menschen getragen wird, die ursprünglich das Gegenteil verteidigen wollten.
 
 Verwandte Beiträge
 
@@ -82,7 +82,7 @@ Warum nur der kognitive Ausbruch aus der Struktur herausführt
 
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
-Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
+Oder: Wie Google “Paradoxe Interaktionen” zur Therapie machte, es zugab, und sich nichts änderte.
 
 Das Kassandra Paradox
 
@@ -100,19 +100,19 @@ No results found.
 
 Auf piinteract.org:
 
-["Mehr vom Gleichen"] — Der Detektor hat nichts gefunden. Baue einen empfindlicheren. Die Abwesenheit wird zum Forschungsprogramm.
+[“Mehr vom Gleichen”] — Der Detektor hat nichts gefunden. Baue einen empfindlicheren. Die Abwesenheit wird zum Forschungsprogramm.
 
-["Diesmal wird es anders"] — Jedes neue Experiment verspricht Auflösung. Die Struktur, die die Abwesenheit erzeugt, wird nie hinterfragt.
+[“Diesmal wird es anders”] — Jedes neue Experiment verspricht Auflösung. Die Struktur, die die Abwesenheit erzeugt, wird nie hinterfragt.
 
-["Ändere nie ein Gewinnerteam"] — Das Modell funktioniert. Die Anomalien häufen sich. Das Modell überlebt, weil die Alternative noch kein Framework hat.
+[“Ändere nie ein Gewinnerteam”] — Das Modell funktioniert. Die Anomalien häufen sich. Das Modell überlebt, weil die Alternative noch kein Framework hat.
 
-["Muster erkennen, nicht Symptom"] — Das Muster ist ein System, das nicht abbilden kann, was es nicht erkennt.
+[“Muster erkennen, nicht Symptom”] — Das Muster ist ein System, das nicht abbilden kann, was es nicht erkennt.
 
 Siehe auch (externe Links):
 
-Popper, K. The Open Society and Its Enemies, Bd. 1, Anm. 4 zu Kap. 7 — vollständige Passage (Internet Archive) — die Primärquelle des Toleranzparadox-Zitats, einschließlich des Satzes, den die meisten Zitate weglassen: dass Popper Intoleranz nur „soweit" unterdrücken will, wie rationale Argumente und öffentliche Meinung sie nicht im Zaum halten — das Schlupfloch, das seine eigenen Wächter nicht mehr nutzen.
+Popper, K. The Open Society and Its Enemies, Bd. 1, Anm. 4 zu Kap. 7 — vollständige Passage (Internet Archive) — die Primärquelle des Toleranzparadox-Zitats, einschließlich des Satzes, den die meisten Zitate weglassen: dass Popper Intoleranz nur „soweit” unterdrücken will, wie rationale Argumente und öffentliche Meinung sie nicht im Zaum halten — das Schlupfloch, das seine eigenen Wächter nicht mehr nutzen.
 
-Loi des suspects, 17. September 1793 (Wikipedia) — das Dekret, dessen Maßstab „durch Verhalten, Beziehungen oder Sprache" der Mechanismus ist, den der Abschnitt zum Wohlfahrtsausschuss durchgeht.
+Loi des suspects, 17. September 1793 (Wikipedia) — das Dekret, dessen Maßstab „durch Verhalten, Beziehungen oder Sprache” der Mechanismus ist, den der Abschnitt zum Wohlfahrtsausschuss durchgeht.
 
 Wohlfahrtsausschuss (Wikipedia) — das institutionelle Gremium, sein wachsendes Mandat, und der Zeitverlauf von den Girondisten über Danton bis zu Robespierres eigener Verhaftung im Thermidor.
 
