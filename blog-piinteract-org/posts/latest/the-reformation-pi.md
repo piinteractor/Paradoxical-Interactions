@@ -72,7 +72,7 @@ Within two generations, Lutheranism had synods, confessions, ordination rites, e
 
 Zwingli radicalized. No images, no music, no ritual mediation between the soul and God. Strip everything. The more radical the break, the purer the community. The purer the community, the more hermetic its boundaries. Zurich became a theological fortress. The reform that wanted no walls built the highest ones.
 
-Calvin perfected the system. Predestination: God has already decided who is saved. You cannot earn it — but you can recognize it. In your discipline. In your success. In your accumulated capital. Max Weber drew the line from Calvin to capitalism, and he was right. The doctrine that abolished works-righteousness invented the most demanding works-righteousness in history. Every Protestant entrepreneur carrying guilt about his vacation is Calvin's descendant.
+Calvin perfected the system. Predestination: God has already decided who is saved. You cannot earn it — but you can recognize it. In your discipline. In your success. In your accumulated capital. Max Weber drew the line from Calvin to capitalism, and he was right. The doctrine that abolished works-righteousness invented the most demanding works-righteousness in history. Every Protestant entrepreneur carrying guilt about his vacation is Calvin’s descendant.
 
 Three men. Three breaks. Three new institutions — each tighter than the one they replaced.
 
@@ -94,7 +94,7 @@ The more urgently you argue, the more you need followers. The more followers, th
 
 Luther did not fail. Luther succeeded. That is exactly why the Reformation reproduced what it reformed.
 
-Everyone acts rationally. That's exactly why they collide.
+Everyone acts rationally. That’s exactly why they collide.
 
 
 
@@ -128,7 +128,7 @@ The Exception
 
 Henry VIII did not argue.
 
-He did not write theses. He did not convene councils. He did not develop a theology of the soul's direct relationship to God. He wanted a divorce. Rome refused. He dissolved the relationship — with Rome, not with Catholicism.
+He did not write theses. He did not convene councils. He did not develop a theology of the soul’s direct relationship to God. He wanted a divorce. Rome refused. He dissolved the relationship — with Rome, not with Catholicism.
 
 The Church of England kept the liturgy, the hierarchy, the bishops, the sacraments, the incense. It changed one thing: the address at the top. Not the Pope. The King.
 
@@ -211,7 +211,7 @@ How systems theorists reproduce the enclosure milieus Luhmann warned against
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Gaveston Pattern:
 
@@ -233,7 +233,7 @@ On piinteract.org
 
 [Religion & Belief Systems — Schism Dynamics] — Why every split multiplies what it divides
 
-[Core Practices — Infect and Forget] — The only strategy that doesn't rebuild what it replaces
+[Core Practices — Infect and Forget] — The only strategy that doesn’t rebuild what it replaces
 
 
 
@@ -262,4 +262,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
