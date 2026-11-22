@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/die-schroedinger-pi/
 
 Warum das berühmteste Gedankenexperiment der Physik dazu gedacht war, eine Theorie zu töten — und ihr dauerhaftester Beweis wurde.
 
-„Es gefällt mir nicht, und es tut mir leid, dass ich je damit zu tun hatte."
+„Es gefällt mir nicht, und es tut mir leid, dass ich je damit zu tun hatte.”
 
 — Erwin Schrödinger, über die Kopenhagener Deutung der Quantenmechanik, 1935
 
@@ -126,13 +126,13 @@ No results found.
 
 Aur piinteract.org
 
-["Perspective Switching"] — Das Innen und Außen von Schrödingers Kiste sind nicht zwei Perspektiven auf dasselbe. Es sind strukturell verschiedene Positionen, die verschiedene Realitäten erzeugen.
+[“Perspective Switching”] — Das Innen und Außen von Schrödingers Kiste sind nicht zwei Perspektiven auf dasselbe. Es sind strukturell verschiedene Positionen, die verschiedene Realitäten erzeugen.
 
-["You Are Never Just Yourself"] — Der Beobachter außerhalb der Kiste ist gleichzeitig innerhalb einer größeren Kiste. Es gibt keine Position, die ausschließlich extern ist.
+[“You Are Never Just Yourself”] — Der Beobachter außerhalb der Kiste ist gleichzeitig innerhalb einer größeren Kiste. Es gibt keine Position, die ausschließlich extern ist.
 
-["Galileo's Paradox"] — Die Struktur, die den neuen Rahmen nicht verarbeiten kann, widerlegt ihn nicht. Schrödinger versuchte, Kopenhagen zu widerlegen. Er illustrierte es.
+[“Galileo’s Paradox”] — Die Struktur, die den neuen Rahmen nicht verarbeiten kann, widerlegt ihn nicht. Schrödinger versuchte, Kopenhagen zu widerlegen. Er illustrierte es.
 
-["Name the Paradox"] — Der Zustand der Katze ist nicht das Paradox. Die Position des Beobachters ist es. Wer das benennt, hört auf, die Lösung im falschen System zu suchen.
+[“Name the Paradox”] — Der Zustand der Katze ist nicht das Paradox. Die Position des Beobachters ist es. Wer das benennt, hört auf, die Lösung im falschen System zu suchen.
 
 Externe Links
 
