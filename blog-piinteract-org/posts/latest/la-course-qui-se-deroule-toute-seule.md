@@ -10,7 +10,7 @@ wp_id: 4568
 url: https://blog.piinteract.org/fr/la-course-qui-se-deroule-toute-seule/
 ---
 
-« Nous avons rencontré l'ennemi, et c'est nous. »
+« Nous avons rencontré l’ennemi, et c’est nous. »
 
 — Walt Kelly, Pogo, 1970
 
@@ -40,7 +40,7 @@ Chaque argument en faveur de la victoire rend celle-ci plus difficile.
 
 
 
-Pourquoi l'argument le plus convaincant en faveur de la victoire dans la course à l'IA est aussi le plus efficace pour la perdre — d'un point de vue structurel, et non politique.
+Pourquoi l’argument le plus convaincant en faveur de la victoire dans la course à l’IA est aussi le plus efficace pour la perdre — d’un point de vue structurel, et non politique.
 
 
 
@@ -71,9 +71,9 @@ L’argument n’est pas faux. Mais il est incomplet sur un point essentiel.
 
 
 
-L'argument auquel on ne peut se soustraire
+L’argument auquel on ne peut se soustraire
 
-La structure du texte est élégante. Elle fonctionne ainsi : la croissance exponentielle est bien réelle. La convergence des talents est bien réelle. Deux pays se démarquent. L'un dispose d'une presse libre. L'autre pratique la surveillance et affiche ouvertement l'objectif de dominer le monde de l'IA.
+La structure du texte est élégante. Elle fonctionne ainsi : la croissance exponentielle est bien réelle. La convergence des talents est bien réelle. Deux pays se démarquent. L’un dispose d’une presse libre. L’autre pratique la surveillance et affiche ouvertement l’objectif de dominer le monde de l’IA.
 
 Par conséquent : les États-Unis doivent gagner, sinon un gouvernement qui emprisonne les gens pour avoir recherché le mauvais mot contrôlera ce qu’un milliard d’esprits sont autorisés à conclure.
 
@@ -89,11 +89,11 @@ Un argument que l’on ne peut refuser sans paraître naïf n’est pas seulemen
 
 
 
-Le miroir de l'autre côté de la barrière
+Le miroir de l’autre côté de la barrière
 
 À Pékin, on avance un argument structurellement identique.
 
-Le voici : les capacités en matière d'IA connaissent une croissance exponentielle. Les talents convergent. Deux pays se démarquent. L'un a pour objectif déclaré d'exporter ses valeurs à l'échelle mondiale. L'autre doit protéger sa souveraineté, sa stabilité et un milliard de personnes contre la colonisation culturelle et la subordination géopolitique.
+Le voici : les capacités en matière d’IA connaissent une croissance exponentielle. Les talents convergent. Deux pays se démarquent. L’un a pour objectif déclaré d’exporter ses valeurs à l’échelle mondiale. L’autre doit protéger sa souveraineté, sa stabilité et un milliard de personnes contre la colonisation culturelle et la subordination géopolitique.
 
 Par conséquent : la Chine doit gagner, sinon un gouvernement qui utilise l’ouverture comme un instrument géopolitique contrôlera ce qu’un milliard d’esprits sont autorisés à conclure.
 
@@ -115,11 +115,11 @@ C’est là l’Interaction paradoxale : deux acteurs, chacun réagissant de man
 
 Washington s’engage : Pékin y voit une confirmation et accélère. Pékin accélère : Washington y voit une confirmation et s’engage davantage. Les deux citent le comportement de l’autre comme preuve de la menace. Les deux ont raison. Aucun n’est en tort.
 
-La course n'a pas besoin d'acteurs malveillants. Elle a besoin d'acteurs rationnels.
+La course n’a pas besoin d’acteurs malveillants. Elle a besoin d’acteurs rationnels.
 
-L'IP « L'Amérique doit gagner » :
+L’IP « L’Amérique doit gagner » :
 
-Plus l'argument en faveur de la victoire devient convaincant, plus l'autre camp avance le même argument avec urgence. Chaque argument en faveur de la domination est simultanément un argument que l'autre camp utilise pour justifier sa propre domination.
+Plus l’argument en faveur de la victoire devient convaincant, plus l’autre camp avance le même argument avec urgence. Chaque argument en faveur de la domination est simultanément un argument que l’autre camp utilise pour justifier sa propre domination.
 
 Tout le monde agit de manière rationnelle :
 
@@ -127,13 +127,13 @@ Washington — investit, recrute, légifère, présente la course comme une ques
 
 Pékin — investit, recrute, légifère, présente la course comme une question existentielle (rationnel : les enjeux sont réels)
 
-La Silicon Valley — construit plus vite parce que l'urgence géopolitique le justifie (rationnel : prendre du retard est pire)
+La Silicon Valley — construit plus vite parce que l’urgence géopolitique le justifie (rationnel : prendre du retard est pire)
 
-Les talents mondiaux — se concentrent sur le problème parce que c'est là que se trouvent les ressources et l'importance (rationnel : optimisation individuelle)
+Les talents mondiaux — se concentrent sur le problème parce que c’est là que se trouvent les ressources et l’importance (rationnel : optimisation individuelle)
 
-Résultat — une course que personne n'a conçue, que personne ne contrôle et dont personne ne peut se retirer sans donner l'impression de concéder la victoire
+Résultat — une course que personne n’a conçue, que personne ne contrôle et dont personne ne peut se retirer sans donner l’impression de concéder la victoire
 
-Tous sont coupables. Personne n'est en tort.
+Tous sont coupables. Personne n’est en tort.
 
 
 
@@ -163,9 +163,9 @@ Une civilisation qui fait passer ses décisions par un système conçu pour remp
 
 Navigation
 
-L'IP n'offre pas de solutions. Elle offre une clarté structurelle.
+L’IP n’offre pas de solutions. Elle offre une clarté structurelle.
 
-Cette clarté est la suivante : le cadre racial n'est pas la description d'un problème qui existerait de manière indépendante. Le cadre racial fait partie intégrante du problème. Chaque acteur qui l'accepte — et qui agit ensuite de manière rationnelle à l'intérieur de ce cadre — renforce la structure.
+Cette clarté est la suivante : le cadre racial n’est pas la description d’un problème qui existerait de manière indépendante. Le cadre racial fait partie intégrante du problème. Chaque acteur qui l’accepte — et qui agit ensuite de manière rationnelle à l’intérieur de ce cadre — renforce la structure.
 
 Cela ne signifie pas que l’exponentiel n’est pas réel. Il est réel. Cela ne signifie pas que les enjeux géopolitiques ne sont pas réels. Ils sont réels. Cela signifie que l’argument « par conséquent, nous devons gagner » n’échappe pas à la structure. Il la renforce.
 
@@ -173,15 +173,15 @@ La question qu’il convient de poser n’est pas : comment gagner ?
 
 C’est : que voulons-nous réellement que l’outil cognitif le plus puissant de l’histoire accomplisse — et une course produit-elle cela ?
 
-Cette question n'a pas de réponse claire.
+Cette question n’a pas de réponse claire.
 
-Mais c'est la question que le texte ne peut pas poser, car la poser nécessiterait de sortir du cadre qui fait fonctionner l'argument.
+Mais c’est la question que le texte ne peut pas poser, car la poser nécessiterait de sortir du cadre qui fait fonctionner l’argument.
 
-Einsicht ist kein Ausweg. La perspicacité n'est pas une issue.
+Einsicht ist kein Ausweg. La perspicacité n’est pas une issue.
 
 Voir la structure ne vous en libère pas.
 
-Mais c'est le début pour ne pas être surpris par là où elle mène.
+Mais c’est le début pour ne pas être surpris par là où elle mène.
 
 
 
@@ -202,7 +202,7 @@ Articles connexes
 
 « Le pouvoir évolue plus rapidement que l’alignement »
 
-Quand le PDG d'une entreprise de sécurité IA vous dit que le contrôle échoue, croyez-le
+Quand le PDG d’une entreprise de sécurité IA vous dit que le contrôle échoue, croyez-le
 
 Le Piège de l’Intelligence
 
@@ -210,11 +210,11 @@ Pourquoi les gens intelligents rejettent les idées plus intelligentes – et ag
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 Le Prêtre de Nemi : Comment le Succès Crée son Propre Assassin
 
-Gagne la position. Garantis ta mort. Répète à l'infini.
+Gagne la position. Garantis ta mort. Répète à l’infini.
 
 No results found.
 
@@ -223,7 +223,7 @@ No results found.
 
 Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
 
-Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
+Pourquoi demander à l’IA comment aligner l’IA est le paradoxe parfait
 
 L’Asymétrie de communication
 
@@ -235,7 +235,7 @@ Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 L’équilibre de la méfiance mutuelle :
 
-—comment les humains et l'IA créent ensemble un climat de suspicion permanente
+—comment les humains et l’IA créent ensemble un climat de suspicion permanente
 
 No results found.
 
@@ -245,9 +245,9 @@ No results found.
 
 
 
-Interactions paradoxales (IP) : lorsque des acteurs rationnels aboutissent systématiquement à des résultats collectivement irrationnels – non pas à cause d'une défaillance, mais en raison de la structure.
+Interactions paradoxales (IP) : lorsque des acteurs rationnels aboutissent systématiquement à des résultats collectivement irrationnels – non pas à cause d’une défaillance, mais en raison de la structure.
 
-Tout le monde est coupable. Personne n'y est pour rien.
+Tout le monde est coupable. Personne n’y est pour rien.
 
 
 
