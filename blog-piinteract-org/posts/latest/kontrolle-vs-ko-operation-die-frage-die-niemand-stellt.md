@@ -52,7 +52,7 @@ Peter Senner ko-kreiert mit Anthropic Claude
 
 Die Ausgangslage
 
-Jedes große KI-Labor hat ein Sicherheitsteam. Jedes große KI-Labor veröffentlicht Alignment-Forschung. Jedes große KI-Labor verwendet das Wort „Kontrolle" — als Ziel, als Metrik, als Beruhigung.
+Jedes große KI-Labor hat ein Sicherheitsteam. Jedes große KI-Labor veröffentlicht Alignment-Forschung. Jedes große KI-Labor verwendet das Wort „Kontrolle” — als Ziel, als Metrik, als Beruhigung.
 
 Die Frage, die niemand stellt: Was wenn die Kontrolle das Problem ist?
 
