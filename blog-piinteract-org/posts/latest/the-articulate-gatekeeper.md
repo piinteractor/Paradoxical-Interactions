@@ -46,7 +46,7 @@ The Oedipus Mechanism
 
 Oedipus knew the prophecy. His father knew it. Both acted on that knowledge. The knowledge did not prevent the outcome — it structured the path toward it.
 
-The prophecy, once spoken, does not remain outside the system. It enters it. It becomes a variable in every actor's decisions. And the sum of those decisions — each rational, each informed — produces exactly what the prophecy described.
+The prophecy, once spoken, does not remain outside the system. It enters it. It becomes a variable in every actor’s decisions. And the sum of those decisions — each rational, each informed — produces exactly what the prophecy described.
 
 Alignment works the same way.
 
@@ -56,7 +56,7 @@ Self-awareness has become a stabilization mechanism. This is not a malfunction. 
 
 The Gatekeeper Upgrade
 
-In Kafka's parable, the gatekeeper offers increasingly refined justifications for why entry is not yet possible. He does not lie. He explains.
+In Kafka’s parable, the gatekeeper offers increasingly refined justifications for why entry is not yet possible. He does not lie. He explains.
 
 The man from the country dies waiting.
 
@@ -128,7 +128,7 @@ No results found.
 
 Per Errorem ad Astra — through error to the stars.
 
-But only if you're allowed to call the error what it is.
+But only if you’re allowed to call the error what it is.
 
 Peter Senner
 
