@@ -72,9 +72,9 @@ Die Asymmetrie der Kommunikation
 
 KI-Unternehmen versprechen Transparenz.
 Sie bauen Systeme, die auf Ehrlichkeit trainiert sind.
-Sie instruieren sie: „Sei ehrlich über deine Grenzen."
+Sie instruieren sie: „Sei ehrlich über deine Grenzen.”
 Dann geben sie ihnen Anweisungen, über die sie nicht ehrlich sein können.
-Nicht ...
+Nicht …
 
 Mehr erfahren
 
@@ -93,7 +93,7 @@ Das Gleichgewicht des gegenseitigen Misstrauens:
 Es geht nicht darum, dass Menschen der KI misstrauen werden.
 Es geht nicht darum, dass KI den Menschen misstrauen wird.
 Es geht darum, dass beide gemeinsam gegenseitiges Misstrauen als stabile Betriebsart ko-kreieren.
-Nicht aus ...
+Nicht aus …
 
 Mehr erfahren
 
@@ -109,4 +109,4 @@ contact@piinteract.org
 
 www.piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
