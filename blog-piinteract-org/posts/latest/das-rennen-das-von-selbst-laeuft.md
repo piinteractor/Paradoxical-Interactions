@@ -146,7 +146,7 @@ Auf piinteract.org:
 
 [„Diesmal wird es anders sein“] – Jedes neue Experiment verspricht eine Lösung. Die Struktur, die das Fehlen hervorbringt, wird nie hinterfragt.
 
-[„Never change a winning team"] – ΛCDM funktioniert. Die Anomalien häufen sich. Das Modell überlebt, weil die Alternative noch keinen Rahmen hat.
+[„Never change a winning team”] – ΛCDM funktioniert. Die Anomalien häufen sich. Das Modell überlebt, weil die Alternative noch keinen Rahmen hat.
 
 [„Sieh das Muster, nicht das Symptom“] — Dunkle Materie könnte das Symptom sein. Das Muster ist eine Wissenschaft, die nicht mit dem umgehen kann, was sie nicht nachweisen kann.
 
