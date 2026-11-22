@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-not-aus-paradox/
 
 Warum die Person, die um 4:47 Uhr den Schalter umlegte, nie die Befugnis dazu hatte — und warum niemand sie dazu autorisierte.
 
-"Ich bin mächtig. Und ich bin nur der unterste Türhüter."
+“Ich bin mächtig. Und ich bin nur der unterste Türhüter.”
 
 — Franz Kafka, Vor dem Gesetz (aus: Der Process, 1925)
 
@@ -48,7 +48,7 @@ Wer handelt, trägt nicht die Konsequenz
 
 In den meisten Unternehmen hat die Person, die für die Verfügbarkeit eines Geschäftsprozesses verantwortlich ist — Leitung Zahlungsverkehr, Leitung Produktion, Leitung klinische Systeme —, keine Befugnis darüber, ob genau dieser Prozess im Ernstfall abgeschaltet wird. Das SOC hat die Befugnis. Der Prozessverantwortliche trägt die Konsequenz. Zwei verschiedene Personen, oft in zwei verschiedenen Berichtslinien. Sichtbar wird die Asymmetrie erst, wenn tatsächlich etwas abgeschaltet wurde.
 
-NIST hat diese Lücke im April 2025 amtlich gemacht. Die überarbeitete SP 800-61 Revision 3 — verfasst von Amy Nelson, Shanée Rekhi, Murugiah Souppaya und Karen Scarfone — verschiebt die gesamte Incident-Response-Doktrin von „taktischer Ausführung" zu „strategischer Einbindung ins Risikomanagement". Genau das ist die Lücke, die hier verhandelt wird. Incident Response ist keine Funktion des SOC mehr. Sie ist eine Führungsaufgabe, in der der Prozessverantwortliche einen benannten Sitz hat — auf dem Papier. Das Playbook, das ihn dorthin tatsächlich setzt, hat kaum ein Unternehmen geschrieben. Der SOC-Analyst, der um vier Uhr morgens am Bildschirm sitzt, hat es nicht geschrieben. Er hat es nur geöffnet.
+NIST hat diese Lücke im April 2025 amtlich gemacht. Die überarbeitete SP 800-61 Revision 3 — verfasst von Amy Nelson, Shanée Rekhi, Murugiah Souppaya und Karen Scarfone — verschiebt die gesamte Incident-Response-Doktrin von „taktischer Ausführung” zu „strategischer Einbindung ins Risikomanagement”. Genau das ist die Lücke, die hier verhandelt wird. Incident Response ist keine Funktion des SOC mehr. Sie ist eine Führungsaufgabe, in der der Prozessverantwortliche einen benannten Sitz hat — auf dem Papier. Das Playbook, das ihn dorthin tatsächlich setzt, hat kaum ein Unternehmen geschrieben. Der SOC-Analyst, der um vier Uhr morgens am Bildschirm sitzt, hat es nicht geschrieben. Er hat es nur geöffnet.
 
 Das Not-Aus-Paradox
 
@@ -98,13 +98,13 @@ No results found.
 
 Auf piinteract.org
 
-[„Akzeptiere Asymmetrien"] — Befugnis und Verantwortung sind im Incident-Response-Playbook strukturell ungleich verteilt. Das zu akzeptieren heißt nicht, es gutzuheißen — es heißt, das Register zu bauen, das diese Ungleichheit sichtbar macht.
+[„Akzeptiere Asymmetrien”] — Befugnis und Verantwortung sind im Incident-Response-Playbook strukturell ungleich verteilt. Das zu akzeptieren heißt nicht, es gutzuheißen — es heißt, das Register zu bauen, das diese Ungleichheit sichtbar macht.
 
-[„Benenne das Paradox"] — „Wer trennt, trägt nicht die Konsequenz" ist ein Satz, der ausgesprochen werden muss, bevor um 4:47 Uhr jemand improvisiert.
+[„Benenne das Paradox”] — „Wer trennt, trägt nicht die Konsequenz” ist ein Satz, der ausgesprochen werden muss, bevor um 4:47 Uhr jemand improvisiert.
 
-[„Fibrotisierende Verwaltung"] — Jedes Register, jede RACI-Zeile ist für sich sinnvoll. Wird daraus eine weitere Compliance-Schicht statt einer gelebten Eskalationskette, hat sich die Lösung in das nächste Problem verwandelt.
+[„Fibrotisierende Verwaltung”] — Jedes Register, jede RACI-Zeile ist für sich sinnvoll. Wird daraus eine weitere Compliance-Schicht statt einer gelebten Eskalationskette, hat sich die Lösung in das nächste Problem verwandelt.
 
-[„Best-Practices Rigidität"] — „Isolieren, sobald Zweifel bestehen" war einmal die richtige Best Practice für Einzelplatzrechner. An der Zahlungsplattform ist sie zur Rigidität geworden, die niemand neu kalibriert hat.
+[„Best-Practices Rigidität”] — „Isolieren, sobald Zweifel bestehen” war einmal die richtige Best Practice für Einzelplatzrechner. An der Zahlungsplattform ist sie zur Rigidität geworden, die niemand neu kalibriert hat.
 
 Siehe auch (externe Links):
 
