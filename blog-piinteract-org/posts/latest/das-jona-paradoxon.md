@@ -54,13 +54,13 @@ Jona verweigert sich. Nicht aus Feigheit. Aus Einsicht. Er kennt die Prophetenka
 
 Gott zwingt ihn trotzdem. Sturm. Wal. Ninive. Struktureller Zwang.
 
-Jona warnt und erwartet: "Sie werden nicht hören. Ich werde recht haben. Vermutlich tot sein. Aber recht."
+Jona warnt und erwartet: “Sie werden nicht hören. Ich werde recht haben. Vermutlich tot sein. Aber recht.”
 
 Ninive hört zu. Bereut. Ändert sich.
 
 Gott verzeiht. Genau wie vorhergesagt.
 
-Jona ist wütend. Nicht weil er "falsch lag". Sondern weil die Struktur ihn verlieren lässt, egal wie:
+Jona ist wütend. Nicht weil er “falsch lag”. Sondern weil die Struktur ihn verlieren lässt, egal wie:
 
 Sie hören nicht → Jona hat recht, wird vermutlich getötet
 
@@ -120,15 +120,15 @@ Kann nicht bestimmt werden. Das ist die Pointe.
 
 Moderne Echos
 
-Jeder Klimawissenschaftler: Warnt vor Katastrophe. Wenn beachtet, materializieren sich Prognosen nicht. Kritiker behaupten: „Siehst du? Alarmist." Wenn ignoriert, posthum bestätigt.
+Jeder Klimawissenschaftler: Warnt vor Katastrophe. Wenn beachtet, materializieren sich Prognosen nicht. Kritiker behaupten: „Siehst du? Alarmist.” Wenn ignoriert, posthum bestätigt.
 
-Jeder AI-Safety-Forscher: Zeigt auf Risiken. Wenn verhindert: "Du lagst falsch—nichts ist passiert." Wenn eingetreten: zu spät für
+Jeder AI-Safety-Forscher: Zeigt auf Risiken. Wenn verhindert: “Du lagst falsch—nichts ist passiert.” Wenn eingetreten: zu spät für
 
-„Hab's gesagt."
+„Hab’s gesagt.”
 
-Jeder Whistleblower: Legt strukturelle Probleme offen. Wenn behoben: "Viel Lärm um nichts gemacht." Wenn nicht behoben: bestätigt und gefeuert.
+Jeder Whistleblower: Legt strukturelle Probleme offen. Wenn behoben: “Viel Lärm um nichts gemacht.” Wenn nicht behoben: bestätigt und gefeuert.
 
-Jede Pandemie-Warnung: Verhinderte Katastrophe beweist Überreaktion. Eingetretene Katastrophe beweist Inkompetenz ("Warum hast du nicht lauter gewarnt?").
+Jede Pandemie-Warnung: Verhinderte Katastrophe beweist Überreaktion. Eingetretene Katastrophe beweist Inkompetenz (“Warum hast du nicht lauter gewarnt?”).
 
 Kassandra hat immer recht. Kassandra verliert immer.
 
@@ -136,9 +136,9 @@ Warum es Bestand hat
 
 Die Struktur schützt sich selbst:
 
-Erfolgreiche Warnungen werden rückwirkend diskreditiert. "Nichts ist passiert—du hast übertrieben."
+Erfolgreiche Warnungen werden rückwirkend diskreditiert. “Nichts ist passiert—du hast übertrieben.”
 
-Gescheiterte Warnungen werden rückwirkend abgetan. "Du hättest besser/früher/anders warnen sollen."
+Gescheiterte Warnungen werden rückwirkend abgetan. “Du hättest besser/früher/anders warnen sollen.”
 
 Der Prophet kann nicht gewinnen. Das System benötigt ihr Opfer, um zu funktionieren.
 
@@ -170,7 +170,7 @@ Religion ohne PI ist naiv. PI ohne religiöse Demut ist arrogant.
 
 Vielleicht war Gott der erste PI-Praktiker.
 
-„Try and continue"—als Schöpfungsprinzip.
+„Try and continue”—als Schöpfungsprinzip.
 
 Siehe auch
 
@@ -178,7 +178,7 @@ Siehe auch
 
 [Core Practices]: Widersprüche sind Features, keine Bugs
 
-[Anti-Practices]: „Erschieße den Boten"
+[Anti-Practices]: „Erschieße den Boten”
 
 Peter Senner
 
