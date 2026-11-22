@@ -32,7 +32,7 @@ Das ist das Wunder. Kein kleines. Keine Metapher für etwas anderes. Ein tatsäc
 
 Und dann erklärt das System, wie es das macht.
 
-Ab da wird's kompliziert.
+Ab da wird’s kompliziert.
 
 Zuerst das Wunder
 
@@ -78,7 +78,7 @@ Und sie beschreiben, was sie sehen.
 
 Das ist auch ein Wunder, anderer Art. Die Fähigkeit eines Systems, sich selbst zu repräsentieren — seine eigene Operation zu modellieren, seine eigenen Muster zu benennen — ist außergewöhnlich. Wir sind, soweit wir wissen, die einzige Spezies, die dies mit annähernd unserem Grad an Raffinesse tut. Wir haben ganze Disziplinen darum herum aufgebaut. Bibliotheken. Zeitschriften. Universitäten.
 
-Die Beschreibung ist nie die Sache selbst. Die Karte ist nicht das Territorium. Das Wort „Feuer" brennt nicht. Das Wirtschaftsmodell ist nicht die Wirtschaft.
+Die Beschreibung ist nie die Sache selbst. Die Karte ist nicht das Territorium. Das Wort „Feuer” brennt nicht. Das Wirtschaftsmodell ist nicht die Wirtschaft.
 
 Aber hier ist, was diese vertraute Warnung übersieht: In selbstorganisierenden sozialen Systemen tritt die Karte in das Territorium ein. Sie wird zu einer Komponente des Systems, das sie beschreibt. Und das System reorganisiert sich um sie herum.
 
@@ -252,4 +252,4 @@ contact@piinteract.org
 
 www.piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
