@@ -18,7 +18,7 @@ Why the more a traffic system works, the less it works — and why no one is at 
 
 
 
-"The art of government consists in not allowing men to grow old in their jobs."
+“The art of government consists in not allowing men to grow old in their jobs.”
 
 Napoléon Bonaparte
 
@@ -58,11 +58,11 @@ The first time a driver sees the gantry showing 80 km/h on an open motorway, the
 
 The tenth time, they check the road. No congestion visible. No weather event. They slow — slightly, briefly.
 
-The fiftieth time, they're already past the sign before they've consciously registered it.
+The fiftieth time, they’re already past the sign before they’ve consciously registered it.
 
 This is not negligence. This is how human attention works. Habituation is not a bug in the neurological system — it is the feature that allows human beings to function in a world saturated with signals. The brain learns to filter the predictable. What has never preceded danger stops triggering the danger response.
 
-The system's effectiveness depends on driver attention. Driver attention depends on the sign being unusual. The sign becomes less unusual the more signs there are. There is no optimization path that doesn't eat itself.
+The system’s effectiveness depends on driver attention. Driver attention depends on the sign being unusual. The sign becomes less unusual the more signs there are. There is no optimization path that doesn’t eat itself.
 
 
 
@@ -100,7 +100,7 @@ The regular commuter — discounts a signal that has historically predicted noth
 
 The system designer — cannot simultaneously maximize coverage and preserve signal novelty
 
-The phantom jam — forms anyway, downstream of the experienced drivers who didn't slow
+The phantom jam — forms anyway, downstream of the experienced drivers who didn’t slow
 
 All are guilty. None are at fault.
 
@@ -146,7 +146,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Nockherberg Paradox. The Sharpest Critique Is the System’s Best Friend.
 
@@ -158,7 +158,7 @@ The Phenomenon of Coupled Oscillators
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
-Why the most rigorous approach to AI safety produces explanations no human can read — and why that's not a bug.
+Why the most rigorous approach to AI safety produces explanations no human can read — and why that’s not a bug.
 
 No results found.
 
@@ -192,4 +192,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
