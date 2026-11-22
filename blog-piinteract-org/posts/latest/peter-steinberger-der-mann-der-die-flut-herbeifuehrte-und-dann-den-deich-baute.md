@@ -282,11 +282,11 @@ No results found.
 
 piinteract.org
 
-[Core Practices] — "Navigate, don't solve"
+[Core Practices] — “Navigate, don’t solve”
 
-[Anti Practices] — "More of the Same"
+[Anti Practices] — “More of the Same”
 
-[Anti-Practice] "Transparency Creates Trust"
+[Anti-Practice] “Transparency Creates Trust”
 
 [Organizational paralysis]
 
