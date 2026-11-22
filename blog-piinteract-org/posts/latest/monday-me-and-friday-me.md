@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/monday-me-and-friday-me/
 
 Why you lose against your own resolutions even though both sides are right — and why the one instance that could arbitrate is always a party to the dispute.
 
-"Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes.)"
+“Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes.)”
 
  — Walt Whitman, Song of Myself (1855)
 
@@ -84,7 +84,7 @@ Related Posts
 
 AI Recognition Trap: When Understanding Doesn’t Set You Free
 
-    — When Understanding Doesn't Set You Free
+    — When Understanding Doesn’t Set You Free
 
 Luhmann and the Self-Enclosure
 
@@ -102,13 +102,13 @@ No results found.
 
 On piinteract.org:
 
-["Shared Blindspot"] — When all parties involved are the same self, all parties share the same blind spot. The arbitrator included.
+[“Shared Blindspot”] — When all parties involved are the same self, all parties share the same blind spot. The arbitrator included.
 
-["Antagonistic Sparring"] — The only correction the loop didn't produce itself comes from a counterpart with different errors.
+[“Antagonistic Sparring”] — The only correction the loop didn’t produce itself comes from a counterpart with different errors.
 
-["Perspective Switching"] — The loop simulates the switch of perspective. Every perspective originates in the same system.
+[“Perspective Switching”] — The loop simulates the switch of perspective. Every perspective originates in the same system.
 
-["More of the Same"] — Stricter plans against broken plans: the anti-practice in its most private form.
+[“More of the Same”] — Stricter plans against broken plans: the anti-practice in its most private form.
 
 See also (external links):
 
@@ -132,4 +132,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
