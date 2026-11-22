@@ -382,7 +382,7 @@ Paradoxical Interactions (PI): … In Luhmann’s sense: operationally closed, c
 
 
 
-Co-created with ChatGPT — two incomplete systems making each other's gaps visible.
+Co-created with ChatGPT — two incomplete systems making each other’s gaps visible.
 
 
 
