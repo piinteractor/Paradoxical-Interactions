@@ -20,14 +20,14 @@ Warum der Prüfer, der genügend unabhängig wäre, deinen blinden Fleck zu erke
 
 
 
-„Hier hätte ich unfehlbar umkommen müssen, wenn nicht die Stärke meines Armes mich an meinem eigenen Haarzopf, samt dem Pferde, welches ich fest zwischen meine Knie schloß, wieder herausgezogen hätte."
+„Hier hätte ich unfehlbar umkommen müssen, wenn nicht die Stärke meines Armes mich an meinem eigenen Haarzopf, samt dem Pferde, welches ich fest zwischen meine Knie schloß, wieder herausgezogen hätte.”
 
 — Gottfried August Bürger, Wunderbare Reisen zu Wasser und Lande, Feldzüge und lustige Abenteuer des Freyherrn von Münchhausen (1786)
 
 
 
 
-Dieser Artikel ist die Fortsetzung der Hypothese aus „das fehlende Organ"— Wenn ein System seinen eigenen blinden Fleck nicht zuverlässig erkennen kann, kann es vielleicht ein externer Beobachter. Das Münchhausen-Trilemma fragt, was diesen Beobachter dazu befähigt – und versperrt jeden Ausweg.
+Dieser Artikel ist die Fortsetzung der Hypothese aus „das fehlende Organ”— Wenn ein System seinen eigenen blinden Fleck nicht zuverlässig erkennen kann, kann es vielleicht ein externer Beobachter. Das Münchhausen-Trilemma fragt, was diesen Beobachter dazu befähigt – und versperrt jeden Ausweg.
 
 
 
@@ -263,13 +263,13 @@ No results found.
 
 Auf piinteract.org
 
-[„Erkenne den gemeinsamen blinden Fleck"] — das Trilemma ist der Beweis dieser Praxis: es gibt keinen unbegründeten Grund, auf dem man stehen könnte, um es zu sehen.
+[„Erkenne den gemeinsamen blinden Fleck”] — das Trilemma ist der Beweis dieser Praxis: es gibt keinen unbegründeten Grund, auf dem man stehen könnte, um es zu sehen.
 
-[„Unvollständigkeit akzeptieren"] — kein System, und kein Prüfer eines Systems, schließt seine eigene Lücke von innen. (Anker unbestätigt — vor Veröffentlichung prüfen; Praxis Nr. 16 auf der Core-Practices-Seite.)
+[„Unvollständigkeit akzeptieren”] — kein System, und kein Prüfer eines Systems, schließt seine eigene Lücke von innen. (Anker unbestätigt — vor Veröffentlichung prüfen; Praxis Nr. 16 auf der Core-Practices-Seite.)
 
-[„Benenne das Paradox"] — das Trilemma löst sich nicht auf, wenn man es benennt. Es hört nur auf, so zu tun, als gäbe es eine vierte Tür.
+[„Benenne das Paradox”] — das Trilemma löst sich nicht auf, wenn man es benennt. Es hört nur auf, so zu tun, als gäbe es eine vierte Tür.
 
-[„Infiziere und Vergiss"] — unvollkommene Korrektoren zu streuen statt einen perfekten einzustellen, ist die einzig funktionierende Navigation durch das Trilemma.
+[„Infiziere und Vergiss”] — unvollkommene Korrektoren zu streuen statt einen perfekten einzustellen, ist die einzig funktionierende Navigation durch das Trilemma.
 
 
 
@@ -284,7 +284,7 @@ Agrippa der Skeptiker — die antike Version, überliefert von Sextus Empiricus 
 
 Problem of the Criterion (Internet Encyclopedia of Philosophy) — Chisholms moderne Fassung desselben Regresses: man braucht ein Kriterium, um Erkenntnis von Nicht-Erkenntnis zu trennen, und ein Kriterium für das Kriterium, immer weiter.
 
-Gödels Unvollständigkeitssätze (Stanford Encyclopedia of Philosophy) — der formale Cousin aus "Das fehlende Organ": kein hinreichend mächtiges System zertifiziert sich selbst von innen, und der Prüfer eine Ebene höher erbt dasselbe Problem.
+Gödels Unvollständigkeitssätze (Stanford Encyclopedia of Philosophy) — der formale Cousin aus “Das fehlende Organ”: kein hinreichend mächtiges System zertifiziert sich selbst von innen, und der Prüfer eine Ebene höher erbt dasselbe Problem.
 
 
 
