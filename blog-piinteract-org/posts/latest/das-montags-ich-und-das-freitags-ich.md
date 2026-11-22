@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-montags-ich-und-das-freitags-ich/
 
 Warum du gegen deine eigenen guten Vorsätze verstößt, obwohl beide Ichs recht haben — und warum die Instanz, die schlichten könnte, immer Partei ergreift.
 
-„Widerspreche ich mir? / Nun gut, dann widerspreche ich mir eben, / (ich bin weit, ich fasse Mengen in mir.)"
+„Widerspreche ich mir? / Nun gut, dann widerspreche ich mir eben, / (ich bin weit, ich fasse Mengen in mir.)”
 
 — Walt Whitman, Song of Myself (1855)
 
@@ -52,7 +52,7 @@ Jetzt die strukturelle Wende. PI braucht Rückkopplung — Akteure, deren ration
 
 Das Montags-Ich reagiert auf das Freitags-Ich mit strengeren Plänen. Das Freitags-Ich reagiert auf strengere Pläne mit größerem Erholungsbedarf. Jede Runde verschärft die nächste. Luhmann beschrieb Systeme, die sich gegen ihre Umwelt schließen und nur noch ihre eigenen Elemente reproduzieren — er meinte Organisationen, Funktionssysteme, Theorieschulen. Die Hypothese hier: Das kleinste autopoietische System ist ein einzelner Mensch, der mit sich selbst rückkoppelt.
 
-Und dann geschieht , was jede geschlossene Schleife tut: Sie ruft einen Schlichter. Einen Mediator. Ein drittes Ich tritt auf, das Sonntags-Ich, das den Streit „von außen" betrachtet. Aber es gibt kein Außen. Der Schlichter wird von derselben Struktur produziert, wie die Streitparteien, mit eigenen Interessen am Ausgang — meist zur Selbstberuhigung. Jede Diagnose wird von einem der Beteiligten im Raum gestellt.
+Und dann geschieht , was jede geschlossene Schleife tut: Sie ruft einen Schlichter. Einen Mediator. Ein drittes Ich tritt auf, das Sonntags-Ich, das den Streit „von außen” betrachtet. Aber es gibt kein Außen. Der Schlichter wird von derselben Struktur produziert, wie die Streitparteien, mit eigenen Interessen am Ausgang — meist zur Selbstberuhigung. Jede Diagnose wird von einem der Beteiligten im Raum gestellt.
 
 Die Psychologie kennt den Dauerbetrieb dieser Schleife als Rumination: dasselbe Material, immer wieder durchlaufen, ohne dass etwas Neues eintritt — weil nichts Neues eintreten kann. Verzweiflung ist keine Denkstörung. Es ist ein in sich geschlossenes System, das einwandfrei funktioniert.
 
@@ -106,11 +106,11 @@ No results found.
 
 Auf piinteract.org:
 
-[„Erkenne den gemeinsamen blinden Fleck"] — Wenn alle Beteiligten dasselbe Ich sind, teilen alle Beteiligten denselben blinden Fleck. Der Schlichter eingeschlossen.
+[„Erkenne den gemeinsamen blinden Fleck”] — Wenn alle Beteiligten dasselbe Ich sind, teilen alle Beteiligten denselben blinden Fleck. Der Schlichter eingeschlossen.
 
-[„Antagonistisches Sparring"] — Die einzige Korrektur, die die Schleife nicht selbst produziert hat, kommt von einem Gegenüber mit anderen Fehlern.
+[„Antagonistisches Sparring”] — Die einzige Korrektur, die die Schleife nicht selbst produziert hat, kommt von einem Gegenüber mit anderen Fehlern.
 
-[„Perspektivwechsel"] — Die Schleife simuliert den Perspektivwechsel. Jede Perspektive stammt aus demselben System.
+[„Perspektivwechsel”] — Die Schleife simuliert den Perspektivwechsel. Jede Perspektive stammt aus demselben System.
 
 [„Mehr vom Gleichen“​] — Strengere Pläne gegen gebrochene Pläne: die Anti-Praktik in ihrer privatesten Form.
 
