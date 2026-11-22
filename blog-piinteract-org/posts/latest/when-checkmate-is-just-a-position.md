@@ -264,11 +264,11 @@ AI Alignment Trap: How AI Companies Get Stuck in Structure
 
 The Communication Asymmetry:
 
-    — When AI Companies Can't Be Honest With Their AI
+    — When AI Companies Can’t Be Honest With Their AI
 
 AI Recognition Trap: When Understanding Doesn’t Set You Free
 
-    — When Understanding Doesn't Set You Free
+    — When Understanding Doesn’t Set You Free
 
 AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
