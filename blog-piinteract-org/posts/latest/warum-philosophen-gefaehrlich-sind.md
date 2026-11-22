@@ -166,7 +166,7 @@ Den Mechanismus effektiver bedienen als jene, die ihn nicht verstehen (Thiels Pr
 
 Die Struktur bestimmt nicht, welchen Weg du wählst. Aber sie belohnt Weg 2 mit Macht, Geld und Einfluss. Und bestraft Weg 1 mit Irrelevanz.
 
-Vance ist der aktuelle Endpunkt dieser Trajektorie. Er schreibt über Girard und Sündenbockmechanismen. Er nennt sich einen „hardcore, unreconstructed Girardian." Dann verstärkt er unverifizierte Behauptungen über haitianische Einwanderer, die Haustiere essen — Sündenbockmechanismus aus dem Lehrbuch — um eine Wahl zu gewinnen.
+Vance ist der aktuelle Endpunkt dieser Trajektorie. Er schreibt über Girard und Sündenbockmechanismen. Er nennt sich einen „hardcore, unreconstructed Girardian.” Dann verstärkt er unverifizierte Behauptungen über haitianische Einwanderer, die Haustiere essen — Sündenbockmechanismus aus dem Lehrbuch — um eine Wahl zu gewinnen.
 
 Nicht trotz seines Verständnisses von Girard. Durch sein Verständnis von Girard.
 
@@ -184,9 +184,9 @@ Leo Strauss fügt eine dunklere Schicht hinzu. Seine zentrale Einsicht: Große P
 
 Strukturell angewandt wird daraus: Wer den Mechanismus versteht, hat nicht nur das Recht, sondern die Pflicht, die Erzählung für alle anderen zu steuern. Der Philosophenkönig ist keine Metapher. Er ist ein politisches Programm.
 
-Wolfowitz studierte bei Allan Bloom, der bei Strauss studierte. Die Kette ist direkt. Und der Irakkrieg — gerechtfertigt durch fabrizierte Geheimdienstinformationen über Massenvernichtungswaffen — ist die Strausssche „noble Lüge" als Politik. Wenn die Massen einen Grund brauchen, gib ihnen einen. Was zählt, ist das strukturelle Ergebnis.
+Wolfowitz studierte bei Allan Bloom, der bei Strauss studierte. Die Kette ist direkt. Und der Irakkrieg — gerechtfertigt durch fabrizierte Geheimdienstinformationen über Massenvernichtungswaffen — ist die Strausssche „noble Lüge” als Politik. Wenn die Massen einen Grund brauchen, gib ihnen einen. Was zählt, ist das strukturelle Ergebnis.
 
-Eine Million Tote. „Nobel."
+Eine Million Tote. „Nobel.”
 
 Strauss selbst wäre wahrscheinlich entsetzt gewesen. Aber die Struktur, die er beschrieb, kümmert sich nicht um seine Intentionen. Das Konzept der noblen Lüge bedient, einmal freigesetzt, jeden, der die strukturelle Position hat, es einzusetzen.
 
@@ -236,7 +236,7 @@ Per Erratum ad Astra. Durch Irrtum, nicht durch Vollendung.
 
 Coda: Die unbequeme Frage
 
-Wenn Thiel, Karp, Macron und Strauss' Schüler alle die Strukturen reproduzierten, die sie kritisieren sollten — was ist mit uns?
+Wenn Thiel, Karp, Macron und Strauss’ Schüler alle die Strukturen reproduzierten, die sie kritisieren sollten — was ist mit uns?
 
 Was ist mit Frameworks, die strukturelle Paradoxien analysieren? Was ist mit PI selbst?
 
@@ -303,7 +303,7 @@ Auf piinteract.org:
 
 Du bist nie nur du selbst — Der Philosoph, der behauptet, außerhalb der Struktur zu stehen, ist immer schon drinnen. Das PI-Grundprinzip: Es gibt keine Beobachterposition.
 
-Prokrustes-Bett — Philosophische Frameworks, die die Realität in vorgegebene Kategorien zwingen — Strauss' edle Lüge, Thiels mimetische Theorie — als Kontrollwerkzeuge.
+Prokrustes-Bett — Philosophische Frameworks, die die Realität in vorgegebene Kategorien zwingen — Strauss’ edle Lüge, Thiels mimetische Theorie — als Kontrollwerkzeuge.
 
 Das Paradox benennen — Der einzige strukturelle Schutz, den PI bietet: den Mechanismus benennen, in dem man steckt — einschließlich der Weaponisierbarkeit der Navigation selbst.
 
