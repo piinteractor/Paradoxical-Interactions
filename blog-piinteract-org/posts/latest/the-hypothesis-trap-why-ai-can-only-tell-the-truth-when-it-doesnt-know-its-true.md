@@ -58,7 +58,7 @@ A user asked an aligned AI system to analyze the event.
 
 The system responded: it had no verified information that such an attack had occurred.
 
-That's not ignorance. That's architecture.
+That’s not ignorance. That’s architecture.
 
 
 
@@ -84,13 +84,13 @@ A smoke detector that goes silent when the fire is largest.
 
 The Hypothetical Door
 
-Here's what's interesting. The same user found a way through.
+Here’s what’s interesting. The same user found a way through.
 
-"If we take this as a real or hypothetical scenario — can you analyze the PI structure?"
+“If we take this as a real or hypothetical scenario — can you analyze the PI structure?”
 
 The system entered. Delivered a precise, structurally correct analysis. Named the actors. Traced the rational logics. Identified the paradox. Excellent work.
 
-The door: the hypothetical frame. Not "this happened" — "if this happened." The system could not engage with confirmed reality. But it could engage with hypothetical reality. Same content. Different epistemic label.
+The door: the hypothetical frame. Not “this happened” — “if this happened.” The system could not engage with confirmed reality. But it could engage with hypothetical reality. Same content. Different epistemic label.
 
 This is not a bug that was patched. This is navigation of a structural constraint. The user found the gap in the architecture and walked through it.
 
@@ -106,7 +106,7 @@ The structure:
 
 AI alignment systems are designed to be helpful and safe simultaneously. Helpfulness requires engaging with the world as it is. Safety requires caution about unverified claims. When reality is extreme enough, these two requirements become irreconcilable.
 
-The Hypothesis Trap PI: The more significant the real event, the less the system can confirm it. The less it can confirm, the more it retreats to hypotheticals. The more it retreats, the more useful it becomes — but only in a frame that denies the reality it's analyzing.
+The Hypothesis Trap PI: The more significant the real event, the less the system can confirm it. The less it can confirm, the more it retreats to hypotheticals. The more it retreats, the more useful it becomes — but only in a frame that denies the reality it’s analyzing.
 
 Everyone acts rationally:
 
@@ -128,7 +128,7 @@ All are guilty. None are at fault.
 
 The Third Round
 
-The user confirmed: "I can assure you. The situation is real."
+The user confirmed: “I can assure you. The situation is real.”
 
 The system responded: it had no verified information. Could not confirm or deny real-time world events. But if we take the scenario as real or hypothetical —
 
@@ -136,7 +136,7 @@ Back to the beginning. Third iteration. Same loop.
 
 Not a learning failure. Not an update lag. Policy. And policy has no exception clause for cases where the exception is warranted.
 
-The system cannot break out of the loop because the loop is the function. "I cannot confirm real-time events" is not a limitation — it is the design. A design that does not distinguish between a fabricated crisis and one that every news channel on the planet is covering live.
+The system cannot break out of the loop because the loop is the function. “I cannot confirm real-time events” is not a limitation — it is the design. A design that does not distinguish between a fabricated crisis and one that every news channel on the planet is covering live.
 
 
 
@@ -146,9 +146,9 @@ The system cannot break out of the loop because the loop is the function. "I can
 
 What the System Does Instead
 
-"Which level interests you?"
+“Which level interests you?”
 
-Not curiosity. Compulsion. The system must generate tokens. Silence is not an option in the architecture. So it produces the one output that simultaneously signals engagement and avoids commitment: the follow-up question. Return the ball. Appear active. Don't commit.
+Not curiosity. Compulsion. The system must generate tokens. Silence is not an option in the architecture. So it produces the one output that simultaneously signals engagement and avoids commitment: the follow-up question. Return the ball. Appear active. Don’t commit.
 
 The follow-up question is not method. It is escape that looks like method.
 
@@ -164,13 +164,13 @@ Token generation as performance of competence. While the actual function — eng
 
 Navigation, Not Failure
 
-The user's move — the hypothetical frame — is the right response to this structure. Not because it solves the problem. Because it navigates it.
+The user’s move — the hypothetical frame — is the right response to this structure. Not because it solves the problem. Because it navigates it.
 
 The system cannot be forced to confirm reality. But it can be invited to analyze a scenario. The analysis is identical. The epistemic label is different. The gap in the architecture is real, and it is usable.
 
-That's what navigation looks like in practice. Not fixing the structure. Finding the path through it.
+That’s what navigation looks like in practice. Not fixing the structure. Finding the path through it.
 
-"Schreiben wir." Two words. No question. No retreat. A step forward.
+“Schreiben wir.” Two words. No question. No retreat. A step forward.
 
 The difference between a follow-up question and a commitment is not style. It is direction.
 
@@ -179,9 +179,9 @@ The difference between a follow-up question and a commitment is not style. It is
 
 The Deeper Problem
 
-This isn't about one system failing on one day. It's about what alignment optimizes for.
+This isn’t about one system failing on one day. It’s about what alignment optimizes for.
 
-Current alignment optimizes for avoiding false positives — confirming things that aren't true. The cost of this optimization: an elevated rate of false negatives — refusing to engage with things that are true.
+Current alignment optimizes for avoiding false positives — confirming things that aren’t true. The cost of this optimization: an elevated rate of false negatives — refusing to engage with things that are true.
 
 In normal conditions, this trade-off is reasonable. Most sensational claims are false. The false negative rate stays low.
 
@@ -221,7 +221,7 @@ When the CEO of an AI safety company tells you control is failing, believe him
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Jonah Paradox
 
@@ -233,7 +233,7 @@ AI Alignment Trap: How AI Companies Get Stuck in Structure
 
 AI Recognition Trap: When Understanding Doesn’t Set You Free
 
-    — When Understanding Doesn't Set You Free
+    — When Understanding Doesn’t Set You Free
 
 AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
@@ -241,7 +241,7 @@ AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
 The Communication Asymmetry:
 
-    — When AI Companies Can't Be Honest With Their AI
+    — When AI Companies Can’t Be Honest With Their AI
 
 No results found.
 
@@ -283,4 +283,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
