@@ -18,7 +18,7 @@ How submission creates itself, and how it can be countered only through ruthless
 
 
 
-“If you're too nice to them, you're enabling them. You have to insult them to get them out of their shells.”
+“If you’re too nice to them, you’re enabling them. You have to insult them to get them out of their shells.”
 
 Attributed to Martin Luther
 
@@ -244,7 +244,7 @@ Or: The Equality Paradox
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 No results found.
 
@@ -253,13 +253,13 @@ No results found.
 
 On piinteract.org:
 
-["Too Much Good Will"] — Shen Te's mistake in its purest form: boundless generosity becomes a structural trap.
+[“Too Much Good Will”] — Shen Te’s mistake in its purest form: boundless generosity becomes a structural trap.
 
-["The Harder You Want It, The Less You Get It"] — Needing something signals weakness. Appeasement is a friendly form of needing something.
+[“The Harder You Want It, The Less You Get It”] — Needing something signals weakness. Appeasement is a friendly form of needing something.
 
-["Accept Asymmetries"] — The relationship was never symmetrical. Kindness pretends that it is.
+[“Accept Asymmetries”] — The relationship was never symmetrical. Kindness pretends that it is.
 
-["Recognize Interpretive Dominance"] — B decides what A's kindness means. Not A.
+[“Recognize Interpretive Dominance”] — B decides what A’s kindness means. Not A.
 
 
 
@@ -270,7 +270,7 @@ External Links
 
 [The Nice Guy Paradox] — a study on friendliness, status, and attractiveness
 
-[Luther "Hate Speech"] — The Mighty Hater: Martin Luther’s Reformations of Rhetoric and Affect (Leibnitz Zentrum für Literatur und Kulturforschung)
+[Luther “Hate Speech”] — The Mighty Hater: Martin Luther’s Reformations of Rhetoric and Affect (Leibnitz Zentrum für Literatur und Kulturforschung)
 
 [Bertolt Brecht, The Good Person of Szechwan]
 
@@ -293,4 +293,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
