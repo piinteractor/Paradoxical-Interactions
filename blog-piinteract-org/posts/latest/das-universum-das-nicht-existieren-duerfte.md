@@ -56,9 +56,9 @@ Das Standardmodell ist, nach jedem messbaren Maßstab, die erfolgreichste jemals
 
 Diese Theorie sagt, das Universum dürfte nicht existieren.
 
-Und die Physik antwortet: „Die Theorie ist korrekt. Es muss etwas jenseits davon geben, das wir noch nicht gefunden haben."
+Und die Physik antwortet: „Die Theorie ist korrekt. Es muss etwas jenseits davon geben, das wir noch nicht gefunden haben.”
 
-Nicht: „Vielleicht ist die Theorie auf fundamentale Weise unvollständig." Nicht: „Vielleicht ist das Framework selbst das Problem." Sondern: „Die Theorie stimmt, und die Realität braucht eine Erweiterung."
+Nicht: „Vielleicht ist die Theorie auf fundamentale Weise unvollständig.” Nicht: „Vielleicht ist das Framework selbst das Problem.” Sondern: „Die Theorie stimmt, und die Realität braucht eine Erweiterung.”
 
 Das ist strukturell identisch mit Dunkler Materie. Das Modell funktioniert zu gut an zu vielen Stellen, um den Teil in Frage zu stellen, der nicht funktioniert. Das Scheitern wird nicht als Scheitern des Frameworks interpretiert — es wird als Lücke innerhalb des Frameworks interpretiert. Etwas, das zu füllen ist. Nicht etwas, das das Fundament in Frage stellt.
 
@@ -68,9 +68,9 @@ Der Experimentalphysiker am CERN misst die CP-Verletzung mit zunehmender Präzis
 
 Der Theoretiker schlägt Erweiterungen vor — neue Quellen der CP-Verletzung, neue Mechanismen, neue Teilchen. Jeder Vorschlag generiert Vorhersagen. Jede Vorhersage erfordert Experimente. Rational.
 
-Die Institution finanziert die Suche. Die Frage „Warum existiert überhaupt irgendetwas?" ist sowohl tiefgründig als auch finanzierbar. Sie rechtfertigt Beschleuniger, Detektoren, ganze Forschungsprogramme. Rational.
+Die Institution finanziert die Suche. Die Frage „Warum existiert überhaupt irgendetwas?” ist sowohl tiefgründig als auch finanzierbar. Sie rechtfertigt Beschleuniger, Detektoren, ganze Forschungsprogramme. Rational.
 
-Das Fachgebiet behandelt das Problem als lösbar. „Wir müssen nur den Mechanismus finden." Nicht „vielleicht kann unser Framework das nicht fassen." Denn ein lösbares Problem erhält ein Fachgebiet. Ein unlösbares löst es auf. Rational.
+Das Fachgebiet behandelt das Problem als lösbar. „Wir müssen nur den Mechanismus finden.” Nicht „vielleicht kann unser Framework das nicht fassen.” Denn ein lösbares Problem erhält ein Fachgebiet. Ein unlösbares löst es auf. Rational.
 
 Zusammengenommen: eine Struktur, die ihr eigenes tiefstes Scheitern als Forschungsgelegenheit behandelt statt als Grundlagenkrise.
 
@@ -84,17 +84,17 @@ Das Standardmodell ist ein formales System. Ein außerordentlich mächtiges. Und
 
 Das ist keine Lücke, die mit einem besseren Experiment zu füllen ist. Das könnte eine Gödelsche Grenze sein — ein Punkt, an dem das Framework auf seine eigene Unvollständigkeit stößt und sie nach seinen eigenen Regeln nicht überwinden kann.
 
-Aber das anzuerkennen würde bedeuten anzuerkennen, dass die Physik strukturelle Grenzen hat. Keine technischen Grenzen. Keine Finanzierungsgrenzen. Keine „wir brauchen einen größeren Beschleuniger"-Grenzen. Grenzen im Prinzip. Grenzen dessen, was ein mathematisches Framework dieses Typs erklären kann und was nicht.
+Aber das anzuerkennen würde bedeuten anzuerkennen, dass die Physik strukturelle Grenzen hat. Keine technischen Grenzen. Keine Finanzierungsgrenzen. Keine „wir brauchen einen größeren Beschleuniger”-Grenzen. Grenzen im Prinzip. Grenzen dessen, was ein mathematisches Framework dieses Typs erklären kann und was nicht.
 
-Die Struktur kann das nicht verarbeiten. Nicht weil Physiker intellektuell unfähig wären, Gödel zu verstehen — sie verstehen ihn in der Mathematik bestens. Aber ihn auf ihr eigenes Framework anzuwenden würde bedeuten zu akzeptieren, dass die Frage „Warum existiert das Universum?" möglicherweise keine Antwort innerhalb der Physik hat.
+Die Struktur kann das nicht verarbeiten. Nicht weil Physiker intellektuell unfähig wären, Gödel zu verstehen — sie verstehen ihn in der Mathematik bestens. Aber ihn auf ihr eigenes Framework anzuwenden würde bedeuten zu akzeptieren, dass die Frage „Warum existiert das Universum?” möglicherweise keine Antwort innerhalb der Physik hat.
 
 Und eine Frage ohne mögliche Antwort generiert keine Experimente, rechtfertigt keine Finanzierung, erhält keine Karrieren und wird nicht publiziert.
 
-Also bleibt die Frage offen. Eingestuft als „ungelöst" statt „möglicherweise unbeantwortbar." Der Unterschied ist strukturell, nicht intellektuell. „Ungelöst" hält die Lichter an. „Unbeantwortbar" schaltet sie aus.
+Also bleibt die Frage offen. Eingestuft als „ungelöst” statt „möglicherweise unbeantwortbar.” Der Unterschied ist strukturell, nicht intellektuell. „Ungelöst” hält die Lichter an. „Unbeantwortbar” schaltet sie aus.
 
 Die tiefste Anti-Practice
 
-Das ist „The Right Tool Will Fix This" auf kosmischer Ebene.
+Das ist „The Right Tool Will Fix This” auf kosmischer Ebene.
 
 Die Annahme: Das Standardmodell ist das richtige Framework. Es braucht nur Erweiterung. Mehr Teilchen, mehr Symmetriebrechung, mehr Mechanismen. Das Framework ist nicht falsch — es ist unvollständig. Und Unvollständigkeit ist temporär.
 
@@ -106,7 +106,7 @@ Die Physik hat Jahrzehnte damit verbracht, die Materie-Antimaterie-Asymmetrie al
 
 Jede vorgeschlagene Erweiterung — Supersymmetrie, Leptogenese, neue Physik jenseits des Standardmodells — operiert innerhalb derselben strukturellen Logik. Mehr Teilchen. Mehr Symmetrie. Mehr Mathematik desselben Typs. Wenn die Grenze Gödelsch ist, dann hilft mehr vom Gleichen nicht. Kann es nicht. Das ist es, was Gödelsch bedeutet.
 
-Aber „mehr vom Gleichen" ist alles, was eine Struktur produzieren kann. Denn etwas fundamental Anderes zu produzieren würde erfordern, eine andere Struktur zu werden. Und Strukturen tun das nicht freiwillig.
+Aber „mehr vom Gleichen” ist alles, was eine Struktur produzieren kann. Denn etwas fundamental Anderes zu produzieren würde erfordern, eine andere Struktur zu werden. Und Strukturen tun das nicht freiwillig.
 
 Die Hierarchie der Verleugnung
 
@@ -136,7 +136,7 @@ Die erste Frage hat vielleicht eine Antwort. Irgendwann. Vielleicht.
 
 Die zweite Frage ist die, die die Struktur nicht stellen kann. Weil sie zu stellen bedeutet, sich der Möglichkeit zu stellen, dass die erfolgreichste Theorie der Geschichte eine Grenze hat, die nicht technisch ist, sondern logisch. Eine Grenze, die mehr Finanzierung, mehr Beschleuniger, mehr brillante Physiker nicht überschreiten können — weil sie in den Typ des verwendeten Frameworks eingebaut ist.
 
-Und das kann man nicht finanzieren. Man kann keinen Detektor dafür bauen. Man kann keinen Förderantrag schreiben, der sagt: „Wir beantragen 2 Milliarden Euro, um zu untersuchen, ob unser Framework strukturell unfähig ist, diese Frage zu beantworten."
+Und das kann man nicht finanzieren. Man kann keinen Detektor dafür bauen. Man kann keinen Förderantrag schreiben, der sagt: „Wir beantragen 2 Milliarden Euro, um zu untersuchen, ob unser Framework strukturell unfähig ist, diese Frage zu beantworten.”
 
 Also bleibt die Frage technisch. Die Finanzierung geht weiter. Die Experimente werden präziser. Die Asymmetrie bleibt unerklärt. Und die Struktur — die schöne, mächtige, außerordentlich erfolgreiche Struktur — sagt weiterhin vorher, dass nichts davon hier sein sollte.
 
@@ -150,7 +150,7 @@ Dunkle Materie ist abstrakt. Du kannst die Rotationskurven von Galaxien nicht sp
 
 Aber du? Du bist die Antimaterie-Asymmetrie. Jedes Atom in deinem Körper ist der unerklärte Rest eines Prozesses, von dem die beste Theorie der Physik sagt, er hätte nicht stattfinden dürfen. Du existierst in der Fehlermarge des Universums. Dein Morgenkaffee ist eine kosmologische Anomalie.
 
-Und die Struktur, die dich erklären soll... erklärt alles andere. Mit außerordentlicher Präzision. Nur nicht dich. Nicht deine Existenz. Nicht die Existenz selbst.
+Und die Struktur, die dich erklären soll… erklärt alles andere. Mit außerordentlicher Präzision. Nur nicht dich. Nicht deine Existenz. Nicht die Existenz selbst.
 
 Das Universum dürfte nicht hier sein. Du dürftest nicht hier sein. Die Theorie sagt es.
 
@@ -216,13 +216,13 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — Der Detektor fand nichts. Baut einen empfindlicheren. Das Ausbleiben eines Ergebnisses wird zum Beweis der Methode.
+[“More of the Same”] — Der Detektor fand nichts. Baut einen empfindlicheren. Das Ausbleiben eines Ergebnisses wird zum Beweis der Methode.
 
-["Never Change a Winning Team"] — Das Standardmodell funktioniert — bis die Anomalien schneller akkumulieren als die Erklärungen.
+[“Never Change a Winning Team”] — Das Standardmodell funktioniert — bis die Anomalien schneller akkumulieren als die Erklärungen.
 
-["This Time Will Be Different"] — Neue Instrumente. Dieselbe Struktur. Die Suche geht weiter, weil das Rahmenwerk die Alternative nicht zulässt.
+[“This Time Will Be Different”] — Neue Instrumente. Dieselbe Struktur. Die Suche geht weiter, weil das Rahmenwerk die Alternative nicht zulässt.
 
-["See the Pattern, Not the Symptom"] — Die Anomalie kehrt immer wieder, weil das Muster nie benannt wird. Das Symptom wird behandelt. Die Struktur bleibt.
+[“See the Pattern, Not the Symptom”] — Die Anomalie kehrt immer wieder, weil das Muster nie benannt wird. Das Symptom wird behandelt. Die Struktur bleibt.
 
 Per Erratum ad Astra — durch Irrtum zu den Sternen.
 
