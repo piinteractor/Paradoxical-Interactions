@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 
-„Der Erste, der ein Stück Land einzäunte und zu sagen wagte: Dies gehört mir, und der Leute fand, die einfältig genug waren, es zu glauben, war der wahre Gründer der bürgerlichen Gesellschaft."
+„Der Erste, der ein Stück Land einzäunte und zu sagen wagte: Dies gehört mir, und der Leute fand, die einfältig genug waren, es zu glauben, war der wahre Gründer der bürgerlichen Gesellschaft.”
 
 — Jean-Jacques Rousseau, Diskurs über den Ursprung der Ungleichheit (1755)
 
@@ -41,13 +41,13 @@ Das ist die Miniatur des ganzen Problems. Die einzelne Entscheidung – jetzt gi
 
 Die Verfügung, konkret
 
-Die Fakten liegen offen. Über 360 Millionen Liter Tagesverbrauch gegenüber einem üblichen Durchschnitt von 300 Millionen – eine Steigerung um ein Fünftel, rechnerisch moderat, hydrologisch existenziell. Untersagt sind ab dem 14. Juli 2026 unter anderem: das Befüllen privater Pools, Springbrunnen und Wassertonnen; das Gießen von Rasen- und Grünflächen; das Bewässern von Gärten zwischen neun und neunzehn Uhr, außer per Tröpfchenbewässerung; das Waschen von Autos außerhalb von Waschanlagen; die Entnahme von Wasser aus Seen und Flüssen im Stadtgebiet. Zuwiderhandlungen können nach dem Wasserhaushaltsgesetz mit bis zu 50.000 Euro geahndet werden. Die SWM unter ihrem Geschäftsführer Florian Bieberbach erweitern die Regelung auf das gesamte Versorgungsnetz, über die Stadtgrenze hinaus. Befristet ist die Verfügung bis zum 1. August 2026 – mit ausdrücklicher Option auf Verlängerung, „bei andauernder Trockenheit". Diese letzte Formulierung verdient Aufmerksamkeit. Sie ist keine Ausnahme. Sie ist die Grundannahme, in einen Nebensatz verpackt.
+Die Fakten liegen offen. Über 360 Millionen Liter Tagesverbrauch gegenüber einem üblichen Durchschnitt von 300 Millionen – eine Steigerung um ein Fünftel, rechnerisch moderat, hydrologisch existenziell. Untersagt sind ab dem 14. Juli 2026 unter anderem: das Befüllen privater Pools, Springbrunnen und Wassertonnen; das Gießen von Rasen- und Grünflächen; das Bewässern von Gärten zwischen neun und neunzehn Uhr, außer per Tröpfchenbewässerung; das Waschen von Autos außerhalb von Waschanlagen; die Entnahme von Wasser aus Seen und Flüssen im Stadtgebiet. Zuwiderhandlungen können nach dem Wasserhaushaltsgesetz mit bis zu 50.000 Euro geahndet werden. Die SWM unter ihrem Geschäftsführer Florian Bieberbach erweitern die Regelung auf das gesamte Versorgungsnetz, über die Stadtgrenze hinaus. Befristet ist die Verfügung bis zum 1. August 2026 – mit ausdrücklicher Option auf Verlängerung, „bei andauernder Trockenheit”. Diese letzte Formulierung verdient Aufmerksamkeit. Sie ist keine Ausnahme. Sie ist die Grundannahme, in einen Nebensatz verpackt.
 
 Warum niemand schuld ist
 
 Warum handelt niemand böswillig, und trotzdem sinkt der Grundwasserspiegel? Weil Leitungswasser in München nicht danach bepreist wird, wie knapp es gerade ist. Der Kubikmeter kostet im Juli dasselbe wie im Januar, ob der Regen ausbleibt oder nicht. Zwischen der Einzelentscheidung am Wasserhahn und dem Zustand des Grundwasserleiters liegt keine Rückkopplung – kein Preis, keine Anzeige, kein Signal. Genau das macht jede Einzelentscheidung rational und die Summe aller Einzelentscheidungen zerstörerisch.
 
-Verschärft wird das durch das Klima. Winter und Frühjahr 2026 waren in Bayern ausgesprochen trocken – an rund drei Vierteln der bayerischen Messstellen liegen die Grundwasserpegel niedrig bis sehr niedrig. Wenn jetzt Gewitter angekündigt werden, entsteht der Eindruck, das Problem löse sich von selbst. Es tut es nicht: Starkregen fließt oberflächlich ab, bevor er in tiefere Grundwasserschichten einsickert. Die Intuition „es regnet doch" ist ebenso rational wie das Gießen um die Mittagszeit – und ebenso falsch, gemessen an der Zeitskala, auf der Grundwasser sich tatsächlich erholt.
+Verschärft wird das durch das Klima. Winter und Frühjahr 2026 waren in Bayern ausgesprochen trocken – an rund drei Vierteln der bayerischen Messstellen liegen die Grundwasserpegel niedrig bis sehr niedrig. Wenn jetzt Gewitter angekündigt werden, entsteht der Eindruck, das Problem löse sich von selbst. Es tut es nicht: Starkregen fließt oberflächlich ab, bevor er in tiefere Grundwasserschichten einsickert. Die Intuition „es regnet doch” ist ebenso rational wie das Gießen um die Mittagszeit – und ebenso falsch, gemessen an der Zeitskala, auf der Grundwasser sich tatsächlich erholt.
 
 Die Paradoxe Interaktion des Rasensprengens
 
@@ -55,7 +55,7 @@ Die Rasensprenger-PI: Eine unbepreiste, gemeinsam genutzte Ressource wird von je
 
 Alle handeln rational:
 
-Bürgerin/Bürger — gießt den Garten, wäscht das Auto, füllt den Pool (der Rasen soll nicht verbrennen, das Wasser kommt „einfach aus der Leitung")
+Bürgerin/Bürger — gießt den Garten, wäscht das Auto, füllt den Pool (der Rasen soll nicht verbrennen, das Wasser kommt „einfach aus der Leitung”)
 
 Stadt München / SWM — verbietet statt zu bepreisen (Gleichbehandlungsgrundsatz, kein Preissignal im laufenden Betrieb, schnelles Handeln nötig)
 
@@ -69,7 +69,7 @@ Was sich daraus ableiten lässt
 
 Was folgt daraus für die Praxis – nicht als Lösung, sondern als Orientierung? Erstens: Eine Allgemeinverfügung ist kein Versagen der Bürger, sondern das Eingeständnis, dass es kein Preissignal gibt, das die Einzelentscheidung mit der Gesamtlage verbindet. Wer das erkennt, hört auf, die Nachbarn zu verdächtigen, und fängt an, die Struktur zu betrachten.
 
-Zweitens: Der Appell – „wir bitten alle" – und das Verbot sind zwei verschiedene Dinge, die in derselben Pressemitteilung stehen. Das Verbot wirkt, weil es eine Konsequenz hat. Der Appell wirkt nicht, weil er keine hat. Beide klingen wie derselbe Satz. Es lohnt sich, sie auseinanderzuhalten.
+Zweitens: Der Appell – „wir bitten alle” – und das Verbot sind zwei verschiedene Dinge, die in derselben Pressemitteilung stehen. Das Verbot wirkt, weil es eine Konsequenz hat. Der Appell wirkt nicht, weil er keine hat. Beide klingen wie derselbe Satz. Es lohnt sich, sie auseinanderzuhalten.
 
 Drittens: Das Datum 1. August ist keine Prognose, es ist ein Verwaltungsartefakt. Was strukturell nicht gesagt werden kann, weil es politisch nicht sagbar ist: Dass eine Ressource, die dauerhaft knapper wird, keine befristete Verfügung braucht, sondern ein dauerhaftes Preissignal. Das ist der Satz, der in keiner Pressemitteilung stehen wird.
 
@@ -91,13 +91,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Die Tragik der Allmende"] — Münchner Leitungswasser ist die Allmende in Reinform: unbepreist, gemeinsam genutzt, für jeden Einzelnen kostenlos zu übernutzen.
+[“Die Tragik der Allmende”] — Münchner Leitungswasser ist die Allmende in Reinform: unbepreist, gemeinsam genutzt, für jeden Einzelnen kostenlos zu übernutzen.
 
-["Muster erkennen, nicht Symptom"] — Der Rasensprenger ist das Symptom. Das fehlende Preissignal ist das Muster.
+[“Muster erkennen, nicht Symptom”] — Der Rasensprenger ist das Symptom. Das fehlende Preissignal ist das Muster.
 
-["Nur optimieren"] — Jede Einzeloptimierung – mehr Grün, mehr Kühle, mehr Komfort – summiert sich zu einem System, das niemand optimiert hat.
+[“Nur optimieren”] — Jede Einzeloptimierung – mehr Grün, mehr Kühle, mehr Komfort – summiert sich zu einem System, das niemand optimiert hat.
 
-["Klimagipfel"] — Befristete Verfügungen mit Verlängerungsoption sind der municipale Kleinbruder des Klimagipfels: verbindlich fürs Protokoll, offen fürs nächste Jahr.
+[“Klimagipfel”] — Befristete Verfügungen mit Verlängerungsoption sind der municipale Kleinbruder des Klimagipfels: verbindlich fürs Protokoll, offen fürs nächste Jahr.
 
 Quellen (externe Links):
 
@@ -109,7 +109,7 @@ The Tragedy of the Commons, Science 162 (1968) — Garrett Hardins Originaltext:
 
 § 103 Wasserhaushaltsgesetz – Bußgeldvorschriften — Die gesetzliche Grundlage für das angedrohte Bußgeld von bis zu 50.000 Euro.
 
-Frühjahrs-Bilanz 2026 – Helmholtz-Zentrum für Umweltforschung (UFZ) — Die hydrologischen Daten hinter der Behauptung „außergewöhnlich trockener Winter und Frühling": Niederschlag, Bodenfeuchte, Grundwasserpegel.
+Frühjahrs-Bilanz 2026 – Helmholtz-Zentrum für Umweltforschung (UFZ) — Die hydrologischen Daten hinter der Behauptung „außergewöhnlich trockener Winter und Frühling”: Niederschlag, Bodenfeuchte, Grundwasserpegel.
 
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
