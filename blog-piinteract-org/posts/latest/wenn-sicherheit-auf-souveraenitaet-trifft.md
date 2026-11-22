@@ -226,7 +226,7 @@ KI-Ausrichtung — Technologie & KI — Die strukturelle Dimension dessen, was A
 
 Core Practices — Grundlegende PI-Konzepte und Navigationsstrategien
 
-Anti-Practices — „Diesmal wird es anders" und andere Muster, die PI verstärken
+Anti-Practices — „Diesmal wird es anders” und andere Muster, die PI verstärken
 
 Das PI-Framework — Was Paradoxe Interaktionen sind und warum sie wichtig sind
 
