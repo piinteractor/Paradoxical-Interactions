@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/der-buerokratieabbau-bug/
 
 Warum man Bürokratie nicht abbaut, indem man Bürokraten abbaut — und warum genau das trotzdem jedes Mal versucht wird.
 
-„Die Herrschaft der formalistischen Unpersönlichkeit: sine ira et studio, ohne Haß und Leidenschaft, daher ohne ‚Liebe' und ‚Enthusiasmus'" — Max Weber, Wirtschaft und Gesellschaft (1922)
+„Die Herrschaft der formalistischen Unpersönlichkeit: sine ira et studio, ohne Haß und Leidenschaft, daher ohne ‚Liebe’ und ‚Enthusiasmus’” — Max Weber, Wirtschaft und Gesellschaft (1922)
 
 Bürokratieabbau ist ein Versprechen mit zwei möglichen Handlungsspielräumen, und die Politik wählt fast immer den falschen. Man kann die Regeln abbauen — Formulare streichen, Fristen verkürzen, Zuständigkeiten bündeln. Das ist langsam, unpopulär bei den eigenen Leuten, und dauert länger als eine Legislaturperiode. Oder man baut die Beamten ab — Stellen streichen, Headcount senken, eine Zahl im Haushaltsplan verkleinern. Das ist schnell, sichtbar, und lässt sich in einer Pressemitteilung feiern. Nur: Die Aufgaben bleiben. Die Anträge kommen weiter. Die Regeln, nach denen bearbeitet wird, sind dieselben. Was sich ändert, ist nur, wie viele Menschen sie noch bearbeiten. Der Rest ist Mathematik — und die verbliebenen Sachbearbeiter zahlen die Rechnung zuerst.
 
@@ -20,11 +20,11 @@ Bürokratieabbau ist ein Versprechen mit zwei möglichen Handlungsspielräumen, 
 
 Der Cut
 
-Washington, Frühjahr 2025. Das neu geschaffene „Department of Government Efficiency" (DOGE) verkündet Einsparungen bei der Social Security Administration — der Behörde, die die Renten- und Invaliditätsleistungen für fast 75 Millionen Amerikaner verwaltet. Innerhalb von fünfzehn Monaten verlässt mehr als jeder achte Mitarbeiter die Behörde. Die Zahl der Beschäftigten fällt auf den niedrigsten Stand seit 1967 — in einem Land, das seither um mehr als 150 Millionen Menschen gewachsen ist. Die Anträge auf Rente, Invalidität, Hinterbliebenenleistungen kommen weiter, jeden Tag, unverändert in der Menge. Nur die Zahl derer, die sie bearbeiten, ist eine andere.
+Washington, Frühjahr 2025. Das neu geschaffene „Department of Government Efficiency” (DOGE) verkündet Einsparungen bei der Social Security Administration — der Behörde, die die Renten- und Invaliditätsleistungen für fast 75 Millionen Amerikaner verwaltet. Innerhalb von fünfzehn Monaten verlässt mehr als jeder achte Mitarbeiter die Behörde. Die Zahl der Beschäftigten fällt auf den niedrigsten Stand seit 1967 — in einem Land, das seither um mehr als 150 Millionen Menschen gewachsen ist. Die Anträge auf Rente, Invalidität, Hinterbliebenenleistungen kommen weiter, jeden Tag, unverändert in der Menge. Nur die Zahl derer, die sie bearbeiten, ist eine andere.
 
 Zwei Wörter, ein Objekt
 
-„Bürokratieabbau" klingt wie ein einziges Vorhaben. Es sind zwei. Das eine ist die Bürokratie selbst: die Formulare, die Fristen, die Genehmigungsschritte, die Vorschriften, nach denen ein Antrag bearbeitet wird. Das andere sind die Bürokraten: die Menschen, die diese Vorschriften anwenden. Beides zu verwechseln kostet nichts — bis man beginnt, eines von beiden abzubauen und glaubt, damit das andere getroffen zu haben.
+„Bürokratieabbau” klingt wie ein einziges Vorhaben. Es sind zwei. Das eine ist die Bürokratie selbst: die Formulare, die Fristen, die Genehmigungsschritte, die Vorschriften, nach denen ein Antrag bearbeitet wird. Das andere sind die Bürokraten: die Menschen, die diese Vorschriften anwenden. Beides zu verwechseln kostet nichts — bis man beginnt, eines von beiden abzubauen und glaubt, damit das andere getroffen zu haben.
 
 Wer eine Vorschrift streicht, verkleinert tatsächlich die Bürokratie. Ein Formular weniger heißt: ein Arbeitsschritt weniger, für jeden Antrag, dauerhaft. Wer stattdessen Personal streicht, verkleinert nichts außer der Zahl derer, die die unveränderten Vorschriften noch anwenden dürfen. Die Formulare bleiben. Die Fristen bleiben. Der Antragsberg wächst mit der Bevölkerung weiter — nur die Kapazität, ihn abzutragen, schrumpft.
 
@@ -76,7 +76,7 @@ Die Umkehrung passiert, wenn die Überlastung aufhört, Nebenwirkung zu sein, un
 
 Was das für den Blick auf Reformen bedeutet
 
-Wer das nächste „Bürokratieabbau"-Versprechen hört, kann eine Frage stellen, die sofort unterscheidet: Wird eine Vorschrift abgebaut — oder eine Stelle? Die Antwort verrät mehr über das tatsächliche Ziel als jede Begründung dazu. Ein Regelabbau ist an seinen Folgen erkennbar, weil: weniger Formulare, kürzere Fristen, weniger Schritte pro Antrag. Ein Stellenabbau ist an seinen Folgen erkennbar, weil: längere Wartezeiten, verschwindende Kennzahlen, Briefe, die um Verzicht auf Rückfragen bitten.
+Wer das nächste „Bürokratieabbau”-Versprechen hört, kann eine Frage stellen, die sofort unterscheidet: Wird eine Vorschrift abgebaut — oder eine Stelle? Die Antwort verrät mehr über das tatsächliche Ziel als jede Begründung dazu. Ein Regelabbau ist an seinen Folgen erkennbar, weil: weniger Formulare, kürzere Fristen, weniger Schritte pro Antrag. Ein Stellenabbau ist an seinen Folgen erkennbar, weil: längere Wartezeiten, verschwindende Kennzahlen, Briefe, die um Verzicht auf Rückfragen bitten.
 
 Der Brief, der Rückfragen verbietet, ist keine Bösartigkeit einer einzelnen Behörde. Er ist das sichtbare Merkmal für eine Last, die irgendwo untergebracht werden muss, wenn sie nicht in der Struktur verbleiben soll. Sie landet bei den letzten Beamten, die noch da sind — oder bei jenen, die auf eine Antwort warten. Beides zusammen geht nicht lange gut.
 
@@ -106,13 +106,13 @@ No results found.
 
 Auf piinteract.org
 
-["Just Optimize"] — Headcount senken ist die Optimierung, die sich in einer Pressemitteilung feiern lässt. Die Struktur, die die Last erzeugt, bleibt dabei unangetastet.
+[“Just Optimize”] — Headcount senken ist die Optimierung, die sich in einer Pressemitteilung feiern lässt. Die Struktur, die die Last erzeugt, bleibt dabei unangetastet.
 
-["Fibrotizing Administrations"] — Eine Verwaltung, die schrumpft, ohne dass ihre Regeln schrumpfen, verhärtet sich um die verbliebenen Stellen herum — genau das Gegenteil von Beweglichkeit.
+[“Fibrotizing Administrations”] — Eine Verwaltung, die schrumpft, ohne dass ihre Regeln schrumpfen, verhärtet sich um die verbliebenen Stellen herum — genau das Gegenteil von Beweglichkeit.
 
-["Don't Fight The Pattern"] — Der Brief, der Rückfragen verbietet, ist kein persönliches Versagen der Behörde. Er ist das Muster selbst, sichtbar geworden.
+[“Don’t Fight The Pattern”] — Der Brief, der Rückfragen verbietet, ist kein persönliches Versagen der Behörde. Er ist das Muster selbst, sichtbar geworden.
 
-["See Problem, Solve Problem"] — Das sichtbare Problem war die Zahl im Haushalt. Gelöst wurde die Zahl. Das eigentliche Problem — der unveränderte Prozess — blieb unberührt.
+[“See Problem, Solve Problem”] — Das sichtbare Problem war die Zahl im Haushalt. Gelöst wurde die Zahl. Das eigentliche Problem — der unveränderte Prozess — blieb unberührt.
 
 Siehe auch (externe Links):
 
@@ -120,7 +120,7 @@ SSA Performance Dashboard — Die Behörde in Echtzeit über sich selbst: Wartez
 
 Social Security Administration Delivers Best Performance in History (SSA-Pressemitteilung, 29. Juni 2026) — Kommissar Bisignanos eigene Darstellung der Verbesserungen, mit Zahlen zu Kosteneinsparung und eingesparter Zeit für die Öffentlichkeit.
 
-SSA's Major Management and Performance Challenges During Fiscal Year 2024 — Der eigene Rechenschaftsbericht der Behörde: die Ausgangslage, bevor Teile der Detailkennzahlen zeitweise aus der monatlichen Veröffentlichung verschwanden.
+SSA’s Major Management and Performance Challenges During Fiscal Year 2024 — Der eigene Rechenschaftsbericht der Behörde: die Ausgangslage, bevor Teile der Detailkennzahlen zeitweise aus der monatlichen Veröffentlichung verschwanden.
 
 New Data Show Social Security Staff Cuts Harm Service Delivery in Every State (CBPP) — Die aufbereiteten Personal- und Servicedaten aus 42 Bundesstaaten, die belegen: Der Rückgang trifft die Fläche, nicht nur die Zentrale.
 
