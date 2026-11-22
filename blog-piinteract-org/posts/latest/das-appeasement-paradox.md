@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-appeasement-paradox/
 
 Wie sich Unterwerfung selbst schafft und wie man nur durch Rücksichtslosigkeit, vor Allem gegen sich selbst, dagegen vorgehen kann.
 
-„Bist du zu nett zu ihnen bestätigst du sie. Du musst sie beleidigen, um sie aus ihren Löchern zu holen." 
+„Bist du zu nett zu ihnen bestätigst du sie. Du musst sie beleidigen, um sie aus ihren Löchern zu holen.” 
 
 Martin Luther nachgesagt
 
@@ -40,7 +40,7 @@ Viele der Verhaltensweisen, die wir modern als „nett“, „verständnisvoll�
 
 Springen wir ein paar Jahrhunderte nach vorne, zu Martin Luther. Luthers öffentliche Wirkung hängt nicht nur an seinen Thesen, sondern an seinem Stil: Er hat sich demonstrativ geweigert, gegenüber den kirchlichen und politischen Eliten Appeasement zu betreiben.
 
-Wo viele Theologen in der höflichen, latinisierenden Sprache eines akademischen Diskurses verblieben, ist Luther in eine brutal direkte Polemik gegangen – bis hin zu Ausdrücken, die in heutigen Ausstellungen nur noch mit Mühe vermittelbar sind. Die aktuelle Forschung spricht ausdrücklich von Luthers „Hatespeech“ avant la lettre, wenn es um seine Judenschriften oder seine Angriffe auf Bauern und Gegner geht. Aber auch übergeordneten Instanzen, wie dem Papsttum. Er schreckte nicht davor zurück, die damals höchste klerikale Instanz als „Sau Gottes" zu bezeichnen. Vermutlich war er sich des Risikos des Gangs zum Scheiterhaufen bewusst.
+Wo viele Theologen in der höflichen, latinisierenden Sprache eines akademischen Diskurses verblieben, ist Luther in eine brutal direkte Polemik gegangen – bis hin zu Ausdrücken, die in heutigen Ausstellungen nur noch mit Mühe vermittelbar sind. Die aktuelle Forschung spricht ausdrücklich von Luthers „Hatespeech“ avant la lettre, wenn es um seine Judenschriften oder seine Angriffe auf Bauern und Gegner geht. Aber auch übergeordneten Instanzen, wie dem Papsttum. Er schreckte nicht davor zurück, die damals höchste klerikale Instanz als „Sau Gottes” zu bezeichnen. Vermutlich war er sich des Risikos des Gangs zum Scheiterhaufen bewusst.
 
 Vor dem Hintergrund primatologischer Logik ist das bemerkenswert:
 
