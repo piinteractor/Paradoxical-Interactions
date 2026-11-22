@@ -78,7 +78,7 @@ Soziologischer Lokalpatriotismus
 
 Es gibt kein etabliertes englisches oder französisches Äquivalent für Entparadoxierung.
 
-Das ist kein Übersetzungsproblem. Übersetzer haben es versucht: „paradox displacement", „the unfolding of paradox", „de-paradoxification". Nichts hat sich durchgesetzt. Der Begriff kursiert auf Deutsch, in deutschen Zeitschriften, in deutschen akademischen Netzwerken — und hört dort weitgehend auf.
+Das ist kein Übersetzungsproblem. Übersetzer haben es versucht: „paradox displacement”, „the unfolding of paradox”, „de-paradoxification”. Nichts hat sich durchgesetzt. Der Begriff kursiert auf Deutsch, in deutschen Zeitschriften, in deutschen akademischen Netzwerken — und hört dort weitgehend auf.
 
 Luhmann ist in Deutschland Kanon. International ist er eine Spezialreferenz mit einem engagierten, aber kleinen Kreis. Parsons hat ihn in der angloamerikanischen Soziologie überdauert. Bourdieu hat ihn in Frankreich überholt. Die Gemeinschaft, die ihre Identität auf der Beschreibung aufgebaut hat, wie Systeme sich schließen — hat sich geographisch selbst geschlossen.
 
@@ -192,7 +192,7 @@ Die akademische Gemeinschaft baut Karrieren, Curricula und Zitiernetzwerke auf d
 
 Die Gemeinschaft beobachtet ihre eigene Schließung — und benennt die Beobachtung als Korrektiv. Rational: Es ist ehrlich, soweit es geht.
 
-Außenseiter, die Luhmanns eigene Werkzeuge auf die Luhmann-Schule anwenden, werden darauf hingewiesen, dass sie nicht „anschlussfähig" sind. Rational: Standards haben einen Grund.
+Außenseiter, die Luhmanns eigene Werkzeuge auf die Luhmann-Schule anwenden, werden darauf hingewiesen, dass sie nicht „anschlussfähig” sind. Rational: Standards haben einen Grund.
 
 Das Paradox einer schließungsbewussten Gemeinschaft, die Schließung praktiziert, wird in Methodologie verschoben. Rational: Das System funktioniert.
 
@@ -236,9 +236,9 @@ Es gibt eine einfache Diagnostik, ob ein System Entparadoxierung an sich selbst 
 
 Präsentiere ihm ein Framework, das ein anderes Vokabular verwendet, aber strukturell äquivalente Dynamiken abbildet. Beobachte die Reaktion.
 
-Wenn die Reaktion lautet: „Stimmt es?" — ist das System kognitiv offen.
+Wenn die Reaktion lautet: „Stimmt es?” — ist das System kognitiv offen.
 
-Wenn die Reaktion lautet: „Ist es anschlussfähig?" — hat das System seine eigene Schließung entparadoxiert. Die Frage der Richtigkeit wurde in die Frage der Herkunft verschoben. Das Paradox wurde an die Peripherie verlagert. Das System funktioniert.
+Wenn die Reaktion lautet: „Ist es anschlussfähig?” — hat das System seine eigene Schließung entparadoxiert. Die Frage der Richtigkeit wurde in die Frage der Herkunft verschoben. Das Paradox wurde an die Peripherie verlagert. Das System funktioniert.
 
 Das ist kein Test, der darauf ausgelegt ist zu beschämen. Es ist der Test, den Luhmann selbst anwenden würde — auf jedes System außer seinem eigenen.
 
@@ -303,7 +303,7 @@ Auf piinteract.org
 
 Beispiele: Wissenschaft & Akademie — Die strukturelle Logik posthumer Anerkennung in den Disziplinen.
 
-Anti-Praktiken — Warum „den Überbringer erschießen" strukturell ist, nicht persönlich.
+Anti-Praktiken — Warum „den Überbringer erschießen” strukturell ist, nicht persönlich.
 
 Framework — Die zugrunde liegende Struktur hinter der Posthumen Korrektur.
 
@@ -334,4 +334,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
