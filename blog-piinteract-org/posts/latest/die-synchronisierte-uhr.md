@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/die-synchronisierte-uhr/
 
 Warum die Regulierung der Häufigkeit von Preiserhöhungen die Preiskoordination nicht verringert — sondern strukturell unvermeidlich macht.
 
-„Die merkwürdige Aufgabe der Wirtschaftswissenschaft besteht darin, den Menschen zu zeigen, wie wenig sie wirklich über das wissen, was sie zu gestalten glauben."
+„Die merkwürdige Aufgabe der Wirtschaftswissenschaft besteht darin, den Menschen zu zeigen, wie wenig sie wirklich über das wissen, was sie zu gestalten glauben.”
 
 — Friedrich Hayek
 
@@ -64,7 +64,7 @@ Jede Tankstelle — nutzt ihr einziges erlaubtes Fenster im Moment maximaler Wir
 
 Das Bundeskartellamt — vollzieht ein Gesetz, das es nicht gegen das Ergebnis einsetzen kann, das es verhindern sollte (rational: wendet die Regeln so an, wie sie geschrieben sind)
 
-Der Verbraucher — erfährt, dass Preise jetzt „transparenter" sind, während er täglich mit Mittagsspitzen konfrontiert wird (rational: passt sein Verhalten dem neuen Rhythmus an, kommt kurz vor 12 Uhr)
+Der Verbraucher — erfährt, dass Preise jetzt „transparenter” sind, während er täglich mit Mittagsspitzen konfrontiert wird (rational: passt sein Verhalten dem neuen Rhythmus an, kommt kurz vor 12 Uhr)
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
