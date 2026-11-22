@@ -57,7 +57,7 @@ Im Falle einer Datenschutzverletzung haben Sie das Recht, Beschwerde bei der zus
 
 Datensicherheit
 
-Diese Website nutzt SSL-Verschlüsselung (Secure Socket Layer) zum Schutz der Übertragung vertraulicher Daten. Dies stellt sicher, dass über diese Website übertragene Daten nicht von Dritten eingesehen werden können. Eine verschlüsselte Verbindung erkennen Sie am „https://"-Präfix und dem Schloss-Symbol in der Adresszeile Ihres Browsers.
+Diese Website nutzt SSL-Verschlüsselung (Secure Socket Layer) zum Schutz der Übertragung vertraulicher Daten. Dies stellt sicher, dass über diese Website übertragene Daten nicht von Dritten eingesehen werden können. Eine verschlüsselte Verbindung erkennen Sie am „https://”-Präfix und dem Schloss-Symbol in der Adresszeile Ihres Browsers.
 
 
 
@@ -134,7 +134,7 @@ Diese Website ist nicht für Kinder unter 14 Jahren bestimmt. Wir erheben oder s
 
 Cookies
 
-Diese Website verwendet Cookies. Cookies sind kleine Textdateien, die Ihr Browser auf Ihrem Gerät speichert. Sie helfen uns, unsere Website benutzerfreundlicher, effektiver und sicherer zu machen. Einige Cookies sind „Session-Cookies", die am Ende Ihrer Browser-Sitzung automatisch gelöscht werden. Andere verbleiben auf Ihrem Gerät, bis Sie sie löschen, und ermöglichen es uns, Sie bei Ihrer Rückkehr zu erkennen.
+Diese Website verwendet Cookies. Cookies sind kleine Textdateien, die Ihr Browser auf Ihrem Gerät speichert. Sie helfen uns, unsere Website benutzerfreundlicher, effektiver und sicherer zu machen. Einige Cookies sind „Session-Cookies”, die am Ende Ihrer Browser-Sitzung automatisch gelöscht werden. Andere verbleiben auf Ihrem Gerät, bis Sie sie löschen, und ermöglichen es uns, Sie bei Ihrer Rückkehr zu erkennen.
 
 Sie können Cookies in Ihren Browser-Einstellungen überwachen, einschränken oder deaktivieren. Die meisten Browser können so konfiguriert werden, dass Cookies beim Schließen gelöscht werden. Die Deaktivierung von Cookies kann jedoch die Funktionalität der Website beeinträchtigen.
 
@@ -145,7 +145,7 @@ Cookies, die für die elektronische Kommunikation oder zur Bereitstellung bestim
 
 Cookie-Einwilligung
 
-Zur Verwaltung von Cookies und ähnlichen Technologien (Tracking-Pixel, Web-Beacons etc.) und der damit verbundenen Einwilligungen verwenden wir das Einwilligungs-Tool „Real Cookie Banner". Details zur Funktionsweise von Real Cookie Banner finden Sie unter: devowl.io/rcb/data-processing
+Zur Verwaltung von Cookies und ähnlichen Technologien (Tracking-Pixel, Web-Beacons etc.) und der damit verbundenen Einwilligungen verwenden wir das Einwilligungs-Tool „Real Cookie Banner”. Details zur Funktionsweise von Real Cookie Banner finden Sie unter: devowl.io/rcb/data-processing
 
 Die Rechtsgrundlage für die Verarbeitung personenbezogener Daten in diesem Zusammenhang ist Art. 6 Abs. 1 lit. c und Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse ist die Verwaltung von Cookies und ähnlichen Technologien sowie der damit verbundenen Einwilligungen.
 
