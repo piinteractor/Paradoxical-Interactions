@@ -14,7 +14,7 @@ Politique de Confidentialité
 
 Préambule
 
-Piinteract.org s'engage à respecter les réglementations légales applicables, à protéger les données personnelles et à garantir la sécurité des données. Ci-dessous, nous vous informons sur les circonstances dans lesquelles nous collectons des informations vous concernant, comment nous les traitons et à qui nous pouvons les divulguer.
+Piinteract.org s’engage à respecter les réglementations légales applicables, à protéger les données personnelles et à garantir la sécurité des données. Ci-dessous, nous vous informons sur les circonstances dans lesquelles nous collectons des informations vous concernant, comment nous les traitons et à qui nous pouvons les divulguer.
 
 Responsable du Traitement
 
@@ -30,7 +30,7 @@ E-mail : contact@piinteract.org
 
 Site web : piinteract.org
 
-Le responsable du traitement décide seul ou conjointement avec d'autres des finalités et des moyens du traitement des données utilisées sur ce site web.
+Le responsable du traitement décide seul ou conjointement avec d’autres des finalités et des moyens du traitement des données utilisées sur ce site web.
 
 Retrait du Consentement
 
@@ -38,19 +38,19 @@ Vous pouvez retirer votre consentement au traitement des données à tout moment
 
 Droit de Réclamation
 
-En cas de violation de la protection des données, vous avez le droit de déposer une réclamation auprès de l'autorité de contrôle compétente. L'autorité responsable est le Commissaire bavarois à la protection des données (Bayerisches Landesamt für Datenschutzaufsicht). Une liste des responsables de la protection des données et leurs coordonnées peut être consultée sur : www.bfdi.bund.de
+En cas de violation de la protection des données, vous avez le droit de déposer une réclamation auprès de l’autorité de contrôle compétente. L’autorité responsable est le Commissaire bavarois à la protection des données (Bayerisches Landesamt für Datenschutzaufsicht). Une liste des responsables de la protection des données et leurs coordonnées peut être consultée sur : www.bfdi.bund.de
 
 Sécurité des Données
 
-Ce site web utilise le cryptage SSL (Secure Socket Layer) pour protéger la transmission de données confidentielles. Cela garantit que les données transmises via ce site ne peuvent pas être consultées par des tiers. Une connexion cryptée est indiquée par le préfixe « https:// » et l'icône de cadenas dans la barre d'adresse de votre navigateur.
+Ce site web utilise le cryptage SSL (Secure Socket Layer) pour protéger la transmission de données confidentielles. Cela garantit que les données transmises via ce site ne peuvent pas être consultées par des tiers. Une connexion cryptée est indiquée par le préfixe « https:// » et l’icône de cadenas dans la barre d’adresse de votre navigateur.
 
 Fichiers Journaux du Serveur
 
 Lorsque vous accédez à notre site web, votre navigateur transmet automatiquement des informations au serveur hébergeant le site. Ces informations sont temporairement stockées et comprennent :
 
-Adresse IP de l'appareil demandeur
+Adresse IP de l’appareil demandeur
 
-Date et heure d'accès
+Date et heure d’accès
 
 Nom et URL du fichier récupéré
 
@@ -58,21 +58,21 @@ Site web référent (URL de référence)
 
 Navigateur utilisé
 
-Système d'exploitation
+Système d’exploitation
 
-Nom de votre fournisseur d'accès Internet
+Nom de votre fournisseur d’accès Internet
 
 Contact par E-mail
 
-Si vous nous contactez par e-mail, veuillez noter que la communication par e-mail comporte certains risques de sécurité. En raison de la technologie impliquée, nous ne pouvons pas garantir la protection de vos données transmises, car l'accès par des tiers ne peut être totalement exclu.
+Si vous nous contactez par e-mail, veuillez noter que la communication par e-mail comporte certains risques de sécurité. En raison de la technologie impliquée, nous ne pouvons pas garantir la protection de vos données transmises, car l’accès par des tiers ne peut être totalement exclu.
 
-Si vous avez l'intention d'envoyer des données sensibles, veuillez nous contacter au préalable afin que nous puissions déterminer conjointement les mesures appropriées pour garantir le niveau de protection le plus élevé possible.
+Si vous avez l’intention d’envoyer des données sensibles, veuillez nous contacter au préalable afin que nous puissions déterminer conjointement les mesures appropriées pour garantir le niveau de protection le plus élevé possible.
 
 Formulaire de Contact
 
 Vous pouvez utiliser notre formulaire de contact pour entrer en contact avec nous. Pour traiter votre demande, nous avons besoin de votre nom, de votre adresse e-mail et de la raison de votre contact. Vous pouvez optionnellement fournir votre numéro de téléphone. La fourniture de ces informations est volontaire et non requise pour utiliser le site web.
 
-Le traitement des données aux fins de vous contacter est basé sur l'Art. 6(1)(a) du RGPD, sur la base de votre consentement volontaire, que vous fournissez en remplissant et en soumettant le formulaire.
+Le traitement des données aux fins de vous contacter est basé sur l’Art. 6(1)(a) du RGPD, sur la base de votre consentement volontaire, que vous fournissez en remplissant et en soumettant le formulaire.
 
 Les données personnelles collectées via le formulaire de contact seront automatiquement supprimées après la résolution de votre demande.
 
@@ -84,39 +84,39 @@ Divulgation des Données
 
 Vos données personnelles ne seront pas transmises à des tiers sauf dans les cas suivants :
 
-Vous avez donné votre consentement exprès conformément à l'Art. 6(1)(a) du RGPD
+Vous avez donné votre consentement exprès conformément à l’Art. 6(1)(a) du RGPD
 
-La divulgation est nécessaire conformément à l'Art. 6(1)(f) du RGPD pour l'établissement, l'exercice ou la défense de réclamations légales, et il n'y a aucune raison de croire que vous avez un intérêt légitime prépondérant à la non-divulgation
+La divulgation est nécessaire conformément à l’Art. 6(1)(f) du RGPD pour l’établissement, l’exercice ou la défense de réclamations légales, et il n’y a aucune raison de croire que vous avez un intérêt légitime prépondérant à la non-divulgation
 
-La divulgation est requise par la loi conformément à l'Art. 6(1)(c) du RGPD
+La divulgation est requise par la loi conformément à l’Art. 6(1)(c) du RGPD
 
-La divulgation est légalement permise et nécessaire conformément à l'Art. 6(1)(b) du RGPD pour l'exécution de relations contractuelles avec vous
+La divulgation est légalement permise et nécessaire conformément à l’Art. 6(1)(b) du RGPD pour l’exécution de relations contractuelles avec vous
 
 Enfants
 
-Ce site web n'est pas destiné aux enfants de moins de 14 ans. Nous ne collectons ni ne stockons sciemment de données personnelles d'enfants.
+Ce site web n’est pas destiné aux enfants de moins de 14 ans. Nous ne collectons ni ne stockons sciemment de données personnelles d’enfants.
 
 Cookies
 
-Ce site web utilise des cookies. Les cookies sont de petits fichiers texte que votre navigateur stocke sur votre appareil. Ils nous aident à rendre notre site web plus convivial, efficace et sécurisé. Certains cookies sont des « cookies de session » qui sont automatiquement supprimés à la fin de votre session de navigation. D'autres restent sur votre appareil jusqu'à ce que vous les supprimiez, nous permettant de vous reconnaître à votre retour.
+Ce site web utilise des cookies. Les cookies sont de petits fichiers texte que votre navigateur stocke sur votre appareil. Ils nous aident à rendre notre site web plus convivial, efficace et sécurisé. Certains cookies sont des « cookies de session » qui sont automatiquement supprimés à la fin de votre session de navigation. D’autres restent sur votre appareil jusqu’à ce que vous les supprimiez, nous permettant de vous reconnaître à votre retour.
 
 Vous pouvez surveiller, restreindre ou désactiver les cookies dans les paramètres de votre navigateur. La plupart des navigateurs peuvent être configurés pour supprimer les cookies à la fermeture. Cependant, la désactivation des cookies peut affecter la fonctionnalité du site web.
 
-Les cookies nécessaires à la communication électronique ou pour fournir certaines fonctions que vous avez demandées sont définis sur la base de l'Art. 6(1)(f) du RGPD. En tant qu'exploitant de ce site web, nous avons un intérêt légitime à stocker des cookies pour la fourniture techniquement sans erreur et fluide de nos services.
+Les cookies nécessaires à la communication électronique ou pour fournir certaines fonctions que vous avez demandées sont définis sur la base de l’Art. 6(1)(f) du RGPD. En tant qu’exploitant de ce site web, nous avons un intérêt légitime à stocker des cookies pour la fourniture techniquement sans erreur et fluide de nos services.
 
 Consentement aux Cookies
 
-Pour gérer les cookies et technologies similaires (pixels de suivi, balises web, etc.) et les consentements associés, nous utilisons l'outil de consentement « Real Cookie Banner ». Les détails sur le fonctionnement de Real Cookie Banner peuvent être trouvés sur : devowl.io/rcb/data-processing
+Pour gérer les cookies et technologies similaires (pixels de suivi, balises web, etc.) et les consentements associés, nous utilisons l’outil de consentement « Real Cookie Banner ». Les détails sur le fonctionnement de Real Cookie Banner peuvent être trouvés sur : devowl.io/rcb/data-processing
 
-La base juridique du traitement des données personnelles dans ce contexte est l'Art. 6(1)(c) et l'Art. 6(1)(f) du RGPD. Notre intérêt légitime est la gestion des cookies et technologies similaires et les consentements associés.
+La base juridique du traitement des données personnelles dans ce contexte est l’Art. 6(1)(c) et l’Art. 6(1)(f) du RGPD. Notre intérêt légitime est la gestion des cookies et technologies similaires et les consentements associés.
 
 Analytics (Matomo)
 
-Nous utilisons le logiciel open-source Matomo pour analyser et évaluer statistiquement l'utilisation de ce site web. Des cookies sont utilisés à cette fin (voir ci-dessus). Les informations générées par le cookie concernant votre utilisation de ce site web sont transmises à nos serveurs et compilées en profils d'utilisateurs pseudonymisés. Ces informations sont utilisées pour évaluer l'utilisation du site web et pour permettre une conception adaptée aux besoins de notre site web. Ces informations ne sont pas partagées avec des tiers.
+Nous utilisons le logiciel open-source Matomo pour analyser et évaluer statistiquement l’utilisation de ce site web. Des cookies sont utilisés à cette fin (voir ci-dessus). Les informations générées par le cookie concernant votre utilisation de ce site web sont transmises à nos serveurs et compilées en profils d’utilisateurs pseudonymisés. Ces informations sont utilisées pour évaluer l’utilisation du site web et pour permettre une conception adaptée aux besoins de notre site web. Ces informations ne sont pas partagées avec des tiers.
 
-Votre adresse IP n'est jamais liée à d'autres données vous concernant. Les adresses IP sont anonymisées de sorte que l'attribution n'est pas possible (masquage IP).
+Votre adresse IP n’est jamais liée à d’autres données vous concernant. Les adresses IP sont anonymisées de sorte que l’attribution n’est pas possible (masquage IP).
 
-Vous pouvez empêcher le stockage de cookies en ajustant les paramètres de votre navigateur en conséquence. Cependant, nous tenons à souligner que cela peut vous empêcher d'utiliser toutes les fonctionnalités de ce site web dans leur intégralité.
+Vous pouvez empêcher le stockage de cookies en ajustant les paramètres de votre navigateur en conséquence. Cependant, nous tenons à souligner que cela peut vous empêcher d’utiliser toutes les fonctionnalités de ce site web dans leur intégralité.
 
 Des informations supplémentaires et les dispositions applicables en matière de protection des données de Matomo peuvent être trouvées sur : matomo.org/privacy
 
@@ -283,7 +283,7 @@ Demander des informations sur vos données personnelles traitées par nous (Art.
 
 Demander la correction de données inexactes ou la complétion de données incomplètes (Art. 16 RGPD)
 
-Demander la suppression de vos données (Art. 17 RGPD), sauf si le traitement est nécessaire pour l'exercice du droit à la liberté d'expression, pour la conformité à une obligation légale, pour des raisons d'intérêt public, ou pour l'établissement, l'exercice ou la défense de réclamations légales
+Demander la suppression de vos données (Art. 17 RGPD), sauf si le traitement est nécessaire pour l’exercice du droit à la liberté d’expression, pour la conformité à une obligation légale, pour des raisons d’intérêt public, ou pour l’établissement, l’exercice ou la défense de réclamations légales
 
 Demander la restriction du traitement (Art. 18 RGPD)
 
@@ -291,11 +291,11 @@ Recevoir vos données dans un format structuré, couramment utilisé, lisible pa
 
 Retirer votre consentement à tout moment (Art. 7(3) RGPD)
 
-Déposer une réclamation auprès d'une autorité de contrôle (Art. 77 RGPD)
+Déposer une réclamation auprès d’une autorité de contrôle (Art. 77 RGPD)
 
 Suppression des Données
 
-Les données traitées par nous seront supprimées ou restreintes conformément aux Art. 17 et 18 du RGPD. Sauf indication contraire dans cette politique de confidentialité, les données stockées seront supprimées dès qu'elles ne seront plus nécessaires à leur objectif prévu et que la suppression n'est pas empêchée par des obligations légales de conservation.
+Les données traitées par nous seront supprimées ou restreintes conformément aux Art. 17 et 18 du RGPD. Sauf indication contraire dans cette politique de confidentialité, les données stockées seront supprimées dès qu’elles ne seront plus nécessaires à leur objectif prévu et que la suppression n’est pas empêchée par des obligations légales de conservation.
 
 Contact
 
