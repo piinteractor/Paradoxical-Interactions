@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-stuttgart-21-paradox/
 
 Warum eine demokratische Abstimmung genau das Gegenteil von dem produzierte, was sie entscheiden sollte — und warum das niemandes Schuld ist.
 
-„Irreversibilität ist das eigentliche Werkzeug der Macht."
+„Irreversibilität ist das eigentliche Werkzeug der Macht.”
 
 — Albert O. Hirschman, Exit, Voice, and Loyalty, 1970
 
@@ -124,9 +124,9 @@ Auf piinteract.org:
 
 [„Mehr vom Gleichen“​] — Jede Kostensteigerung wird mit mehr Ressourcen beantwortet, nicht mit einer neuen Frage.
 
-[„Systeme & Macht"] — Die strukturellen Bedingungen, unter denen demokratische Entscheidungen das Gegenteil des Beabsichtigten produzieren.
+[„Systeme & Macht”] — Die strukturellen Bedingungen, unter denen demokratische Entscheidungen das Gegenteil des Beabsichtigten produzieren.
 
-[„Benenne das Paradox"] — Den Mechanismus benennen ist kein Ausweg — aber die einzig ehrliche Orientierung.
+[„Benenne das Paradox”] — Den Mechanismus benennen ist kein Ausweg — aber die einzig ehrliche Orientierung.
 
 Siehe auch (Externe Links):
 
