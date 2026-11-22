@@ -94,7 +94,7 @@ Die Mauer erscheint lange bevor man sie erreicht.
 
 Die Stellenanzeige
 
-Am Ende des AlgZoo-Papers formuliert ARC eine Herausforderung. Sie liest sich wie eine Einladung. Man würde es „begrüßen", andere ambitionierte Forscher zu sehen, die ihre Modelle erkunden. Man wäre „begeistert", bessere mechanistische Schätzungen zu sehen. Sie stellen eine konkrete Aufgabe: das 432-Parameter-Modell erklären.
+Am Ende des AlgZoo-Papers formuliert ARC eine Herausforderung. Sie liest sich wie eine Einladung. Man würde es „begrüßen”, andere ambitionierte Forscher zu sehen, die ihre Modelle erkunden. Man wäre „begeistert”, bessere mechanistische Schätzungen zu sehen. Sie stellen eine konkrete Aufgabe: das 432-Parameter-Modell erklären.
 
 Das ist eine Stellenanzeige für ein möglicherweise strukturell unlösbares Problem.
 
@@ -146,7 +146,7 @@ Was wirklich helfen würde, ist etwas, das die Stellenanzeige nicht einfordern k
 
 Die Interpretabilitätsobergrenze ist keine technische Herausforderung, die auf eine klügere Technik wartet. Sie ist ein strukturelles Merkmal der Beziehung zwischen Komplexität und Verstehen. Es klar zu benennen löst nichts — aber es verhindert eine bestimmte Art von Schaden: den Schaden, der entsteht, wenn ein Forschungsfeld eine strukturelle Unmöglichkeit mit einer temporären Wissenslücke verwechselt.
 
-Diese Unterscheidung ist enorm bedeutsam. Eine temporäre Wissenslücke sagt: mehr Forscher einstellen. Eine strukturelle Unmöglichkeit sagt: Erwartungen neu kalibrieren, Sicherheitsarchitekturen überdenken, den gesamten Rahmen dafür, was „Alignment" bedeuten kann.
+Diese Unterscheidung ist enorm bedeutsam. Eine temporäre Wissenslücke sagt: mehr Forscher einstellen. Eine strukturelle Unmöglichkeit sagt: Erwartungen neu kalibrieren, Sicherheitsarchitekturen überdenken, den gesamten Rahmen dafür, was „Alignment” bedeuten kann.
 
 Das Feld ist überwältigend mit Menschen bevölkert, die es als temporäre Wissenslücke brauchen. Ihre Karrieren, ihre Fördergelder, ihre Mission — alles hängt davon ab, dass das Problem lösbar ist.
 
@@ -163,7 +163,7 @@ Aber das Paper enthält auch, eingebettet in seine technische Präzision, ein Ge
 
 Das ist kein Versagen. Das ist die Struktur. Die Forscher, die dieses Paper geschrieben haben, gehören zu den ehrlichsten im Feld — genau weil sie die Zahlen veröffentlicht, die Obergrenze benannt und weitergemacht haben.
 
-„Try and continue" ist kein Optimismus. Es ist die einzige navigierbare Position.
+„Try and continue” ist kein Optimismus. Es ist die einzige navigierbare Position.
 
 Die Mauer bei 432 Parametern bewegt sich nicht. Die Forschung geht weiter. Und irgendwo zwischen diesen beiden Tatsachen liegt das gesamte Alignment-Problem — nicht als technisches Rätsel, sondern als Paradoxale Interaktion.
 
@@ -234,7 +234,7 @@ Beispiele: Technologie & KI — Die strukturellen Muster unter der technischen O
 
 Kernpraktiken — Navigation ohne Lösung
 
-Anti-Praktiken — „Diesmal wird es anders" und das Forschungsfeld, das davon lebt
+Anti-Praktiken — „Diesmal wird es anders” und das Forschungsfeld, das davon lebt
 
 
 
