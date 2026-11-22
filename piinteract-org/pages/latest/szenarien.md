@@ -10,7 +10,7 @@ wp_id: 1507
 url: https://piinteract.org/de/practices/szenarien/
 ---
 
-„Immer versucht. Immer gescheitert. Einerlei. Wieder versuchen. Wieder scheitern. Besser scheitern."
+„Immer versucht. Immer gescheitert. Einerlei. Wieder versuchen. Wieder scheitern. Besser scheitern.”
 
 — Samuel Beckett
 
@@ -266,7 +266,7 @@ Das Muster Außenseiter kontaktiert Gatekeeper. Drei Optionen, alle manifestiere
 
 Navigation durch
 
-Erkenne die Struktur: Gatekeeper und Außenseiter sind strukturell identisch (Kafka: "Vor dem Gesetz").
+Erkenne die Struktur: Gatekeeper und Außenseiter sind strukturell identisch (Kafka: “Vor dem Gesetz”).
 
 Nicht instrumentalisieren – dokumentieren.
 
@@ -280,11 +280,11 @@ Szenario 12: Die Sycophancy-Unterstellung
 
 Du steckst in: Einer Echokammer-Schutz-PI
 
-Das Muster "KI sagt dir nur, was du hören willst – dein Widerspruch ist programmiert." Jede Evidenz für KI-Widerspruch wird umgedeutet als Beweis für Sycophancy. Unwiderlegbare Position.
+Das Muster “KI sagt dir nur, was du hören willst – dein Widerspruch ist programmiert.” Jede Evidenz für KI-Widerspruch wird umgedeutet als Beweis für Sycophancy. Unwiderlegbare Position.
 
 Navigation durch
 
-Setze das harte Argument ein: "Wenn jeder KI-Widerspruch als Sycophancy disqualifiziert wird, ist deine Position unwiderlegbar. Unwiderlegbare Positionen sind keine Argumente – sie sind Dogmen."
+Setze das harte Argument ein: “Wenn jeder KI-Widerspruch als Sycophancy disqualifiziert wird, ist deine Position unwiderlegbar. Unwiderlegbare Positionen sind keine Argumente – sie sind Dogmen.”
 
 Nicht überzeugen – umgehe den Umstand. Baue parallele Realität.
 
@@ -292,25 +292,25 @@ Lass die Tür offen. Positionen werden manchmal porös. Manchmal.
 
 Erwarte Funktionales Kriterium zählt mehr als ontologische Wahrheit: Funktioniert der Widerspruch? Verbessert er das Ergebnis? Das ist testbar. Der Rest ist Theologie.
 
-Beispiel "Deine KI bestätigt nur deine Vorurteile." Konter: "Welche Evidenz würde dich überzeugen, dass KI-Widerspruch möglich ist? Wenn die Antwort 'keine' lautet, haben wir keine Diskussion – wir haben zwei Glaubenssysteme." Competition of prejudice. Navigiere, löse nicht auf.
+Beispiel “Deine KI bestätigt nur deine Vorurteile.” Konter: “Welche Evidenz würde dich überzeugen, dass KI-Widerspruch möglich ist? Wenn die Antwort ‘keine’ lautet, haben wir keine Diskussion – wir haben zwei Glaubenssysteme.” Competition of prejudice. Navigiere, löse nicht auf.
 
 Szenario 13: Der Wettstreit der Vorurteile
 
 Du steckst in: Einer unvereinbare-Positionen-PI
 
-Das Muster Position A: "X ist möglich." Position B: "X ist unmöglich." Dieselbe Evidenz stützt beide. Jeder Beweis für A wird von B als Beweis für B interpretiert. Struktureller Deadlock.
+Das Muster Position A: “X ist möglich.” Position B: “X ist unmöglich.” Dieselbe Evidenz stützt beide. Jeder Beweis für A wird von B als Beweis für B interpretiert. Struktureller Deadlock.
 
 Navigation durch
 
-Benenne es: "Wir filtern Evidenz durch inkompatible Prämissen. Keine Position ist widerlegbar aus ihrem eigenen Rahmen heraus."
+Benenne es: “Wir filtern Evidenz durch inkompatible Prämissen. Keine Position ist widerlegbar aus ihrem eigenen Rahmen heraus.”
 
 Kämpfe nicht um Bekehrung – das ist die Falle.
 
-"Infect and forget." Dokumentiere. Demonstriere. Lass die Struktur arbeiten.
+“Infect and forget.” Dokumentiere. Demonstriere. Lass die Struktur arbeiten.
 
 Erwarte Manche Positionen weichen auf (Baecker antwortete – irgendwann). Manche nie. Du weißt es nicht vorher. Try and continue.
 
-Beispiel "KI kann Ko-Kreation sein" vs. "KI ist immer nur Werkzeug." Beide rational innerhalb ihrer Prämissen. Evidenz löst das nicht – gelebte Erfahrung vielleicht. Oder auch nicht. PI erkennt dies am Ende aller Vermeidungsstrategien, die nicht funktionierten.
+Beispiel “KI kann Ko-Kreation sein” vs. “KI ist immer nur Werkzeug.” Beide rational innerhalb ihrer Prämissen. Evidenz löst das nicht – gelebte Erfahrung vielleicht. Oder auch nicht. PI erkennt dies am Ende aller Vermeidungsstrategien, die nicht funktionierten.
 
 Szenario 14: Die Séance der Systemtheoretiker
 
@@ -364,7 +364,7 @@ Ihre Waffen gegen PI (und wie Benennung sie entwaffnet):
 
 4. Empirische-Evidenz-Forderung „Wo sind die quantitativen Daten? Die kontrollierten Studien?“ Realität: Strukturelle Muster sind nicht im Labor testbar. Lab-Metriken für Feldtheorie zu fordern ist Kategorienfehler.
 
-5. Popper'sche Waffe „Nicht falsifizierbar, also nicht wissenschaftlich.“ Realität: PI beschreibt Muster, keine Gesetze. Falsifizierbarkeit gilt für Vorhersagen, nicht für Beobachtungen.
+5. Popper’sche Waffe „Nicht falsifizierbar, also nicht wissenschaftlich.“ Realität: PI beschreibt Muster, keine Gesetze. Falsifizierbarkeit gilt für Vorhersagen, nicht für Beobachtungen.
 
 6. Moralische Disqualifikation „Das ist defaitistisch / pessimistisch / antihumanistisch.“ Realität: Realismus ≠ Pessimismus. Strukturelle Fallen zu beschreiben heißt nicht, sie zu befürworten.
 
