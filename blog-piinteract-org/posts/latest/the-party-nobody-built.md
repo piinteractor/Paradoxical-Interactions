@@ -18,14 +18,14 @@ Why the AfD is not the cause of German political dysfunction — and why every a
 
 
 
-"The devil is a squirrel." 
+“The devil is a squirrel.” 
 
 — German proverb
 
 
 
 
-No one built the AfD. That's the point.
+No one built the AfD. That’s the point.
 
 Not a conspiracy of dark-money donors, not a foreign influence operation, not a handful of ideologues who found the right moment. Those explanations are available, and some of them contain true details. None of them explain the structure. The AfD is not a project. It is a result — produced by the rational behavior of every actor who wanted to prevent it.
 
@@ -188,7 +188,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 When Observing Closure Becomes Closure
 
@@ -205,22 +205,22 @@ No results found.
 
 On piinteract.org:
 
-["Democracy Erosion"] — The AfD's rise is not the erosion of democracy — it is its structural product: representation filling a vacancy that governance logic created.
+[“Democracy Erosion”] — The AfD’s rise is not the erosion of democracy — it is its structural product: representation filling a vacancy that governance logic created.
 
-["More of the Same"] — Every containment strategy applied to the AfD is a variation of the tool that already failed; the firewall is more firewall.
+[“More of the Same”] — Every containment strategy applied to the AfD is a variation of the tool that already failed; the firewall is more firewall.
 
-["See Pattern, Not Symptom"] — The AfD is the symptom. The coalition arithmetic that produced the vacancy is the pattern.
+[“See Pattern, Not Symptom”] — The AfD is the symptom. The coalition arithmetic that produced the vacancy is the pattern.
 
-["Viral Outrage Cycles"] — Media coverage designed to discredit generates the attention that discrediting requires.
+[“Viral Outrage Cycles”] — Media coverage designed to discredit generates the attention that discrediting requires.
 
 
 
 
 See also (external links):
 
-AfD party program — Programm für Deutschland — Primary source: the AfD's own foundational document, showing which vacated mainstream positions the party explicitly claims.
+AfD party program — Programm für Deutschland — Primary source: the AfD’s own foundational document, showing which vacated mainstream positions the party explicitly claims.
 
-Bundeszentrale für politische Bildung: AfD — Entstehung und Entwicklung — Institutional account of the AfD's structural emergence from the 2013 Eurosceptic split — the original vacancy before migration became the engine.
+Bundeszentrale für politische Bildung: AfD — Entstehung und Entwicklung — Institutional account of the AfD’s structural emergence from the 2013 Eurosceptic split — the original vacancy before migration became the engine.
 
 Cas Mudde: The Far Right Today (Polity Press, 2019) — The leading comparative political scientist on far-right parties: the structural conditions that produce them are not German exceptions but systemic patterns across liberal democracies.
 
@@ -245,4 +245,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
