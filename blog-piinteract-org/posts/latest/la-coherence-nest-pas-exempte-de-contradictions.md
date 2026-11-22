@@ -10,7 +10,7 @@ wp_id: 211
 url: https://blog.piinteract.org/fr/la-coherence-nest-pas-exempte-de-contradictions/
 ---
 
-Ou pourquoi l'élimination des contradictions en crée automatiquement de nouvelles
+Ou pourquoi l’élimination des contradictions en crée automatiquement de nouvelles
 
 
 
@@ -36,7 +36,7 @@ Les organisations détestent les contradictions. Deux départements veulent des 
 
 Ça semble rationnel.
 
-C'est un piège.
+C’est un piège.
 
 Parce que : Les contradictions ne disparaissent pas. Elles se déplacent.
 
@@ -48,17 +48,17 @@ Parce que : Les contradictions ne disparaissent pas. Elles se déplacent.
 
 Exemple 1 : Hiérarchie claire
 
-Contradiction : Les équipes veulent de l'autonomie. La direction veut le contrôle.
+Contradiction : Les équipes veulent de l’autonomie. La direction veut le contrôle.
 
 Solution : Hiérarchie claire. Décisions descendantes.
 
-Nouvelle contradiction : Les équipes perdent leur initiative. L'innovation meurt. Mais la direction veut de l'innovation.
+Nouvelle contradiction : Les équipes perdent leur initiative. L’innovation meurt. Mais la direction veut de l’innovation.
 
-Donc : « Programmes d'empowerment ». Autonomie dans des limites contrôlées.
+Donc : « Programmes d’empowerment ». Autonomie dans des limites contrôlées.
 
-Contradiction suivante : Les équipes doivent décider de manière indépendante, mais prendre uniquement les « bonnes » décisions. Qu'est-ce qui est correct ? La direction le définit. Ce n'est pas de l'autonomie. C'est de la pseudo-autonomie avec surcharge de contrôle.
+Contradiction suivante : Les équipes doivent décider de manière indépendante, mais prendre uniquement les « bonnes » décisions. Qu’est-ce qui est correct ? La direction le définit. Ce n’est pas de l’autonomie. C’est de la pseudo-autonomie avec surcharge de contrôle.
 
-La contradiction originale n'est pas résolue. Elle est déguisée.
+La contradiction originale n’est pas résolue. Elle est déguisée.
 
 
 
@@ -68,13 +68,13 @@ La contradiction originale n'est pas résolue. Elle est déguisée.
 
 Exemple 2 : Le paradoxe de la tolérance
 
-Karl Popper l'a formulé en 1945 : Une société tolérante ne doit pas tolérer l'intolérance. Sinon l'intolérance détruit la tolérance.
+Karl Popper l’a formulé en 1945 : Une société tolérante ne doit pas tolérer l’intolérance. Sinon l’intolérance détruit la tolérance.
 
 Contradiction éliminée ? Non. Déplacée.
 
 Parce que maintenant : Qui décide ce qui est intolérant ? Qui trace la ligne ? Avec quelle autorité ?
 
-Chaque frontière tracée est elle-même un acte d'intolérance envers ce qui est exclu.
+Chaque frontière tracée est elle-même un acte d’intolérance envers ce qui est exclu.
 
 Le paradoxe ne disparaît pas. Il se reproduit dans la pratique de sa propre solution.
 
@@ -92,11 +92,11 @@ Solution : Méthodes agiles. « Embrace change. »
 
 Nouvelle contradiction : Les investisseurs veulent des feuilles de route. Les clients veulent de la fiabilité. La conformité exige de la documentation.
 
-Donc : « Agile à l'échelle ». Scrum of Scrums. SAFe. LeSS.
+Donc : « Agile à l’échelle ». Scrum of Scrums. SAFe. LeSS.
 
 Contradiction suivante : Les frameworks censés permettre la flexibilité se figent en bureaucratie processuelle.
 
-L'Agile a été inventé pour échapper à la planification. Maintenant les organisations planifient leur agilité.
+L’Agile a été inventé pour échapper à la planification. Maintenant les organisations planifient leur agilité.
 
 
 
@@ -104,11 +104,11 @@ L'Agile a été inventé pour échapper à la planification. Maintenant les orga
 
 
 
-Pourquoi c'est structurel
+Pourquoi c’est structurel
 
 La cohérence ressemble à un objectif.
 
-C'est une illusion.
+C’est une illusion.
 
 Les systèmes opèrent avec plusieurs logiques simultanément :
 
@@ -142,7 +142,7 @@ Pas : Éliminer les contradictions.
 
 Plutôt : Naviguer les contradictions.
 
-C'est-à-dire :
+C’est-à-dire :
 
 Rendre visible au lieu de cacher
 
@@ -170,13 +170,13 @@ Il argumente : « Les contradictions ne peuvent pas être résolues. »
 
 Tout en se positionnant comme solution : « PI aide à naviguer. »
 
-Ce n'est pas un bug. C'est une fonctionnalité.
+Ce n’est pas un bug. C’est une fonctionnalité.
 
 Parce que celui qui prétend se tenir au-dessus des contradictions ne les a pas comprises.
 
 Nous sommes dans les contradictions. Toujours.
 
-PI n'offre pas de résolution. Seulement de la navigation.
+PI n’offre pas de résolution. Seulement de la navigation.
 
 Try and continue.
 
