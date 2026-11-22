@@ -10,7 +10,7 @@ wp_id: 991
 url: https://blog.piinteract.org/de/wie-elon-musk-einen-memecoin-pimpte-ohne-ein-wort-zu-sagen-und-warum-niemand-was-dafuer-kann/
 ---
 
-"Das Verantwortungsgefühl in der Finanzwelt für die Gemeinschaft als Ganzes ist nicht klein. Es ist nahezu null."
+“Das Verantwortungsgefühl in der Finanzwelt für die Gemeinschaft als Ganzes ist nicht klein. Es ist nahezu null.”
 
 — John Kenneth Galbraith
 
@@ -20,7 +20,7 @@ url: https://blog.piinteract.org/de/wie-elon-musk-einen-memecoin-pimpte-ohne-ein
 
 
 
-31. Dezember 2024. Elon Musk ändert seinen X-Profilnamen zu "Kekius Maximus." Keine Erklärung. Keine Empfehlung. Nur eine Namensänderung und ein Pepe-the-Frog-Avatar in römischer Rüstung.
+31. Dezember 2024. Elon Musk ändert seinen X-Profilnamen zu “Kekius Maximus.” Keine Erklärung. Keine Empfehlung. Nur eine Namensänderung und ein Pepe-the-Frog-Avatar in römischer Rüstung.
 
 Innerhalb von Stunden steigt ein Memecoin namens KEKIUS um 1.600%.
 
@@ -68,7 +68,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Warum es legal ist
 
-Versuch mal, "Ich hab meinen Namen geändert" zu regulieren.
+Versuch mal, “Ich hab meinen Namen geändert” zu regulieren.
 
 Musk machte keine Versprechungen. Gab keine Anlageberatung. Offenbarte keine Beteiligungen. Postete über ein Videospiel. Vollkommen legal.
 
@@ -106,7 +106,7 @@ Die Struktur belohnt genau das Verhalten, das den Schaden produziert.
 
 Regulierung hinzufügen verschiebt das Spiel, stoppt es nicht.
 
-Pump-and-Dumps verbieten? Sie passieren via "unbeabsichtigte" Celebrity-Erwähnungen. Celebrity-Krypto-Endorsements verbieten? Position bewegt trotzdem Märkte. Position regulieren? Man müsste regulieren... was? Einflussreich sein? Eine Plattform besitzen? Follower haben?
+Pump-and-Dumps verbieten? Sie passieren via “unbeabsichtigte” Celebrity-Erwähnungen. Celebrity-Krypto-Endorsements verbieten? Position bewegt trotzdem Märkte. Position regulieren? Man müsste regulieren… was? Einflussreich sein? Eine Plattform besitzen? Follower haben?
 
 Die Struktur bricht nicht. Sie passt sich an.
 
@@ -118,7 +118,7 @@ Die Struktur bricht nicht. Sie passt sich an.
 
 Der Genie-Mythos
 
-Jetzt schau auf den Tweet, der diese Analyse startete: "Russischer Mathematiker knackt 190 Jahre alte unlösbare Gleichung."
+Jetzt schau auf den Tweet, der diese Analyse startete: “Russischer Mathematiker knackt 190 Jahre alte unlösbare Gleichung.”
 
 Pures Genie-Worship. Smarter Mensch löst hartes Problem. Hirn schlägt Herausforderung.
 
@@ -126,17 +126,17 @@ Währenddessen demonstriert Musk, wie Macht tatsächlich funktioniert: Struktur 
 
 Er muss keine Gleichungen lösen. Er muss nicht richtig liegen. Er bewegt Märkte, indem er seinen Namen ändert. Das ist keine Intelligenz. Das ist Position.
 
-Der Tweet verkauft das Narrativ: "Gute Leute an die Macht." Hol das richtige Genie, löse das Problem.
+Der Tweet verkauft das Narrativ: “Gute Leute an die Macht.” Hol das richtige Genie, löse das Problem.
 
 Die Struktur zeigt die Realität: Position bestimmt Ergebnisse. Intelligenz ist Dekoration.
 
 Das ist Anti-Practice in Aktion:
 
-"Gute Leute an die Macht" – Die Struktur verschlingt Intention. Genie überschreibt Position nicht.
+“Gute Leute an die Macht” – Die Struktur verschlingt Intention. Genie überschreibt Position nicht.
 
-"Problem sehen → Problem lösen" – Der Reflex, Lösungen zu fordern, verhindert Strukturverständnis.
+“Problem sehen → Problem lösen” – Der Reflex, Lösungen zu fordern, verhindert Strukturverständnis.
 
-"Mehr vom Gleichen" – Regulierung erzeugt neue Spiele. Muster skaliert.
+“Mehr vom Gleichen” – Regulierung erzeugt neue Spiele. Muster skaliert.
 
 Das Genie-Narrativ schützt die Struktur. Es suggeriert, Probleme seien lösbar, wenn wir nur smart genug werden.
 
