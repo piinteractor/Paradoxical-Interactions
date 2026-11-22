@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/the-nuremberg-axiom/
 
 Why the only answer to a closed structure is a new axiom — and why setting that axiom required breaking the law.
 
-"The wrongs which we seek to condemn and punish have been so calculated, so malignant, and so devastating, that civilization cannot tolerate their being ignored, because it cannot survive their being repeated."
+“The wrongs which we seek to condemn and punish have been so calculated, so malignant, and so devastating, that civilization cannot tolerate their being ignored, because it cannot survive their being repeated.”
 
 — Robert H. Jackson, Opening Statement, Nuremberg Trials, November 21, 1945
 
@@ -32,7 +32,7 @@ The Argument That Was Unanswerable
 
 To understand what Jackson did, you first have to understand why Göring was right.
 
-The system of international relations as it existed in 1945 rested on a foundational principle: sovereignty. States are the ultimate actors. Heads of state exercise state power. State power, by definition, cannot be judged by another state's power without that judgment being an act of power itself — which then requires its own justification, which leads back to the question of sovereignty.
+The system of international relations as it existed in 1945 rested on a foundational principle: sovereignty. States are the ultimate actors. Heads of state exercise state power. State power, by definition, cannot be judged by another state’s power without that judgment being an act of power itself — which then requires its own justification, which leads back to the question of sovereignty.
 
 This is not a loophole. It is the architecture. The Nuremberg defendants had operated entirely within this architecture. The crimes were vast. The structure that enabled them was the very structure that made the prosecution structurally impossible.
 
@@ -54,7 +54,7 @@ Gödel showed that no sufficiently powerful formal system can prove all truths e
 
 Jackson looked at the closed structure of sovereignty and did the same thing. He did not argue inside the system. He placed a new axiom outside it — one that reframed every move the defense could make. Not: you violated the law. But: you violated the condition without which law cannot exist.
 
-The moment that axiom was accepted, Göring's argument collapsed. Not because it was refuted. Because the playing field had been redrawn.
+The moment that axiom was accepted, Göring’s argument collapsed. Not because it was refuted. Because the playing field had been redrawn.
 
 Nulla Poena Sine Lege
 
@@ -110,9 +110,9 @@ Göring recognized the shift immediately. Not because he suddenly agreed with th
 
 He had argued within a system that rewarded structural precision. Jackson had exited that system. The argument Göring had prepared — watertight, internally consistent, structurally impeccable — was now addressed to a court that was operating under different axioms.
 
-You cannot refute an axiom with an argument. An axiom is not derived — it is assumed. To challenge it, you would need to propose a different axiom and argue for its adoption. Göring's defense could not do this. It had no alternative axiom to offer. It could only insist that the old ones still applied.
+You cannot refute an axiom with an argument. An axiom is not derived — it is assumed. To challenge it, you would need to propose a different axiom and argue for its adoption. Göring’s defense could not do this. It had no alternative axiom to offer. It could only insist that the old ones still applied.
 
-They didn't. Jackson had made sure of that.
+They didn’t. Jackson had made sure of that.
 
 Göring had complete structural insight into the sovereignty argument. He lost anyway — not because his insight was wrong, but because Jackson had moved the argument somewhere insight alone cannot follow.
 
@@ -140,7 +140,7 @@ A Paradoxical Interaction in Three Acts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Doorkeeper Breakout
 
@@ -154,13 +154,13 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
@@ -172,4 +172,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
