@@ -44,7 +44,7 @@ Gründerin A landet ihren ersten Enterprise-Kunden drei Wochen vor Gründerin B.
 
 Drei Wochen. Das ist alles.
 
-Aber diese drei Wochen bedeuten: Eine Referenz für die nächste Sales-Präsentation. Die zweite Kundin kommt schneller. Mehr Kundendaten verbessern das Produkt. Besseres Produkt zieht bessere Mitarbeiter an. Bessere Mitarbeiter beschleunigen die Entwicklung. Mehr Kunden bedeuten mehr Sichtbarkeit. Mehr Sichtbarkeit bedeutet mehr Bewerber. Die Medien berichten über "das am schnellsten wachsende Startup". VCs drängen sich. Die nächste Finanzierungsrunde kommt zu besseren Konditionen.
+Aber diese drei Wochen bedeuten: Eine Referenz für die nächste Sales-Präsentation. Die zweite Kundin kommt schneller. Mehr Kundendaten verbessern das Produkt. Besseres Produkt zieht bessere Mitarbeiter an. Bessere Mitarbeiter beschleunigen die Entwicklung. Mehr Kunden bedeuten mehr Sichtbarkeit. Mehr Sichtbarkeit bedeutet mehr Bewerber. Die Medien berichten über “das am schnellsten wachsende Startup”. VCs drängen sich. Die nächste Finanzierungsrunde kommt zu besseren Konditionen.
 
 Gründerin B? Kämpft um jeden Kunden. Muss mehr Zugeständnisse machen. Kleinere Deals, schlechtere Konditionen. Das Team ist frustriert. Gute Leute gehen zum Konkurrenten. Zum Konkurrenten, der drei Wochen früher angefangen hat zu gewinnen.
 
@@ -108,7 +108,7 @@ Auf der anderen Seite: Misserfolg erschöpft Ressourcen. Weniger Ressourcen behi
 
 Die Mitte gibt es nicht. Die Struktur ist instabil. Jeder minimale Vorteil wird verstärkt. Jeder minimale Nachteil ebenso.
 
-Der Matthäus-Effekt: "Wer hat, dem wird gegeben." Nicht aus Bosheit. Aus Struktur.
+Der Matthäus-Effekt: “Wer hat, dem wird gegeben.” Nicht aus Bosheit. Aus Struktur.
 
 Netzwerkeffekte, Skaleneffekte, Reputationseffekte – sie alle folgen dem gleichen Muster. Sie alle verstärken minimale Unterschiede zu massiven Ungleichheiten.
 
@@ -194,7 +194,7 @@ Paradoxe Interaktion.
 
 Was nun?
 
-Hier könntest du erwarten: "5 Schritte zur Lösung des Gleichheitsparadoxes."
+Hier könntest du erwarten: “5 Schritte zur Lösung des Gleichheitsparadoxes.”
 
 Gibt es nicht. Weil es keine Lösung gibt.
 
@@ -216,9 +216,9 @@ Fünftens: Baue Koalitionen gegen die Struktur, nicht gegen die Menschen. Die Re
 
 Der Zynismus-Test
 
-Wenn du das liest und denkst: "Das ist zynisch" – dann hast du etwas missverstanden.
+Wenn du das liest und denkst: “Das ist zynisch” – dann hast du etwas missverstanden.
 
-Zynismus wäre: "Es ist alles sinnlos, also mach was du willst."
+Zynismus wäre: “Es ist alles sinnlos, also mach was du willst.”
 
 Das sage ich nicht.
 
@@ -250,13 +250,13 @@ Irgendwo dazwischen liegt der navigierbare Bereich. Nicht die Lösung. Der Navig
 
 Mangels Alternative
 
-"Mangels Alternative" – das ist die Haltung.
+“Mangels Alternative” – das ist die Haltung.
 
-Nicht: "Das ist toll, so wie es ist."
+Nicht: “Das ist toll, so wie es ist.”
 
-Nicht: "Das können wir nicht ändern."
+Nicht: “Das können wir nicht ändern.”
 
-Sondern: "Das ist die Struktur. Wir sehen sie. Wir navigieren sie. Wir versuchen, sie zu verschieben. Aber wir erwarten keine Wunder."
+Sondern: “Das ist die Struktur. Wir sehen sie. Wir navigieren sie. Wir versuchen, sie zu verschieben. Aber wir erwarten keine Wunder.”
 
 Das Gleichheitsparadox ist real. Vermeintlich gleiche Gesellschaften erzeugen Ungleichheit. Nicht trotz, sondern wegen des rationalen Verhaltens aller Beteiligten.
 
@@ -286,13 +286,13 @@ No results found.
 
 Auf piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
