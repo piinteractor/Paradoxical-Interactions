@@ -52,7 +52,7 @@ Sie hatten die Daten. Sie zeigten die Modelle. Sie warnten vor Zeitrahmen.
 
 Reaktion der Struktur:
 
-Nicht "sie liegen falsch" – das würde Auseinandersetzung erfordern. Stattdessen: "Sie sind Alarmisten. Agenda-getrieben. Zu radikal."
+Nicht “sie liegen falsch” – das würde Auseinandersetzung erfordern. Stattdessen: “Sie sind Alarmisten. Agenda-getrieben. Zu radikal.”
 
 Ergebnis:
 
@@ -72,11 +72,11 @@ Keine Verschwörung nötig. Nur ausgerichtete Anreize zu ignorieren.
 
 KI-Sicherheitsforscher, Heute
 
-"Superintelligente Systeme bergen existenzielle Risiken."
+“Superintelligente Systeme bergen existenzielle Risiken.”
 
 Reaktion der Struktur:
 
-"Untergangsrhetorik. Anti-Fortschritt. Maschinenstürmer. Panikmache."
+“Untergangsrhetorik. Anti-Fortschritt. Maschinenstürmer. Panikmache.”
 
 Nicht weil sie falsch liegen. Sondern weil, wenn sie recht haben, sich alles ändert. Das Rennen stoppt. Die Investitionen pausieren. Der Wettbewerbsvorteil verschwindet.
 
@@ -102,7 +102,7 @@ Analysten sahen die Subprime-Struktur. Sie warnten vor systemischem Risiko. Sie 
 
 Reaktion der Struktur:
 
-"Der Markt weiß es am besten. Immobilienpreise fallen nicht landesweit. Risiko ist ordentlich verteilt."
+“Der Markt weiß es am besten. Immobilienpreise fallen nicht landesweit. Risiko ist ordentlich verteilt.”
 
 Nicht Dummheit. Nicht Blindheit. Rationale Zurückweisung – weil Anerkennung Stoppen erfordern würde. Stoppen würde Verluste bedeuten. Verluste würden bedeuten, dass jemand anders gewinnt.
 
@@ -126,7 +126,7 @@ Selbst wenn Individuen Kassandra glauben, erfordert kollektives Handeln simultan
 
 Identitätsbedrohung
 
-"Kassandra hat recht", bedeutet "unser Fundament ist falsch". Einfacher, Identität zu bewahren durch Zurückweisung der Wahrheit als auf neuem Grund neu aufzubauen.
+“Kassandra hat recht”, bedeutet “unser Fundament ist falsch”. Einfacher, Identität zu bewahren durch Zurückweisung der Wahrheit als auf neuem Grund neu aufzubauen.
 
 Die Immunantwort
 
@@ -140,7 +140,7 @@ Struktur kann nicht widerlegen (Wahrheit ist verifizierbar)
 
 Struktur greift stattdessen Glaubwürdigkeit an
 
-"Alarmist" / "Pessimist" / "Kein Teamplayer"
+“Alarmist” / “Pessimist” / “Kein Teamplayer”
 
 Warner wird kaltgestellt
 
@@ -152,19 +152,19 @@ Selektionsdruck gegen Wahrheitssagen. Die Struktur züchtet ihre eigene Blindhei
 
 Was nicht funktioniert
 
-"Beweise es härter"
+“Beweise es härter”
 
 Mehr Daten überwinden strukturellen Widerstand nicht. Das Problem ist nicht Mangel an Beweisen. Es sind die Kosten der Anerkennung.
 
-"Mach es beängstigender"
+“Mach es beängstigender”
 
-Warnungen verstärken löst Abwehrreflexe aus. "Wenn es so schlimm wäre, hätte schon jemand gehandelt."
+Warnungen verstärken löst Abwehrreflexe aus. “Wenn es so schlimm wäre, hätte schon jemand gehandelt.”
 
-"Berufe dich auf Autorität"
+“Berufe dich auf Autorität”
 
 Egal wer die Botschaft überbringt. Struktur bewertet Kosten, nicht Credentials.
 
-"Warte auf die Krise"
+“Warte auf die Krise”
 
 Bis dahin ist Kassandras Warnung irrelevant. Die Struktur hat bereits gebrannt.
 
@@ -194,15 +194,15 @@ Das Meta-Paradox
 
 Über das Kassandra-Paradox zu schreiben erzeugt ein Kassandra-Paradox.
 
-"Hier ist, warum ihr Warnungen nicht glauben werdet."
+“Hier ist, warum ihr Warnungen nicht glauben werdet.”
 
 Wahrscheinliche Antworten:
 
-"Interessante Theorie" (Zurückweisung durch Anerkennung)
+“Interessante Theorie” (Zurückweisung durch Anerkennung)
 
-"Aber diesmal ist es anders" (genau was Troja sagte)
+“Aber diesmal ist es anders” (genau was Troja sagte)
 
-"Wir sind uns dieser Muster bewusst" (Bewusstsein ohne Handlung)
+“Wir sind uns dieser Muster bewusst” (Bewusstsein ohne Handlung)
 
 Das Muster erkennt sich selbst. Bricht sich nicht selbst.
 
@@ -212,11 +212,11 @@ Troja brannte. Sie hatte sie gewarnt. Sie hatten sie ignoriert. Alle handelten r
 
 Die Frage ist nicht:
 
-"Wie bringen wir Menschen dazu, Kassandra zuzuhören?"
+“Wie bringen wir Menschen dazu, Kassandra zuzuhören?”
 
 Die Frage ist:
 
-"Welche Strukturen verhindern systematisch das Zuhören – und warum bestehen sie fort?"
+“Welche Strukturen verhindern systematisch das Zuhören – und warum bestehen sie fort?”
 
 Beantworte das, und du verstehst PI.
 
