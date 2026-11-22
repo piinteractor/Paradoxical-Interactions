@@ -52,15 +52,15 @@ Peter Senner co-created with Claude
 
 The Setup
 
-Every year, two to three weeks after Ash Wednesday, Munich's Paulaner Brewery opens its Nockherberg Hall for the strong beer tapping ceremony. Bavaria's politicians sit in the front row. The Minister President. The opposition leaders. The mayors. Cameras everywhere.
+Every year, two to three weeks after Ash Wednesday, Munich’s Paulaner Brewery opens its Nockherberg Hall for the strong beer tapping ceremony. Bavaria’s politicians sit in the front row. The Minister President. The opposition leaders. The mayors. Cameras everywhere.
 
-Then the production begins. Not just a comedian — a full Singspiel. Actors, singers, musicians, an ensemble that has spent months writing, rehearsing, staging. Political satire performed as one of Bavaria's most venerable art forms. The crowd roars. The politicians applaud. The prime minister laughs loudest at the jokes about himself.
+Then the production begins. Not just a comedian — a full Singspiel. Actors, singers, musicians, an ensemble that has spent months writing, rehearsing, staging. Political satire performed as one of Bavaria’s most venerable art forms. The crowd roars. The politicians applaud. The prime minister laughs loudest at the jokes about himself.
 
-The next morning, the newspapers call it "sharp." "Merciless." "Holding power to account."
+The next morning, the newspapers call it “sharp.” “Merciless.” “Holding power to account.”
 
 Nothing changes. Nothing was ever going to.
 
-That's not a failure of the satire. It's the satire working exactly as designed.
+That’s not a failure of the satire. It’s the satire working exactly as designed.
 
 
 
@@ -78,7 +78,7 @@ Once a year, in a single concentrated ritual, the frustration is named, performe
 
 This is not cynicism. This is thermodynamics.
 
-A valve is not a solution to pressure. It's a pressure management system. The Nockherberg doesn't reduce the conditions that create political frustration. It reduces the energy available to act on it.
+A valve is not a solution to pressure. It’s a pressure management system. The Nockherberg doesn’t reduce the conditions that create political frustration. It reduces the energy available to act on it.
 
 The sharper the satire, the more effective the valve. The audience that leaves having laughed hardest has discharged the most.
 
@@ -90,15 +90,15 @@ The sharper the satire, the more effective the valve. The audience that leaves h
 
 Why the Politicians Sit There
 
-They don't have to attend. No law requires it.
+They don’t have to attend. No law requires it.
 
-They come because absence is more dangerous than presence. A politician who skips the Nockherberg signals: I can't take a joke. I fear scrutiny. I'm weak.
+They come because absence is more dangerous than presence. A politician who skips the Nockherberg signals: I can’t take a joke. I fear scrutiny. I’m weak.
 
-A politician who sits in the front row and laughs at himself signals the opposite: I'm confident. I'm human. I can absorb criticism. I'm strong enough to be mocked.
+A politician who sits in the front row and laughs at himself signals the opposite: I’m confident. I’m human. I can absorb criticism. I’m strong enough to be mocked.
 
 The structure rewards attendance and punishes absence. Every actor responds rationally to the incentive. The result: a room full of powerful people voluntarily submitting to ritual humiliation — which makes them look better, not worse.
 
-The jester has no power over the king. The king controls the jester's terms of employment. The jester knows this. The audience knows this. Everyone knows this. The ritual continues anyway, because everyone needs it.
+The jester has no power over the king. The king controls the jester’s terms of employment. The jester knows this. The audience knows this. Everyone knows this. The ritual continues anyway, because everyone needs it.
 
 
 
@@ -110,17 +110,17 @@ The Nemi Priest in Costume
 
 The Nockherberg is old. 1837, by some accounts. Institutionalized, traditioned, protected.
 
-It is the establishment — dressed as the establishment's critic.
+It is the establishment — dressed as the establishment’s critic.
 
 And it is not one person. It is a production. Writers, directors, actors, singers, musicians, costume designers, stage technicians. Each with a contract. Each with a career. Each with a reason to be invited back next year.
 
 No single person decides how sharp the critique goes. The structure decides. The writers know the tolerance parameters — not because anyone told them, but because they have worked in this world long enough to internalize them. The director knows what will play well and what will clear the room in the wrong way. The actors know the difference between a joke that lands and one that ends careers.
 
-The collective makes the system more stable, not less. There is no individual to point at. No author who "pulled the punches." The production as a whole arrives exactly where the structure permits — and does so entirely through the rational decisions of talented professionals.
+The collective makes the system more stable, not less. There is no individual to point at. No author who “pulled the punches.” The production as a whole arrives exactly where the structure permits — and does so entirely through the rational decisions of talented professionals.
 
 Whoever wanted to abolish the Nockherberg would be accused of having no sense of humor. Of fearing scrutiny. Of authoritarianism. The institution has immunized itself against criticism through the appearance of being self-critical.
 
-The Priest of Nemi has an entire ensemble. They're all still guarding the grove.
+The Priest of Nemi has an entire ensemble. They’re all still guarding the grove.
 
 
 
@@ -162,11 +162,11 @@ This is not an argument against the Nockherberg. That would be arguing against a
 
 It is a structural observation: the form of critique matters as much as the content.
 
-Critique that takes place inside the system's sanctioned spaces, at the system's sanctioned times, delivered by the system's sanctioned performers, to an audience that bought tickets — that is not critique. That is maintenance.
+Critique that takes place inside the system’s sanctioned spaces, at the system’s sanctioned times, delivered by the system’s sanctioned performers, to an audience that bought tickets — that is not critique. That is maintenance.
 
-The question to ask is not: "Was the satire sharp enough?" The question is: "Who benefits from this ritual existing, and what does it prevent?"
+The question to ask is not: “Was the satire sharp enough?” The question is: “Who benefits from this ritual existing, and what does it prevent?”
 
-The answer is not comfortable. But it's the only one that sees the structure clearly.
+The answer is not comfortable. But it’s the only one that sees the structure clearly.
 
 A valve that works perfectly is not a broken system. It is the system working as intended.
 
@@ -198,7 +198,7 @@ Win the position. Guarantee your death. Repeat the Pattern forever.
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Intelligence Trap
 
@@ -210,7 +210,7 @@ How Every Solution Becomes the Next Problem
 
 Terminological Hijacking: The Crime, The Confession, The “So What?”
 
-Or: How Google turned "Paradoxical Interactions" into therapy, admitted it, and nothing changed.
+Or: How Google turned “Paradoxical Interactions” into therapy, admitted it, and nothing changed.
 
 No results found.
 
@@ -225,7 +225,7 @@ Examples: Society & Culture — Structural patterns in how communities manage di
 
 Examples: Systems & Governance — How power structures absorb and neutralize challenge
 
-Anti-Practices — What doesn't work, and why trying harder makes it worse
+Anti-Practices — What doesn’t work, and why trying harder makes it worse
 
 Core Practices — Navigation without the illusion of solution
 
@@ -254,4 +254,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
