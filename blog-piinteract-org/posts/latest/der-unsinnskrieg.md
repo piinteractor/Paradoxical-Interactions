@@ -96,13 +96,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Deutungshoheit erkennen"] — Wer „Unsinn“ definiert, hat die Deutungshoheit schon errungen, bevor ein Argument fällt.
+[“Deutungshoheit erkennen”] — Wer „Unsinn“ definiert, hat die Deutungshoheit schon errungen, bevor ein Argument fällt.
 
-["Asymmetrien akzeptieren"] — Es gibt keinen gemeinsamen Boden, auf dem eine Korrektur als Information landen könnte – nur zwei Positionen, die sich gegenseitig für die Abweichung halten.
+[“Asymmetrien akzeptieren”] — Es gibt keinen gemeinsamen Boden, auf dem eine Korrektur als Information landen könnte – nur zwei Positionen, die sich gegenseitig für die Abweichung halten.
 
-["Wir brauchen nur mehr Bewusstsein"] — Die Annahme, eine klarere Erklärung würde anders ankommen, ist selbst Teil des Unsinnskriegs.
+[“Wir brauchen nur mehr Bewusstsein”] — Die Annahme, eine klarere Erklärung würde anders ankommen, ist selbst Teil des Unsinnskriegs.
 
-["Reden wir einfach darüber"] — Direkte Aussprache setzt einen gemeinsamen Kanal voraus, den naiver Realismus gerade verweigert.
+[“Reden wir einfach darüber”] — Direkte Aussprache setzt einen gemeinsamen Kanal voraus, den naiver Realismus gerade verweigert.
 
 Siehe auch (externe Quellen):
 
