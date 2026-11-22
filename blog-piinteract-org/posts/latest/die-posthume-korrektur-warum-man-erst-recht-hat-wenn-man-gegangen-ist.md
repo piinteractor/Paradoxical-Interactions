@@ -52,11 +52,11 @@ Peter Senner co-created with Anthropic Claude
 
 Neun Wörter an einem Sonntagmorgen
 
-„Habermas lag oft falsch. Heute liegt er richtig."
+„Habermas lag oft falsch. Heute liegt er richtig.”
 
 Ein Tweet. Neun Wörter. Veröffentlicht wenige Stunden nach dem Tod von Jürgen Habermas, am 15. März 2026, im Alter von 94 Jahren.
 
-Der Autor hat nicht gelobt. Nicht gefeiert. Nicht getrauert. Er hat lediglich beobachtet — mit jener Präzision, die Trauernde gewöhnlich meiden — dass sich etwas verschoben hatte. Nicht in Habermas' Argumenten. Nicht in den Belegen. In der Struktur, die sie umgibt.
+Der Autor hat nicht gelobt. Nicht gefeiert. Nicht getrauert. Er hat lediglich beobachtet — mit jener Präzision, die Trauernde gewöhnlich meiden — dass sich etwas verschoben hatte. Nicht in Habermas’ Argumenten. Nicht in den Belegen. In der Struktur, die sie umgibt.
 
 Der Tweet enthält keine Moral. Er enthält etwas Unbequemeres: eine Diagnose.
 
@@ -132,7 +132,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Der Zweifel, den der Tweet offen lässt
 
-„Habermas lag oft falsch. Heute liegt er richtig."
+„Habermas lag oft falsch. Heute liegt er richtig.”
 
 Der Satz sagt nicht, dass er in allem recht hatte. Er sagt, dass er heute recht hat.
 
@@ -140,7 +140,7 @@ Diese Ambiguität trägt Gewicht.
 
 Hat er recht, weil der Tod die Wahrheit seiner Argumente enthüllt hat? Oder hat er recht, weil der Tod die Reibung beseitigt hat, die den Widerspruch notwendig erscheinen ließ? Werden seine Argumente anerkannt — oder werden sie in einen Kontext eingemeindet, der ihn entsetzt hätte?
 
-Die Toten können nicht widersprechen. Sie können nicht sagen: „Das habe ich nicht gemeint." Sie können die Interpretation, die ihrem Werk aufgesetzt wird, nicht zurückweisen. Die posthume Korrektur ist auch, immer, eine posthume Annexion. Das Werk wird von seinem Autor befreit — und steht nun denen zur Verfügung, die ihm widerstanden haben.
+Die Toten können nicht widersprechen. Sie können nicht sagen: „Das habe ich nicht gemeint.” Sie können die Interpretation, die ihrem Werk aufgesetzt wird, nicht zurückweisen. Die posthume Korrektur ist auch, immer, eine posthume Annexion. Das Werk wird von seinem Autor befreit — und steht nun denen zur Verfügung, die ihm widerstanden haben.
 
 Habermas plädierte für kommunikatives Handeln in Strukturen, die rationalen Diskurs ermöglichen. Ob die Strukturen, die ihn heute feiern, jene Strukturen sind — diese Frage kann er nicht mehr beantworten. Der Tweet beantwortet sie auch nicht. Er hält sie offen. Das ist seine Präzision.
 
@@ -239,7 +239,7 @@ Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
 
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
-Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
+Oder: Wie Google “Paradoxe Interaktionen” zur Therapie machte, es zugab, und sich nichts änderte.
 
 No results found.
 
@@ -253,7 +253,7 @@ Auf piinteract.org
 
 Beispiele: Wissenschaft & Akademie — Die strukturelle Logik posthumer Anerkennung in den Disziplinen.
 
-Anti-Praktiken — Warum „den Überbringer erschießen" strukturell ist, nicht persönlich.
+Anti-Praktiken — Warum „den Überbringer erschießen” strukturell ist, nicht persönlich.
 
 Framework — Die zugrunde liegende Struktur hinter der Posthumen Korrektur.
 
@@ -284,4 +284,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
