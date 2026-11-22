@@ -10,17 +10,17 @@ wp_id: 662
 url: https://blog.piinteract.org/fr/borneite-plutot-que-sagesse-lip-du-philosophe/
 ---
 
-Pourquoi Richard David Precht devient plus borné avec l'âge, pas plus sage
+Pourquoi Richard David Precht devient plus borné avec l’âge, pas plus sage
 
-« Il y a ces deux jeunes poissons qui nagent et ils croisent un poisson plus âgé qui nage dans l'autre direction. Il leur fait un signe de tête et dit : “Bonjour, les gars. Comment est l'eau ?” Les deux jeunes poissons continuent à nager un moment, puis finalement l'un d'eux regarde l'autre et demande : “C'est quoi, bordel, l'eau ?” »
+« Il y a ces deux jeunes poissons qui nagent et ils croisent un poisson plus âgé qui nage dans l’autre direction. Il leur fait un signe de tête et dit : “Bonjour, les gars. Comment est l’eau ?” Les deux jeunes poissons continuent à nager un moment, puis finalement l’un d’eux regarde l’autre et demande : “C’est quoi, bordel, l’eau ?” »
 
 — David Foster Wallace
 
-Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d'opinion. Il exige un discours ouvert.
+Richard David Precht déplore les ciseaux dans la tête. Il met en garde contre le rétrécissement des couloirs d’opinion. Il exige un discours ouvert.
 
-Pourtant, il incarne la structure même qu'il critique. Il ne le voit simplement pas.
+Pourtant, il incarne la structure même qu’il critique. Il ne le voit simplement pas.
 
-Ce n'est pas une faiblesse personnelle. C'est structurel. IP à l'état pur.
+Ce n’est pas une faiblesse personnelle. C’est structurel. IP à l’état pur.
 
 Structure 1 : L’observateur aveugle
 
