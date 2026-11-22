@@ -18,9 +18,9 @@ Warum ein Sprachmodell mit IQ 155 nicht klüger ist als eines mit 140 — und wa
 
 
 
-"Intelligenz ist, was der Test testet."
+“Intelligenz ist, was der Test testet.”
 
-— Edwin G. Boring, „Intelligence as the Tests Test It" (1923)
+— Edwin G. Boring, „Intelligence as the Tests Test It” (1923)
 
 
 
@@ -41,7 +41,7 @@ Verschiedene Modelle, verschiedene Fähigkeiten — ergo verschiedene IQs. Die L
 
 Anfang 2023 setzt der finnische Psychologe Eka Roivainen ChatGPT vor die verbalen Untertests des meistgenutzten Intelligenztests der Welt. Wortschatz, Allgemeinwissen, Analogien. Das Ergebnis, hochgerechnet: Verbal-IQ: 155. Besser als 99,9 Prozent der Menschen, die den Test normiert haben. Roivainen veröffentlicht den Befund in Scientific American, vorsichtig, mit allen Einschränkungen.
 
-Ungefähr zur selben Zeit scheitert dieselbe Modellfamilie öffentlich und wiederholt an einer anderen Aufgabe: Zählen, wie viele r im Wort „strawberry" stecken.
+Ungefähr zur selben Zeit scheitert dieselbe Modellfamilie öffentlich und wiederholt an einer anderen Aufgabe: Zählen, wie viele r im Wort „strawberry” stecken.
 
 IQ 155. Und drei Buchstaben sind einfach zu viel. Beides ist wahr. Und genau das ist der Befund.
 
@@ -66,7 +66,7 @@ Der IQ-Test wurde nie gebaut, um Intelligenz zu messen wie ein Thermometer die T
 
 Der Unterschied macht es sichtbar: Die Elo-Zahl im Schach hat den Einfall der Maschinen überlebt. Mensch 2850, Engine 3600 — die Zahlen sind vergleichbar, weil Elo Partien zählt, und Mensch und Maschine dieselben Partien spielen. Elo misst ein Spiel. Der IQ jedoch misst Zugehörigkeit.
 
-Die Frage „Welchen IQ hat die KI?" fragt also: Welchen Rang hat ein Nichtmitglied in einem Verein inne, dem es nicht angehört? Die Frage nach dem Beobachter kehrt zurück, eine Ebene tiefer — diesmal steht nicht zur Debatte, wer messen darf, sondern ob das Lineal in einem Raum misst, für den es nicht geschnitzt wurde.
+Die Frage „Welchen IQ hat die KI?” fragt also: Welchen Rang hat ein Nichtmitglied in einem Verein inne, dem es nicht angehört? Die Frage nach dem Beobachter kehrt zurück, eine Ebene tiefer — diesmal steht nicht zur Debatte, wer messen darf, sondern ob das Lineal in einem Raum misst, für den es nicht geschnitzt wurde.
 
 
 
@@ -92,7 +92,7 @@ Die Zahl, die trotzdem stehen bleibt
 
 Und jetzt der Teil, der aus der Messfrage eine PI macht. Denn die Zahl wird nicht verschwinden. Sie wird sich vervielfachen.
 
-Die Labore brauchen Vergleichbarkeit — für Fortschrittsnachweise, für Kapital, für Talent. Also gibt es Benchmarks. Die Medien brauchen eine Zahl, die in eine Überschrift passt — „IQ 155" leistet das, eine Formulierung wie „inkonsistentes Fähigkeitsprofil ohne positives Manifold" (Spearman) leistet das nicht. Die Nutzer brauchen Orientierung ohne Fachstudium — eine Rangzahl ist Orientierung in ihrer billigsten, schnellsten Form. Und die Modelle selbst werden auf die Tests hin optimiert, teils absichtlich, teils weil die Tests längst in den Trainingsdaten schwimmen. Die Forschung zur Benchmark-Kontamination zeigt: Die selben Fragen anders gestellt genügen, und der IQ bricht ein. Das Modell kannte die Prüfung. Goodhart in Reinkultur — sobald die Messgröße selbst zum Ziel wird, erübrlgt sich die Messung.
+Die Labore brauchen Vergleichbarkeit — für Fortschrittsnachweise, für Kapital, für Talent. Also gibt es Benchmarks. Die Medien brauchen eine Zahl, die in eine Überschrift passt — „IQ 155″ leistet das, eine Formulierung wie „inkonsistentes Fähigkeitsprofil ohne positives Manifold” (Spearman) leistet das nicht. Die Nutzer brauchen Orientierung ohne Fachstudium — eine Rangzahl ist Orientierung in ihrer billigsten, schnellsten Form. Und die Modelle selbst werden auf die Tests hin optimiert, teils absichtlich, teils weil die Tests längst in den Trainingsdaten schwimmen. Die Forschung zur Benchmark-Kontamination zeigt: Die selben Fragen anders gestellt genügen, und der IQ bricht ein. Das Modell kannte die Prüfung. Goodhart in Reinkultur — sobald die Messgröße selbst zum Ziel wird, erübrlgt sich die Messung.
 
 Jeder dieser Akteure handelt vernünftig. Zusammen produzieren sie eine Zahl, die umso weniger bedeutet, je öfter sie gebraucht wird — und je öfter sie gebraucht wird, umso weniger bedeutet sie, weil eine bedeutungslose Zahl jedem Zweck gerecht wird.
 
@@ -189,13 +189,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Metrics Gaming"] — Sobald der Benchmark das Ziel ist, misst er die Optimierung auf sich selbst. Goodhart, hier mit Nachkommastelle.
+[“Metrics Gaming”] — Sobald der Benchmark das Ziel ist, misst er die Optimierung auf sich selbst. Goodhart, hier mit Nachkommastelle.
 
-["See the Pattern, Not the Symptom"] — Die Zahl ist das Symptom. Das Muster ist ein System, das Orientierung billiger braucht, als Wahrheit zu haben ist.
+[“See the Pattern, Not the Symptom”] — Die Zahl ist das Symptom. Das Muster ist ein System, das Orientierung billiger braucht, als Wahrheit zu haben ist.
 
-["When Intelligence Becomes a Threat"] — Sortiert wird nach Höhe. Gefährlich wird es auf einer Achse, die kein Test im Angebot hat.
+[“When Intelligence Becomes a Threat”] — Sortiert wird nach Höhe. Gefährlich wird es auf einer Achse, die kein Test im Angebot hat.
 
-["Name the Paradox"] — Die Frage nach dem IQ der KI lässt sich nicht beantworten. Sie lässt sich benennen. Das ist mehr.
+[“Name the Paradox”] — Die Frage nach dem IQ der KI lässt sich nicht beantworten. Sie lässt sich benennen. Das ist mehr.
 
 
 
