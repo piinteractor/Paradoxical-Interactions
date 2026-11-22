@@ -10,7 +10,7 @@ wp_id: 39
 url: https://blog.piinteract.org/
 ---
 
-"Paradoxical Interactions"
+“Paradoxical Interactions”
 
 The Term
 
@@ -18,11 +18,11 @@ How to define Paradoxical Interactions? Difficult, when this unwieldy term resis
 
 But since something has to stand here as an introduction, since what is not written cannot be read, this is a beginning. An attempt to describe a framework called Paradoxical Interactions.
 
-It does not serve to explain anything. Those who need explanations won't understand it. And those who understand it don't need explanations.
+It does not serve to explain anything. Those who need explanations won’t understand it. And those who understand it don’t need explanations.
 
-"PI are heterocausal interrelations, not linear causal entities: A interacts with B while B interacts with A, and in this accident both transform each other and are vice versa transformed". Well, perhaps.
+“PI are heterocausal interrelations, not linear causal entities: A interacts with B while B interacts with A, and in this accident both transform each other and are vice versa transformed”. Well, perhaps.
 
-What looks like error is structure. What looks like failure is function. The system doesn't work despite its fractures — it works through them.
+What looks like error is structure. What looks like failure is function. The system doesn’t work despite its fractures — it works through them.
 
 The bug is the feature. The disruption is the operation. The contradiction is the engine. The solver is the problem. The missing link is the filling gap.
 
