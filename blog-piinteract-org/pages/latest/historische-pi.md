@@ -36,7 +36,7 @@ Fünf Minuten bis zur Bombardierung. Wie ein Versprecher wirksamer bedrohte als 
 
 8. August 2026
 
-Am 11. August 1984 testet ein Techniker vor Ronald Reagans wöchentlicher Radioansprache das Mikrofon. Reagan scherzt: er habe soeben ein Gesetz unterschrieben, das Russland für immer verbiete, die Bombardierung beginne in fünf ...
+Am 11. August 1984 testet ein Techniker vor Ronald Reagans wöchentlicher Radioansprache das Mikrofon. Reagan scherzt: er habe soeben ein Gesetz unterschrieben, das Russland für immer verbiete, die Bombardierung beginne in fünf …
 
 Mehr erfahren
 
@@ -44,7 +44,7 @@ Mehr erfahren
 
 6. August 2026
 
-Zwei Häuser, ein Stammbaum, zwei Wahrheiten. Lancaster beruft sich auf männliche Erbfolge, York auf die ältere Linie über eine Frau. Beide Prämissen sind in sich schlüssig. Beide schließen sich gegenseitig aus. Dreißig Jahre lang ...
+Zwei Häuser, ein Stammbaum, zwei Wahrheiten. Lancaster beruft sich auf männliche Erbfolge, York auf die ältere Linie über eine Frau. Beide Prämissen sind in sich schlüssig. Beide schließen sich gegenseitig aus. Dreißig Jahre lang …
 
 Mehr erfahren
 
@@ -52,7 +52,7 @@ Das Verbesserungsverbot. Warum bestehende Systeme jede Art von Verbesserung vehe
 
 26. Juli 2026
 
-Ein bestehendes, bis dato erfolgreiches System trägt die eigene Unverbesserlichkeit wie eine Fahne vor sich her: basierend auf den eigenen Meriten. Verbesserungsvorschläge, die von außen kommen, werden als lästig wahrgenommen — sie ...
+Ein bestehendes, bis dato erfolgreiches System trägt die eigene Unverbesserlichkeit wie eine Fahne vor sich her: basierend auf den eigenen Meriten. Verbesserungsvorschläge, die von außen kommen, werden als lästig wahrgenommen — sie …
 
 Mehr erfahren
 
@@ -68,7 +68,7 @@ Das Castello Este in Ferrara. Gebaut gegen das Volk, das es regieren sollte.
 
 5. Juni 2026
 
-1385 töteten die Bürger Ferraras einen Steuereintreiber auf dem Marktplatz. Sein Name war Tommaso da Tortona. Die Este hatten ihn damit beauftragt, einzutreiben, was die Stadt nicht bezahlen konnte. Die Stadt antwortete so, wie Städte ...
+1385 töteten die Bürger Ferraras einen Steuereintreiber auf dem Marktplatz. Sein Name war Tommaso da Tortona. Die Este hatten ihn damit beauftragt, einzutreiben, was die Stadt nicht bezahlen konnte. Die Stadt antwortete so, wie Städte …
 
 Mehr erfahren
 
@@ -76,7 +76,7 @@ Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, b
 
 31. Mai 2026
 
-Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und verfolgt das Geschehen mit fast schon professionellem Interesse. Er hat bereits unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er ...
+Nürnberg, 1946. Hermann Göring sitzt auf der Anklagebank und verfolgt das Geschehen mit fast schon professionellem Interesse. Er hat bereits unter vier Augen erklärt, wie der Mechanismus funktioniert. Er kennt die Argumentation. Er …
 
 Mehr erfahren
 
@@ -84,7 +84,7 @@ Die Albigenser-PI. Wie Christen einen Kreuzzug gegen Christen ausriefen.
 
 22. Mai 2026
 
-Im Juli 1209 erreichten Kreuzfahrer die Mauern von Béziers im heutigen Südfrankreich. Sie waren gekommen, um die Katharerheresie auszurotten — eine dualistische christliche Bewegung, die die Kirche von Rom als existenzielle Bedrohung ...
+Im Juli 1209 erreichten Kreuzfahrer die Mauern von Béziers im heutigen Südfrankreich. Sie waren gekommen, um die Katharerheresie auszurotten — eine dualistische christliche Bewegung, die die Kirche von Rom als existenzielle Bedrohung …
 
 Mehr erfahren
 
@@ -92,7 +92,7 @@ Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
 
 14. Mai 2026
 
-Nürnberg, April 1946. Hermann Göring — ehemaliger Reichsmarschall, zweiter Mann des Dritten Reichs, verurteilter Kriegsverbrecher — sitzt dem Psychologen Gustave Gilbert gegenüber. Er wartet auf das Urteil. Er hat nichts mehr zu ...
+Nürnberg, April 1946. Hermann Göring — ehemaliger Reichsmarschall, zweiter Mann des Dritten Reichs, verurteilter Kriegsverbrecher — sitzt dem Psychologen Gustave Gilbert gegenüber. Er wartet auf das Urteil. Er hat nichts mehr zu …
 
 Mehr erfahren
 
@@ -108,7 +108,7 @@ Das Gaveston-Muster:
 
 19. Februar 2026
 
-England im Mittelalter, 1312. Ein Günstling wird ermordet. Ein König rächt sich. Eine Königin fällt ein. Ein Sohn greift nach der Macht. Siebenhundert Jahre später läuft dieselbe Struktur wöchentlich in Organisationen, Regierungen und ...
+England im Mittelalter, 1312. Ein Günstling wird ermordet. Ein König rächt sich. Eine Königin fällt ein. Ein Sohn greift nach der Macht. Siebenhundert Jahre später läuft dieselbe Struktur wöchentlich in Organisationen, Regierungen und …
 
 Mehr erfahren
 
@@ -128,7 +128,7 @@ Gerechtigkeit, die man sich leisten konnte
 
 23. Januar 2026
 
-Das Nazi-Regime war organisierter Massenmord. Die moralische Diagnose war unmissverständlich. Dennoch blieb die Nachkriegsjustiz strukturell unvollständig. Nicht, weil die Täter unschuldig waren. Nicht, weil es an Beweisen fehlte. ...
+Das Nazi-Regime war organisierter Massenmord. Die moralische Diagnose war unmissverständlich. Dennoch blieb die Nachkriegsjustiz strukturell unvollständig. Nicht, weil die Täter unschuldig waren. Nicht, weil es an Beweisen fehlte. …
 
 Mehr erfahren
 
