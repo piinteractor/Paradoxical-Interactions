@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/die-spiegel-wirtschaft/
 
 Warum Social-Media-Plattformen trotz propagierter Vielfalt strukturell Einfalt produzieren — und warum der Mechanismus, der das verhindern sollte, exakt dieses erzeugt.
 
-„Wir sehen die Dinge nicht, wie sie sind, wir sehen sie, wie wir sind."
+„Wir sehen die Dinge nicht, wie sie sind, wir sehen sie, wie wir sind.”
 
 — Anaïs Nin
 
@@ -76,15 +76,15 @@ Ergebnis: strukturelle Homogenisierung, die als Personalisierung präsentiert wi
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
-Warum das „Fixen" es schlimmer macht
+Warum das „Fixen” es schlimmer macht
 
-Als das Echokammerproblem sichtbar wurde — um 2016, mit der US-Wahl und Brexit, mit den Studien und dem Backlash — reagierten die Plattformen. Sie führten Reibung ein. Sie fügten Labels hinzu. Sie reduzierten die Reichweite von aufwieglerischen Inhalten. Sie bauten „diverse Perspektiven"-Features. Sie stellten Trust-and-Safety-Teams ein.
+Als das Echokammerproblem sichtbar wurde — um 2016, mit der US-Wahl und Brexit, mit den Studien und dem Backlash — reagierten die Plattformen. Sie führten Reibung ein. Sie fügten Labels hinzu. Sie reduzierten die Reichweite von aufwieglerischen Inhalten. Sie bauten „diverse Perspektiven”-Features. Sie stellten Trust-and-Safety-Teams ein.
 
 Jede Intervention war rational. Jede wurde von der Struktur absorbiert.
 
-Labels wurden zu Signalen: Wenn das als Fehlinformation gelabelt ist, haben es meine Gegner dort hingestellt. Reduzierte Reichweite für aufwieglerische Inhalte verschob aufwieglerische Inhalte auf Plattformen, wo die Reichweite nicht reduziert wurde. „Diverse Perspektiven"-Features wurden von den Nutzern ignoriert, für die sie gedacht waren — und gelegentlich als Beleg für Voreingenommenheit von den Nutzern verwendet, die mit den präsentierten Perspektiven nicht einverstanden waren.
+Labels wurden zu Signalen: Wenn das als Fehlinformation gelabelt ist, haben es meine Gegner dort hingestellt. Reduzierte Reichweite für aufwieglerische Inhalte verschob aufwieglerische Inhalte auf Plattformen, wo die Reichweite nicht reduziert wurde. „Diverse Perspektiven”-Features wurden von den Nutzern ignoriert, für die sie gedacht waren — und gelegentlich als Beleg für Voreingenommenheit von den Nutzern verwendet, die mit den präsentierten Perspektiven nicht einverstanden waren.
 
-Die Trust-and-Safety-Teams stellten fest, dass die Definition von „aufwieglerisch" Urteile erforderte, die selbst politisch umstritten waren. Jede Entscheidung konnte als Unterdrückung gerahmt werden. Die Unterdrückungs-Rahmung verbreitete sich schneller als der ursprüngliche Inhalt.
+Die Trust-and-Safety-Teams stellten fest, dass die Definition von „aufwieglerisch” Urteile erforderte, die selbst politisch umstritten waren. Jede Entscheidung konnte als Unterdrückung gerahmt werden. Die Unterdrückungs-Rahmung verbreitete sich schneller als der ursprüngliche Inhalt.
 
 Der Versuch, das Echokammerproblem zu lösen, wurde zum Inhalt der Echokammer.
 
@@ -100,7 +100,7 @@ Erkenne, dass dein Feed nicht die Welt ist. Er ist ein verfeinertes Modell desse
 
 Reibung ist Information. Der Inhalt, der dich das Tab schließen lässt, der sich falsch anfühlt, dem du widersprichst, bevor du den ersten Satz beendet hast — das ist der Inhalt, den der Algorithmus gelernt hat, dir nicht zu zeigen. Seine Abwesenheit ist strukturell, nicht zufällig.
 
-Die Plattformen sind nicht das Problem. Das Optimierungsziel ist es. „Engagement maximieren" ist keine neutrale Anweisung. Es ist eine Werteentscheidung, die die Welt produziert, in der du jetzt lebst.
+Die Plattformen sind nicht das Problem. Das Optimierungsziel ist es. „Engagement maximieren” ist keine neutrale Anweisung. Es ist eine Werteentscheidung, die die Welt produziert, in der du jetzt lebst.
 
 Und: Einsicht ist kein Ausweg. Das Wissen darum ändert nichts daran. Die Struktur ist stärker als das Verständnis der Struktur. Du wirst dein Telefon wieder aufheben. Der Algorithmus wartet bereits. Er hat schneller gelernt als du.
 
@@ -128,13 +128,13 @@ No results found.
 
 On piinteract.org:
 
-„Viral Outrage Cycles" — Die Engagement-Dynamiken der Spiegelökonomie produzieren Empörung als ihren effizientesten Output: sie verbreitet sich schneller als jede andere Inhaltsart.
+„Viral Outrage Cycles” — Die Engagement-Dynamiken der Spiegelökonomie produzieren Empörung als ihren effizientesten Output: sie verbreitet sich schneller als jede andere Inhaltsart.
 
-„The Attention Paradox" — Das Produkt der Plattform ist Aufmerksamkeit; die Spiegelökonomie ist die Struktur, die Aufmerksamkeit am billigsten zu ernten macht.
+„The Attention Paradox” — Das Produkt der Plattform ist Aufmerksamkeit; die Spiegelökonomie ist die Struktur, die Aufmerksamkeit am billigsten zu ernten macht.
 
-„Chase the Audience" — Jede Plattform, die für das Publikum optimiert hat, bekam das Publikum, das sie verdiente: einen Spiegel.
+„Chase the Audience” — Jede Plattform, die für das Publikum optimiert hat, bekam das Publikum, das sie verdiente: einen Spiegel.
 
-„Platform Moderation" — Jeder Versuch, die Spiegelökonomie durch Moderation zu korrigieren, wird zum Inhalt des Systems, das er regulieren sollte.
+„Platform Moderation” — Jeder Versuch, die Spiegelökonomie durch Moderation zu korrigieren, wird zum Inhalt des Systems, das er regulieren sollte.
 
 Weiterführende Quellen:
 
