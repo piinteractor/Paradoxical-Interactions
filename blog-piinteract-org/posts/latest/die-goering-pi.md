@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/die-goering-pi/
 
 Warum Kriege entstehen, ohne dass irgendjemand sie will — und warum die Staatsform dabei keine Rolle spielt.
 
-„Natürlich will das Volk keinen Krieg. Warum sollte irgendein armer Schlucker auf einem Bauernhof sein Leben riskieren wollen in einem Krieg, wenn das Beste, was er erhoffen kann, ist, heil auf seinen Hof zurückzukehren? Natürlich will das einfache Volk keinen Krieg. Weder in Russland, noch in England, noch in Amerika, und ebenso wenig in Deutschland."
+„Natürlich will das Volk keinen Krieg. Warum sollte irgendein armer Schlucker auf einem Bauernhof sein Leben riskieren wollen in einem Krieg, wenn das Beste, was er erhoffen kann, ist, heil auf seinen Hof zurückzukehren? Natürlich will das einfache Volk keinen Krieg. Weder in Russland, noch in England, noch in Amerika, und ebenso wenig in Deutschland.”
 
 — Hermann Göring, Nürnberger Tagebuch, 18. April 1946
 
@@ -26,13 +26,13 @@ Das Geständnis, das keines war
 
 Görings Aussage gegenüber Gilbert ist eine der präzisesten strukturellen Analysen der Massenhysterie, die je aufgezeichnet wurde. Nicht weil Göring ein moralisch erleuchteter Mensch war — das war er nicht. Sondern weil er keinen Anreiz mehr hatte, über den Mechanismus zu lügen.
 
-„Natürlich will das Volk keinen Krieg." Er räumt das ohne Zögern ein. Jeder Staatslenker weiß es. Jede Bevölkerung, überall, in jedem politischen System. Das ist keine strittige Behauptung. Es ist die Ausgangsbedingung.
+„Natürlich will das Volk keinen Krieg.” Er räumt das ohne Zögern ein. Jeder Staatslenker weiß es. Jede Bevölkerung, überall, in jedem politischen System. Das ist keine strittige Behauptung. Es ist die Ausgangsbedingung.
 
-Und dann die Wendung: „Aber schließlich sind es die Führer eines Landes, die die Politik bestimmen, und es ist immer leicht, das Volk mitzuschleppen, ob es sich um eine Demokratie, eine faschistische Diktatur, ein Parlament oder eine kommunistische Diktatur handelt."
+Und dann die Wendung: „Aber schließlich sind es die Führer eines Landes, die die Politik bestimmen, und es ist immer leicht, das Volk mitzuschleppen, ob es sich um eine Demokratie, eine faschistische Diktatur, ein Parlament oder eine kommunistische Diktatur handelt.”
 
-Gilbert widerspricht: „Aber in einer Demokratie hat das Volk eine Stimme durch seine gewählten Vertreter."
+Gilbert widerspricht: „Aber in einer Demokratie hat das Volk eine Stimme durch seine gewählten Vertreter.”
 
-Göring: „Das ist alles schön und gut, aber ob das Volk eine Stimme hat oder nicht, es kann immer zum Willen der Führer gebracht werden. Das ist einfach. Alles, was man tun muss, ist dem Volk zu sagen, es würde angegriffen, und die Pazifisten wegen mangelndem Patriotismus zu brandmarken und zu behaupten, sie würden das Land in Gefahr bringen. Es funktioniert in jedem Land gleich."
+Göring: „Das ist alles schön und gut, aber ob das Volk eine Stimme hat oder nicht, es kann immer zum Willen der Führer gebracht werden. Das ist einfach. Alles, was man tun muss, ist dem Volk zu sagen, es würde angegriffen, und die Pazifisten wegen mangelndem Patriotismus zu brandmarken und zu behaupten, sie würden das Land in Gefahr bringen. Es funktioniert in jedem Land gleich.”
 
 Lies diesen letzten Satz noch einmal. Es funktioniert in jedem Land gleich. Nicht: es funktioniert besser unter dem Faschismus. Nicht: die Demokratie bietet einen gewissen Schutz. Die Verfassungsform ist strukturell irrelevant.
 
@@ -88,7 +88,7 @@ Der Mechanismus braucht keine Unwissenheit. Er läuft auf Struktur.
 
 Was Göring nicht sagte
 
-Er sagte nicht: „und deshalb kann man nichts machen." Das impliziert strukturelle Analyse nicht. Navigation ist möglich — nicht Verdrängung. Den Mechanismus zu erkennen verändert, welche Fragen man stellen kann. Nicht: „Ist das Staatsoberhaupt gut oder böse?" sondern: „Auf welche strukturellen Zwänge reagiert es?" Nicht: „Ist die Bedrohung real?" sondern: „Wer profitiert von dieser bestimmten Gerichtetheit der Bedrohung?"
+Er sagte nicht: „und deshalb kann man nichts machen.” Das impliziert strukturelle Analyse nicht. Navigation ist möglich — nicht Verdrängung. Den Mechanismus zu erkennen verändert, welche Fragen man stellen kann. Nicht: „Ist das Staatsoberhaupt gut oder böse?” sondern: „Auf welche strukturellen Zwänge reagiert es?” Nicht: „Ist die Bedrohung real?” sondern: „Wer profitiert von dieser bestimmten Gerichtetheit der Bedrohung?”
 
 Das sind keine angenehmen Fragen. Es sind jedoch strukturell notwendige.
 
@@ -124,13 +124,13 @@ No results found.
 
 Auf piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
