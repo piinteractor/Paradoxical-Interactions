@@ -442,7 +442,7 @@ Auf piinteract.org
 
 [Beispiel: KI-Ausrichtung] — Die technische Dimension der strukturellen Unmöglichkeit
 
-[Core Practices] — "„Alle sind schuldig. Keiner kann was dafür."
+[Core Practices] — “„Alle sind schuldig. Keiner kann was dafür.”
 
 
 
