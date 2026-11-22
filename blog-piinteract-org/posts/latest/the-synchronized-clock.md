@@ -10,7 +10,7 @@ wp_id: 4891
 url: https://blog.piinteract.org/the-synchronized-clock/
 ---
 
-Why regulating the frequency of price changes doesn't reduce price coordination — and why it makes it structurally inevitable.
+Why regulating the frequency of price changes doesn’t reduce price coordination — and why it makes it structurally inevitable.
 
 
 
@@ -18,7 +18,7 @@ Why regulating the frequency of price changes doesn't reduce price coordination 
 
 
 
-"The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design." 
+“The curious task of economics is to demonstrate to men how little they really know about what they imagine they can design.” 
 
 — Friedrich Hayek
 
@@ -74,7 +74,7 @@ The law changed one parameter: frequency. Prices may now only be raised once dai
 
 Everything else remained untouched. The logic of competition. The oligopoly structure. The shared interest in margin preservation. The incentive to maximize the single permitted daily increase.
 
-The intervention didn't dissolve the pattern. It compressed it into a single moment.
+The intervention didn’t dissolve the pattern. It compressed it into a single moment.
 
 
 
@@ -112,7 +112,7 @@ Each petrol station — uses its single permitted window at the moment of maximu
 
 The Bundeskartellamt — enforces a law it cannot use against the outcome it was designed to prevent (rational: applies the rules as written)
 
-The consumer — told prices are now "more transparent" while facing daily noon spikes (rational: adjusts behavior to new rhythm, arrives just before noon)
+The consumer — told prices are now “more transparent” while facing daily noon spikes (rational: adjusts behavior to new rhythm, arrives just before noon)
 
 All are guilty. None are at fault.
 
@@ -124,13 +124,13 @@ All are guilty. None are at fault.
 
 Navigation
 
-80% of Germans consider the law insufficient. They're right — but not for the reason they think. The law isn't weak. The law is structurally precise. It intervened exactly where it was aimed and produced exactly what the structure required.
+80% of Germans consider the law insufficient. They’re right — but not for the reason they think. The law isn’t weak. The law is structurally precise. It intervened exactly where it was aimed and produced exactly what the structure required.
 
-The question isn't whether the Kartellamt will prosecute. It won't find what it's looking for. Synchronization without agreement is not a cartel. It's a clock.
+The question isn’t whether the Kartellamt will prosecute. It won’t find what it’s looking for. Synchronization without agreement is not a cartel. It’s a clock.
 
-The question also isn't whether a stronger version of this law could work. A price ceiling, a windfall tax, the Luxembourg model of state-set maximums — these are different interventions with different structural properties. Some of them might work. None of them would eliminate the paradox that any mechanism for limiting price behavior creates new price behavior structured around the mechanism's rules.
+The question also isn’t whether a stronger version of this law could work. A price ceiling, a windfall tax, the Luxembourg model of state-set maximums — these are different interventions with different structural properties. Some of them might work. None of them would eliminate the paradox that any mechanism for limiting price behavior creates new price behavior structured around the mechanism’s rules.
 
-What remains: know which window you're in. Just before noon is the new 18:00. That's not a tip. That's what happens when a regulation becomes the market's metronome.
+What remains: know which window you’re in. Just before noon is the new 18:00. That’s not a tip. That’s what happens when a regulation becomes the market’s metronome.
 
 Einsicht ist kein Ausweg.
 
@@ -161,7 +161,7 @@ When the CEO of an AI safety company tells you control is failing, believe him
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 No results found.
 
@@ -172,7 +172,7 @@ On piinteract.org
 
 Examples: Systems & Governance — The structural conditions under which regulatory interventions produce the outcomes they were designed to prevent.
 
-Anti-Practices — What not to do when the structure doesn't change.
+Anti-Practices — What not to do when the structure doesn’t change.
 
 Framework — Why rational actors and collective irrationality are not contradictions.
 
@@ -198,4 +198,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
