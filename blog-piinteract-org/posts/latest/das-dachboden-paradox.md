@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/das-dachboden-paradox/
 
 Warum die Geheimhaltung, die einen 358 Jahre alten Beweis schützte, einen Fehler beinahe unsichtbar machte — und warum diese Rechnung nicht anders aufgehen konnte.
 
-"Cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet." „Ich habe hierfür einen wahrhaft wunderbaren Beweis gefunden, den dieser Rand zu schmal fasst."
+“Cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.” „Ich habe hierfür einen wahrhaft wunderbaren Beweis gefunden, den dieser Rand zu schmal fasst.”
 
 — Pierre de Fermat, Randnotiz, 1637
 
@@ -46,7 +46,7 @@ Vierzehn Monate lang versucht Wiles, die Lücke zu schließen. Öffentlich diesm
 
 Warum jeder richtig handelte
 
-Warum die Geheimnistuerei? Weil das Belohnungssystem der Mathematik nur einen Sieger kennt. Wer eine Zwischenidee teilt, riskiert, dass ein anderer sie zuerst zu Ende denkt. Das ist keine Paranoia – es ist Erfahrung. Wiles' Entscheidung war rational.
+Warum die Geheimnistuerei? Weil das Belohnungssystem der Mathematik nur einen Sieger kennt. Wer eine Zwischenidee teilt, riskiert, dass ein anderer sie zuerst zu Ende denkt. Das ist keine Paranoia – es ist Erfahrung. Wiles’ Entscheidung war rational.
 
 Ebenso rational: die Fachwelt, die vor der Anerkennung volle Offenlegung verlangt. Eine Behauptung, ein 358 Jahre altes Problem gelöst zu haben, kann nicht auf Vertrauen beruhen. Sie muss überprüft werden, Zeile für Zeile, von Menschen, die kein Interesse daran haben, Fehler zu übersehen. Das ist der einzige Mechanismus, den die Zunft gegen Irrtümer kennt.
 
@@ -72,7 +72,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Navigation, nicht Lösung
 
-Was folgt daraus? Keine Anleitung, wie man in Zukunft „offener" arbeitet. Offenheit hätte das Problem nicht gelöst – sie hätte nur ein anderes geschaffen: das Risiko, dass jemand anderes zuerst fertig wird. Es gibt keine Version dieser Geschichte, in der Wiles beides bekommt – die Sicherheit der Geheimhaltung und die frühe Fehlerkontrolle der Offenheit. Er musste wählen. Er wählte rational.
+Was folgt daraus? Keine Anleitung, wie man in Zukunft „offener” arbeitet. Offenheit hätte das Problem nicht gelöst – sie hätte nur ein anderes geschaffen: das Risiko, dass jemand anderes zuerst fertig wird. Es gibt keine Version dieser Geschichte, in der Wiles beides bekommt – die Sicherheit der Geheimhaltung und die frühe Fehlerkontrolle der Offenheit. Er musste wählen. Er wählte rational.
 
 Was bleibt, ist eine Beobachtung, keine Lösung: Jede Struktur, die Priorität schützt, entzieht sich genau dadurch der frühen Korrektur. Das gilt nicht nur für Mathematik. Für jedes Projekt, jede Erfindung, jede Idee, die zu früh geteilt an Wert verliert. Der Preis der Geheimhaltung ist nicht Isolation an sich. Er ist die verzögerte Entdeckung des eigenen Irrtums.
 
@@ -106,23 +106,23 @@ No results found.
 
 Auf piinteract.org:
 
-[„Peer Review Gatekeeping"] — Der Mechanismus, der Wiles' Beweis Anerkennung verschaffte, war derselbe, der die Lücke aufdeckte. Kontrolle und Anerkennung sind ein System, kein Widerspruch.
+[„Peer Review Gatekeeping”] — Der Mechanismus, der Wiles’ Beweis Anerkennung verschaffte, war derselbe, der die Lücke aufdeckte. Kontrolle und Anerkennung sind ein System, kein Widerspruch.
 
-[„Je mehr Sicherheit, desto mehr Risiko"] — Sieben Jahre Geheimhaltung sicherten die Priorität – und genau dadurch die Verwundbarkeit, die vor der Veröffentlichung niemand sehen konnte.
+[„Je mehr Sicherheit, desto mehr Risiko”] — Sieben Jahre Geheimhaltung sicherten die Priorität – und genau dadurch die Verwundbarkeit, die vor der Veröffentlichung niemand sehen konnte.
 
-[„Irrtumsnavigation"] — Vierzehn Monate öffentliche Fehlerkorrektur, ohne Ausweg, ohne Abkürzung. Genau das ist gemeint.
+[„Irrtumsnavigation”] — Vierzehn Monate öffentliche Fehlerkorrektur, ohne Ausweg, ohne Abkürzung. Genau das ist gemeint.
 
-[„Beharrlichkeit ohne Hoffnung"] — Wiles war kurz davor aufzugeben. Er machte weiter, ohne zu wissen, ob es eine Lösung gibt. Try and continue, bevor der Satz existierte.
+[„Beharrlichkeit ohne Hoffnung”] — Wiles war kurz davor aufzugeben. Er machte weiter, ohne zu wissen, ob es eine Lösung gibt. Try and continue, bevor der Satz existierte.
 
 See also (external links):
 
-Modular Elliptic Curves and Fermat's Last Theorem — Wiles's original paper, Annals of Mathematics, 1995 — the primary source for the complete, corrected proof.
+Modular Elliptic Curves and Fermat’s Last Theorem — Wiles’s original paper, Annals of Mathematics, 1995 — the primary source for the complete, corrected proof.
 
 Ring-Theoretic Properties of Certain Hecke Algebras — The companion paper by Taylor and Wiles that closed the decisive gap in September 1994 — the primary record of the fourteen-month correction.
 
 Andrew Wiles – Biography — MacTutor History of Mathematics (University of St Andrews): the documented chronology of the attic isolation, the announcement, and the public correction.
 
-Review of the BBC's Horizon Programme "Fermat's Last Theorem" — Notices of the American Mathematical Society: an institutional account of the documentary in which Wiles breaks down on camera.
+Review of the BBC’s Horizon Programme “Fermat’s Last Theorem” — Notices of the American Mathematical Society: an institutional account of the documentary in which Wiles breaks down on camera.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
@@ -134,4 +134,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
