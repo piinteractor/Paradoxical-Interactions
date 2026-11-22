@@ -20,12 +20,12 @@ url: https://blog.piinteract.org/the-cassandra-paradox/
 
 
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 
 
 
-Apollo gives Cassandra the gift of prophecy. She rejects him. He curses her: she'll speak truth, but no one will believe her. She warns Troy about the wooden horse. Troy burns anyway.
+Apollo gives Cassandra the gift of prophecy. She rejects him. He curses her: she’ll speak truth, but no one will believe her. She warns Troy about the wooden horse. Troy burns anyway.
 
 
 
@@ -45,7 +45,7 @@ Cassandra warns (rational — she sees the threat).
 
 Trojan elites ignore her (rational — acknowledging costs more than ignoring).
 
-Troy falls (inevitable — structure couldn't pivot).
+Troy falls (inevitable — structure couldn’t pivot).
 
 No one wanted this outcome.
 
@@ -67,13 +67,13 @@ Climate Scientists, 1980s
 
 They had the data. They showed the models. They warned about timelines.
 
-Structure's response:
+Structure’s response:
 
-Not "they're wrong" — that would require engagement. Instead: "They're alarmists. Agenda-driven. Too radical."
+Not “they’re wrong” — that would require engagement. Instead: “They’re alarmists. Agenda-driven. Too radical.”
 
 Result:
 
-Decades lost. The science hasn't changed. The warnings were accurate. The structure protected itself by discrediting the warners.
+Decades lost. The science hasn’t changed. The warnings were accurate. The structure protected itself by discrediting the warners.
 
 Everyone rational:
 
@@ -97,11 +97,11 @@ AI Safety Researchers, Now
 
 “Superintelligent systems pose existential risks.”
 
-Structure's response:
+Structure’s response:
 
 “Doomerism. Anti-progress. Luddites. Fear-mongering.”
 
-Not because they're wrong. Because if they're right, everything changes. The race stops. The investments pause. The competitive advantage disappears.
+Not because they’re wrong. Because if they’re right, everything changes. The race stops. The investments pause. The competitive advantage disappears.
 
 The pattern:
 
@@ -115,7 +115,7 @@ Companies race ahead (market pressure).
 
 Investors demand growth (fiduciary duty).
 
-Governments can't coordinate (prisoner's dilemma).
+Governments can’t coordinate (prisoner’s dilemma).
 
 Cassandra in the boardroom. Troy burning in slow motion.
 
@@ -129,7 +129,7 @@ Why Structures Reject Cassandra
 
 Cost Asymmetry
 
-Ignoring the warning: Free (until it isn't).
+Ignoring the warning: Free (until it isn’t).
 
 Acknowledging the warning: Immediate structural disruption.
 
@@ -163,13 +163,13 @@ Identity Threat
 
 The Immune Response
 
-Structures don't just ignore Cassandras. They actively isolate them.
+Structures don’t just ignore Cassandras. They actively isolate them.
 
 The pattern:
 
 Warner raises concern.
 
-Structure can't refute (truth is verifiable).
+Structure can’t refute (truth is verifiable).
 
 Structure attacks credibility instead.
 
@@ -189,23 +189,23 @@ Selection pressure against truth-telling. The structure breeds its own blindness
 
 
 
-What Doesn't Work
+What Doesn’t Work
 
 “Prove it harder”
 
-More data doesn't overcome structural resistance. The problem isn't lack of evidence. It's cost of acknowledgment.
+More data doesn’t overcome structural resistance. The problem isn’t lack of evidence. It’s cost of acknowledgment.
 
 “Make it scarier”
 
-Amplifying warnings triggers dismissal reflexes. “If it were that bad, someone would've acted already.”
+Amplifying warnings triggers dismissal reflexes. “If it were that bad, someone would’ve acted already.”
 
 “Appeal to authority”
 
-Doesn't matter who delivers the message. Structure evaluates cost, not credentials.
+Doesn’t matter who delivers the message. Structure evaluates cost, not credentials.
 
 “Wait for the crisis”
 
-By then, Cassandra's warning is irrelevant. The structure already burned.
+By then, Cassandra’s warning is irrelevant. The structure already burned.
 
 
 
@@ -215,7 +215,7 @@ By then, Cassandra's warning is irrelevant. The structure already burned.
 
 What Does Work?
 
-Nothing reliably. That's the point.
+Nothing reliably. That’s the point.
 
 But:
 
@@ -233,7 +233,7 @@ Message stays intact. Influence disappears immediately.
 
 The navigation:
 
-Know which role you're playing. Know the cost. Pay it or don't. But don't be surprised when the structure responds exactly as structures do.
+Know which role you’re playing. Know the cost. Pay it or don’t. But don’t be surprised when the structure responds exactly as structures do.
 
 
 
@@ -245,7 +245,7 @@ The Meta-Paradox
 
 Writing about the Cassandra Paradox creates a Cassandra Paradox.
 
-“Here's why you won't believe warnings.”
+“Here’s why you won’t believe warnings.”
 
 Likely responses:
 
@@ -253,9 +253,9 @@ Likely responses:
 
 “But this time is different” (exactly what Troy said).
 
-“We're aware of these patterns” (awareness without action).
+“We’re aware of these patterns” (awareness without action).
 
-The pattern recognizes itself. Doesn't break itself.
+The pattern recognizes itself. Doesn’t break itself.
 
 
 
@@ -265,9 +265,9 @@ The pattern recognizes itself. Doesn't break itself.
 
 Cassandra Was Right
 
-Troy burned. She'd warned them. They'd ignored her. Everyone acted rationally within their constraints.
+Troy burned. She’d warned them. They’d ignored her. Everyone acted rationally within their constraints.
 
-The question isn't:
+The question isn’t:
 
 “How do we make people listen to Cassandra?”
 
@@ -277,7 +277,7 @@ The question is:
 
 Answer that, and you understand PIs.
 
-Ignore it, and you're Troy.
+Ignore it, and you’re Troy.
 
 
 
