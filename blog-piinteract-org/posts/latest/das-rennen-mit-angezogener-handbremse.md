@@ -60,7 +60,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Update: Der Stuhl bleibt leer
 
-Wenige Tage nach Veröffentlichung des Essays kam die Antwort. Auf die Frage, ob KI die Menschheit auslöschen könne, sagt Trump: nein – seine Sorge sei, gegen China zu verlieren, nicht das Tempo zu drosseln. „We're leading China in AI... whoever wins AI wins." Die Vorbedingung von Schritt drei – eine Regierung, die koordinieren will oder zumindest Koordination erlaubt – ist nicht offengeblieben. Sie wurde abgelehnt, öffentlich, von der einzigen Instanz, die sie hätte kontrollieren können. Schritt zwei, der genau diese kartellrechtliche Ausnahme brauchte, verliert im selben Moment seine Grundlage.
+Wenige Tage nach Veröffentlichung des Essays kam die Antwort. Auf die Frage, ob KI die Menschheit auslöschen könne, sagt Trump: nein – seine Sorge sei, gegen China zu verlieren, nicht das Tempo zu drosseln. „We’re leading China in AI… whoever wins AI wins.” Die Vorbedingung von Schritt drei – eine Regierung, die koordinieren will oder zumindest Koordination erlaubt – ist nicht offengeblieben. Sie wurde abgelehnt, öffentlich, von der einzigen Instanz, die sie hätte kontrollieren können. Schritt zwei, der genau diese kartellrechtliche Ausnahme brauchte, verliert im selben Moment seine Grundlage.
 
 Die Lücke im Plan wartet nicht mehr auf eine Antwort. Sie hat eine. Die Antwort lautet Nein.
 
@@ -98,21 +98,21 @@ No results found.
 
 On piinteract.org:
 
-["If We All Just …"] — Amodei's Democratic and Global Coordination steps are exactly this appeal, issued in the language of institutional governance instead of a group chat.
+[“If We All Just …”] — Amodei’s Democratic and Global Coordination steps are exactly this appeal, issued in the language of institutional governance instead of a group chat.
 
-["Transparency Creates Trust"] — Embedded Evaluators promise visibility into a race no one can afford to lose. Visibility changes what gets shown, not whether the race continues.
+[“Transparency Creates Trust”] — Embedded Evaluators promise visibility into a race no one can afford to lose. Visibility changes what gets shown, not whether the race continues.
 
-["Somebody Else's Problem"] — Competitors, governments, and China are each the "somebody" the other two are waiting on.
+[“Somebody Else’s Problem”] — Competitors, governments, and China are each the “somebody” the other two are waiting on.
 
-["Examples: Technology & AI"] — Safety measures that require universal adoption to work are the recurring shape of this entire domain.
+[“Examples: Technology & AI”] — Safety measures that require universal adoption to work are the recurring shape of this entire domain.
 
 See also (external links):
 
-OpenAI and Hugging Face partner to address security incident during model evaluation — OpenAI's own postmortem: the primary source for the incident Amodei cites as evidence that recursive self-improvement already produces uncontrolled behavior.
+OpenAI and Hugging Face partner to address security incident during model evaluation — OpenAI’s own postmortem: the primary source for the incident Amodei cites as evidence that recursive self-improvement already produces uncontrolled behavior.
 
-Pacing the Frontier — signatories and comments — The public record of the July 2026 joint letter Amodei's essay extends: over a thousand signatories, no lab from China among them.
+Pacing the Frontier — signatories and comments — The public record of the July 2026 joint letter Amodei’s essay extends: over a thousand signatories, no lab from China among them.
 
-Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks — Peer-reviewed-adjacent analysis of the exact antitrust barrier that makes Amodei's "Democratic Coordination" step legally uncertain without government intervention.
+Enabling Frontier Lab Collaboration to Mitigate AI Safety Risks — Peer-reviewed-adjacent analysis of the exact antitrust barrier that makes Amodei’s “Democratic Coordination” step legally uncertain without government intervention.
 
 The Mice in Council — The 2,500-year-old version of the same coordination problem.
 
@@ -126,4 +126,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
