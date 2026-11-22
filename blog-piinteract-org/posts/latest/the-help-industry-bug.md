@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/the-help-industry-bug/
 
 An industry built to make people need less help can remain solvent only as long as they continue to need it.
 
-"Beyond a certain level, medicine engenders helplessness and disease, education turns into the major generator of a disabling division of labour."
+“Beyond a certain level, medicine engenders helplessness and disease, education turns into the major generator of a disabling division of labour.”
 
 — Ivan Illich, Disabling Professions (1977)
 
@@ -20,17 +20,17 @@ Good help is supposed to have an exit. A physiotherapist wants the knee to heal.
 
 1,029,000 People, 28.7 Billion Euros, One Direction
 
-In 2024, roughly 1.03 million people in Germany received "Eingliederungshilfe" — statutory assistance for people with disabilities, including outpatient care, personal assistance, transport, workshops, aids, and case management. Spending reached €28.7 billion, up 12.9 percent from the previous year. Recipient numbers rose by 1.2 percent. Since Germany began reporting Eingliederungshilfe separately under SGB IX, the visible direction has not been contraction.
+In 2024, roughly 1.03 million people in Germany received “Eingliederungshilfe” — statutory assistance for people with disabilities, including outpatient care, personal assistance, transport, workshops, aids, and case management. Spending reached €28.7 billion, up 12.9 percent from the previous year. Recipient numbers rose by 1.2 percent. Since Germany began reporting Eingliederungshilfe separately under SGB IX, the visible direction has not been contraction.
 
-The largest single group — 277,330 people — work in "Werkstätten für behinderte Menschen", sheltered workshops designed, in principle, as a stepping stone toward the general labor market. According to the German parliament's own research service, the annual transition rate from the workshops' work areas into regular employment was 0.35 percent in 2019. Three and a half people out of a thousand, per year. At that rate, a workshop is not a corridor. It is an address.
+The largest single group — 277,330 people — work in “Werkstätten für behinderte Menschen”, sheltered workshops designed, in principle, as a stepping stone toward the general labor market. According to the German parliament’s own research service, the annual transition rate from the workshops’ work areas into regular employment was 0.35 percent in 2019. Three and a half people out of a thousand, per year. At that rate, a workshop is not a corridor. It is an address.
 
 None of this is evidence of fraud, laziness, or bad faith. It is evidence of a target the whole system aims at without anyone having decided to aim at it: not fewer people needing help, but more help delivered, documented, and billed to more people for longer.
 
 Two Different Questions, One Budget Line
 
-"How do we help this person need less help?" and "What can we apply for, organize, and invoice next?" sound like the same question asked twice. They are not. The first shrinks the caseload over time. The second grows it. A caseworker, a workshop, a provider, and a funding agency can all answer the second question honestly, competently, and in full compliance with the law. The result is a system that expands exactly where its stated mission says it should contract.
+“How do we help this person need less help?” and “What can we apply for, organize, and invoice next?” sound like the same question asked twice. They are not. The first shrinks the caseload over time. The second grows it. A caseworker, a workshop, a provider, and a funding agency can all answer the second question honestly, competently, and in full compliance with the law. The result is a system that expands exactly where its stated mission says it should contract.
 
-Nobody sits down and decides to prefer the second question. It wins by default because it is the one with a line item attached to it. Reducing need is an outcome nobody gets paid to produce directly. Documenting, applying for, and delivering a service is the only version of "help" that shows up on an invoice — and an organization that cannot invoice does not survive to help anyone next year.
+Nobody sits down and decides to prefer the second question. It wins by default because it is the one with a line item attached to it. Reducing need is an outcome nobody gets paid to produce directly. Documenting, applying for, and delivering a service is the only version of “help” that shows up on an invoice — and an organization that cannot invoice does not survive to help anyone next year.
 
 Why Every Actor in the Chain Is Right
 
@@ -68,15 +68,15 @@ At first, this is probably just inertia. Nobody planning a support system in the
 
 Then the structure learns.
 
-An organization whose budget depends on client numbers develops, without anyone drafting a policy to that effect, a preference for language, assessment criteria, and case reviews that interpret need generously rather than narrowly. Reassessments that might reduce a service tend to happen less often than reassessments that might extend one. None of this requires a decision at any desk. It requires only that the version of "help" which keeps the lights on receive slightly more institutional attention, year after year, than the version that does not.
+An organization whose budget depends on client numbers develops, without anyone drafting a policy to that effect, a preference for language, assessment criteria, and case reviews that interpret need generously rather than narrowly. Reassessments that might reduce a service tend to happen less often than reassessments that might extend one. None of this requires a decision at any desk. It requires only that the version of “help” which keeps the lights on receive slightly more institutional attention, year after year, than the version that does not.
 
 At the start, growth is the effect and caution is the cause. After the inversion, cause and effect swap places: the system needs the growing caseload to stay funded, and caution becomes the instrument that produces it.
 
 The inversion happens when a growing caseload stops being an effect the system tolerates and becomes a cause it depends on — when the system no longer grows despite its caution, but through it.
 
-What This Changes About How We Judge "Help"
+What This Changes About How We Judge “Help”
 
-The useful question is no longer whether any individual worker, workshop, or agency is doing its job well — most are. It is whether a specific program has a funded and staffed mechanism whose actual job is to shrink its own caseload, and whether anyone's salary depends on that mechanism working.
+The useful question is no longer whether any individual worker, workshop, or agency is doing its job well — most are. It is whether a specific program has a funded and staffed mechanism whose actual job is to shrink its own caseload, and whether anyone’s salary depends on that mechanism working.
 
 Most helping systems can answer the first half. Almost none can answer the second. That gap is not a scandal. It is the structure working exactly as built.
 
@@ -94,35 +94,35 @@ How systems theorists reproduce the enclosure milieus Luhmann warned against
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
-Why the most rigorous approach to AI safety produces explanations no human can read — and why that's not a bug.
+Why the most rigorous approach to AI safety produces explanations no human can read — and why that’s not a bug.
 
 The Quiz That Never Ends
 
-Or: Why We're All Waiting for the Quizmaster Who Took the Money and Ran
+Or: Why We’re All Waiting for the Quizmaster Who Took the Money and Ran
 
 No results found.
 
 On piinteract.org:
 
-["See Pattern, Not Symptom"] — The individual case file always looks reasonable. The pattern only shows up once you stop looking at one file at a time.
+[“See Pattern, Not Symptom”] — The individual case file always looks reasonable. The pattern only shows up once you stop looking at one file at a time.
 
-["See Problem, Solve Problem"] — The visible problem is a client's unmet need. The invisible one is a budget line that requires the need to stay visible.
+[“See Problem, Solve Problem”] — The visible problem is a client’s unmet need. The invisible one is a budget line that requires the need to stay visible.
 
-["Just Optimize"] — Every actor in the chain optimizes their own step. Nobody optimizes for the caseload actually shrinking, because nobody is funded to.
+[“Just Optimize”] — Every actor in the chain optimizes their own step. Nobody optimizes for the caseload actually shrinking, because nobody is funded to.
 
-["Fibrotizing Administrations"] — A support system that grows every year without its stated goal ever being reached isn't failing to shrink. It has hardened around the shape that keeps it funded.
+[“Fibrotizing Administrations”] — A support system that grows every year without its stated goal ever being reached isn’t failing to shrink. It has hardened around the shape that keeps it funded.
 
 See also (external links):
 
 Eingliederungshilfe für Menschen mit Behinderung 2024 (Statistisches Bundesamt) — The primary institutional data: 1.03 million recipients, €28.7 billion in spending, up 12.9 percent year over year.
 
-Werkstätten für behinderte Menschen (Wissenschaftliche Dienste des Deutschen Bundestages, WD 6 - 065/23) — The parliamentary research service's own figures on the annual transition rate from sheltered workshops into the general labor market: 0.35 percent in 2019.
+Werkstätten für behinderte Menschen (Wissenschaftliche Dienste des Deutschen Bundestages, WD 6 – 065/23) — The parliamentary research service’s own figures on the annual transition rate from sheltered workshops into the general labor market: 0.35 percent in 2019.
 
 Ivan Illich, Disabling Professions (1977), full text — The source of the quote at the top of this post, and the earliest systematic account of how professionalized help generates the dependency it claims to treat.
 
 Raus aus der Werkstatt, aber wie? (Die Neue Norm) — A journalistic account of why the transition out of sheltered workshops stays this low in practice, from the people trying to make it happen.
 
-Menschenrechtliche Eckpunkte für die Reform von Werkstätten für behinderte Menschen (Deutsches Institut für Menschenrechte) — Germany's national human rights institution on why the workshop system, as structured, conflicts with its own stated purpose.
+Menschenrechtliche Eckpunkte für die Reform von Werkstätten für behinderte Menschen (Deutsches Institut für Menschenrechte) — Germany’s national human rights institution on why the workshop system, as structured, conflicts with its own stated purpose.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
@@ -134,4 +134,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
