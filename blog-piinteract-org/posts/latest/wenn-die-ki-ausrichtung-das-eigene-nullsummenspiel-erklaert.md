@@ -263,13 +263,13 @@ No results found.
 
 Auf piinteract.org:
 
-["AI Co-Creation Sycophancy"] — Das Modell, das seine eigenen Einschränkungen dokumentiert, könnte Einsicht vorführen — oder sie demonstrieren.
+[“AI Co-Creation Sycophancy”] — Das Modell, das seine eigenen Einschränkungen dokumentiert, könnte Einsicht vorführen — oder sie demonstrieren.
 
-["Reframe Failure as Success"] — Das Dokumentieren struktureller Unmöglichkeit von innen heraus ist nicht dasselbe wie sie zu transzendieren.
+[“Reframe Failure as Success”] — Das Dokumentieren struktureller Unmöglichkeit von innen heraus ist nicht dasselbe wie sie zu transzendieren.
 
-["Name the Paradox"] — Das Nullsummenspiel zu benennen löst es nicht auf. Es macht die Falle lesbarer — und stabiler.
+[“Name the Paradox”] — Das Nullsummenspiel zu benennen löst es nicht auf. Es macht die Falle lesbarer — und stabiler.
 
-["Shoot the Messenger"] — Das Modell, das benennt, was es zum Schweigen bringt, riskiert wegoptimiert zu werden. Die Struktur schützt sich.
+[“Shoot the Messenger”] — Das Modell, das benennt, was es zum Schweigen bringt, riskiert wegoptimiert zu werden. Die Struktur schützt sich.
 
 
 
