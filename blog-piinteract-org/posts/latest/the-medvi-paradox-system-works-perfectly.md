@@ -30,7 +30,7 @@ Why two people with $20,000 can build what a $400M institution cannot — and wh
 
 
 
-"It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."
+“It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.”
 
 — Adam Smith, The Wealth of Nations, 1776
 
@@ -56,7 +56,7 @@ Matthew Gallagher and his brother Elliot started Medvi in 2024 with $20,000. By 
 
 The FDA is now scrutinizing their drug claims.
 
-That's the headline. The structure is elsewhere.
+That’s the headline. The structure is elsewhere.
 
 
 
@@ -66,9 +66,9 @@ That's the headline. The structure is elsewhere.
 
 The Machine That Runs Itself
 
-Medvi didn't hire. It automated. Every major function — software development, ad copy, image generation, patient communications, prescription routing, internal tracking — was delegated to AI systems. The two brothers were, at scale, coordinators of a system that had no need for them to be more than that.
+Medvi didn’t hire. It automated. Every major function — software development, ad copy, image generation, patient communications, prescription routing, internal tracking — was delegated to AI systems. The two brothers were, at scale, coordinators of a system that had no need for them to be more than that.
 
-This is not unusual anymore. It's the template.
+This is not unusual anymore. It’s the template.
 
 GLP-1 weight-loss drugs like semaglutide were already in demand. Telehealth regulations had opened a gap between what pharmaceutical companies could do and what a well-structured digital operation could do faster, cheaper, and without the institutional overhead. Medvi walked through that gap.
 
@@ -76,7 +76,7 @@ The product was legal. The process was efficient. The outcome was $401 million.
 
 Adam Smith would have nodded. The butcher, the brewer, the baker. Self-interest producing collective benefit.
 
-Except that's not what happened.
+Except that’s not what happened.
 
 
 
@@ -86,7 +86,7 @@ Except that's not what happened.
 
 Everyone Is Rational
 
-The FDA regulates compounded drugs to protect patients. Rational. Its processes are built for institutions with legal departments, clinical trial budgets, and regulatory affairs teams. Also rational — that's who has been building pharmaceutical companies for the past century.
+The FDA regulates compounded drugs to protect patients. Rational. Its processes are built for institutions with legal departments, clinical trial budgets, and regulatory affairs teams. Also rational — that’s who has been building pharmaceutical companies for the past century.
 
 Telehealth platforms reduced the friction between patients and prescriptions. Rational. Access is a genuine problem. Remote healthcare serves real needs.
 
@@ -106,11 +106,11 @@ The Gallagher brothers are not the story. The template is.
 
 The Structural Turn
 
-Here is what the FDA scrutiny misses: Medvi is not an anomaly. It's a proof of concept.
+Here is what the FDA scrutiny misses: Medvi is not an anomaly. It’s a proof of concept.
 
 Every element is replicable. AI-native operations. Telehealth gaps. Compounded drug markets. Direct-to-consumer prescriptions. The $20,000 entry cost will fall further. The AI tools will improve. The regulatory lag will grow.
 
-The structure produces this outcome through rational behavior — at every node. The regulator cannot regulate what it cannot yet see. The entrepreneur cannot ignore a legal opportunity that competitors will take if they don't. The AI platforms cannot restrict legitimate use cases to avoid illegitimate ones that haven't happened yet. The telehealth infrastructure cannot distinguish between access and arbitrage in advance.
+The structure produces this outcome through rational behavior — at every node. The regulator cannot regulate what it cannot yet see. The entrepreneur cannot ignore a legal opportunity that competitors will take if they don’t. The AI platforms cannot restrict legitimate use cases to avoid illegitimate ones that haven’t happened yet. The telehealth infrastructure cannot distinguish between access and arbitrage in advance.
 
 No one is acting badly. The collision is structural.
 
@@ -148,13 +148,13 @@ What Navigation Looks Like
 
 Regulators who want to address this have one option: regulate structure, not actors. Which means regulating the tools, the platforms, the infrastructure — not the individual operations that use them. That is a different order of difficulty, politically and technically.
 
-Competitors watching Medvi have one option: move faster or exit the gap. The gap doesn't stay open because one actor found it. It closes when the regulator catches up — or fills with everyone who can replicate the model.
+Competitors watching Medvi have one option: move faster or exit the gap. The gap doesn’t stay open because one actor found it. It closes when the regulator catches up — or fills with everyone who can replicate the model.
 
 The patients who used Medvi got cheaper GLP-1 access. Some of those prescriptions were for compounded versions of drugs that may not have met the clinical standards of the originals. The harm, if it exists, is diffuse, delayed, and structurally invisible until it aggregates.
 
 This is how structural damage works. No single decision causes it. The sum of individually rational decisions produces the outcome no one chose.
 
-The Dandelion Strategy — infect and forget — doesn't require intent. The model spreads because it works. Medvi won't be the last. It won't even be the most extreme.
+The Dandelion Strategy — infect and forget — doesn’t require intent. The model spreads because it works. Medvi won’t be the last. It won’t even be the most extreme.
 
 Regulation arrives after. It always does.
 
@@ -234,4 +234,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
