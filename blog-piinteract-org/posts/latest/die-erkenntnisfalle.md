@@ -106,13 +106,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Shared Blindspot"] — Wenn alle denselben blinden Fleck haben, ist er unsichtbar. Wer ihn nicht hat, gilt als der mit dem Fleck. Die Erkenntnisfalle ist die Gesprächsform dieses Gesetzes.
+[“Shared Blindspot”] — Wenn alle denselben blinden Fleck haben, ist er unsichtbar. Wer ihn nicht hat, gilt als der mit dem Fleck. Die Erkenntnisfalle ist die Gesprächsform dieses Gesetzes.
 
-["Recognize Interpretive Dominance"] — Wer den Erkenntnisbegriff setzt, entscheidet, wessen Erkenntnis als Fehler gelesen wird. Das Gespräch verhandelt nie den Gegenstand, immer den Maßstab.
+[“Recognize Interpretive Dominance”] — Wer den Erkenntnisbegriff setzt, entscheidet, wessen Erkenntnis als Fehler gelesen wird. Das Gespräch verhandelt nie den Gegenstand, immer den Maßstab.
 
-["Let's Just Talk"] — „Lasst uns doch einfach reden“ setzt voraus, dass Reden überträgt. Es überträgt nicht. Es sortiert.
+[“Let’s Just Talk”] — „Lasst uns doch einfach reden“ setzt voraus, dass Reden überträgt. Es überträgt nicht. Es sortiert.
 
-["Infect and Forget"] — Wenn Erklären an der Architektur von Erkenntnis scheitert, bleibt Streuen. Der Same belehrt nicht. Er wartet, ob ein Weg vorbeikommt.
+[“Infect and Forget”] — Wenn Erklären an der Architektur von Erkenntnis scheitert, bleibt Streuen. Der Same belehrt nicht. Er wartet, ob ein Weg vorbeikommt.
 
 Siehe auch (externe Links):
 
