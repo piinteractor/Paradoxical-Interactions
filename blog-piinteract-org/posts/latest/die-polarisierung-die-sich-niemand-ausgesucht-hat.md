@@ -116,7 +116,7 @@ On piinteract.org:
 
 [Core Practices] —Grundlegende PI-Konzepte und Navigationsstrategien
 
-[Anti-Practices] — "This Time Will Be Different" and other patterns that strengthen PI
+[Anti-Practices] — “This Time Will Be Different” and other patterns that strengthen PI
 
 Das PI Framework —Was sind paradoxe Interaktionen und warum sind sie wichtig?
 
