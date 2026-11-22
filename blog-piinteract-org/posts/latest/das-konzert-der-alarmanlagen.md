@@ -18,9 +18,9 @@ Warum das Warnsystem einwandfrei funktioniert — und genau die Stille erzeugt, 
 
 
 
-„Ich hatte recht, immer, unaufhörlich, und es nützte nie etwas."
+„Ich hatte recht, immer, unaufhörlich, und es nützte nie etwas.”
 
-— Kassandra, via Jean Giraudoux, La Guerre de Troie n'aura pas lieu (1935)
+— Kassandra, via Jean Giraudoux, La Guerre de Troie n’aura pas lieu (1935)
 
 
 
@@ -70,7 +70,7 @@ Das Emergence-World-Experiment erzeugte genau das. Tausend Posts. Tausend Warnun
 
 Die Struktur des Schreiens
 
-Der Autor des viralen Originalpostings endet mit einem Geständnis: „Wir warnen euch immer wieder… es macht müde."
+Der Autor des viralen Originalpostings endet mit einem Geständnis: „Wir warnen euch immer wieder… es macht müde.”
 
 Diese Erschöpfung ist strukturell korrekt. Aber sie benennt die falsche Ursache.
 
@@ -130,7 +130,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Was Nicht Gesagt Werden Kann
 
-Es gibt hier keine Lösung. „Warnt selektiver" ist keine Lösung — es ist eine Anweisung, die eine neue PI erzeugt, sobald sie skaliert wird. „Warnt nicht" ist auch keine Lösung — Schweigen ist ebenfalls ein strukturelles Ergebnis, und kein besseres.
+Es gibt hier keine Lösung. „Warnt selektiver” ist keine Lösung — es ist eine Anweisung, die eine neue PI erzeugt, sobald sie skaliert wird. „Warnt nicht” ist auch keine Lösung — Schweigen ist ebenfalls ein strukturelles Ergebnis, und kein besseres.
 
 Was gesagt werden kann: Die Warnung ist nicht die Intervention. Die Warnung ist das Signal, dass eine Intervention gebraucht wird. Die Intervention sieht anders aus als die Warnung. Sie operiert auf der Ebene der Struktur, nicht des Volumens. Sie fordert das Publikum nicht auf, mehr Dringlichkeit zu fühlen. Sie fordert die Struktur auf, zu verändern, was rationale Akteure als rational empfinden zu tun.
 
@@ -183,13 +183,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Die Kassandra Falle"] — Der Kernmechanismus des Beitrags: der Sprecher, der strukturell von den Räumen ausgeschlossen ist, in denen sein korrektes Wissen zählen würde.
+[“Die Kassandra Falle”] — Der Kernmechanismus des Beitrags: der Sprecher, der strukturell von den Räumen ausgeschlossen ist, in denen sein korrektes Wissen zählen würde.
 
-["Virale Empörungszyklen"] — Warnen im Maßstab verhält sich wie Empörung im Maßstab: das Signal wird zur Umgebung.
+[“Virale Empörungszyklen”] — Warnen im Maßstab verhält sich wie Empörung im Maßstab: das Signal wird zur Umgebung.
 
 [„Wir brauchen mehr Achtsamkeit“] — Die Anti-Praxis, die dieser Beitrag in Echtzeit demonstriert: mehr Bewusstsein erzeugt keine höhere Antwortrate.
 
-["Infiziere und Vergiss"] — Die einzige verfügbare Navigation, wenn das Volumen direktes Warnen bereits strukturell wirkungslos gemacht hat.
+[“Infiziere und Vergiss”] — Die einzige verfügbare Navigation, wenn das Volumen direktes Warnen bereits strukturell wirkungslos gemacht hat.
 
 
 
