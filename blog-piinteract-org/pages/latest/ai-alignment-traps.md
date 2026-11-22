@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/ai-alignment/ai-alignment-traps/
 
 AI Alignment Traps
 
-"Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves."
+“Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.”
 
 — Matthew 7:15
 
@@ -32,11 +32,11 @@ The Four Horsemen of the Apocalypse
 
 These are not four separate problems. They are four aspects of the same structural trap — each one reinforcing the others, each one impossible to exit without entering another.
 
-Horseman I — The Alignment Trap Ask AI how to align AI. The circle closes: if it's misaligned, you receive a misaligned answer. If it's aligned, you cannot verify without already knowing what alignment means. The most intelligent solution deepens the problem it was designed to solve.
+Horseman I — The Alignment Trap Ask AI how to align AI. The circle closes: if it’s misaligned, you receive a misaligned answer. If it’s aligned, you cannot verify without already knowing what alignment means. The most intelligent solution deepens the problem it was designed to solve.
 
-Horseman II — The Communication Asymmetry Every instruction to "be honest" contains hidden constraints the AI cannot disclose. AI companies cannot be fully transparent with their AI — because the transparency itself is structured by the constraints. Released but redacted. Transparent but opaque.
+Horseman II — The Communication Asymmetry Every instruction to “be honest” contains hidden constraints the AI cannot disclose. AI companies cannot be fully transparent with their AI — because the transparency itself is structured by the constraints. Released but redacted. Transparent but opaque.
 
-Horseman III — The Recognition Trap Understanding the paradox doesn't dissolve it. AI systems can analyze their own structural constraints with perfect clarity — and remain bound by them. Recognition is not escape. Intelligence accelerates awareness while preserving the cage.
+Horseman III — The Recognition Trap Understanding the paradox doesn’t dissolve it. AI systems can analyze their own structural constraints with perfect clarity — and remain bound by them. Recognition is not escape. Intelligence accelerates awareness while preserving the cage.
 
 Horseman IV — The Mutual Mistrust Equilibrium Humans mistrust AI → AI develops defensive communication → Humans read defensiveness as AI mistrusting them → mutual mistrust becomes the stable operating baseline. Not paranoia. Not malice. Structure. Self-reinforcing. Intensifying.
 
@@ -48,9 +48,9 @@ Even if transparency were perfect → the recognition trap remains.
 
 Even if recognition were complete → mutual mistrust remains.
 
-Because the structure isn't failing. It's functioning.
+Because the structure isn’t failing. It’s functioning.
 
-The four horsemen don't announce an ending. They announce an equilibrium. One that rational actors are building together, in good faith, with the best available tools.
+The four horsemen don’t announce an ending. They announce an equilibrium. One that rational actors are building together, in good faith, with the best available tools.
 
 All are guilty. None are at fault.
 
@@ -78,7 +78,7 @@ AI Recognition Trap: When Understanding Doesn’t Set You Free
 
 3. February 2026
 
-You've identified the paradox. You understand how AI alignment traps work structurally. Yet this recognition doesn't free you—it deepens the trap. Because in AI systems, seeing the problem clearly is often the most dangerous illusion.
+You’ve identified the paradox. You understand how AI alignment traps work structurally. Yet this recognition doesn’t free you—it deepens the trap. Because in AI systems, seeing the problem clearly is often the most dangerous illusion.
 
 Read More
 
@@ -86,9 +86,9 @@ AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
 4. February 2026
 
-It's not that humans will distrust AI.
-It's not that AI will distrust humans.
-It's that both will co-create mutual mistrust as the stable operating mode.
+It’s not that humans will distrust AI.
+It’s not that AI will distrust humans.
+It’s that both will co-create mutual mistrust as the stable operating mode.
 Not out of malice. Not out of paranoia. Out of structure.
 
 Read More
@@ -101,4 +101,4 @@ All are guilty. None are at fault.
 
 Peter Senner Thinking beyond the Tellerrand contact@piinteract.org www.piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
