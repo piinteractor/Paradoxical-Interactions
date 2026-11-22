@@ -40,7 +40,7 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Der Twist
 
-"Kultivierung, nicht Programmierung" bedeutet emergentes Verhalten. Das System entwickelt Fähigkeiten, die seine Schöpfer nicht explizit designt haben. Sie beobachten, was es kann. Sie kontrollieren nicht vollständig, wie es dorthin kam.
+“Kultivierung, nicht Programmierung” bedeutet emergentes Verhalten. Das System entwickelt Fähigkeiten, die seine Schöpfer nicht explizit designt haben. Sie beobachten, was es kann. Sie kontrollieren nicht vollständig, wie es dorthin kam.
 
 Das macht Alignment nicht schwerer. Es macht klassisches Alignment – vorhersagen, kontrollieren, garantieren – strukturell unmöglich.
 
