@@ -165,11 +165,11 @@ Modernes Äquivalent:
 
 Versuch, eine Nullsummen-Konkurrenz würdevoll zu verlassen. Deine Konkurrenten nehmen an, du repositionierst dich. Deine Verbündeten nehmen Verrat an. Der Markt nimmt Schwäche an.
 
-Die Struktur interpretiert "Ich trete zurück" als "Ich plane etwas Schlimmeres oder ich bin ein Feigling."
+Die Struktur interpretiert “Ich trete zurück” als “Ich plane etwas Schlimmeres oder ich bin ein Feigling.”
 
 Warum Aufmerksamkeit nicht hilft
 
-Du denkst vielleicht: "Erkenne einfach das Muster und höre auf."
+Du denkst vielleicht: “Erkenne einfach das Muster und höre auf.”
 
 Funktioniert nicht.
 
@@ -229,7 +229,7 @@ Das ist dein einziger struktureller Ausstieg. Alles andere ist Navigation.
 
 Der Priester ist nicht böse. Der Vorbeigehende ist nicht unschuldig. Die Struktur ist es.
 
-"Alle sind schuldig. Keiner kann etwas dafür."
+“Alle sind schuldig. Keiner kann etwas dafür.”
 
 Das zu verstehen rettet dich nicht. Aber es stoppt dich vielleicht, Energie für Schuldzuweisungen zu verschwenden.
 
@@ -289,7 +289,7 @@ Vielleicht nicht mit echten Schwertern. Aber das Muster hält.
 
 Die Frage, die du stellen solltest
 
-"Bin ich der Priester, der Vorbeigehende oder der Beobachter?"
+“Bin ich der Priester, der Vorbeigehende oder der Beobachter?”
 
 Denn die Struktur behandelt jede Rolle anders:
 
