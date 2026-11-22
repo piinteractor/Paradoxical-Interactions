@@ -48,9 +48,9 @@ His point was not admiration. It was dismay.
 
 Penrose printed the formula because it was ugly. Because something this bloated, this unwieldy, this baroque could not possibly be the final description of reality. The formula was his exhibit A in the case against the Standard Model as fundamental truth. A rhetorical device. A warning.
 
-It described everything — except gravity. It predicted particle masses — except it didn't, because the masses had to be inserted by hand. It was simultaneously the most successful and most incomplete theory in the history of physics.
+It described everything — except gravity. It predicted particle masses — except it didn’t, because the masses had to be inserted by hand. It was simultaneously the most successful and most incomplete theory in the history of physics.
 
-Penrose's message: We can do better. We must do better.
+Penrose’s message: We can do better. We must do better.
 
 
 
@@ -60,7 +60,7 @@ Penrose's message: We can do better. We must do better.
 
 Act II: The Tweet
 
-Twenty years later, someone posts the formula on Twitter/X. No context. No attribution. No mention of Penrose's argument. Just the image — vast, intimidating, magnificent — with an implicit message: Look at this. Look at how much we know. Look at how brilliant this is.
+Twenty years later, someone posts the formula on Twitter/X. No context. No attribution. No mention of Penrose’s argument. Just the image — vast, intimidating, magnificent — with an implicit message: Look at this. Look at how much we know. Look at how brilliant this is.
 
 The tweet goes viral. Thousands of impressions. Hearts. Retweets. Bookmarks from people who will never open them again. The formula becomes what the internet does best with: a signifier of intelligence, stripped of meaning.
 
@@ -70,7 +70,7 @@ The audience acted rationally. Engaging with awe-inspiring content feels like le
 
 The algorithm acted rationally. It measured engagement and delivered more of what worked.
 
-And the collective result? Penrose's critique of the Standard Model became an advertisement for it. His argument against intellectual complacency became a vehicle for intellectual complacency. The meaning didn't just get lost — it got inverted.
+And the collective result? Penrose’s critique of the Standard Model became an advertisement for it. His argument against intellectual complacency became a vehicle for intellectual complacency. The meaning didn’t just get lost — it got inverted.
 
 
 
@@ -80,11 +80,11 @@ And the collective result? Penrose's critique of the Standard Model became an ad
 
 Act III: The Correction That Nobody Sees
 
-Somewhere in the replies, someone writes: "Actually, Penrose printed this to show how inelegant it is." A handful of characters that restore the original context. The complete correction.
+Somewhere in the replies, someone writes: “Actually, Penrose printed this to show how inelegant it is.” A handful of characters that restore the original context. The complete correction.
 
 It gets three likes.
 
-This is not a failure of individuals. The corrector acted rationally too — sharing knowledge, adding nuance, doing what good discourse demands. But the platform's structure ensures that correction and context are systematically demoted relative to spectacle and simplification. Not by conspiracy. Not by design flaw. By the perfectly logical operation of engagement-optimized systems.
+This is not a failure of individuals. The corrector acted rationally too — sharing knowledge, adding nuance, doing what good discourse demands. But the platform’s structure ensures that correction and context are systematically demoted relative to spectacle and simplification. Not by conspiracy. Not by design flaw. By the perfectly logical operation of engagement-optimized systems.
 
 The Paradoxical Interaction
 
@@ -110,7 +110,7 @@ And yet the system produces the structural opposite of its intended function: a 
 
 All are guilty. None are at fault.
 
-  The formula that was meant to say "this isn't good enough" now says "look how good this is."
+  The formula that was meant to say “this isn’t good enough” now says “look how good this is.”
 
   And the architecture that enables this inversion is not a bug in the system.
 
@@ -128,7 +128,7 @@ This is not a story about social media. Social media merely makes the structure 
 
 The same paradoxical interaction operates in peer review (where rigour and novelty are structurally opposed), in democratic discourse (where informed nuance and electoral success are structurally opposed), in corporate governance (where long-term thinking and quarterly reporting are structurally opposed).
 
-Wherever rational individual actors operate within systems that aggregate their actions through metrics that cannot capture meaning, you will find Penrose's formula being tweeted without Penrose's point.
+Wherever rational individual actors operate within systems that aggregate their actions through metrics that cannot capture meaning, you will find Penrose’s formula being tweeted without Penrose’s point.
 
 The Standard Model describes all fundamental forces except the one that holds everything together.
 
@@ -144,7 +144,7 @@ These are not failures. These are paradoxical interactions — structural outcom
 
 
 
-This example was identified on February 6, 2026, when someone posted the Standard Model Lagrangian from Penrose's "The Road to Reality" on X/Twitter without context — inadvertently creating a perfect demonstration of Paradoxical Interaction in real time.
+This example was identified on February 6, 2026, when someone posted the Standard Model Lagrangian from Penrose’s “The Road to Reality” on X/Twitter without context — inadvertently creating a perfect demonstration of Paradoxical Interaction in real time.
 
 
 
