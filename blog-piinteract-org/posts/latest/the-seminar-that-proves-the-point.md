@@ -12,15 +12,15 @@ url: https://blog.piinteract.org/the-seminar-that-proves-the-point/
 
 Why every structural analysis of National Socialism performs the exact pathology it analyzes — and why this cannot be fixed from within the analysis.
 
-"Whoever understands another makes them into an object of their understanding."
+“Whoever understands another makes them into an object of their understanding.”
 
 — Niklas Luhmann, Soziale Systeme, 1984
 
-"Objectivity is the delusion of a subject who has forgotten that he is observing."
+“Objectivity is the delusion of a subject who has forgotten that he is observing.”
 
 — Heinz von Foerster, Ethics and Second-Order Cybernetics, 1991
 
-Götz Aly's final book is a bestseller. Marcel Schütz runs a seminar on it at the University of Bielefeld. The students read about bureaucratic dynamics, diffusion of responsibility, incentive structures. They learn how "quite normal" institutions and actors made legal exclusion, persecution, and violence structurally possible. The analysis is precise. The methodology is sound. The framing is careful.
+Götz Aly’s final book is a bestseller. Marcel Schütz runs a seminar on it at the University of Bielefeld. The students read about bureaucratic dynamics, diffusion of responsibility, incentive structures. They learn how “quite normal” institutions and actors made legal exclusion, persecution, and violence structurally possible. The analysis is precise. The methodology is sound. The framing is careful.
 
 And none of it touches the core problem.
 
@@ -28,15 +28,15 @@ Not because the analysis is wrong. Because it is right in precisely the way that
 
 25. May 2026
 
-The External Position That Doesn't Exist
+The External Position That Doesn’t Exist
 
-Aly and Schütz stand outside. That is the premise. Götz Aly — one of Germany's most prominent historians of National Socialism, a lifetime of research culminating in this final book. Marcel Schütz — Professor of Organization and Management at NBS Northern Business School Hamburg and associate researcher at the University of Oldenburg, reading it as system analysis of the social preconditions and stabilizing forces of the NS state. Historian and sociologist observe the system from a position that is — implicitly — not inside the system they describe.
+Aly and Schütz stand outside. That is the premise. Götz Aly — one of Germany’s most prominent historians of National Socialism, a lifetime of research culminating in this final book. Marcel Schütz — Professor of Organization and Management at NBS Northern Business School Hamburg and associate researcher at the University of Oldenburg, reading it as system analysis of the social preconditions and stabilizing forces of the NS state. Historian and sociologist observe the system from a position that is — implicitly — not inside the system they describe.
 
 Heinz von Foerster made the problem explicit: there is no external observer. Every observation is performed from within. The position of objectivity is not achieved — it is assumed. And the assumption itself is the blind spot.
 
 This is not a philosophical quibble. It is the load-bearing problem.
 
-When Schütz frames the seminar as a "system analysis of social preconditions," he positions the analysis itself as outside the system being analyzed. Which means: the analysis is not a subject of the analysis. The observer is not observed. The seminar that studies how institutional actors failed to see what they were doing is itself an institutional actor that does not see what it is doing.
+When Schütz frames the seminar as a “system analysis of social preconditions,” he positions the analysis itself as outside the system being analyzed. Which means: the analysis is not a subject of the analysis. The observer is not observed. The seminar that studies how institutional actors failed to see what they were doing is itself an institutional actor that does not see what it is doing.
 
 Von Foerster called this the blind spot of observation. PI calls it structure. Same thing.
 
@@ -44,9 +44,9 @@ The Contingency Exit
 
 Schütz names contingency as the central concept: it could have been otherwise. Nothing had to happen as it did. This is formally correct — and structurally convenient.
 
-"Could have been otherwise" produces a very specific kind of comfort. It preserves agency. It maintains the illusion that the actors, had they chosen differently, would have produced a different outcome. It keeps morality alive by keeping choice alive. It is the academic version of the consolation prize.
+“Could have been otherwise” produces a very specific kind of comfort. It preserves agency. It maintains the illusion that the actors, had they chosen differently, would have produced a different outcome. It keeps morality alive by keeping choice alive. It is the academic version of the consolation prize.
 
-PI says something different: yes, contingent — but the probability distribution was not neutral. The structure of the interaction created a strong directional force. "Could have been otherwise" is not the same as "was genuinely open." A ball rolling down a slope could, in principle, roll up. This does not make the slope flat.
+PI says something different: yes, contingent — but the probability distribution was not neutral. The structure of the interaction created a strong directional force. “Could have been otherwise” is not the same as “was genuinely open.” A ball rolling down a slope could, in principle, roll up. This does not make the slope flat.
 
 The contingency frame is not an error. It is an Anti-Practice: the analytical move that looks like precision but functions as exit. It names the structural force and then immediately softens it with optionality.
 
@@ -72,7 +72,7 @@ Every structural analysis of a past catastrophe produces the institutional self-
 
 Everyone acts rationally:
 
-Aly — reconstructs the mechanisms of complicity with precision (rational: that is his job, his life's work, his intellectual integrity)
+Aly — reconstructs the mechanisms of complicity with precision (rational: that is his job, his life’s work, his intellectual integrity)
 
 Schütz — teaches it as organizational sociology (rational: the material is precisely relevant to his discipline)
 
@@ -92,9 +92,9 @@ What PI offers here is not an alternative seminar design. There is no seminar th
 
 Von Foerster was not wrong to teach. Luhmann was not wrong to theorize. Schütz is not wrong to run the course. The point is not that they should stop.
 
-The point is that the sentence "insight is no exit" applies most precisely to the institutions whose entire purpose is insight. The university is the place where this sentence is most true and least sayable.
+The point is that the sentence “insight is no exit” applies most precisely to the institutions whose entire purpose is insight. The university is the place where this sentence is most true and least sayable.
 
-Navigation looks like this: name the structure you are inside, not just the one you are describing. Schütz could name it. He won't — because the system he is inside does not have a category for a professor who tells his students that the seminar they are sitting in performs the problem it analyzes.
+Navigation looks like this: name the structure you are inside, not just the one you are describing. Schütz could name it. He won’t — because the system he is inside does not have a category for a professor who tells his students that the seminar they are sitting in performs the problem it analyzes.
 
 There is no correct behavior here. That is the structure.
 
@@ -116,23 +116,23 @@ Why the system that can describe its own cage has not left it — and why the de
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 No results found.
 
 On piinteract.org
 
-["Academic Escape Reflex"] — The move Schütz makes is structural: the system relocates the problem into history, where it can be studied without being encountered.
+[“Academic Escape Reflex”] — The move Schütz makes is structural: the system relocates the problem into history, where it can be studied without being encountered.
 
-["Shared Blindspot"] — If everyone in the room has been trained the same way, the training itself cannot be the object of analysis.
+[“Shared Blindspot”] — If everyone in the room has been trained the same way, the training itself cannot be the object of analysis.
 
-["See Problem — Solve Problem"] — Naming contingency as the central concept is the analytical move that closes the question precisely when it should open it.
+[“See Problem — Solve Problem”] — Naming contingency as the central concept is the analytical move that closes the question precisely when it should open it.
 
-["Peer Review Gatekeeping"] — The institution that certifies the analysis of institutional failure cannot certify analysis of its own institutional failure.
+[“Peer Review Gatekeeping”] — The institution that certifies the analysis of institutional failure cannot certify analysis of its own institutional failure.
 
 See also (external links):
 
-Götz Aly — Wie konnte das geschehen? (Verlagsseite) — The primary source: Aly's own final work on the organizational sociology of National Socialism, from which this post's analysis departs.
+Götz Aly — Wie konnte das geschehen? (Verlagsseite) — The primary source: Aly’s own final work on the organizational sociology of National Socialism, from which this post’s analysis departs.
 
 Heinz von Foerster — Ethics and Second-Order Cybernetics (PDF) — Von Foersters Vortrag, in dem er etabliert, dass Objektivität die Illusion des Subjekts ist, das vergessen hat, dass es beobachtet — die strukturelle Bedingung, die dieser Post im Seminar diagnostiziert.
 
@@ -150,4 +150,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
