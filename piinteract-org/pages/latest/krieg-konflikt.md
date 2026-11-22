@@ -10,11 +10,11 @@ wp_id: 1395
 url: https://piinteract.org/de/beispiele/krieg-konflikt/
 ---
 
-„Der Krieg wird bis Weihnachten vorbei sein."
+„Der Krieg wird bis Weihnachten vorbei sein.”
 
 — Jeder Krieg, jede Seite, jedes Mal
 
-„Kriege fangen begeistert an und hören erschöpft auf."
+„Kriege fangen begeistert an und hören erschöpft auf.”
 
 — Peter Senner
 
@@ -52,7 +52,7 @@ Historische Beispiele
 
 1. WK Somme (1916): Erster Tag: 57.000 britische Opfer. Kampagne fünf Monate weitergeführt. Warum? Bereits erlittene Verluste.
 
-Vietnam: Eskalation gerechtfertigt durch vorherige Verluste. „Können sie nicht umsonst sterben lassen." Mehr sterben. Wiederholung.
+Vietnam: Eskalation gerechtfertigt durch vorherige Verluste. „Können sie nicht umsonst sterben lassen.” Mehr sterben. Wiederholung.
 
 Afghanistan (alle Beteiligten): 20 Jahre. Jedes Jahr gerechtfertigt durch vorherige Investition.
 
@@ -66,11 +66,11 @@ Der Friedensstifter als Verräter
 
 Die Logik
 
-Jemand schlägt Frieden vor (Kapitulation, Waffenstillstand, Verhandlung). Dies verhindert „Sieg". Sieg würde Verluste rechtfertigen. Frieden ohne Sieg = Verluste waren sinnlos. Also: Friedensstifter ist Verräter.
+Jemand schlägt Frieden vor (Kapitulation, Waffenstillstand, Verhandlung). Dies verhindert „Sieg”. Sieg würde Verluste rechtfertigen. Frieden ohne Sieg = Verluste waren sinnlos. Also: Friedensstifter ist Verräter.
 
 Die Dolchstoßlegende
 
-Deutschland, November 1918. Kriegsende. Armee „im Felde unbesiegt" (nicht wahr, aber geglaubt).
+Deutschland, November 1918. Kriegsende. Armee „im Felde unbesiegt” (nicht wahr, aber geglaubt).
 
 Waffenstillstand unterzeichnet. Krieg endet.
 
@@ -88,19 +88,19 @@ Das Narrativ schützt kollektive Identität. Wir sind nicht gescheitert. Wir wur
 
 Konsequenzen
 
-Der Mythos erzeugt den nächsten Krieg. „Diesmal ohne Verräter."
+Der Mythos erzeugt den nächsten Krieg. „Diesmal ohne Verräter.”
 
-Deutschland 1933–1945: Die direkte Fortsetzung. Eliminiert die „Verräter". Führt den Krieg „richtig".
+Deutschland 1933–1945: Die direkte Fortsetzung. Eliminiert die „Verräter”. Führt den Krieg „richtig”.
 
 Ergebnis: Totale Zerstörung. Weil die Struktur jetzt totales Engagement fordert.
 
 Das Muster wiederholt sich
 
-Nach Vietnam: „Wir durften nicht gewinnen" (Politiker, Medien beschuldigt)
+Nach Vietnam: „Wir durften nicht gewinnen” (Politiker, Medien beschuldigt)
 
 Nach Afghanistan: Verschiedene Schuld-Narrative
 
-Jede „verlorene Sache": Erzeugt Verrats-Mythos
+Jede „verlorene Sache”: Erzeugt Verrats-Mythos
 
 Die Struktur schützt sich selbst, indem sie Scheitern externalisiert. Dann reproduziert durch Rache.
 
@@ -118,7 +118,7 @@ Beitragender Faktor zu 1. WK.
 
 Die Ironie
 
-WK beginnt. Deutsche Flotte... bleibt im Hafen.
+WK beginnt. Deutsche Flotte… bleibt im Hafen.
 
 Warum? Zu wertvoll zum Riskieren. Britanniens Royal Navy überlegen. Eine große Schlacht (Skagerrak, 1916) – taktisches Unentschieden, strategischer britischer Sieg. Flotte kehrt in Hafen zurück. Sitzt. Wartet.
 
@@ -142,7 +142,7 @@ Flotte kämpft nicht (zu wertvoll, strategisch nutzlos gegen überlegene Macht)
 
 Flotte beendet Krieg (Meuterei löst Zusammenbruch aus)
 
-Flotte für „Verrat" beschuldigt (Dolchstoßlegende)
+Flotte für „Verrat” beschuldigt (Dolchstoßlegende)
 
 Wilhelms Lieblingsprojekt – sein Lieblingskind – wird zum Sündenbock für Niederlage.
 
@@ -162,7 +162,7 @@ Alle rational. Alle zur Katastrophe beigetragen.
 
 Die Lektion
 
-Die Struktur, die das Problem verursacht, wird zur Struktur, die „verrät". Das System frisst seine eigenen Kinder. Rational auf jeder Stufe.
+Die Struktur, die das Problem verursacht, wird zur Struktur, die „verrät”. Das System frisst seine eigenen Kinder. Rational auf jeder Stufe.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
@@ -200,11 +200,11 @@ Das Nächster-Krieg-Paradox
 
 Die Logik
 
-Krieg endet (Depletion, Niederlage, Verhandlung). Verrats-Mythos entsteht (Dolchstoß, Politiker, Beschränkungen). Narrativ: „Wir hätten gewinnen können, aber ..."
+Krieg endet (Depletion, Niederlage, Verhandlung). Verrats-Mythos entsteht (Dolchstoß, Politiker, Beschränkungen). Narrativ: „Wir hätten gewinnen können, aber …”
 
-Nächste Generation wächst mit Mythos auf. Mythos erzeugt Motivation: „Beenden, was sie begannen. Diesmal keine Verräter."
+Nächste Generation wächst mit Mythos auf. Mythos erzeugt Motivation: „Beenden, was sie begannen. Diesmal keine Verräter.”
 
-Nächster Krieg beginnt. Noch totaler. Weil „Lektionen" aus vorherigem „Verrat" gelernt.
+Nächster Krieg beginnt. Noch totaler. Weil „Lektionen” aus vorherigem „Verrat” gelernt.
 
 Historisches Muster
 
@@ -218,31 +218,31 @@ Postkoloniale Konflikte → Endlose Zyklen
 
 Die Falle
 
-Kriege erzeugen Mythen, die Kriege erzeugen. Die Struktur reproduziert sich durch Erinnerung. Jeder Krieg „lernt" vom vorherigen – wie man totaler kämpft.
+Kriege erzeugen Mythen, die Kriege erzeugen. Die Struktur reproduziert sich durch Erinnerung. Jeder Krieg „lernt” vom vorherigen – wie man totaler kämpft.
 
 Fortschritt bedeutet Eskalation.
 
 Was nicht funktioniert
 
-„Krieg ist Hölle" – Abschreckung durch Schrecken
+„Krieg ist Hölle” – Abschreckung durch Schrecken
 
-Funktioniert nicht. Jede Generation denkt: „Diesmal wird es anders sein. Wir sind vorbereitet. Wir sind stärker. Wir werden nicht verraten."
+Funktioniert nicht. Jede Generation denkt: „Diesmal wird es anders sein. Wir sind vorbereitet. Wir sind stärker. Wir werden nicht verraten.”
 
 Der Schrecken ist abstrakt bis erlebt. Dann zu spät – Verluste bereits investiert.
 
-„Frieden durch Stärke"
+„Frieden durch Stärke”
 
 Wettrüsten. Jede Seite baut zur Abschreckung. Jede Seite nimmt Bedrohung wahr. Eskalation. Krieg.
 
 Tirpitz lehrte nichts. Jede Nation wiederholt es. Aktuell: Nukleararsenale, KI-Wettrüsten.
 
-„Diesmal haben wir gelernt"
+„Diesmal haben wir gelernt”
 
 Haben wir nicht. Die Struktur hat sich nicht geändert. Die Lektionen sind taktisch, nicht strukturell.
 
 Bessere Waffen verhindern Krieg nicht. Sie machen ihn effizienter.
 
-„Internationales Recht / UN / Verträge"
+„Internationales Recht / UN / Verträge”
 
 Funktionieren, bis sie es nicht tun. Wenn Einsätze hoch genug, überschreiben Strukturen Regeln.
 
@@ -258,7 +258,7 @@ Die Entscheidung zu beginnen verpflichtet zum Verlust-Rechtfertigungs-Zyklus.
 
 Früh stoppen
 
-Erfordert Fehler zugeben, während Verluste „klein" sind. Strukturell sehr schwierig. Führer, die Fehler zugeben, verlieren Position.
+Erfordert Fehler zugeben, während Verluste „klein” sind. Strukturell sehr schwierig. Führer, die Fehler zugeben, verlieren Position.
 
 Sinnlosigkeit akzeptieren
 
