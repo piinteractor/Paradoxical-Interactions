@@ -64,9 +64,9 @@ Both were right about what they described.
 
 The question is: what does each answer do to the person who holds it?
 
-Von Foerster's answer produces navigators. People who know they are inside, with no exit, making the best of the position.
+Von Foerster’s answer produces navigators. People who know they are inside, with no exit, making the best of the position.
 
-Luhmann's answer produces — when institutionalized — gatekeepers. People who have a method for making the paradox disappear. And who therefore mistake the disappearance for resolution.
+Luhmann’s answer produces — when institutionalized — gatekeepers. People who have a method for making the paradox disappear. And who therefore mistake the disappearance for resolution.
 
 
 
@@ -78,7 +78,7 @@ Sociological Local Patriotism
 
 There is no established English or French equivalent for Entparadoxierung.
 
-This is not a translation problem. Translators have tried: "paradox displacement," "the unfolding of paradox," "de-paradoxification." None has taken hold. The concept circulates in German, in German journals, in German academic networks — and largely stops there.
+This is not a translation problem. Translators have tried: “paradox displacement,” “the unfolding of paradox,” “de-paradoxification.” None has taken hold. The concept circulates in German, in German journals, in German academic networks — and largely stops there.
 
 Luhmann is canon in Germany. Internationally, he is a specialist reference with a devoted but narrow following. Parsons outlasted him in Anglo-American sociology. Bourdieu outran him in France. The community that built its identity on describing how systems close themselves — closed itself geographically.
 
@@ -96,11 +96,11 @@ Sociological local patriotism.
 
 The Entparadoxierung Trap
 
-Luhmann's concept is real and precise. Systems do this. Courts cannot continuously expose the paradox that law is founded on nothing but law — they displace it into procedure. Parliaments cannot continuously expose the paradox that democratic legitimacy rests on a majority that was never universal — they displace it into representation. This is how complex systems function.
+Luhmann’s concept is real and precise. Systems do this. Courts cannot continuously expose the paradox that law is founded on nothing but law — they displace it into procedure. Parliaments cannot continuously expose the paradox that democratic legitimacy rests on a majority that was never universal — they displace it into representation. This is how complex systems function.
 
 The trap is not in the concept. The trap is in what happens when you use the concept to describe your own system — and then stop there.
 
-Luhmann's Entparadoxierung, applied to the discipline of Luhmannian systems theory, looks like this:
+Luhmann’s Entparadoxierung, applied to the discipline of Luhmannian systems theory, looks like this:
 
 The community knows it is operationally closed. It has said so, many times, with great precision. The observation exists. It is published. It is cited.
 
@@ -110,7 +110,7 @@ The observation of closure is the entparadoxierung of closure. The naming substi
 
 This is not hypocrisy. It is the structure working as Luhmann described it.
 
-The problem: Luhmann's tool, turned on Luhmann's school, confirms PI — not Luhmann.
+The problem: Luhmann’s tool, turned on Luhmann’s school, confirms PI — not Luhmann.
 
 
 
@@ -128,13 +128,13 @@ And who chose Luhmann.
 
 This is not a biographical accident. It is a structural decision that repeats across generations, across institutions, across anyone who has stood at that fork.
 
-Von Foerster's position — the observer is always inside, always implicated, always a party — is intellectually correct and institutionally impossible. You cannot build a school on it. You cannot award doctorates with it. You cannot produce a citation network around a theory that says citation networks are themselves the problem.
+Von Foerster’s position — the observer is always inside, always implicated, always a party — is intellectually correct and institutionally impossible. You cannot build a school on it. You cannot award doctorates with it. You cannot produce a citation network around a theory that says citation networks are themselves the problem.
 
-Luhmann's position allows you to describe that dynamic — and remain outside it. To observe the closure of other systems while occupying an institutional position that the theory of closure would logically include.
+Luhmann’s position allows you to describe that dynamic — and remain outside it. To observe the closure of other systems while occupying an institutional position that the theory of closure would logically include.
 
 The witness who chooses Luhmann is not making an error. He is making the only move the structure permits. The position requires the error it names. The career is built on the concept that makes the career structurally illegitimate.
 
-This is what Luhmann's Entparadoxierung cannot absorb. Not because it is wrong — but because absorbing it would undo the institutional structure built on Luhmann's answer.
+This is what Luhmann’s Entparadoxierung cannot absorb. Not because it is wrong — but because absorbing it would undo the institutional structure built on Luhmann’s answer.
 
 The dilemma is not resolvable. It is navigable — but only by those willing to acknowledge they are inside it.
 
@@ -162,9 +162,9 @@ A theory community that refuses this mode of engagement has made a choice that i
 
 Simulation produces outcomes that cannot be controlled in advance. The tester becomes visible. The framework is stress-tested against reality rather than against other frameworks in the same vocabulary.
 
-Von Foerster's position demands exactly this. You are inside. Run the test. See what happens to you.
+Von Foerster’s position demands exactly this. You are inside. Run the test. See what happens to you.
 
-Luhmann's entparadoxierung allows the test to be declined — on methodological grounds that are themselves immune to testing.
+Luhmann’s entparadoxierung allows the test to be declined — on methodological grounds that are themselves immune to testing.
 
 The refusal of simulation is not a methodological position.
 
@@ -192,7 +192,7 @@ The academic community builds careers, curricula, and citation networks on this 
 
 The community observes its own closure — and names the observation as the corrective. Rational: it is honest, as far as it goes.
 
-Outsiders who apply Luhmann's own tools to the Luhmann school are told they are not "connectable." Rational: standards exist for a reason.
+Outsiders who apply Luhmann’s own tools to the Luhmann school are told they are not “connectable.” Rational: standards exist for a reason.
 
 The paradox of a closure-aware community practicing closure is displaced into methodology. Rational: the system functions.
 
@@ -214,9 +214,9 @@ AI alignment researchers describe how systems resist correction — and build in
 
 In each case: the diagnosis is accurate. The diagnostic community is structurally inside the thing it diagnoses.
 
-Von Foerster's answer — you are inside, there is no outside, navigate accordingly — is not pessimism. It is the only epistemically honest starting position.
+Von Foerster’s answer — you are inside, there is no outside, navigate accordingly — is not pessimism. It is the only epistemically honest starting position.
 
-Luhmann's answer is not wrong. It is incomplete. It describes the mechanism but does not acknowledge that the describer is subject to it.
+Luhmann’s answer is not wrong. It is incomplete. It describes the mechanism but does not acknowledge that the describer is subject to it.
 
 PI does not offer a solution to this. There is none.
 
@@ -240,9 +240,9 @@ AI alignment researchers describe how systems resist correction — and build in
 
 In each case: the diagnosis is accurate. The diagnostic community is structurally inside the thing it diagnoses.
 
-Von Foerster's answer — you are inside, there is no outside, navigate accordingly — is not pessimism. It is the only epistemically honest starting position.
+Von Foerster’s answer — you are inside, there is no outside, navigate accordingly — is not pessimism. It is the only epistemically honest starting position.
 
-Luhmann's answer is not wrong. It is incomplete. It describes the mechanism but does not acknowledge that the describer is subject to it.
+Luhmann’s answer is not wrong. It is incomplete. It describes the mechanism but does not acknowledge that the describer is subject to it.
 
 PI does not offer a solution to this. There is none.
 
@@ -291,7 +291,7 @@ Why smart people reject smarter insights—and act intelligently doing so
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 No results found.
 
@@ -336,4 +336,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
