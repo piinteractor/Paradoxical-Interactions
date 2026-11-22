@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/der-grosse-fang/
 
 Warum ein Roman, in dem ein Tierkadaver an Land gebracht wird, für den dessen Autor den Nobelpreis erhielt, genau die Struktur beschreibt, die den Traum zunichte machte – zusammen mit dem Mann, der ihn schrieb.
 
-„Er dachte nicht an das, was er verloren hatte, sondern an das, was ihm geblieben war."
+„Er dachte nicht an das, was er verloren hatte, sondern an das, was ihm geblieben war.”
 
 — Ernest Hemingway, Der alte Mann und das Meer, (1952)
 
@@ -128,13 +128,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Kämpfe nicht gegen das Muster"] — Santiago verhandelt nicht mit den Haien. Er navigiert.
+[“Kämpfe nicht gegen das Muster”] — Santiago verhandelt nicht mit den Haien. Er navigiert.
 
-["PI ist keine Hoffnungslosigkeit"] — Versuch und weitermachen heißt nicht, dass es besser wird. Es heißt, wieder rauszufahren.
+[“PI ist keine Hoffnungslosigkeit”] — Versuch und weitermachen heißt nicht, dass es besser wird. Es heißt, wieder rauszufahren.
 
-["Erschieße den Boten"] — der Mechanismus, den der Schluss direkt beschreibt.
+[“Erschieße den Boten”] — der Mechanismus, den der Schluss direkt beschreibt.
 
-["Das richtige Werkzeug wird das lösen"] — kein größeres Boot, kein schärferes Messer. Ein fehlender Regulator ist kein Werkzeugproblem.
+[“Das richtige Werkzeug wird das lösen”] — kein größeres Boot, kein schärferes Messer. Ein fehlender Regulator ist kein Werkzeugproblem.
 
 Siehe auch (externe Links):
 
@@ -142,7 +142,7 @@ The Nobel Prize in Literature 1954 — NobelPrize.org — Die offizielle Nobelpr
 
 When Ernest Hemingway Walked Away From Two Plane Crashes Just Hours Apart (Mental Floss) — Die beiden Flugzeugabstürze in Ostafrika 1954, Monate vor der Nobelpreisverleihung.
 
-Hemingway's Correspondence around Across the River and into the Trees (1949–1950): Process and Reception (The Hemingway Society) — Die kritische Aufnahme des Romans, der The Old Man and the Sea unmittelbar vorausging.
+Hemingway’s Correspondence around Across the River and into the Trees (1949–1950): Process and Reception (The Hemingway Society) — Die kritische Aufnahme des Romans, der The Old Man and the Sea unmittelbar vorausging.
 
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
