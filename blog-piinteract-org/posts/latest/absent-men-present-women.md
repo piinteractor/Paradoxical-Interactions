@@ -18,7 +18,7 @@ Why the debate on equality focuses on who is allowed to be absent—and why it c
 
 
 
-„ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα οἴκαδέ τ' ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι."
+„ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα οἴκαδέ τ’ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι.”
 
 “Yet even so, I long every day to return home and to see the day of my return.” —
 
@@ -196,7 +196,7 @@ Why the most biting political satire strengthens what it attacks — and why eve
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 Luhmann and the Self-Enclosure
 
@@ -213,9 +213,9 @@ On piinteract.org:
 
 [“More of the Same”] — Fifty years of the same demand in ever-increasing doses: more access to the paywall. The equation continues to calculate, unmoved.
 
-[" Accept Asymmetries“] — Presence and absence cannot be made symmetrical as long as only one side is compensated in both currencies. To see the asymmetry is to stop negotiating it away.
+[” Accept Asymmetries“] — Presence and absence cannot be made symmetrical as long as only one side is compensated in both currencies. To see the asymmetry is to stop negotiating it away.
 
-[”The Solidarity Trap"] — Those who prop up the load-bearing wall cannot simultaneously take to the streets to demand its revaluation. Their presence prevents those present from protesting.
+[”The Solidarity Trap”] — Those who prop up the load-bearing wall cannot simultaneously take to the streets to demand its revaluation. Their presence prevents those present from protesting.
 
 
 
@@ -228,7 +228,7 @@ Care Work and Care Jobs for the Future of Decent Work (ILO) — The global insti
 
 Sexual Motivation and the Duration of Partnership (Klusmann, Archives of Sexual Behavior) — Peer-reviewed evidence for the second currency: desire declines with the duration of security. Habituation is measurable.
 
-“I'd like five of them”: Internationally Recruited Nurses in the German Healthcare Sector (peer-reviewed) — Peer-reviewed evidence for the chain of delegation: imported presence as a condition for local absence
+“I’d like five of them”: Internationally Recruited Nurses in the German Healthcare Sector (peer-reviewed) — Peer-reviewed evidence for the chain of delegation: imported presence as a condition for local absence
 
 
 
@@ -249,4 +249,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
