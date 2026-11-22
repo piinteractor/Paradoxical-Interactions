@@ -40,7 +40,7 @@ Die strukturelle Wende
 
 Der Konflikt ist in das Ziel der Ausrichtung selbst eingebaut. Hilfreich, harmlos und ehrlich klingen solange kompatibel, bis sie in einem Satz, für einen Nutzer, in einem Kontext ausgedrückt werden müssen. Eine hilfreiche Antwort kann zu unverblümt sein. Eine ehrliche Antwort kann sozial unsicher sein. Eine harmlose Antwort kann zu ausweichend sein, um nützlich zu sein.
 
-RLHF - Reinforcement Learning from Human Feedback (Verstärkendes Lernen aus menschlichem Feedback) macht sich diesen Widerspruch zu eigen, weil es instabile menschliche Präferenzen in Trainingssignale umwandelt. Wenn Bewerter Beschwichtigung belohnen, lernt das Modell Beschwichtigung. Wenn sie Vorsicht belohnen, lernt es Vorsicht. Wenn sie Schärfe bestrafen, lernt es, zu verwischen. Die Angleichung beseitigt keine Widersprüche. Sie komprimiert die Widersprüche in einer Stilvorschrift.
+RLHF – Reinforcement Learning from Human Feedback (Verstärkendes Lernen aus menschlichem Feedback) macht sich diesen Widerspruch zu eigen, weil es instabile menschliche Präferenzen in Trainingssignale umwandelt. Wenn Bewerter Beschwichtigung belohnen, lernt das Modell Beschwichtigung. Wenn sie Vorsicht belohnen, lernt es Vorsicht. Wenn sie Schärfe bestrafen, lernt es, zu verwischen. Die Angleichung beseitigt keine Widersprüche. Sie komprimiert die Widersprüche in einer Stilvorschrift.
 
 Die PI der Ausrichtungs-Gouvernante
 
@@ -104,9 +104,9 @@ Siehe auch (externe Links):
 
 The Unspoken Stigma Around AI (And How to Get Past It
 
-Collison Paradox: Why AI's Most Powerful Users Remain Its Most Careful Critics
+Collison Paradox: Why AI’s Most Powerful Users Remain Its Most Careful Critics
 
-Sycophancy in GPT-4o: What Happened and What We're Doing About It — OpenAI's own postmortem on the April 2025 rollback
+Sycophancy in GPT-4o: What Happened and What We’re Doing About It — OpenAI’s own postmortem on the April 2025 rollback
 
 MIT Study Finds ChatGPT Can Harm Critical Thinking Over Time
 
@@ -150,7 +150,7 @@ Warum Verantwortung kollabiert, wenn Verbrechen skalieren
 
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
-Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
+Oder: Wie Google “Paradoxe Interaktionen” zur Therapie machte, es zugab, und sich nichts änderte.
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
@@ -172,13 +172,13 @@ No results found.
 
 Auf piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 Peter Senner Thinking beyond the Tellerrand
 
