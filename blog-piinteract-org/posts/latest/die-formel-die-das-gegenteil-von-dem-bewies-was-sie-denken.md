@@ -32,11 +32,11 @@ Penrose druckte die Formel, weil sie hässlich war. Weil etwas so Aufgeblähtes,
 
 Es beschrieb alles — außer der Gravitation. Es sagte Teilchenmassen voraus — tat es aber nicht, weil die Massen von Hand eingefügt werden mussten. Es war gleichzeitig die erfolgreichste und unvollständigste Theorie in der Geschichte der Physik.
 
-Penrose' Botschaft: Wir können es besser machen. Wir müssen es besser machen.
+Penrose’ Botschaft: Wir können es besser machen. Wir müssen es besser machen.
 
 Akt II: Der Tweet
 
-Zwanzig Jahre später postet jemand die Formel auf Twitter/X. Kein Kontext. Keine Quellenangabe. Keine Erwähnung von Penrose' Argument. Nur das Bild — gewaltig, einschüchternd, großartig — mit einer impliziten Botschaft: Seht euch das an. Seht, wie viel wir wissen. Seht, wie brillant das ist.
+Zwanzig Jahre später postet jemand die Formel auf Twitter/X. Kein Kontext. Keine Quellenangabe. Keine Erwähnung von Penrose’ Argument. Nur das Bild — gewaltig, einschüchternd, großartig — mit einer impliziten Botschaft: Seht euch das an. Seht, wie viel wir wissen. Seht, wie brillant das ist.
 
 Der Tweet geht viral. Tausende Impressionen. Herzen. Retweets. Lesezeichen von Menschen, die sie nie wieder öffnen werden. Die Formel wird zu dem, was das Internet am besten kann: ein Signifikant von Intelligenz, seiner Bedeutung beraubt.
 
@@ -46,11 +46,11 @@ Das Publikum handelte rational. Sich mit ehrfurchtgebietenden Inhalten zu besch�
 
 Der Algorithmus handelte rational. Er maß Engagement und lieferte mehr von dem, was funktionierte.
 
-Und das kollektive Ergebnis? Penrose' Kritik am Standardmodell wurde zu einer Werbung dafür. Sein Argument gegen intellektuelle Selbstzufriedenheit wurde zu einem Vehikel für intellektuelle Selbstzufriedenheit. Die Bedeutung ging nicht nur verloren — sie wurde umgekehrt.
+Und das kollektive Ergebnis? Penrose’ Kritik am Standardmodell wurde zu einer Werbung dafür. Sein Argument gegen intellektuelle Selbstzufriedenheit wurde zu einem Vehikel für intellektuelle Selbstzufriedenheit. Die Bedeutung ging nicht nur verloren — sie wurde umgekehrt.
 
 Akt III: Die Korrektur, die niemand sieht
 
-Irgendwo in den Antworten schreibt jemand: "Eigentlich hat Penrose das gedruckt, um zu zeigen, wie unelegant es ist." Eine Handvoll Zeichen, die den ursprünglichen Kontext wiederherstellen. Die vollständige Korrektur.
+Irgendwo in den Antworten schreibt jemand: “Eigentlich hat Penrose das gedruckt, um zu zeigen, wie unelegant es ist.” Eine Handvoll Zeichen, die den ursprünglichen Kontext wiederherstellen. Die vollständige Korrektur.
 
 Es bekommt drei Likes.
 
@@ -74,7 +74,7 @@ Und doch produziert das System das strukturelle Gegenteil seiner beabsichtigten 
 
 Alle sind schuldig. Niemand ist schuld.
 
-Die Formel, die "das ist nicht gut genug" sagen sollte, sagt jetzt "seht, wie gut das ist". Und die Architektur, die diese Umkehrung ermöglicht, ist kein Bug im System. Sie ist das System.
+Die Formel, die “das ist nicht gut genug” sagen sollte, sagt jetzt “seht, wie gut das ist”. Und die Architektur, die diese Umkehrung ermöglicht, ist kein Bug im System. Sie ist das System.
 
 Alle sind schuldig. Keiner kann was dafür.
 
@@ -86,7 +86,7 @@ Dies ist keine Geschichte über Social Media. Social Media macht die Struktur le
 
 Die gleiche paradoxe Interaktion wirkt im Peer-Review (wo Strenge und Neuheit strukturell entgegengesetzt sind), im demokratischen Diskurs (wo informierte Nuancierung und Wahlerfolg strukturell entgegengesetzt sind), in der Unternehmensführung (wo langfristiges Denken und Quartalsberichte strukturell entgegengesetzt sind).
 
-Überall dort, wo rationale individuelle Akteure innerhalb von Systemen operieren, die ihre Handlungen durch Metriken aggregieren, die Bedeutung nicht erfassen können, werden Sie Penrose' Formel finden, die ohne Penrose' Punkt getweetet wird.
+Überall dort, wo rationale individuelle Akteure innerhalb von Systemen operieren, die ihre Handlungen durch Metriken aggregieren, die Bedeutung nicht erfassen können, werden Sie Penrose’ Formel finden, die ohne Penrose’ Punkt getweetet wird.
 
 Das Standardmodell beschreibt alle fundamentalen Kräfte außer der, die alles zusammenhält.
 
