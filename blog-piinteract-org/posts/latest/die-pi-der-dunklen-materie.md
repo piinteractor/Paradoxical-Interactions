@@ -38,11 +38,11 @@ Der Experimentalphysiker baut einen Detektor. Jede Generation empfindlicher als 
 
 Der Theoretiker sagt Kandidaten vorher. WIMPs. Axionen. Sterile Neutrinos. Jede Vorhersage generiert Experimente. Jedes Experiment generiert Null-Ergebnisse. Jedes Null-Ergebnis generiert verfeinerte Vorhersagen. Der Zyklus ist elegant — und geschlossen.
 
-Die Institution finanziert, was die Community als vielversprechend betrachtet. Dunkle-Materie-Detektion ist vielversprechend. Tausende Karrieren hängen davon ab. Milliarden an Infrastruktur existieren ihretwegen. Die Frage „Existiert Dunkle Materie als Teilchen?" ist nicht nur Physik. Sie ist Gehaltsabrechnung.
+Die Institution finanziert, was die Community als vielversprechend betrachtet. Dunkle-Materie-Detektion ist vielversprechend. Tausende Karrieren hängen davon ab. Milliarden an Infrastruktur existieren ihretwegen. Die Frage „Existiert Dunkle Materie als Teilchen?” ist nicht nur Physik. Sie ist Gehaltsabrechnung.
 
 Der Doktorand forscht, was sein Betreuer erforscht. Sein Betreuer erforscht, was dessen Betreuer erforschte. Die Kette reicht Jahrzehnte zurück. Sie zu brechen bedeutet nicht, falsch zu liegen. Es bedeutet, allein zu sein.
 
-Die Fachzeitschrift publiziert Ergebnisse. Einschließlich Null-Ergebnisse — „Wir haben es nicht gefunden, aber mit beispielloser Präzision." Das ist echte Wissenschaft. Es ist auch eine Struktur, die Abwesenheit von Evidenz in Evidenz fortgesetzter Notwendigkeit verwandelt.
+Die Fachzeitschrift publiziert Ergebnisse. Einschließlich Null-Ergebnisse — „Wir haben es nicht gefunden, aber mit beispielloser Präzision.” Das ist echte Wissenschaft. Es ist auch eine Struktur, die Abwesenheit von Evidenz in Evidenz fortgesetzter Notwendigkeit verwandelt.
 
 Alle handeln rational. Niemand macht etwas falsch.
 
@@ -72,7 +72,7 @@ Kassandra sah Troja brennen, bevor es brannte. Das Problem war nie ihre Sicht. E
 
 Der Bullet Cluster — oder: wie ein Datenpunkt ein Gespräch beendet
 
-Jetzt der Teil, bei dem ein Physiker erleichtert ausatmet: „Aber der Bullet Cluster."
+Jetzt der Teil, bei dem ein Physiker erleichtert ausatmet: „Aber der Bullet Cluster.”
 
 Fair. Reden wir darüber.
 
@@ -82,7 +82,7 @@ Es ist eine eindrucksvolle Beobachtung. Ein echtes Problem für reines MOND. Kei
 
 Und die Struktur benutzte es wie eine Guillotine.
 
-„Bullet Cluster. Fall abgeschlossen. MOND ist tot. Nächste Frage." Das wurde die strukturelle Antwort — in Vorlesungen, in Lehrbüchern, in Gutachten, in Förderanträgen. Eine Beobachtung. Gespräch beendet.
+„Bullet Cluster. Fall abgeschlossen. MOND ist tot. Nächste Frage.” Das wurde die strukturelle Antwort — in Vorlesungen, in Lehrbüchern, in Gutachten, in Förderanträgen. Eine Beobachtung. Gespräch beendet.
 
 Was die Struktur nicht sagt:
 
@@ -104,13 +104,13 @@ Anti-Practices in Aktion
 
 Beobachte die Muster:
 
-"More of the Same." Der Detektor hat nichts gefunden? Bau einen empfindlicheren. Der hat auch nichts gefunden? Noch empfindlicher. Die Logik ist bestechend. Die Struktur skaliert. Das Ergebnis nicht.
+“More of the Same.” Der Detektor hat nichts gefunden? Bau einen empfindlicheren. Der hat auch nichts gefunden? Noch empfindlicher. Die Logik ist bestechend. Die Struktur skaliert. Das Ergebnis nicht.
 
-"Never Change a Winning Team." ΛCDM — das Standardmodell der Kosmologie — funktioniert. Es erklärt die kosmische Hintergrundstrahlung, die großräumige Struktur, die Expansion des Universums. Es funktioniert wunderbar. Es erfordert nur, dass 85% der Realität aus etwas bestehen, das noch nie jemand nachgewiesen hat. Das ist kein Detail. Aber das Modell funktioniert überall sonst zu gut, um den Teil in Frage zu stellen, der nicht funktioniert.
+“Never Change a Winning Team.” ΛCDM — das Standardmodell der Kosmologie — funktioniert. Es erklärt die kosmische Hintergrundstrahlung, die großräumige Struktur, die Expansion des Universums. Es funktioniert wunderbar. Es erfordert nur, dass 85% der Realität aus etwas bestehen, das noch nie jemand nachgewiesen hat. Das ist kein Detail. Aber das Modell funktioniert überall sonst zu gut, um den Teil in Frage zu stellen, der nicht funktioniert.
 
-"Equilibrium of Incompetence." Kosmologen brauchen Teilchenphysik, um Dunkle Materie zu erklären. Teilchenphysiker brauchen Kosmologie, um die Suche nach Dunkler Materie zu rechtfertigen. Keine der beiden Communities durchdringt die Domäne der anderen vollständig. In der Lücke zwischen ihnen lebt die Dunkle Materie — nicht als Teilchen, sondern als Platzhalter, den keine Seite entfernen kann, weil er in beiden Strukturen tragend ist.
+“Equilibrium of Incompetence.” Kosmologen brauchen Teilchenphysik, um Dunkle Materie zu erklären. Teilchenphysiker brauchen Kosmologie, um die Suche nach Dunkler Materie zu rechtfertigen. Keine der beiden Communities durchdringt die Domäne der anderen vollständig. In der Lücke zwischen ihnen lebt die Dunkle Materie — nicht als Teilchen, sondern als Platzhalter, den keine Seite entfernen kann, weil er in beiden Strukturen tragend ist.
 
-"Shoot the Messenger." Milgrom wurde nicht marginal, weil seine Theorie scheiterte. Er wurde marginal, weil sie gerade genug Erfolg hatte, um bedrohlich zu sein — aber nicht überwältigend genug, um eine strukturelle Kapitulation zu erzwingen.
+“Shoot the Messenger.” Milgrom wurde nicht marginal, weil seine Theorie scheiterte. Er wurde marginal, weil sie gerade genug Erfolg hatte, um bedrohlich zu sein — aber nicht überwältigend genug, um eine strukturelle Kapitulation zu erzwingen.
 
 Heisenberg in der Physik der Physik
 
@@ -146,7 +146,7 @@ Das ist eine strukturelle Beobachtung:
 
 Die Suche nach Dunkler Materie zeigt jede Signatur einer Paradoxen Interaktion. Rationale Akteure, fehlausgerichtete Anreize, selbststabilisierende Dynamiken, systematische Marginalisierung von Alternativen und eine kollektive Unfähigkeit, die Prämisse zu hinterfragen — nicht weil irgendjemand falsch liegt, sondern weil die Struktur die Frage nicht zulässt.
 
-Wenn du Physiker bist und dich gerade angegriffen fühlst, ist das Teil der Struktur, die ich beschreibe. Die emotionale Reaktion — der Impuls zu verteidigen, abzutun, das hier als „Outsider-Unsinn" einzuordnen — ist keine Widerlegung. Sie ist ein Symptom. Und sie als solches zu erkennen, ist der erste Schritt aus dem Muster.
+Wenn du Physiker bist und dich gerade angegriffen fühlst, ist das Teil der Struktur, die ich beschreibe. Die emotionale Reaktion — der Impuls zu verteidigen, abzutun, das hier als „Outsider-Unsinn” einzuordnen — ist keine Widerlegung. Sie ist ein Symptom. Und sie als solches zu erkennen, ist der erste Schritt aus dem Muster.
 
 Das tiefere Muster
 
@@ -154,7 +154,7 @@ Dunkle Materie ist interessant, weil sie PI zeigt, die in der Physik operiert �
 
 Wenn es hier passieren kann — in einem Feld mit Peer Review, Reproduzierbarkeit, mathematischer Strenge und einem echten kulturellen Bekenntnis zur Wahrheit — dann kann es überall passieren. Und es tut es.
 
-In der KI-Sicherheit, wo Alignment-Forschung davon ausgeht, dass Alignment erreichbar ist — weil die Struktur „das könnte unmöglich sein" nicht finanzieren kann.
+In der KI-Sicherheit, wo Alignment-Forschung davon ausgeht, dass Alignment erreichbar ist — weil die Struktur „das könnte unmöglich sein” nicht finanzieren kann.
 
 In der demokratischen Governance, wo Reformbemühungen davon ausgehen, dass das System sich selbst reformieren kann — weil das Gegenteil einzugestehen keine Lobby hat.
 
@@ -196,7 +196,7 @@ AI Alignment — Technology & AI Examples — The structural dimension of what A
 
 Core Practices — Foundational PI concepts and navigation strategies
 
-Anti-Practices — "This Time Will Be Different" and other patterns that strengthen PI
+Anti-Practices — “This Time Will Be Different” and other patterns that strengthen PI
 
 The PI Framework — What Paradoxical Interactions are and why they matter
 
