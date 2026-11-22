@@ -38,7 +38,7 @@ Mass of participants reintegrated → system continuity preserved
 
 Administrative, military, economic, scientific elites remained largely intact → operational capacity maintained
 
-This asymmetry wasn't accidental. It was structural.
+This asymmetry wasn’t accidental. It was structural.
 
 
 
@@ -48,7 +48,7 @@ This asymmetry wasn't accidental. It was structural.
 
 Justice Follows Replaceability
 
-The decisive criterion wasn't moral responsibility. It was dispensability.
+The decisive criterion wasn’t moral responsibility. It was dispensability.
 
 Justice was applied where the system could afford it—not where guilt was maximal.
 
@@ -68,7 +68,7 @@ Destabilizing an already destroyed country
 
 Full moral justice would have made reconstruction structurally impossible.
 
-This isn't a moral argument. It's a systems argument.
+This isn’t a moral argument. It’s a systems argument.
 
 A system that fully applies its own moral logic to itself annihilates its operational capacity.
 
@@ -94,7 +94,7 @@ The more justice is morally necessary, the less the system can structurally affo
 
 And the more the system needs to survive, the less justice it can deliver.
 
-This is not a German exception. It's a structural law of post-crime systems.
+This is not a German exception. It’s a structural law of post-crime systems.
 
 
 
@@ -116,7 +116,7 @@ Result: Justice became narratively containable.
 
 Not because it was complete. Because it was complete enough for the system to continue.
 
-The trials didn't close the case. They made closure structurally possible.
+The trials didn’t close the case. They made closure structurally possible.
 
 
 
@@ -130,9 +130,9 @@ Wernher von Braun: Not rehabilitated. Recontextualized.
 
 From participant in forced labor camp operations → to rocket scientist asset in geopolitical competition.
 
-The pattern isn't that crime disappears. The pattern is that crime changes system position.
+The pattern isn’t that crime disappears. The pattern is that crime changes system position.
 
-Guilt wasn't denied. It was re-functioned.
+Guilt wasn’t denied. It was re-functioned.
 
 When strategic value exceeds juridical consistency, competence outweighs accountability.
 
@@ -144,7 +144,7 @@ When strategic value exceeds juridical consistency, competence outweighs account
 
 Cold War as Justice Filter
 
-The Cold War didn't create this structure—it hardened it.
+The Cold War didn’t create this structure—it hardened it.
 
 Former Wehrmacht officers became NATO advisors
 
@@ -172,11 +172,11 @@ Full prosecution → destabilize the transition, risk civil war
 
 Truth and Reconciliation → acknowledge crimes, preserve system continuity
 
-The TRC wasn't moral weakness. It was structural navigation.
+The TRC wasn’t moral weakness. It was structural navigation.
 
 Full accountability would have made transition impossible.
 
-The apartheid system involved millions—from architects to administrators to everyday beneficiaries. Prosecuting all would have paralyzed the new state's operational capacity.
+The apartheid system involved millions—from architects to administrators to everyday beneficiaries. Prosecuting all would have paralyzed the new state’s operational capacity.
 
 Result: Truth without full prosecution. Acknowledgment without full justice.
 
@@ -206,7 +206,7 @@ Solution: Gacaca courts—community-based justice. Faster, but less rigorous.
 
 The trade-off: Operational capacity vs. juridical thoroughness.
 
-Again: The system couldn't afford full justice in its ideal form without breaking itself.
+Again: The system couldn’t afford full justice in its ideal form without breaking itself.
 
 
 
@@ -246,13 +246,13 @@ The pattern: Systems processing their own crimes face structural limits. Not mor
 
 Why Structure ≠ Exculpation
 
-This analysis explains. It doesn't excuse.
+This analysis explains. It doesn’t excuse.
 
-Structural pressure describes behavior. It doesn't convert agency into innocence.
+Structural pressure describes behavior. It doesn’t convert agency into innocence.
 
-Constraint explains why actors behaved as they did. It doesn't absolve them.
+Constraint explains why actors behaved as they did. It doesn’t absolve them.
 
-The Nazi functionary who escaped prosecution because he was "needed" for reconstruction:
+The Nazi functionary who escaped prosecution because he was “needed” for reconstruction:
 
 Structurally: Indispensable
 
@@ -270,7 +270,7 @@ All are guilty. None are at fault. ← The structure, not the individuals.
 
 The Moral Remainder
 
-Incomplete justice doesn't dissolve responsibility. It creates something worse:
+Incomplete justice doesn’t dissolve responsibility. It creates something worse:
 
 A remainder that cannot be processed.
 
@@ -280,7 +280,7 @@ Guilt without full accountability
 
 Responsibility without full attribution
 
-That remainder doesn't disappear. It migrates:
+That remainder doesn’t disappear. It migrates:
 
 Into narratives
 
@@ -302,7 +302,7 @@ Why This Matters Beyond History
 
 This structure repeats wherever crimes are systemic:
 
-Financial crises: Prosecute bankers → destabilize system → "too big to jail"
+Financial crises: Prosecute bankers → destabilize system → “too big to jail”
 
 Colonial crimes: Full reparations → economic collapse of former powers
 
@@ -334,7 +334,7 @@ Both options fail. One morally. One operationally.
 
 There is no third option. Only navigation between two failures.
 
-That's not pessimism. That's structure.
+That’s not pessimism. That’s structure.
 
 
 
@@ -348,9 +348,9 @@ If this analysis feels like an excuse, that reaction is itself part of the struc
 
 When justice threatens system continuity, excuses become structurally attractive. Not because people lack morality, but because systems prioritize survival.
 
-This text doesn't offer reconciliation. It offers visibility.
+This text doesn’t offer reconciliation. It offers visibility.
 
-Justice didn't fail because people lacked morality.
+Justice didn’t fail because people lacked morality.
 
 It failed because morality collided with system survivability.
 
@@ -374,11 +374,11 @@ Moral purity AND structural functionality
 
 Every post-crime system faces this structure.
 
-Some navigate it transparently (South Africa's TRC).
+Some navigate it transparently (South Africa’s TRC).
 
-Some obscure it (Germany's selective reintegration).
+Some obscure it (Germany’s selective reintegration).
 
-Some overwhelm themselves trying to do both (Rwanda's courts).
+Some overwhelm themselves trying to do both (Rwanda’s courts).
 
 None escape the structure.
 
@@ -398,7 +398,7 @@ Try and continue.
 
 Related:
 
-Anti-Practices: "Put Good People in Charge"
+Anti-Practices: “Put Good People in Charge”
 
 Core Practices: Navigation, Not Solution
 
