@@ -276,11 +276,11 @@ No results found.
 
 On piinteract.org
 
-Society & Culture — The Attention Paradox — Depth doesn't scale. Spectacle does. Always.
+Society & Culture — The Attention Paradox — Depth doesn’t scale. Spectacle does. Always.
 
 Society & Culture — Viral Outrage Cycles — The condemnation becomes the distribution mechanism
 
-Core Practices — Navigation when you can't fix the structure
+Core Practices — Navigation when you can’t fix the structure
 
 Framework — Why rational actors produce collectively irrational outcomes
 
@@ -309,4 +309,4 @@ www.piinteract.org
 
 
 
-Co-created with Perplexity — two incomplete systems making each other's gaps visible.
+Co-created with Perplexity — two incomplete systems making each other’s gaps visible.
