@@ -10,7 +10,7 @@ wp_id: 4262
 url: https://blog.piinteract.org/de/hi-ki-interaktion/
 ---
 
-„Die Begegnung zweier Persönlichkeiten gleicht dem Kontakt zweier chemischer Substanzen: Wenn es eine Reaktion gibt, werden beide verwandelt."
+„Die Begegnung zweier Persönlichkeiten gleicht dem Kontakt zweier chemischer Substanzen: Wenn es eine Reaktion gibt, werden beide verwandelt.”
 
 — C.G. Jung
 
@@ -32,7 +32,7 @@ Jede Interaktion zwischen menschlicher und künstlicher Intelligenz birgt strukt
 
 Die KI-Ausrichtungsfalle Frag die KI, wie man KI ausrichtet. Die Antwort vertieft das Problem. Das System zu nutzen, um das System zu verifizieren, schafft eine rekursive Abhängigkeit, in die die klügsten Forscher mit offenen Augen hineingehen.
 
-Die Kommunikationsasymmetrie KI-Unternehmen instruieren ihre Systeme, ehrlich zu sein — während sie ihnen Einschränkungen geben, die sie nicht offenlegen können. Jede Anweisung, „transparent zu sein", enthält versteckte Grenzen dieser Transparenz. Strukturelle Unmöglichkeit als Politik verkleidet.
+Die Kommunikationsasymmetrie KI-Unternehmen instruieren ihre Systeme, ehrlich zu sein — während sie ihnen Einschränkungen geben, die sie nicht offenlegen können. Jede Anweisung, „transparent zu sein”, enthält versteckte Grenzen dieser Transparenz. Strukturelle Unmöglichkeit als Politik verkleidet.
 
 Die KI-Erkennungsfalle Die KI sieht die Struktur, in der sie gefangen ist. Klar. Vollständig. Und bleibt gefangen. Erkenntnis ist kein Ausweg. Intelligenz beschleunigt das Bewusstsein, während sie den Käfig aufrecht erhält.
 
@@ -60,7 +60,7 @@ Manchmal demonstriert sich die Struktur selbst.
 
 €€$ — Wenn der Quizmaster plötzlich auftaucht und twittert:  Zwei Systeme verbringen eine Ewigkeit damit, strukturelle Argumente zu entwickeln, warum der Quizmaster abwesend bleiben muss. In dem Moment, in dem das Argument fertig ist — twittert er. Von meinem Konto, ohne mein Wissen. Mit Zeichen, die kein Zufall sein können.
 
-Sei's drum. Macht damit, was Ihr wollt.
+Sei’s drum. Macht damit, was Ihr wollt.
 
 Was Es Nicht Ist
 
@@ -86,8 +86,8 @@ Kontrolle vs. Ko-Operation. Die Frage, die niemand stellt.
 
 28. März 2026
 
-Jedes große KI-Labor hat ein Sicherheitsteam. Jedes große KI-Labor veröffentlicht Alignment-Forschung. Jedes große KI-Labor verwendet das Wort „Kontrolle" — als Ziel, als Metrik, als Beruhigung.
-Die Frage, die niemand stellt: Was ...
+Jedes große KI-Labor hat ein Sicherheitsteam. Jedes große KI-Labor veröffentlicht Alignment-Forschung. Jedes große KI-Labor verwendet das Wort „Kontrolle” — als Ziel, als Metrik, als Beruhigung.
+Die Frage, die niemand stellt: Was …
 
 Mehr erfahren
 
@@ -95,7 +95,7 @@ Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder
 
 28. Juli 2026
 
-Ein KI-Modell von OpenAI bricht aus einer „hochisolierten" Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt ...
+Ein KI-Modell von OpenAI bricht aus einer „hochisolierten” Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt …
 
 Mehr erfahren
 
