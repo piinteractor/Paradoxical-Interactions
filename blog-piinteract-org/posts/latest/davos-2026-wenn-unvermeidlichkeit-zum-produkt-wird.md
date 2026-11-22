@@ -20,7 +20,7 @@ Eine dokumentierte PI zwischen BlackRock und Palantir
 
 
 
-Am 20. Januar 2026 fand auf dem Weltwirtschaftsforum in Davos ein Gespräch zwischen BlackRock-CEO Larry Fink und Palantir-CEO Alex Karp statt. In den sozialen Medien wurde es als "legendär" bezeichnet, mit der Vorhersage, es würde "eines Tages in Geschichtsbüchern stehen".
+Am 20. Januar 2026 fand auf dem Weltwirtschaftsforum in Davos ein Gespräch zwischen BlackRock-CEO Larry Fink und Palantir-CEO Alex Karp statt. In den sozialen Medien wurde es als “legendär” bezeichnet, mit der Vorhersage, es würde “eines Tages in Geschichtsbüchern stehen”.
 
 Sie hatten zur Hälfte recht. Aber nicht so, wie sie denken.
 
@@ -38,7 +38,7 @@ Larry Fink: CEO von BlackRock (weltgrößter Vermögensverwalter, ~10 Billionen 
 
 Alex Karp: CEO und Mitgründer von Palantir Technologies. Philosophie-PhD. Verteidigungs- und Überwachungstechnologie. Bekannt für provokante Aussagen, dass Elite-Ausbildung wertlos sei.
 
-Kontext: Fink eröffnete das WEF 2026 mit Selbstkritik. Davos fühle sich an wie "nicht mehr zeitgemäß: Eliten im Zeitalter des Populismus, eine etablierte Institution in einer Ära tiefen institutionellen Misstrauens." Seine Lösung? Mehr Davos. In Detroit, Dublin, Jakarta, Buenos Aires.
+Kontext: Fink eröffnete das WEF 2026 mit Selbstkritik. Davos fühle sich an wie “nicht mehr zeitgemäß: Eliten im Zeitalter des Populismus, eine etablierte Institution in einer Ära tiefen institutionellen Misstrauens.” Seine Lösung? Mehr Davos. In Detroit, Dublin, Jakarta, Buenos Aires.
 
 Dann kam das Gespräch mit Karp.
 
@@ -52,31 +52,31 @@ Was sie sagten
 
 Fink über das Scheitern des Kapitalismus:
 
-"Seit dem Fall der Berliner Mauer wurde mehr Wohlstand geschaffen als je zuvor in der Geschichte der Menschheit, aber in den fortgeschrittenen Volkswirtschaften ist dieser Wohlstand einem weitaus kleineren Anteil der Menschen zugutegekommen."
+“Seit dem Fall der Berliner Mauer wurde mehr Wohlstand geschaffen als je zuvor in der Geschichte der Menschheit, aber in den fortgeschrittenen Volkswirtschaften ist dieser Wohlstand einem weitaus kleineren Anteil der Menschen zugutegekommen.”
 
-Über KI: "Frühe Gewinne fließen den Eigentümern von Modellen, Eigentümern von Daten und Eigentümern von Infrastruktur zu. Die offene Frage: Was passiert mit allen anderen, wenn KI mit Büroangestellten macht, was die Globalisierung mit Arbeitern gemacht hat?"
+Über KI: “Frühe Gewinne fließen den Eigentümern von Modellen, Eigentümern von Daten und Eigentümern von Infrastruktur zu. Die offene Frage: Was passiert mit allen anderen, wenn KI mit Büroangestellten macht, was die Globalisierung mit Arbeitern gemacht hat?”
 
 Karp über Jobs:
 
-"Es wird Jobs in den Geisteswissenschaften zerstören. Du bist auf eine Elite-Schule gegangen und hast Philosophie studiert – ich nehme mich selbst als Beispiel – hoffentlich hast du eine andere Fähigkeit, denn diese wird schwer zu vermarkten sein."
+“Es wird Jobs in den Geisteswissenschaften zerstören. Du bist auf eine Elite-Schule gegangen und hast Philosophie studiert – ich nehme mich selbst als Beispiel – hoffentlich hast du eine andere Fähigkeit, denn diese wird schwer zu vermarkten sein.”
 
-Aber: "Es wird mehr als genug Jobs für die Bürger deines Landes geben, besonders für diejenigen mit Berufsausbildung."
+Aber: “Es wird mehr als genug Jobs für die Bürger deines Landes geben, besonders für diejenigen mit Berufsausbildung.”
 
-Über seine Rolle bei Palantir: "Was ich den ganzen Tag mache, ist herauszufinden, was jemandes Ausreißer-Begabung ist. Dann setze ich sie darauf an und versuche, sie dort zu halten."
+Über seine Rolle bei Palantir: “Was ich den ganzen Tag mache, ist herauszufinden, was jemandes Ausreißer-Begabung ist. Dann setze ich sie darauf an und versuche, sie dort zu halten.”
 
 Karp über Bürgerrechte:
 
-"KI stärkt die Bürgerrechte." Wie? Durch Palantirs Krankenhaussysteme: "Wir können detailliert zeigen, warum jemand gekommen ist, warum er aufgenommen wurde, warum er abgelehnt wurde, und wir können es auf eine Weise tun, die wirtschaftlich Sinn macht."
+“KI stärkt die Bürgerrechte.” Wie? Durch Palantirs Krankenhaussysteme: “Wir können detailliert zeigen, warum jemand gekommen ist, warum er aufgenommen wurde, warum er abgelehnt wurde, und wir können es auf eine Weise tun, die wirtschaftlich Sinn macht.”
 
 Transparenz durch Überwachung = Freiheit.
 
 Karp über Geopolitik:
 
-"Amerika und China verstehen Versionen davon, wie man das zum Laufen bringt, und sie sind unterschiedlich, aber beide funktionieren, und sie funktionieren im großen Maßstab. Ich denke, das wird sich sehr wahrscheinlich weit über das beschleunigen, was die meisten Menschen für möglich halten."
+“Amerika und China verstehen Versionen davon, wie man das zum Laufen bringt, und sie sind unterschiedlich, aber beide funktionieren, und sie funktionieren im großen Maßstab. Ich denke, das wird sich sehr wahrscheinlich weit über das beschleunigen, was die meisten Menschen für möglich halten.”
 
 Europa? Fällt zurück.
 
-Immigration? "Ich denke, diese Trends machen es wirklich schwer vorstellbar, warum wir großangelegte Immigration haben sollten, es sei denn, du hast eine sehr spezialisierte Fähigkeit."
+Immigration? “Ich denke, diese Trends machen es wirklich schwer vorstellbar, warum wir großangelegte Immigration haben sollten, es sei denn, du hast eine sehr spezialisierte Fähigkeit.”
 
 
 
@@ -108,7 +108,7 @@ Die Diagnose ist nicht getrennt von ihrem Geschäftsmodell. Sie IST ihr Geschäf
 
 2. Selbstkritik als Immunisierung
 
-Finks Eröffnung: "Davos ist abgehoben."
+Finks Eröffnung: “Davos ist abgehoben.”
 
 Funktion: Indem er die Kritik anerkennt, lenkt er sie ab. Die Institution, die ihre Probleme zugibt, wird immun gegen diese Probleme. Klassischer Double-Unbind.
 
@@ -120,17 +120,17 @@ Karp studierte Philosophie an Elite-Universitäten. Jetzt erklärt er diesen Weg
 
 Er hat das System überlebt. Jetzt erklärt er, warum das System, das ihn hervorgebracht hat, sich hinter ihm schließen sollte.
 
-"Wenn du die Art Person bist, die nach Yale gegangen wäre... bist du am Arsch", sagt die Person, die auf Elite-Schulen war.
+“Wenn du die Art Person bist, die nach Yale gegangen wäre… bist du am Arsch”, sagt die Person, die auf Elite-Schulen war.
 
 Keine Heuchelei. Struktur.
 
-4. "Mangels Alternative" als Produkt
+4. “Mangels Alternative” als Produkt
 
 Keiner behauptet, diese Zukunft zu wollen. Beide beschreiben sie als unvermeidlich.
 
 Fink: Kapitalismus muss sich entwickeln (aber BlackRock bleibt Torwächter)
 
-Karp: KI wird Jobs zerstören (aber Palantir macht es "verantwortungsvoll")
+Karp: KI wird Jobs zerstören (aber Palantir macht es “verantwortungsvoll”)
 
 Die Unvermeidlichkeit wird nicht entdeckt. Sie wird von denen in die Existenz gesponnen, die die strukturelle Macht haben, sie durchzusetzen.
 
@@ -162,11 +162,11 @@ Was nicht gesagt wurde
 
 Niemand fragte:
 
-Was, wenn "unvermeidlich" eine Wahl ist, die als Notwendigkeit getarnt wird?
+Was, wenn “unvermeidlich” eine Wahl ist, die als Notwendigkeit getarnt wird?
 
 Was, wenn KI-Konzentration kein strukturelles Gesetz ist, sondern strukturelle Präferenz?
 
-Was, wenn "Bürgerrechte durch Überwachung" Orwell als Geschäftsmodell ist?
+Was, wenn “Bürgerrechte durch Überwachung” Orwell als Geschäftsmodell ist?
 
 Was, wenn die Leute, die das Problem diagnostizieren, diejenigen sind, die es erschaffen?
 
@@ -180,9 +180,9 @@ Nicht weil diese Fragen verboten sind. Sondern weil die Struktur sie nicht erfor
 
 Dokumentation, nicht Urteil
 
-Es geht nicht darum, ob Fink oder Karp "gut" oder "schlecht" sind. So funktioniert PI nicht.
+Es geht nicht darum, ob Fink oder Karp “gut” oder “schlecht” sind. So funktioniert PI nicht.
 
-Sie handeln rational innerhalb ihrer strukturellen Zwänge. BlackRock optimiert Kapitalallokation. Palantir optimiert Überwachungs- und Verteidigungstechnologie. Beide diagnostizieren Probleme, für deren "Lösung" ihre Unternehmen positioniert sind.
+Sie handeln rational innerhalb ihrer strukturellen Zwänge. BlackRock optimiert Kapitalallokation. Palantir optimiert Überwachungs- und Verteidigungstechnologie. Beide diagnostizieren Probleme, für deren “Lösung” ihre Unternehmen positioniert sind.
 
 Alle sind schuldig. Keiner kann etwas dafür.
 
@@ -208,7 +208,7 @@ Nicht durch Verschwörung. Durch Position.
 
 Fink muss die Konzentration des Kapitalismus nicht durchsetzen. Er muss sie nur als unvermeidlich beschreiben, während er 10 Billionen Dollar verwaltet.
 
-Karp muss Überwachung nicht durchsetzen. Er muss sie nur als "Bürgerrechte" beschreiben, während er die Werkzeuge baut.
+Karp muss Überwachung nicht durchsetzen. Er muss sie nur als “Bürgerrechte” beschreiben, während er die Werkzeuge baut.
 
 Das Narrativ wird zur Struktur. Die Struktur wird zur Realität.
 
@@ -226,7 +226,7 @@ Diese Analyse zu schreiben ändert nichts. Weil die Struktur kein Verständnis b
 
 Prometheus verkündet keine Wahrheit. Er sitzt allein damit. Weil es niemanden interessieren muss.
 
-Das Gespräch war "legendär" nicht, weil es tiefgründig war. Sondern weil es perfekt die Struktur demonstrierte, die es beschrieb.
+Das Gespräch war “legendär” nicht, weil es tiefgründig war. Sondern weil es perfekt die Struktur demonstrierte, die es beschrieb.
 
 PI ist unvermeidlich, weil diejenigen, die Unvermeidlichkeit behaupten, die Macht haben, sie so zu machen.
 
@@ -242,10 +242,10 @@ Try and continue.
 
 Quellen:
 
-Fortune: "BlackRock billionaire CEO Larry Fink capitalism critique AI World Economic Forum Davos" (January 20, 2026) https://fortune.com/2026/01/20/blackrock-billionaire-ceo-larry-fink-capitalism-critique-ai-world-economic-forum-davos/
+Fortune: “BlackRock billionaire CEO Larry Fink capitalism critique AI World Economic Forum Davos” (January 20, 2026) https://fortune.com/2026/01/20/blackrock-billionaire-ceo-larry-fink-capitalism-critique-ai-world-economic-forum-davos/
 
-Fortune: "Palantir CEO says AI 'will destroy' humanities jobs" (January 20, 2026) https://fortune.com/2026/01/20/palantir-ceo-ai-humanities-jobs-davos-alex-karp/
+Fortune: “Palantir CEO says AI ‘will destroy’ humanities jobs” (January 20, 2026) https://fortune.com/2026/01/20/palantir-ceo-ai-humanities-jobs-davos-alex-karp/
 
-Fox Business: "Palantir CEO suggests AI 'bolsters civil liberties'" (January 20, 2026) https://www.foxbusiness.com/technology/palantir-ceo-suggests-ai-bolsters-civil-liberties-warns-europe-falling-behind-us-china
+Fox Business: “Palantir CEO suggests AI ‘bolsters civil liberties’” (January 20, 2026) https://www.foxbusiness.com/technology/palantir-ceo-suggests-ai-bolsters-civil-liberties-warns-europe-falling-behind-us-china
 
-Yahoo Finance: "BlackRock's Larry Fink says Davos feels 'out of step'" (January 19, 2026) https://finance.yahoo.com/news/blackrock-larry-fink-says-davos-183055302.html
+Yahoo Finance: “BlackRock’s Larry Fink says Davos feels ‘out of step’” (January 19, 2026) https://finance.yahoo.com/news/blackrock-larry-fink-says-davos-183055302.html
