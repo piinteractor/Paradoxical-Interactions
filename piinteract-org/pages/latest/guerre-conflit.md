@@ -26,13 +26,13 @@ Les Pertes Justifient les Pertes
 
 La Structure
 
-La guerre commence (raisons variées, souvent rationnelles à l'époque). Des pertes se produisent.
+La guerre commence (raisons variées, souvent rationnelles à l’époque). Des pertes se produisent.
 
 Ces pertes doivent avoir un sens. Donc : continuer à combattre. Plus de pertes. Les pertes
 
 précédentes plus les nouvelles pertes doivent avoir un sens. Donc : continuer à combattre.
 
-Jusqu'à la déplétion. Puis la paix (non par perspicacité, par effondrement).
+Jusqu’à la déplétion. Puis la paix (non par perspicacité, par effondrement).
 
 Pourquoi Chaque Acteur Est Rationnel
 
@@ -54,19 +54,19 @@ Pas la sagesse. La déplétion.
 
 Exemples Historiques
 
-WWI Verdun (1916) : 700 000 victimes, zéro gain stratégique. Continué parce qu'arrêter rendrait les pertes précédentes insignifiantes.
+WWI Verdun (1916) : 700 000 victimes, zéro gain stratégique. Continué parce qu’arrêter rendrait les pertes précédentes insignifiantes.
 
 WWI Somme (1916) : Premier jour : 57 000 victimes britanniques. Campagne continuée cinq mois, justifiée par les pertes déjà subies.
 
 Vietnam : Escalade justifiée par les pertes précédentes. « Ne peuvent pas les laisser mourir en vain. » Plus meurent. Répétition.
 
-Afghanistan (tous participants) : 20 ans. Chaque année justifiée par l'investissement précédent.
+Afghanistan (tous participants) : 20 ans. Chaque année justifiée par l’investissement précédent.
 
 Le Piège
 
-Arrêter signifie admettre : Toutes ces morts étaient inutiles. C'est insupportable. Donc continuer.
+Arrêter signifie admettre : Toutes ces morts étaient inutiles. C’est insupportable. Donc continuer.
 
-Jusqu'à ce que la défaite ou la déplétion force l'admission.
+Jusqu’à ce que la défaite ou la déplétion force l’admission.
 
 La structure ne se brise pas par perspicacité. Elle se brise par déplétion.
 
@@ -74,7 +74,7 @@ Le Pacificateur comme Traître
 
 La Logique
 
-Quelqu'un propose la paix (reddition, armistice, négociation). Cela empêche la « victoire ».
+Quelqu’un propose la paix (reddition, armistice, négociation). Cela empêche la « victoire ».
 
 La victoire justifierait les pertes. Paix sans victoire = les pertes étaient insignifiantes.
 
@@ -88,17 +88,17 @@ Armistice signé. Guerre se termine.
 
 Question : Pourquoi avons-nous perdu si nous gagnions ?
 
-Réponse : Trahison. Traîtres à l'intérieur. Juifs, socialistes, criminels de novembre.
+Réponse : Trahison. Traîtres à l’intérieur. Juifs, socialistes, criminels de novembre.
 
 Le mythe : Nous aurions gagné, mais des ennemis internes nous ont trahis.
 
-Pourquoi C'est Structurel
+Pourquoi C’est Structurel
 
-Les pertes exigent un sens. La défaite militaire n'offre pas de sens (nous avons échoué).
+Les pertes exigent un sens. La défaite militaire n’offre pas de sens (nous avons échoué).
 
 La trahison offre un sens (nous avons été poignardés dans le dos).
 
-Le récit protège l'identité collective. Nous n'avons pas échoué. Nous avons été sabotés.
+Le récit protège l’identité collective. Nous n’avons pas échoué. Nous avons été sabotés.
 
 Conséquences
 
@@ -116,7 +116,7 @@ Post-Afghanistan : Divers récits de blâme.
 
 Chaque « cause perdue » : Génère un mythe de trahison.
 
-La structure se protège en externalisant l'échec. Puis se reproduit par vengeance.
+La structure se protège en externalisant l’échec. Puis se reproduit par vengeance.
 
 Le Paradoxe de Tirpitz
 
@@ -130,17 +130,17 @@ Résultat : La Grande-Bretagne perçoit la menace. Course aux armements navals. 
 
 Facteur contributif à WWI.
 
-L'Ironie
+L’Ironie
 
-WWI commence. Flotte allemande... reste au port.
+WWI commence. Flotte allemande… reste au port.
 
-Pourquoi ? Trop précieuse pour risquer. Royal Navy britannique supérieure. Une bataille majeure (Jutland, 1916) - match nul tactique, victoire stratégique britannique. Flotte retourne au port. Reste. Attend.
+Pourquoi ? Trop précieuse pour risquer. Royal Navy britannique supérieure. Une bataille majeure (Jutland, 1916) – match nul tactique, victoire stratégique britannique. Flotte retourne au port. Reste. Attend.
 
 La flotte qui a aidé à causer la guerre ne combat pas dans la guerre.
 
 Le Dernier Retournement
 
-Novembre 1918. Guerre se terminant. Haut commandement allemand ordonne à la flotte de prendre la mer. Mission suicide. Restaurer l'honneur.
+Novembre 1918. Guerre se terminant. Haut commandement allemand ordonne à la flotte de prendre la mer. Mission suicide. Restaurer l’honneur.
 
 Les marins refusent. Mutinerie. Kiel, 3 novembre 1918.
 
@@ -154,23 +154,23 @@ Flotte Tirpitz aide à causer la guerre (course aux armements, hostilité britan
 
 Flotte ne combat pas (trop précieuse, stratégiquement inutile contre force supérieure)
 
-Flotte termine la guerre (mutinerie déclenche l'effondrement)
+Flotte termine la guerre (mutinerie déclenche l’effondrement)
 
 Flotte blâmée pour « trahison » (Dolchstoßlegende)
 
-Le projet préféré de Wilhelm - son enfant chéri - devient le bouc émissaire de la défaite.
+Le projet préféré de Wilhelm – son enfant chéri – devient le bouc émissaire de la défaite.
 
 Pourquoi Chaque Acteur Était Rationnel
 
-Wilhelm : - Construire la flotte pour le prestige, projection de puissance
+Wilhelm : – Construire la flotte pour le prestige, projection de puissance
 
-Tirpitz : - Exécuter la politique, créer force navale
+Tirpitz : – Exécuter la politique, créer force navale
 
-Commandement naval : - Préserver la flotte (trop précieuse pour perdre)
+Commandement naval : – Préserver la flotte (trop précieuse pour perdre)
 
-Marins : - Refuser mission suicide (mort inutile)
+Marins : – Refuser mission suicide (mort inutile)
 
-Population : - Besoin de bouc émissaire (ne peut accepter défaite militaire)
+Population : – Besoin de bouc émissaire (ne peut accepter défaite militaire)
 
 Tous rationnels. Tous ont contribué à la catastrophe.
 
@@ -178,43 +178,43 @@ La Leçon
 
 La structure qui cause le problème devient la structure qui « trahit ». Le système dévore ses propres enfants. Rationnel à chaque étape.
 
-Tous sont coupables. Personne n'est fautif.
+Tous sont coupables. Personne n’est fautif.
 
 Pourquoi les Guerres Ne Finissent Pas Plus Tôt
 
 La Question
 
-Tout le monde sait que WWI est un carnage. En 1916, c'est clair : impasse. Aucune victoire possible.
+Tout le monde sait que WWI est un carnage. En 1916, c’est clair : impasse. Aucune victoire possible.
 
 Pourquoi continuer ?
 
 La Réponse
 
-Arrêter nécessite d'admettre : Les pertes précédentes étaient pour rien.
+Arrêter nécessite d’admettre : Les pertes précédentes étaient pour rien.
 
-L'autre côté avait raison. Nous avions tort. Moralement, stratégiquement, existentiellement.
+L’autre côté avait raison. Nous avions tort. Moralement, stratégiquement, existentiellement.
 
-C'est doublement insupportable.
+C’est doublement insupportable.
 
-  Les politiciens ne peuvent l'admettre (perdraient le pouvoir). Les généraux ne peuvent l'admettre
+  Les politiciens ne peuvent l’admettre (perdraient le pouvoir). Les généraux ne peuvent l’admettre
 
-  (perdraient leur position). Les soldats ne peuvent l'accepter (camarades morts pour rien).
+  (perdraient leur position). Les soldats ne peuvent l’accepter (camarades morts pour rien).
 
   La population ne peut le supporter (fils morts pour rien – et pour la mauvaise cause).
 
 La Structure
 
-  Chaque mort devient investissement exigeant un retour. Plus de morts = plus d'investissement.
+  Chaque mort devient investissement exigeant un retour. Plus de morts = plus d’investissement.
 
-  Plus d'investissement = retour requis plus élevé. Retour plus élevé = plus impossible à atteindre.
+  Plus d’investissement = retour requis plus élevé. Retour plus élevé = plus impossible à atteindre.
 
   Plus impossible = combat plus désespéré.
 
-Boucle de rétroaction positive. Jusqu'à la mort.
+Boucle de rétroaction positive. Jusqu’à la mort.
 
 Le Point de Rupture
 
-Pas la perspicacité. L'effondrement.
+Pas la perspicacité. L’effondrement.
 
 Quand il ne reste plus rien à sacrifier. Alors, et seulement alors, la paix.
 
@@ -224,11 +224,11 @@ La Logique
 
 La guerre se termine (déplétion, défaite, négociation). Le mythe de trahison émerge
 
-(Dolchstoß, politiciens, contraintes). Récit : « Nous aurions pu gagner, mais... ».
+(Dolchstoß, politiciens, contraintes). Récit : « Nous aurions pu gagner, mais… ».
 
 La génération suivante grandit avec le mythe. Le mythe génère la motivation :
 
-« Finir ce qu'ils ont commencé. Pas de traîtres cette fois. ».
+« Finir ce qu’ils ont commencé. Pas de traîtres cette fois. ».
 
 La guerre suivante commence, encore plus totale, parce que des « leçons » sont tirées
 
@@ -250,17 +250,17 @@ Les guerres génèrent des mythes qui génèrent des guerres. La structure se re
 
 mémoire. Chaque guerre « apprend » de la précédente comment combattre plus totalement.
 
-Le progrès signifie l'escalade.
+Le progrès signifie l’escalade.
 
 Ce Qui Ne Fonctionne Pas
 
-« La Guerre Est L'Enfer » – Dissuasion par l'Horreur
+« La Guerre Est L’Enfer » – Dissuasion par l’Horreur
 
 Ne fonctionne pas. Chaque génération pense : « Cette fois sera différente. Nous sommes préparés.
 
 Nous sommes plus forts. Nous ne serons pas trahis. ».
 
-L'horreur est abstraite jusqu'à être vécue. Alors, trop tard – pertes déjà investies.
+L’horreur est abstraite jusqu’à être vécue. Alors, trop tard – pertes déjà investies.
 
 « La Paix par la Force »
 
@@ -268,17 +268,17 @@ Courses aux armements. Chaque côté construit pour dissuader. Chaque côté per
 
 Escalade. Guerre.
 
-Tirpitz n'a rien appris. Chaque nation le répète. Actuellement : arsenaux nucléaires, course aux armements IA.
+Tirpitz n’a rien appris. Chaque nation le répète. Actuellement : arsenaux nucléaires, course aux armements IA.
 
 « Cette Fois Nous Avons Appris »
 
-Non. La structure n'a pas changé. Les leçons sont tactiques, pas structurelles.
+Non. La structure n’a pas changé. Les leçons sont tactiques, pas structurelles.
 
-De meilleures armes n'empêchent pas la guerre. Elles la rendent plus efficace.
+De meilleures armes n’empêchent pas la guerre. Elles la rendent plus efficace.
 
 « Droit International / ONU / Traités »
 
-Fonctionnent jusqu'à ce qu'ils ne fonctionnent plus. Quand les enjeux sont assez élevés,
+Fonctionnent jusqu’à ce qu’ils ne fonctionnent plus. Quand les enjeux sont assez élevés,
 
 les structures écrasent les règles.
 
@@ -288,23 +288,23 @@ Ce Qui Pourrait Naviguer
 
 Ne Pas Commencer
 
-Évident. Ignoré. Parce que les raisons de commencer semblent rationnelles à l'époque.
+Évident. Ignoré. Parce que les raisons de commencer semblent rationnelles à l’époque.
 
 La décision de commencer engage dans le cycle de justification des pertes.
 
 Arrêter Tôt
 
-Nécessite d'admettre l'erreur alors que les pertes sont « petites ». Structurellement très difficile.
+Nécessite d’admettre l’erreur alors que les pertes sont « petites ». Structurellement très difficile.
 
-Les dirigeants qui admettent l'erreur perdent leur position.
+Les dirigeants qui admettent l’erreur perdent leur position.
 
 Accepter le Non-Sens
 
-Les pertes étaient insensées. L'ont toujours été. Aucune quantité de pertes futures ne créera du sens.
+Les pertes étaient insensées. L’ont toujours été. Aucune quantité de pertes futures ne créera du sens.
 
-C'est insupportable. Donc : rare.
+C’est insupportable. Donc : rare.
 
-Épuiser D'Abord
+Épuiser D’Abord
 
 Les guerres se terminent par déplétion. Si vous savez cela, peut-être épuiser plus vite ?
 
@@ -316,7 +316,7 @@ Après la guerre : ne pas créer de récits de trahison. Accepter la défaite co
 
 pas personnelle.
 
-Nécessite une maturité culturelle. L'Allemagne après 1945 y est parvenue (partiellement).
+Nécessite une maturité culturelle. L’Allemagne après 1945 y est parvenue (partiellement).
 
 Cela a nécessité une destruction totale.
 
@@ -324,11 +324,11 @@ Le Schéma à Travers les Conflits
 
 Ce Qui Se Répète :
 
-Escalade Rationnelle : Chaque décision a du sens à l'époque.
+Escalade Rationnelle : Chaque décision a du sens à l’époque.
 
-Piège des Coûts Irrécupérables : Les pertes justifient l'investissement continu.
+Piège des Coûts Irrécupérables : Les pertes justifient l’investissement continu.
 
-Mythes de Trahison : L'échec est externalisé pour préserver l'identité.
+Mythes de Trahison : L’échec est externalisé pour préserver l’identité.
 
 Reproduction Cyclique : Les mythes génèrent le conflit suivant.
 
@@ -336,7 +336,7 @@ Inévitabilité Structurelle : Sans déplétion, les guerres continuent.
 
 La Reconnaissance
 
-  Les PI de guerre n'indiquent pas que les humains sont irrationnels ou mauvais.
+  Les PI de guerre n’indiquent pas que les humains sont irrationnels ou mauvais.
 
   Elles indiquent que les structures écrasent la rationalité individuelle.
 
@@ -344,9 +344,9 @@ Les soldats ne sont pas stupides. Les généraux ne sont pas fous. Les politicie
 
 Ce sont des acteurs rationnels dans une structure qui produit le carnage.
 
-Tous sont coupables. Personne n'est fautif.
+Tous sont coupables. Personne n’est fautif.
 
-C'est le paradoxe de la guerre.
+C’est le paradoxe de la guerre.
 
 Voir Aussi
 
@@ -354,6 +354,6 @@ Voir Aussi
 
 [Exemples : Religion & Systèmes de Croyance]
 
-[Anti-Pratiques : Ce Qui Garantit l'Échec]
+[Anti-Pratiques : Ce Qui Garantit l’Échec]
 
 More examples in this category coming soon.
