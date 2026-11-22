@@ -187,13 +187,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Success as Gatekeeping"] — Die Legitimität des Clubs und sein Ausschlussmechanismus sind dasselbe Objekt: Einlass würde beides gleichzeitig auflösen.
+[“Success as Gatekeeping”] — Die Legitimität des Clubs und sein Ausschlussmechanismus sind dasselbe Objekt: Einlass würde beides gleichzeitig auflösen.
 
-["The Harder You Want It, The Less You Get"] — Das Verlangen nach Einlass hält die Barriere aufrecht; die Barriere hält das Verlangen aufrecht — die Aspiration nährt die Struktur, die sie nicht überwinden kann.
+[“The Harder You Want It, The Less You Get”] — Das Verlangen nach Einlass hält die Barriere aufrecht; die Barriere hält das Verlangen aufrecht — die Aspiration nährt die Struktur, die sie nicht überwinden kann.
 
-["Contradictions Are Features, Not Bugs"] — Das Groucho Marx PI enthält keinen Widerspruch, der aufgelöst werden müsste. Der Widerspruch ist das, wovon das System läuft.
+[“Contradictions Are Features, Not Bugs”] — Das Groucho Marx PI enthält keinen Widerspruch, der aufgelöst werden müsste. Der Widerspruch ist das, wovon das System läuft.
 
-["The Prophets Trap"] — Die Außenseiterposition ist wertvoll, gerade weil sie außen ist; Anerkennung verlagert sie und zerstört, was anerkannt wurde.
+[“The Prophets Trap”] — Die Außenseiterposition ist wertvoll, gerade weil sie außen ist; Anerkennung verlagert sie und zerstört, was anerkannt wurde.
 
 
 
