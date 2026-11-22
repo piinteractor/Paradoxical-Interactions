@@ -18,7 +18,7 @@ Warum jede Bildungsreform der letzten zwanzig Jahre das Richtige getan hat — u
 
 
 
-„Die größte Ungerechtigkeit wäre es, Ungleiches gleich zu behandeln."
+„Die größte Ungerechtigkeit wäre es, Ungleiches gleich zu behandeln.”
 
 — Aristoteles, Nikomachische Ethik
 
@@ -176,13 +176,13 @@ No results found.
 
 Auf piinteract.org:
 
-„Regeln erzeugen, was sie verbieten" — Jede Bildungsreform, die innerhalb der Selektionsstruktur operiert, reproduziert die Ungleichheit, die sie beseitigen soll.
+„Regeln erzeugen, was sie verbieten” — Jede Bildungsreform, die innerhalb der Selektionsstruktur operiert, reproduziert die Ungleichheit, die sie beseitigen soll.
 
-„Mehr vom Gleichen" — Bessere Schulen, mehr Förderung, höhere Qualität: die Antwort auf eine strukturelle Asymmetrie ist mehr Ressource in dieselbe Asymmetrie.
+„Mehr vom Gleichen” — Bessere Schulen, mehr Förderung, höhere Qualität: die Antwort auf eine strukturelle Asymmetrie ist mehr Ressource in dieselbe Asymmetrie.
 
 Dem guten Geld das schlechte hinterher werfen — Das Startchancen-Programm ist befristet. Das Problem ist strukturell. Die Lösung ist finanziell. Das Muster ist bekannt.
 
-„Muster, nicht Symptom sehen" — Die Frage ist nicht: Welche Reform fehlt noch? Die Frage ist: Was erzeugt dieses Ergebnis immer wieder?
+„Muster, nicht Symptom sehen” — Die Frage ist nicht: Welche Reform fehlt noch? Die Frage ist: Was erzeugt dieses Ergebnis immer wieder?
 
 
 
@@ -203,7 +203,7 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
 
 
 
