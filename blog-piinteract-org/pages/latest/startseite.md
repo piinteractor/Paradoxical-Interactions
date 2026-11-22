@@ -20,7 +20,7 @@ Aber da hier etwas als Einführung stehen muss, da nicht gelesen werden kann, wa
 
 Es dient nicht dazu, irgendetwas zu erklären. Wer Erklärungen braucht, wird es nicht verstehen. Und wer es versteht, braucht keine Erklärungen.
 
-„PI sind heterokausale Wechselbeziehungen, keine linear-kausalen Entitäten: A interagiert mit B, während B mit A interagiert, und in diesem Zusammentreffen transformieren beide einander und werden wechselseitig transformiert". Nun, vielleicht.
+„PI sind heterokausale Wechselbeziehungen, keine linear-kausalen Entitäten: A interagiert mit B, während B mit A interagiert, und in diesem Zusammentreffen transformieren beide einander und werden wechselseitig transformiert”. Nun, vielleicht.
 
 Was wie Fehler aussieht, ist Struktur. Was wie Versagen aussieht, ist Funktion. Das System funktioniert nicht trotz seiner Brüche — es funktioniert durch sie.
 
