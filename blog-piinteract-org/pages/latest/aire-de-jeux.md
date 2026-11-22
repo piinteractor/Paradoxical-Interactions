@@ -10,35 +10,35 @@ wp_id: 2809
 url: https://blog.piinteract.org/fr/aire-de-jeux/
 ---
 
-« αἰὼν παῖς ἐστι παίζων, πεσσεύων· παιδὸς ἡ βασιληίη. » « Le temps est un enfant qui joue, déplaçant les pions sur le damier. La royauté appartient à l'enfant. »
+« αἰὼν παῖς ἐστι παίζων, πεσσεύων· παιδὸς ἡ βασιληίη. » « Le temps est un enfant qui joue, déplaçant les pions sur le damier. La royauté appartient à l’enfant. »
 
 — Héraclite, fragment 52
 
 Aire de jeux
 
-Chaque cadre d'analyse bâtit une archive : des cas documentés, des acteurs nommés, des sources vérifiées. Ceci n'est pas l'archive.
+Chaque cadre d’analyse bâtit une archive : des cas documentés, des acteurs nommés, des sources vérifiées. Ceci n’est pas l’archive.
 
-C'est ici que l'IP vient jouer.
+C’est ici que l’IP vient jouer.
 
-Les analyses de ce blog obéissent à des règles. Chaque affirmation repose sur une réalité observable. Chaque article cite des sources primaires, vérifiées avant publication. L'archive gagne sa crédibilité cas par cas — c'est son métier, et elle ne prend jamais congé.
+Les analyses de ce blog obéissent à des règles. Chaque affirmation repose sur une réalité observable. Chaque article cite des sources primaires, vérifiées avant publication. L’archive gagne sa crédibilité cas par cas — c’est son métier, et elle ne prend jamais congé.
 
-L'aire de jeux suspend exactement une règle : l'obligation de preuve. Reste la structure elle-même, appliquée là où aucun cas n'est documenté — ou là où aucun ne peut l'être. L'IP a-t-elle une limite inférieure, ou une seule personne dans le temps est-elle déjà un système en collision ? « Qu'est-ce qui mérite d'être observé » et « qui mérite d'observer » — deux questions, ou une seule boucle portant deux masques ? Des hypothèses. Signalées comme telles. Jouées jusqu'au bout, sans filet.
+L’aire de jeux suspend exactement une règle : l’obligation de preuve. Reste la structure elle-même, appliquée là où aucun cas n’est documenté — ou là où aucun ne peut l’être. L’IP a-t-elle une limite inférieure, ou une seule personne dans le temps est-elle déjà un système en collision ? « Qu’est-ce qui mérite d’être observé » et « qui mérite d’observer » — deux questions, ou une seule boucle portant deux masques ? Des hypothèses. Signalées comme telles. Jouées jusqu’au bout, sans filet.
 
-Pourquoi permettre cela ? Parce qu'un cadre qui ne traite que ce qui le confirme devient ce qu'il décrit. L'archive prouve. L'aire de jeux risque. Per Errorem ad Astra exige un lieu où l'erreur a le droit d'arriver — avant que quiconque ne vienne la corriger.
+Pourquoi permettre cela ? Parce qu’un cadre qui ne traite que ce qui le confirme devient ce qu’il décrit. L’archive prouve. L’aire de jeux risque. Per Errorem ad Astra exige un lieu où l’erreur a le droit d’arriver — avant que quiconque ne vienne la corriger.
 
-L'aire de jeux a ses propres règles. Une hypothèse s'appelle hypothèse — dans le texte, pas en petits caractères. Rien ici ne prétend à la preuve. Quand la réalité apporte un cas, il est le bienvenu — mais il sert l'hypothèse, jamais l'inverse. Et ce qui se casse ici se casse à bon compte.
+L’aire de jeux a ses propres règles. Une hypothèse s’appelle hypothèse — dans le texte, pas en petits caractères. Rien ici ne prétend à la preuve. Quand la réalité apporte un cas, il est le bienvenu — mais il sert l’hypothèse, jamais l’inverse. Et ce qui se casse ici se casse à bon compte.
 
-Une partie de ce qui joue ici montera dans l'archive. La plupart, non. Ce n'est pas un échec. Le pissenlit ne sait pas où il atterrit. L'enfant devant le damier non plus. Le jeu n'est qu'une question de jeu.
+Une partie de ce qui joue ici montera dans l’archive. La plupart, non. Ce n’est pas un échec. Le pissenlit ne sait pas où il atterrit. L’enfant devant le damier non plus. Le jeu n’est qu’une question de jeu.
 
-Tous sont coupables. Personne n'y peut rien.
+Tous sont coupables. Personne n’y peut rien.
 
 Le Moi du lundi et le Moi du vendredi. La plus petite Interaction Paradoxale du monde.
 
 7. juillet 2026
 
-Ce texte travaille sur une hypothèse, non sur un cas. Il demande si l'IP possède une limite inférieure — et n'en trouve aucune.
+Ce texte travaille sur une hypothèse, non sur un cas. Il demande si l’IP possède une limite inférieure — et n’en trouve aucune.
 
-Les Interactions Paradoxales exigent plusieurs acteurs rationnels. C'était jusqu'ici la limite ...
+Les Interactions Paradoxales exigent plusieurs acteurs rationnels. C’était jusqu’ici la limite …
 
 En savoir plus
 
@@ -46,7 +46,7 @@ Quel est le QI de l’IA ? Le chiffre qui a perdu toute signification
 
 9. juillet 2026
 
-Quel est le QI de l'IA ? Une question simple qui s'effondre dès qu'on y regarde de plus près. Le QI mesure le classement au sein d'un groupe. Si l'on supprime le groupe, ce chiffre perd tout son sens.
+Quel est le QI de l’IA ? Une question simple qui s’effondre dès qu’on y regarde de plus près. Le QI mesure le classement au sein d’un groupe. Si l’on supprime le groupe, ce chiffre perd tout son sens.
 
 En savoir plus
 
@@ -54,7 +54,7 @@ Le Piège de la Lucidité. Pourquoi la lucidité ultime est de voir qu’elle ne
 
 12. juillet 2026
 
-La lucidité n'est pas un objet. C'est un état où l'on arrive au bout d'un chemin. Ce qui se transmet, c'est la formulation — la coque. Qui la reçoit sans avoir fait le chemin tient une information, pas une lucidité. Voilà pourquoi ...
+La lucidité n’est pas un objet. C’est un état où l’on arrive au bout d’un chemin. Ce qui se transmet, c’est la formulation — la coque. Qui la reçoit sans avoir fait le chemin tient une information, pas une lucidité. Voilà pourquoi …
 
 En savoir plus
 
@@ -62,7 +62,7 @@ L’organe manquant – Quand manque la partie du cerveau qui détecterait qu’
 
 11. août 2026
 
-L'organe manquant repose sur une hypothèse, et non sur une étude de cas. Il demande si l’organe censé détecter un angle mort structurel pourrait jamais détecter sa propre défaillance – et soutient que cette question est peut-être ...
+L’organe manquant repose sur une hypothèse, et non sur une étude de cas. Il demande si l’organe censé détecter un angle mort structurel pourrait jamais détecter sa propre défaillance – et soutient que cette question est peut-être …
 
 En savoir plus
 
@@ -70,7 +70,7 @@ Le trilemme de Munchhausen : trois issues, toutes fermées
 
 12. août 2026
 
-Le trilemme de Munchhausen s'inscrit dans la lignée de l'hypothèse de « l'organe manquant » — un observateur impartial capable d'examiner de l'extérieur le point aveugle d'un système. Il pose la question suivante : de quoi cet ...
+Le trilemme de Munchhausen s’inscrit dans la lignée de l’hypothèse de « l’organe manquant » — un observateur impartial capable d’examiner de l’extérieur le point aveugle d’un système. Il pose la question suivante : de quoi cet …
 
 En savoir plus
 
@@ -78,7 +78,7 @@ La Guerre du Non-Sens. Pourquoi toute vérité meilleure sonne comme une attaque
 
 21. août 2026
 
-En septembre 2025, Isaac Slaughter et Martin Saveski publient, avec des collègues de Stanford et de Yale, une étude dans les Proceedings of the National Academy of Sciences. Échantillon : 40 000 publications sur X, suivies de mars à ...
+En septembre 2025, Isaac Slaughter et Martin Saveski publient, avec des collègues de Stanford et de Yale, une étude dans les Proceedings of the National Academy of Sciences. Échantillon : 40 000 publications sur X, suivies de mars à …
 
 En savoir plus
 
@@ -86,7 +86,7 @@ L’IP, l’IA & et Moi – Le Paradoxe de Navigation. Pourquoi bien utiliser l�
 
 21. août 2026
 
-Toute personne qui utilise l'IA pour écrire plus vite, décider mieux, produire davantage, agit rationnellement. C'est précisément le problème. Adam Smith promettait qu'en poursuivant son propre intérêt, on sert automatiquement celui ...
+Toute personne qui utilise l’IA pour écrire plus vite, décider mieux, produire davantage, agit rationnellement. C’est précisément le problème. Adam Smith promettait qu’en poursuivant son propre intérêt, on sert automatiquement celui …
 
 En savoir plus
 
