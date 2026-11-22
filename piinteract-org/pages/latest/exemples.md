@@ -12,7 +12,7 @@ url: https://piinteract.org/fr/exemples/
 
 Avant les IP : Où est le problème ?
 
-Après les IP : Où n'est-il pas ?
+Après les IP : Où n’est-il pas ?
 
 — Anonyme
 
@@ -24,37 +24,37 @@ Ce ne sont pas des échecs isolés. Ce sont des caractéristiques structurelles 
 
 Tu ne peux pas ne pas interagir.
 
-Même l'inaction est action.
+Même l’inaction est action.
 
 Même le silence est bruit.
 
-Même l'évitement est participation.
+Même l’évitement est participation.
 
-Même l'ignorance est une relation
+Même l’ignorance est une relation
 
 Toute action, passive ou active, entraîne une réaction
 
-Il n'y a pas de position neutre. Vous faites toujours partie du schéma.
+Il n’y a pas de position neutre. Vous faites toujours partie du schéma.
 
 Systèmes & Pouvoir
 
-La démocratie s'érode elle-même. Les sommets climatiques produisent des émissions. Les processus juridiques sapent la légalité.
+La démocratie s’érode elle-même. Les sommets climatiques produisent des émissions. Les processus juridiques sapent la légalité.
 
 Technologie & IA
 
-Les mesures de sécurité créent des vulnérabilités. La compétition empêche la coopération. L'optimisation ralentit les systèmes.
+Les mesures de sécurité créent des vulnérabilités. La compétition empêche la coopération. L’optimisation ralentit les systèmes.
 
 Organisations
 
-Les départements réussissent localement tandis que l'ensemble échoue. Les initiatives de changement engendrent la résistance. Les meilleures pratiques bloquent l'adaptation.
+Les départements réussissent localement tandis que l’ensemble échoue. Les initiatives de changement engendrent la résistance. Les meilleures pratiques bloquent l’adaptation.
 
 Société & Culture
 
-Quatre bus dans un rond-point. Les voies d'urgence bloquent les ambulances. Les décisions rationnelles créent un blocage collectif.
+Quatre bus dans un rond-point. Les voies d’urgence bloquent les ambulances. Les décisions rationnelles créent un blocage collectif.
 
 Science & Académie
 
-Le scepticisme devient dogme. Le contrôle qualité empêche l'innovation. L'évaluation par les pairs comme gardiennage.
+Le scepticisme devient dogme. Le contrôle qualité empêche l’innovation. L’évaluation par les pairs comme gardiennage.
 
 Religion & Systèmes de Croyance
 
