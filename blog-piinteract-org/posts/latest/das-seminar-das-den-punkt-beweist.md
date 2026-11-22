@@ -18,11 +18,11 @@ Warum jede strukturelle Analyse des Nationalsozialismus genau die Pathologie aus
 
 
 
-„Wer einen anderen versteht, macht ihn zu einem Gegenstand seines Verstehens."
+„Wer einen anderen versteht, macht ihn zu einem Gegenstand seines Verstehens.”
 
 — Niklas Luhmann, Soziale Systeme, 1984
 
-„Objektivität ist die Illusion eines Subjekts, das vergessen hat, dass es beobachtet."
+„Objektivität ist die Illusion eines Subjekts, das vergessen hat, dass es beobachtet.”
 
 — Heinz von Foerster, Ethics and Second-Order Cybernetics, 1991
 
@@ -78,15 +78,15 @@ Von Foerster nannte dies den blinden Fleck der Beobachtung. PI nennt es Struktur
 
 Der Kontingenz-Ausgang
 
-Als zentralen Begriff nennt Schütz die Kontingenz: Es hätte auch anders sein können. Nichts musste so geschehen, wie es geschehen ist. Das ist formal richtig - und strukturell bequem.
+Als zentralen Begriff nennt Schütz die Kontingenz: Es hätte auch anders sein können. Nichts musste so geschehen, wie es geschehen ist. Das ist formal richtig – und strukturell bequem.
 
 „Es hätte anders sein können“ erzeugt eine ganz bestimmte Art von Komfort. Es bewahrt die Handlungsfähigkeit. Es hält die Illusion aufrecht, dass die Akteure, hätten sie anders gewählt, ein anderes Ergebnis erzielt hätten. Sie hält die Moral am Leben, indem sie die Wahlmöglichkeit am Leben erhält. Es ist die akademische Version des Trostpreises.
 
-PI sagt etwas anderes: Ja, kontingent - aber die Wahrscheinlichkeitsverteilung war nicht neutral. Die Struktur der Interaktion erzeugte eine starke gerichtete Kraft. „Hätte anders sein können“ ist nicht dasselbe wie „war wirklich offen“. Eine Kugel, die einen Abhang hinunterrollt, könnte im Prinzip auch nach oben rollen. Dadurch wird der Abhang nicht flach.
+PI sagt etwas anderes: Ja, kontingent – aber die Wahrscheinlichkeitsverteilung war nicht neutral. Die Struktur der Interaktion erzeugte eine starke gerichtete Kraft. „Hätte anders sein können“ ist nicht dasselbe wie „war wirklich offen“. Eine Kugel, die einen Abhang hinunterrollt, könnte im Prinzip auch nach oben rollen. Dadurch wird der Abhang nicht flach.
 
 Der Kontingenzrahmen ist kein Fehler. Er ist eine Anti-Praxis: der analytische Zug, der wie Präzision aussieht, aber als Ausweg funktioniert. Er benennt die strukturelle Kraft, um sie dann gleich wieder durch Optionalität abzuschwächen.
 
-Siehe Problem - Problem lösen. Das Seminar benennt das Problem als Kontingenz. Das Problem ist benannt. Das Seminar ist zu Ende.
+Siehe Problem – Problem lösen. Das Seminar benennt das Problem als Kontingenz. Das Problem ist benannt. Das Seminar ist zu Ende.
 
 
 
@@ -148,7 +148,7 @@ Was Paradoxe Interaktionen hier anbieten, ist kein alternatives Seminarkonzept. 
 
 Von Foerster hatte nicht Unrecht zu lehren. Luhmann hatte nicht Unrecht zu theoretisieren. Schütz hat nicht Unrecht, den Kurs zu halten. Der Punkt ist nicht, dass sie aufhören sollten.
 
-Der Punkt ist, dass der Satz „Einsicht ist kein Ausweg" am präzisesten auf die Institutionen zutrifft, deren gesamter Zweck Einsicht ist. Die Universität ist der Ort, an dem dieser Satz am wahrhaftigsten und am wenigsten sagbar ist.
+Der Punkt ist, dass der Satz „Einsicht ist kein Ausweg” am präzisesten auf die Institutionen zutrifft, deren gesamter Zweck Einsicht ist. Die Universität ist der Ort, an dem dieser Satz am wahrhaftigsten und am wenigsten sagbar ist.
 
 Navigation sieht so aus: die Struktur benennen, in der man sich befindet — nicht nur die, die man beschreibt. Schütz könnte das benennen. Er wird es nicht — weil das System, in dem er sich befindet, keine Kategorie für einen Professor hat, der seinen Studierenden sagt, dass das Seminar, in dem sie sitzen, das Problem ausführt, das es analysiert.
 
@@ -199,20 +199,20 @@ No results found.
 
 On piinteract.org
 
-["Academic Escape Reflex"] — The move Schütz makes is structural: the system relocates the problem into history, where it can be studied without being encountered.
+[“Academic Escape Reflex”] — The move Schütz makes is structural: the system relocates the problem into history, where it can be studied without being encountered.
 
-["Shared Blindspot"] — If everyone in the room has been trained the same way, the training itself cannot be the object of analysis.
+[“Shared Blindspot”] — If everyone in the room has been trained the same way, the training itself cannot be the object of analysis.
 
-["See Problem — Solve Problem"] — Naming contingency as the central concept is the analytical move that closes the question precisely when it should open it.
+[“See Problem — Solve Problem”] — Naming contingency as the central concept is the analytical move that closes the question precisely when it should open it.
 
-["Peer Review Gatekeeping"] — The institution that certifies the analysis of institutional failure cannot certify analysis of its own institutional failure.
+[“Peer Review Gatekeeping”] — The institution that certifies the analysis of institutional failure cannot certify analysis of its own institutional failure.
 
 
 
 
 Siehe auch (externe Links):
 
-Götz Aly — Wie konnte das geschehen? (Verlagsseite) — The primary source: Aly's own final work on the organizational sociology of National Socialism, from which this post's analysis departs.
+Götz Aly — Wie konnte das geschehen? (Verlagsseite) — The primary source: Aly’s own final work on the organizational sociology of National Socialism, from which this post’s analysis departs.
 
 Heinz von Foerster — Ethics and Second-Order Cybernetics (PDF) — Von Foersters Vortrag, in dem er etabliert, dass Objektivität die Illusion des Subjekts ist, das vergessen hat, dass es beobachtet — die strukturelle Bedingung, die dieser Post im Seminar diagnostiziert.
 
@@ -239,4 +239,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
