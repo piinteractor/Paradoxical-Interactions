@@ -52,11 +52,11 @@ Peter Senner co-created with Anthropic Claude
 
 Nine Words on a Sunday Morning
 
-"Habermas lag oft falsch. Heute liegt er richtig." "Habermas was often wrong. Today he is right."
+“Habermas lag oft falsch. Heute liegt er richtig.” “Habermas was often wrong. Today he is right.”
 
 A tweet. Nine words. Posted hours after Jürgen Habermas died, on March 15, 2026, at the age of 94.
 
-The author didn't eulogize. Didn't celebrate. Didn't mourn. Just observed — with the precision that mourners usually avoid — that something had shifted. Not in Habermas's arguments. Not in the evidence. In the structure that surrounds them.
+The author didn’t eulogize. Didn’t celebrate. Didn’t mourn. Just observed — with the precision that mourners usually avoid — that something had shifted. Not in Habermas’s arguments. Not in the evidence. In the structure that surrounds them.
 
 The tweet contains no moral. It contains something more uncomfortable: a diagnosis.
 
@@ -76,9 +76,9 @@ What changed was his position in the structure.
 
 A living Habermas was a participant. He could respond. He could be drawn into debate. He could be wrong tomorrow. He occupied space — intellectual, institutional, political. Space that others were competing for. His presence created friction.
 
-A dead Habermas is a reference. He can't respond. He can't be wrong tomorrow. He no longer occupies contested space. The friction dissolves. What remains is the work — separated from the person who produced it, separated from the conflicts that surrounded its production.
+A dead Habermas is a reference. He can’t respond. He can’t be wrong tomorrow. He no longer occupies contested space. The friction dissolves. What remains is the work — separated from the person who produced it, separated from the conflicts that surrounded its production.
 
-The arguments didn't get better. The structure got quieter.
+The arguments didn’t get better. The structure got quieter.
 
 
 
@@ -96,7 +96,7 @@ What shifts is not the quality of the thought. What shifts is the cost of agreem
 
 Agreeing with a living critic costs something: alignment, association, the possibility of being pulled into their ongoing disputes. Agreeing with a dead one costs nothing. The critic is gone. The dispute is archived. The agreement is safe.
 
-The structure doesn't evaluate truth. It evaluates cost.
+The structure doesn’t evaluate truth. It evaluates cost.
 
 
 
@@ -108,7 +108,7 @@ The Posthumous Correction PI
 
 The structure:
 
-A thinker produces work that challenges existing structures. The work is resisted — not because it's wrong, but because agreement is costly. The thinker dies. The cost of agreement collapses. The work is recognized. The recognition arrives too late to benefit the thinker, but in time to benefit those who now cite them.
+A thinker produces work that challenges existing structures. The work is resisted — not because it’s wrong, but because agreement is costly. The thinker dies. The cost of agreement collapses. The work is recognized. The recognition arrives too late to benefit the thinker, but in time to benefit those who now cite them.
 
 Everyone acts rationally:
 
@@ -132,7 +132,7 @@ All are guilty. None are at fault.
 
 The Doubt the Tweet Leaves Open
 
-"Habermas lag oft falsch. Heute liegt er richtig."
+“Habermas lag oft falsch. Heute liegt er richtig.”
 
 The sentence does not say he was right about everything. It says he is right today.
 
@@ -140,9 +140,9 @@ That ambiguity is load-bearing.
 
 Is he right because death revealed the truth of his arguments? Or is he right because death removed the friction that made disagreement feel necessary? Are his arguments being recognized — or are they being appropriated into a context that would have horrified him?
 
-The dead cannot object. They cannot say: "That is not what I meant." They cannot refuse the interpretation being placed on their work. The posthumous correction is also, always, a posthumous annexation. The work is freed from its author — and becomes available to be claimed by those who resisted it.
+The dead cannot object. They cannot say: “That is not what I meant.” They cannot refuse the interpretation being placed on their work. The posthumous correction is also, always, a posthumous annexation. The work is freed from its author — and becomes available to be claimed by those who resisted it.
 
-Habermas argued for communicative action in structures capable of rational discourse. Whether the structures that now celebrate him are those structures — that question he cannot answer. The tweet doesn't answer it either. It holds it open. That is its precision.
+Habermas argued for communicative action in structures capable of rational discourse. Whether the structures that now celebrate him are those structures — that question he cannot answer. The tweet doesn’t answer it either. It holds it open. That is its precision.
 
 
 
@@ -154,7 +154,7 @@ The Second Blade
 
 There is another reading of the tweet. Simpler. Crueler.
 
-"Habermas was often wrong. Today he is right."
+“Habermas was often wrong. Today he is right.”
 
 Today he lies. In the ground. Liegt in German carries both meanings simultaneously: to be right, and to lie flat. The author, who by all accounts held Habermas in contempt, did not write a eulogy. He wrote a pun. A pun so clean that half the readers nod in recognition while the other half laugh — and both share the same nine words.
 
@@ -176,7 +176,7 @@ Outcome — the text reaches maximum distribution through its own ambiguity
 
 All are guilty. None are at fault.
 
-The posthumous correction and the posthumous insult occupy the same nine words. The structure doesn't choose between them. It runs both.
+The posthumous correction and the posthumous insult occupy the same nine words. The structure doesn’t choose between them. It runs both.
 
 
 
@@ -194,7 +194,7 @@ The question is not: how do we make people listen to Habermas while he is alive?
 
 The question is: what structures systematically ensure that recognition arrives when it can no longer be used?
 
-Name that. Watch it operate. Don't expect it to change.
+Name that. Watch it operate. Don’t expect it to change.
 
 The cost of agreement does not go down while the thinker is still there to make demands.
 
@@ -223,7 +223,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Perelman Paradox
 
@@ -239,7 +239,7 @@ Win the position. Guarantee your death. Repeat the Pattern forever.
 
 Terminological Hijacking: The Crime, The Confession, The “So What?”
 
-Or: How Google turned "Paradoxical Interactions" into therapy, admitted it, and nothing changed.
+Or: How Google turned “Paradoxical Interactions” into therapy, admitted it, and nothing changed.
 
 No results found.
 
@@ -253,7 +253,7 @@ On piinteract.org
 
 Examples: Science & Academia — The structural logic of posthumous recognition across disciplines.
 
-Anti-Practices — Why "shoot the messenger" is structural, not personal.
+Anti-Practices — Why “shoot the messenger” is structural, not personal.
 
 Framework — The underlying structure behind the Posthumous Correction.
 
@@ -284,4 +284,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
