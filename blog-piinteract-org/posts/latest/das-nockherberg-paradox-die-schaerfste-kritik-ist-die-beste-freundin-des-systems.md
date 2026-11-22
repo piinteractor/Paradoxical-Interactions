@@ -56,7 +56,7 @@ Jedes Jahr, zwei bis drei Wochen nach Aschermittwoch, öffnet die Paulaner-Braue
 
 Dann beginnt das Spektakel. Nicht nur ein Comedian — ein vollständiges Singspiel. Schauspieler, Sänger, Musiker, ein Ensemble, das monatelang geschrieben, geprobt und inszeniert hat. Politische Satire als eine der ehrwürdigsten Kunstformen Bayerns. Der Saal tobt. Die Politiker applaudieren. Der Ministerpräsident lacht am lautesten über die Witze auf seine Kosten.
 
-Am nächsten Morgen nennen die Zeitungen es „scharf". „Gnadenlos". „Macht zur Rechenschaft gezogen."
+Am nächsten Morgen nennen die Zeitungen es „scharf”. „Gnadenlos”. „Macht zur Rechenschaft gezogen.”
 
 Nichts ändert sich. Nichts hätte sich je ändern sollen.
 
@@ -116,7 +116,7 @@ Und es ist nicht eine einzelne Person. Es ist eine Produktion. Autoren, Regisseu
 
 Niemand entscheidet allein, wie scharf die Kritik wird. Die Struktur entscheidet. Die Autoren kennen die Toleranzparameter — nicht weil man es ihnen gesagt hat, sondern weil sie lange genug in dieser Welt gearbeitet haben, um sie zu verinnerlichen. Der Regisseur weiß, was gut ankommt und was den Saal auf die falsche Weise leert. Die Schauspieler kennen den Unterschied zwischen einem Witz, der zündet, und einem, der Karrieren beendet.
 
-Das Kollektiv macht das System stabiler, nicht weniger stabil. Es gibt niemanden, auf den man zeigen könnte. Keinen Autor, der „die Schläge zurückgehalten" hat. Die Produktion als Ganzes landet genau dort, wo die Struktur es erlaubt — und tut dies ausschließlich durch die rationalen Entscheidungen talentierter Profis.
+Das Kollektiv macht das System stabiler, nicht weniger stabil. Es gibt niemanden, auf den man zeigen könnte. Keinen Autor, der „die Schläge zurückgehalten” hat. Die Produktion als Ganzes landet genau dort, wo die Struktur es erlaubt — und tut dies ausschließlich durch die rationalen Entscheidungen talentierter Profis.
 
 Wer den Nockherberg abschaffen wollte, würde beschuldigt, keinen Humor zu haben. Die Kontrolle zu fürchten. Autoritär zu sein. Die Institution hat sich gegen Kritik immunisiert, indem sie den Anschein erweckt, selbstkritisch zu sein.
 
@@ -164,7 +164,7 @@ Es ist eine strukturelle Beobachtung: Die Form der Kritik ist genauso wichtig wi
 
 Kritik, die in den vom System sanktionierten Räumen stattfindet, zu den vom System sanktionierten Zeiten, vorgetragen von den vom System sanktionierten Akteuren, vor einem Publikum, das Eintrittskarten gekauft hat — das ist keine Kritik. Das ist Wartung.
 
-Die Frage lautet nicht: „War die Satire scharf genug?" Die Frage lautet: „Wer profitiert davon, dass dieses Ritual existiert — und was verhindert es?"
+Die Frage lautet nicht: „War die Satire scharf genug?” Die Frage lautet: „Wer profitiert davon, dass dieses Ritual existiert — und was verhindert es?”
 
 Die Antwort ist nicht angenehm. Aber sie ist die einzige, die die Struktur klar sieht.
 
@@ -208,7 +208,7 @@ Wie jede Lösung zum nächsten Problem wird
 
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
-Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
+Oder: Wie Google “Paradoxe Interaktionen” zur Therapie machte, es zugab, und sich nichts änderte.
 
 No results found.
 
