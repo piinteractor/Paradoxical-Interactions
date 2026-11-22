@@ -18,7 +18,7 @@ Why the message spreads after the messenger is destroyed — and why this is not
 
 
 
-"Do not shoot the messenger." — Proverb, origin disputed. Universally ignored.
+“Do not shoot the messenger.” — Proverb, origin disputed. Universally ignored.
 
  
 
@@ -34,7 +34,7 @@ A new account. Two posts. Topic: structural patterns in social systems. The acco
 
 That is the entire post.
 
-Except it isn't.
+Except it isn’t.
 
 
 
@@ -64,7 +64,7 @@ Cassandra
 
 Was Not Heard. She Was Remembered.
 
-Cassandra's curse is not that she predicted correctly. It is that she was heard — after. Troy fell. Then people remembered what she had said. The prediction did not become credible through proof. It became credible through ruins.
+Cassandra’s curse is not that she predicted correctly. It is that she was heard — after. Troy fell. Then people remembered what she had said. The prediction did not become credible through proof. It became credible through ruins.
 
 The message needed the wreckage.
 
@@ -82,7 +82,7 @@ The Archaic Mechanism
 
 Aeschylus knew this in 472 BC.
 
-In The Persians, a messenger arrives at the court of Xerxes' mother. He carries news of the defeat at Salamis. He does not editorialize. He does not interpret. He reports what he saw.
+In The Persians, a messenger arrives at the court of Xerxes’ mother. He carries news of the defeat at Salamis. He does not editorialize. He does not interpret. He reports what he saw.
 
 He knows what follows.
 
@@ -90,7 +90,7 @@ Not because the king is cruel. Because the message, once spoken aloud, becomes i
 
 For this, he will be killed. Not by the enemy. By his own side.
 
-This is not barbarism. It is structure. The messenger's destruction is the system's attempt to un-make the message — to push the unbearable back into the realm of the possible, the not-yet-confirmed, the still-deniable. It fails, of course. The message has already landed. But the attempt is structurally rational.
+This is not barbarism. It is structure. The messenger’s destruction is the system’s attempt to un-make the message — to push the unbearable back into the realm of the possible, the not-yet-confirmed, the still-deniable. It fails, of course. The message has already landed. But the attempt is structurally rational.
 
 The messenger knows this before he speaks. He speaks anyway.
 
@@ -116,7 +116,7 @@ The platform acted rationally. The account acted rationally. The collision was s
 
 The Messenger PI:
 
-A message that correctly identifies a system's internal contradictions cannot be hosted by that system. The system's self-preservation logic treats correct identification as threat. The more precisely the message names the structure, the faster the removal.
+A message that correctly identifies a system’s internal contradictions cannot be hosted by that system. The system’s self-preservation logic treats correct identification as threat. The more precisely the message names the structure, the faster the removal.
 
 Everyone acts rationally:
 
@@ -146,7 +146,7 @@ The message is now readable precisely because the messenger is gone.
 
 Stop expecting systems to tolerate correct readings of themselves. They cannot. Not through bad faith. Through structure.
 
-The dandelion doesn't negotiate with the wind.
+The dandelion doesn’t negotiate with the wind.
 
 
 
@@ -170,7 +170,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Posthumous Correction. Why Being Right Requires Being Gone.
 
@@ -216,4 +216,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
