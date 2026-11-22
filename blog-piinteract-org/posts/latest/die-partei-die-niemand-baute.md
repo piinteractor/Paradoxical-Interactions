@@ -12,13 +12,13 @@ url: https://blog.piinteract.org/de/die-partei-die-niemand-baute/
 
 Warum die AfD nicht die Ursache des deutschen politischen Versagens ist — und warum jeder Versuch, sie aufzuhalten, ihr Wachstum strukturell stabilisiert.
 
-„Der Teufel ist ein Eichhörnchen."
+„Der Teufel ist ein Eichhörnchen.”
 
 — Deutsches Sprichwort
 
 Keiner hat die AfD aufgebaut. Das ist der springende Punkt.
 
-Keine Verschwörung von Schwarzgeldspendern, keine ausländische Einflussnahme, keine Handvoll Ideologen, die den richtigen Moment erwischt haben. Diese Erklärungen gibt es, und einige von ihnen enthalten wahre Details. Keine von ihnen erklärt die Struktur. Die AfD ist kein Projekt. Sie ist ein Ergebnis - hervorgebracht durch das rationale Verhalten aller Akteure, die sie verhindern wollten.
+Keine Verschwörung von Schwarzgeldspendern, keine ausländische Einflussnahme, keine Handvoll Ideologen, die den richtigen Moment erwischt haben. Diese Erklärungen gibt es, und einige von ihnen enthalten wahre Details. Keine von ihnen erklärt die Struktur. Die AfD ist kein Projekt. Sie ist ein Ergebnis – hervorgebracht durch das rationale Verhalten aller Akteure, die sie verhindern wollten.
 
 So sehen Paradoxe Interaktionen im großen Maßstab aus.
 
@@ -136,13 +136,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Democracy Erosion"] — Der Aufstieg der AfD ist nicht die Erosion der Demokratie — er ist ihr strukturelles Produkt: Repräsentation, die ein Vakuum füllt, das die Regierungslogik geschaffen hat.
+[“Democracy Erosion”] — Der Aufstieg der AfD ist nicht die Erosion der Demokratie — er ist ihr strukturelles Produkt: Repräsentation, die ein Vakuum füllt, das die Regierungslogik geschaffen hat.
 
-["More of the Same"] — Jede auf die AfD angewandte Eindämmungsstrategie ist eine Variation des Werkzeugs, das bereits gescheitert ist; die Brandmauer ist mehr Brandmauer.
+[“More of the Same”] — Jede auf die AfD angewandte Eindämmungsstrategie ist eine Variation des Werkzeugs, das bereits gescheitert ist; die Brandmauer ist mehr Brandmauer.
 
-["See Pattern, Not Symptom"] — Die AfD ist das Symptom. Die Koalitionsarithmetik, die das Vakuum produziert hat, ist das Muster.
+[“See Pattern, Not Symptom”] — Die AfD ist das Symptom. Die Koalitionsarithmetik, die das Vakuum produziert hat, ist das Muster.
 
-["Viral Outrage Cycles"] — Berichterstattung, die diskreditieren soll, erzeugt die Aufmerksamkeit, die Diskreditierung erfordert.
+[“Viral Outrage Cycles”] — Berichterstattung, die diskreditieren soll, erzeugt die Aufmerksamkeit, die Diskreditierung erfordert.
 
 Siehe auch (externe Links):
 
