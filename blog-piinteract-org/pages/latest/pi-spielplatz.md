@@ -10,7 +10,7 @@ wp_id: 2793
 url: https://blog.piinteract.org/de/pi-spielplatz/
 ---
 
-„αἰὼν παῖς ἐστι παίζων, πεσσεύων· παιδὸς ἡ βασιληίη." „Die Zeit ist ein spielendes Kind, das Steine auf dem Brett verschiebt. Dem Kind gehört das Königreich."
+„αἰὼν παῖς ἐστι παίζων, πεσσεύων· παιδὸς ἡ βασιληίη.” „Die Zeit ist ein spielendes Kind, das Steine auf dem Brett verschiebt. Dem Kind gehört das Königreich.”
 
 — Heraklit, Fragment 52
 
@@ -22,7 +22,7 @@ Hier geht PI spielen.
 
 Die Analysen auf diesem Blog folgen Regeln. Jede Behauptung steht auf beobachtbarer Wirklichkeit. Jeder Post nennt Primärquellen, vor Veröffentlichung geprüft. Das Archiv verdient sich seine Glaubwürdigkeit Fall für Fall — das ist sein Job, und es hat nie frei.
 
-Der Spielplatz setzt genau eine Regel aus: die Beweispflicht. Was bleibt, ist die Struktur selbst — angewendet, wo kein Fall dokumentiert ist. Oder keiner dokumentiert werden kann. Hat PI eine Untergrenze, oder ist ein einzelner Mensch über Zeit schon ein kollidierendes System? Sind „Was verdient Beobachtung" und „Wer darf beobachten" zwei Fragen — oder eine Schleife mit zwei Masken? Hypothesen. Als Hypothesen markiert. Zu Ende gespielt, ohne Netz und doppelten Boden.
+Der Spielplatz setzt genau eine Regel aus: die Beweispflicht. Was bleibt, ist die Struktur selbst — angewendet, wo kein Fall dokumentiert ist. Oder keiner dokumentiert werden kann. Hat PI eine Untergrenze, oder ist ein einzelner Mensch über Zeit schon ein kollidierendes System? Sind „Was verdient Beobachtung” und „Wer darf beobachten” zwei Fragen — oder eine Schleife mit zwei Masken? Hypothesen. Als Hypothesen markiert. Zu Ende gespielt, ohne Netz und doppelten Boden.
 
 Warum das überhaupt erlauben? Weil ein Framework, das nur verarbeitet, was es bestätigt, zu dem wird, was es beschreibt. Das Archiv beweist. Der Spielplatz riskiert. Per Errorem ad Astra braucht einen Ort, an dem der Fehler passieren darf — bevor jemand kommt, um ihn zu bemängeln oder zu korrigieren.
 
@@ -36,7 +36,7 @@ PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere
 
 21. August 2026
 
-Jeder, der KI nutzt, um schneller zu schreiben, besser zu entscheiden, mehr zu schaffen, handelt vernünftig. Genau das ist das Problem. Adam Smith versprach: Wer seinem eigenen Interesse folgt, fördert automatisch das der ...
+Jeder, der KI nutzt, um schneller zu schreiben, besser zu entscheiden, mehr zu schaffen, handelt vernünftig. Genau das ist das Problem. Adam Smith versprach: Wer seinem eigenen Interesse folgt, fördert automatisch das der …
 
 Read More
 
@@ -44,7 +44,7 @@ Der Unsinnskrieg. Warum jede bessere Wahrheit wie ein Angriff klingt.
 
 21. August 2026
 
-Im September 2025 veröffentlichen Isaac Slaughter und Martin Saveski, gemeinsam mit Kolleg:innen aus Stanford und Yale, eine Studie in den Proceedings of the National Academy of Sciences. Untersucht: 40.000 Posts auf X, März bis Juni ...
+Im September 2025 veröffentlichen Isaac Slaughter und Martin Saveski, gemeinsam mit Kolleg:innen aus Stanford und Yale, eine Studie in den Proceedings of the National Academy of Sciences. Untersucht: 40.000 Posts auf X, März bis Juni …
 
 Read More
 
@@ -52,7 +52,7 @@ Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wah
 
 19. August 2026
 
-Des Kaisers neue Kleider endet mit dem Lachen der Menge. Aber das Lachen ist nicht das Ende der Geschichte, es ist nur das Ende, das Andersen erzählt. Was mit dem Kind danach passiert, steht nirgends — und genau diese Lücke ist der ...
+Des Kaisers neue Kleider endet mit dem Lachen der Menge. Aber das Lachen ist nicht das Ende der Geschichte, es ist nur das Ende, das Andersen erzählt. Was mit dem Kind danach passiert, steht nirgends — und genau diese Lücke ist der …
 
 Read More
 
@@ -60,7 +60,7 @@ Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
 
 12. August 2026
 
-Das Münchhausen-Trilemma knüpft an die Hypothese von „Das fehlende Organ“ an – der unvoreingenommene Beobachter, der den blinden Fleck eines Systems von außen überprüfen könnte. Es fragt, was dieser Beobachter braucht, um überhaupt ...
+Das Münchhausen-Trilemma knüpft an die Hypothese von „Das fehlende Organ“ an – der unvoreingenommene Beobachter, der den blinden Fleck eines Systems von außen überprüfen könnte. Es fragt, was dieser Beobachter braucht, um überhaupt …
 
 Read More
 
@@ -68,7 +68,7 @@ Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, das
 
 11. August 2026
 
-Das fehlende Organ basiert auf einer Hypothese und nicht auf einer Fallstudie. Er geht der Frage nach, ob das Organ, das einen strukturellen blinden Fleck wahrnehmen würde, jemals sein eigenes Versagen erkennen könnte – und ...
+Das fehlende Organ basiert auf einer Hypothese und nicht auf einer Fallstudie. Er geht der Frage nach, ob das Organ, das einen strukturellen blinden Fleck wahrnehmen würde, jemals sein eigenes Versagen erkennen könnte – und …
 
 Read More
 
@@ -76,7 +76,7 @@ Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis
 
 12. Juli 2026
 
-Erkenntnis ist kein Objekt. Sie ist ein Zustand nach einem Weg. Übertragen lässt sich nur die Formulierung — die Hülse. Wer sie empfängt, ohne den Weg gegangen zu sein, hält Information in der Hand, keine Erkenntnis. Deshalb ...
+Erkenntnis ist kein Objekt. Sie ist ein Zustand nach einem Weg. Übertragen lässt sich nur die Formulierung — die Hülse. Wer sie empfängt, ohne den Weg gegangen zu sein, hält Information in der Hand, keine Erkenntnis. Deshalb …
 
 Read More
 
@@ -94,6 +94,6 @@ Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt
 
 Spielplatz: Dieses Stück arbeitet mit einer Hypothese, nicht mit einem Fall. Es fragt, ob PI eine Untergrenze hat — und findet keine.
 
-Paradoxe Interaktionen brauchen mehrere rationale Akteure. Das war bisher die stillschweigende ...
+Paradoxe Interaktionen brauchen mehrere rationale Akteure. Das war bisher die stillschweigende …
 
 Read More
