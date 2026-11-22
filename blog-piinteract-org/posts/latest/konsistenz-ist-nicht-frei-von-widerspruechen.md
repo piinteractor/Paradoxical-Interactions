@@ -43,9 +43,9 @@ Lösung: Klare Hierarchie. Top-down-Entscheidungen.
 
 Neuer Widerspruch: Teams verlieren Initiative. Innovation stirbt. Aber Management will Innovation.
 
-Also: "Empowerment-Programme". Autonomie innerhalb kontrollierter Grenzen.
+Also: “Empowerment-Programme”. Autonomie innerhalb kontrollierter Grenzen.
 
-Nächster Widerspruch: Teams sollen eigenständig entscheiden, aber nur "richtige" Entscheidungen treffen. Was ist richtig? Management definiert es. Das ist keine Autonomie. Das ist Pseudo-Autonomie mit Kontroll-Overhead.
+Nächster Widerspruch: Teams sollen eigenständig entscheiden, aber nur “richtige” Entscheidungen treffen. Was ist richtig? Management definiert es. Das ist keine Autonomie. Das ist Pseudo-Autonomie mit Kontroll-Overhead.
 
 Der ursprüngliche Widerspruch ist nicht gelöst. Er ist getarnt.
 
@@ -79,11 +79,11 @@ Beispiel 3: Agil vs. Planung
 
 Widerspruch: Langfristige Planung versus flexible Reaktion auf Veränderung.
 
-Lösung: Agile Methoden. "Embrace change."
+Lösung: Agile Methoden. “Embrace change.”
 
 Neuer Widerspruch: Investoren wollen Roadmaps. Kunden wollen Verlässlichkeit. Compliance verlangt Dokumentation.
 
-Also: "Agile at scale." Scrum of Scrums. SAFe. LeSS.
+Also: “Agile at scale.” Scrum of Scrums. SAFe. LeSS.
 
 Nächster Widerspruch: Die Frameworks, die Flexibilität ermöglichen sollten, erstarren zur Prozess-Bürokratie.
 
@@ -157,9 +157,9 @@ Und jetzt der finale Twist:
 
 Dieser Text ist auch widersprüchlich.
 
-Er argumentiert: "Widersprüche lassen sich nicht auflösen."
+Er argumentiert: “Widersprüche lassen sich nicht auflösen.”
 
-Positioniert sich gleichzeitig als Lösung: "PI hilft beim Navigieren."
+Positioniert sich gleichzeitig als Lösung: “PI hilft beim Navigieren.”
 
 Das ist kein Bug. Das ist ein Feature.
 
@@ -177,4 +177,4 @@ Versuchen und weitermachen.
 
 
 
-Dieser Artikel ist Teil der Serie "Paradoxical Interactions Explained" – Strukturen verstehen, die sich nicht lösen lassen.
+Dieser Artikel ist Teil der Serie “Paradoxical Interactions Explained” – Strukturen verstehen, die sich nicht lösen lassen.
