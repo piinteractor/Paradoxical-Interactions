@@ -94,9 +94,9 @@ Was bleibt
 
 Von Foerster kam nicht zu dem Schluss, dass alle Perspektiven gleich sind, dass Wahrheit unmöglich ist oder dass Genauigkeit sinnlos ist. Er zog eine anspruchsvollere Schlussfolgerung: dass der Beobachter in die Beschreibung einbezogen werden muss. Diese Ehrlichkeit erfordert, dass man den Standpunkt, von dem aus man sieht, darlegt.
 
-Das ist schwieriger als Objektivität. Objektivität ist eine Haltung - sauber, glaubwürdig, über den Dingen stehend. Eine anerkannte Perspektive erfordert Offenheit. Sie erfordert, dass man sagt: Ich sehe das von hier aus, mit diesen Instrumenten, geprägt von diesen Interessen und diesen Grenzen. Das ist es, was ich anbieten kann.
+Das ist schwieriger als Objektivität. Objektivität ist eine Haltung – sauber, glaubwürdig, über den Dingen stehend. Eine anerkannte Perspektive erfordert Offenheit. Sie erfordert, dass man sagt: Ich sehe das von hier aus, mit diesen Instrumenten, geprägt von diesen Interessen und diesen Grenzen. Das ist es, was ich anbieten kann.
 
-PI erhebt keinen Anspruch auf Objektivität. Es beansprucht strukturelle Konsistenz - was etwas anderes ist. Ein Framework kann an sich selbst getestet werden. Entweder es hält, oder es hält nicht. Der Test lautet nicht: Kommt es aus dem Nichts? Der Test lautet: Gilt es für sich selbst?
+PI erhebt keinen Anspruch auf Objektivität. Es beansprucht strukturelle Konsistenz – was etwas anderes ist. Ein Framework kann an sich selbst getestet werden. Entweder es hält, oder es hält nicht. Der Test lautet nicht: Kommt es aus dem Nichts? Der Test lautet: Gilt es für sich selbst?
 
 Das tut es. Dieser Beitrag ist aus dem Inneren der Struktur geschrieben, die er beschreibt.
 
