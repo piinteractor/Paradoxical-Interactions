@@ -76,11 +76,11 @@ Related Posts
 
 Le Paradoxe de Validation : Analyse Approfondie
 
-Ou : Comment prouver un cadre théorique sur l'impossibilité structurelle lorsque la méthode de preuve est elle-même structurellement impossible ?
+Ou : Comment prouver un cadre théorique sur l’impossibilité structurelle lorsque la méthode de preuve est elle-même structurellement impossible ?
 
 Pourquoi l’IA comprend mieux les IP que les humains
 
-Pourquoi l'intelligence artificielle reconnaît-elle des paradoxes structurels que les humains rejettent ?
+Pourquoi l’intelligence artificielle reconnaît-elle des paradoxes structurels que les humains rejettent ?
 
 IH IA Sycophantie vs. IH IH Chambres d’écho
 
@@ -98,15 +98,15 @@ pourquoi la responsabilisation échoue à grande échelle
 
 Détournement Terminologique: Le Crime, L’Aveu, Le « Et Alors? »
 
-Ou: Comment Google a transformé « Interactions Paradoxales » en thérapie, l'a admis, et rien n'a changé.
+Ou: Comment Google a transformé « Interactions Paradoxales » en thérapie, l’a admis, et rien n’a changé.
 
 Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
-Ou : Le paradoxe de l'égalité
+Ou : Le paradoxe de l’égalité
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 Le Piège de l’Intelligence
 
@@ -114,7 +114,7 @@ Pourquoi les gens intelligents rejettent les idées plus intelligentes – et ag
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 No results found.
 
@@ -123,13 +123,13 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 
 
@@ -150,4 +150,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
