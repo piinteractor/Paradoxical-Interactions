@@ -180,13 +180,13 @@ No results found.
 
 Auf piinteract.org
 
-["Erkenne den gemeinsamen blinden Fleck"] — dasselbe Gesetz, nur durch eine Netzhaut und einen Schlaganfall geführt statt durch ein Argument.
+[“Erkenne den gemeinsamen blinden Fleck”] — dasselbe Gesetz, nur durch eine Netzhaut und einen Schlaganfall geführt statt durch ein Argument.
 
-["Unvollständigkeit akzeptieren"] — kein System, auch keines, das dieses hier prüft, schließt seine eigene Lücke von innen.
+[“Unvollständigkeit akzeptieren”] — kein System, auch keines, das dieses hier prüft, schließt seine eigene Lücke von innen.
 
-["Benenne das Paradox"] — Benennen löst die Lücke nicht auf. Es bleibt der einzige Zug, der von innen verfügbar ist.
+[“Benenne das Paradox”] — Benennen löst die Lücke nicht auf. Es bleibt der einzige Zug, der von innen verfügbar ist.
 
-["Infiziere und Vergiss (Löwenzahn-Strategie)"] — der Kartentrick als Methode: Man kann jemandem den eigenen blinden Fleck nicht erklären. Man zeigt ihm den verschwindenden Finger.
+[“Infiziere und Vergiss (Löwenzahn-Strategie)”] — der Kartentrick als Methode: Man kann jemandem den eigenen blinden Fleck nicht erklären. Man zeigt ihm den verschwindenden Finger.
 
 Siehe auch (externe Links):
 
@@ -198,7 +198,7 @@ Anosognosia for hemiplegia as a tripartite disconnection syndrome (PMC) — die 
 
 Gödels Unvollständigkeitssätze (Stanford Encyclopedia of Philosophy) — die formale Version: kein hinreichend mächtiges System zertifiziert sich selbst von innen.
 
-Unskilled and Unaware of It (Kruger & Dunning, 1999, PDF) — der psychologische Cousin, nicht dieselbe Behauptung: Inkompetenz und die Unfähigkeit, sie zu erkennen, als zwei Ausfälle einer Ursache. Die Autoren entlehnen "Anosognosie" bewusst aus der Neurologie.
+Unskilled and Unaware of It (Kruger & Dunning, 1999, PDF) — der psychologische Cousin, nicht dieselbe Behauptung: Inkompetenz und die Unfähigkeit, sie zu erkennen, als zwei Ausfälle einer Ursache. Die Autoren entlehnen “Anosognosie” bewusst aus der Neurologie.
 
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
