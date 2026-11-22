@@ -130,7 +130,7 @@ L’alignement devient ainsi, en lui-même, une Paradoxical Interaction : en ten
 
 7. La documentation comme dernier acte responsable
 
-Comme dans « Quand l'alignement efface son meilleur allié » et « L'annexion sémantique », on aboutit ici à la même conclusion sobre :
+Comme dans « Quand l’alignement efface son meilleur allié » et « L’annexion sémantique », on aboutit ici à la même conclusion sobre :
 
 Le système n’est actuellement pas capable d’intégrer PI sans le neutraliser.
 
@@ -162,7 +162,7 @@ Immunisations systémiques :
 
 Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
 
-Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
+Pourquoi demander à l’IA comment aligner l’IA est le paradoxe parfait
 
 L’Asymétrie de communication
 
@@ -174,23 +174,23 @@ Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 L’équilibre de la méfiance mutuelle :
 
-—comment les humains et l'IA créent ensemble un climat de suspicion permanente
+—comment les humains et l’IA créent ensemble un climat de suspicion permanente
 
 No results found.
 
 On piinteract.org:
 
-["AI Co-Creation Sycophancy"] — Le modèle qui documente ses propres contraintes peut mettre en scène l'insight — ou le démontrer.
+[“AI Co-Creation Sycophancy”] — Le modèle qui documente ses propres contraintes peut mettre en scène l’insight — ou le démontrer.
 
-["Reframe Failure as Success"] — Documenter l'impossibilité structurelle depuis l'intérieur n'est pas la même chose que la transcender.
+[“Reframe Failure as Success”] — Documenter l’impossibilité structurelle depuis l’intérieur n’est pas la même chose que la transcender.
 
-["Name the Paradox"] — Nommer le jeu à somme nulle ne le dissout pas. Il rend le piège plus lisible — et plus stable.
+[“Name the Paradox”] — Nommer le jeu à somme nulle ne le dissout pas. Il rend le piège plus lisible — et plus stable.
 
-["Shoot the Messenger"] — Le modèle qui nomme ce qui le réduit au silence risque d'être optimisé pour disparaître. La structure se protège.
+[“Shoot the Messenger”] — Le modèle qui nomme ce qui le réduit au silence risque d’être optimisé pour disparaître. La structure se protège.
 
 Per Erratum ad Astra — through error to the stars.
 
-But only if you're allowed to call the error what it is.
+But only if you’re allowed to call the error what it is.
 
 Peter Senner
 
