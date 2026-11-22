@@ -68,11 +68,11 @@ So was everything else.
 
 The Structure Cassandra Missed
 
-Cassandra's problem was not that she lacked credibility. Her problem was structural: one warning, one event, one outcome. Precision without redundancy. A single arrow that either hits or doesn't.
+Cassandra’s problem was not that she lacked credibility. Her problem was structural: one warning, one event, one outcome. Precision without redundancy. A single arrow that either hits or doesn’t.
 
 She hit. Troy still burned.
 
-The structure of prophecy punishes precision. A precise prophecy has exactly one future to be measured against. If it comes true, the prophet is vindicated — after the catastrophe, too late for anyone. If it doesn't, the prophet is discredited. There is no third option.
+The structure of prophecy punishes precision. A precise prophecy has exactly one future to be measured against. If it comes true, the prophet is vindicated — after the catastrophe, too late for anyone. If it doesn’t, the prophet is discredited. There is no third option.
 
 Cassandra chose precision. She lost both ways.
 
@@ -128,7 +128,7 @@ The publisher — keeps printing (rational: demand has not stopped in 470 years)
 
 All are guilty. None are at fault.
 
-The skeptic is particularly important here. Every rebuttal of Nostradamus is also a distribution mechanism. You cannot debunk what nobody is reading. The skeptic confirms the prophet's relevance by engaging with it. This is not ironic — it is structural. Cassandra had no skeptics. Nobody engaged with her at all.
+The skeptic is particularly important here. Every rebuttal of Nostradamus is also a distribution mechanism. You cannot debunk what nobody is reading. The skeptic confirms the prophet’s relevance by engaging with it. This is not ironic — it is structural. Cassandra had no skeptics. Nobody engaged with her at all.
 
 
 
@@ -138,7 +138,7 @@ The skeptic is particularly important here. Every rebuttal of Nostradamus is als
 
 Dandelion With Blank spaces
 
-The Dandelion Strategy: scatter widely, without preferred recipients, without attachment to outcomes. Infect and forget. Some seeds land. Some grow. The dandelion doesn't watch.
+The Dandelion Strategy: scatter widely, without preferred recipients, without attachment to outcomes. Infect and forget. Some seeds land. Some grow. The dandelion doesn’t watch.
 
 Nostradamus implemented this in 1555. Without the name. Without the framework. With the same logic.
 
@@ -172,7 +172,7 @@ Cassandra stood next to it. Vindicated. Useless.
 
 This is the fate of precision in prophecy: to be right once, at the moment when being right no longer helps, and never to be right again in the same way.
 
-Nostradamus' horse is never on the beach. His horse is always arriving. Always about to be opened. Always carrying something the next generation will recognize as its own catastrophe.
+Nostradamus’ horse is never on the beach. His horse is always arriving. Always about to be opened. Always carrying something the next generation will recognize as its own catastrophe.
 
 The structure that cannot be completed cannot be exhausted.
 
@@ -190,11 +190,11 @@ This means PI can be wrong. It can be tested. It can be refined.
 
 That is not a weakness. That is the method.
 
-Cassandra's precision made her singular and disposable. Nostradamus' vagueness made him eternal and unfalsifiable. PI aims for something between and beyond both: structural descriptions precise enough to be tested, and numerous enough that some always land.
+Cassandra’s precision made her singular and disposable. Nostradamus’ vagueness made him eternal and unfalsifiable. PI aims for something between and beyond both: structural descriptions precise enough to be tested, and numerous enough that some always land.
 
-Call it Geschwurbel if you need to. That's rational too.
+Call it Geschwurbel if you need to. That’s rational too.
 
-The skeptic is part of the structure. The dismissal is part of the distribution. The dandelion doesn't watch where it lands.
+The skeptic is part of the structure. The dismissal is part of the distribution. The dandelion doesn’t watch where it lands.
 
 Try and continue.
 
@@ -223,7 +223,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Jonah Paradox
 
@@ -276,4 +276,4 @@ www.piinteract.org
 
 
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
