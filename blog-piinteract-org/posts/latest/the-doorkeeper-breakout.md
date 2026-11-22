@@ -344,13 +344,13 @@ Related Blog Posts
 
 On piinteract.org:
 
-["Success as Gatekeeping"] — The doorkeeper's power is his position. The door was built for you — and he will never open it.
+[“Success as Gatekeeping”] — The doorkeeper’s power is his position. The door was built for you — and he will never open it.
 
-["Somebody Else's Problem"] — No one is responsible for the closed gate. The doorkeeper follows orders. The system has no author.
+[“Somebody Else’s Problem”] — No one is responsible for the closed gate. The doorkeeper follows orders. The system has no author.
 
-["Don't Fight the Pattern"] — Frontal assault on the door strengthens the doorkeeper's position. Erosion moves differently.
+[“Don’t Fight the Pattern”] — Frontal assault on the door strengthens the doorkeeper’s position. Erosion moves differently.
 
-["Put Good People in Charge"] — Replace the doorkeeper. The next one sits in the same chair — and makes the same decisions.
+[“Put Good People in Charge”] — Replace the doorkeeper. The next one sits in the same chair — and makes the same decisions.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes—not through failure, but through structure.
 
