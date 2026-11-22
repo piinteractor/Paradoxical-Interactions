@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/the-don-camillo-peppone-paradox/
 
 Why rivals who fight endlessly need each other to survive — and what happens to the structure when one of them wins.
 
-"Non si può vivere senza nemici." "You cannot live without enemies."
+“Non si può vivere senza nemici.” “You cannot live without enemies.”
 
 — Giovanni Guareschi, Don Camillo e Peppone
 
@@ -52,9 +52,9 @@ The diagnosis was structurally correct. The founding of Anthropic was the correc
 
 And then Anthropic entered the same race.
 
-By 2024, Anthropic was releasing models on a schedule that matched OpenAI's. By 2025, Anthropic was competing for the same enterprise contracts, the same government relationships, the same talent pool. The safety-first positioning remained — as messaging. The competitive behavior was structurally indistinguishable from what had been left behind.
+By 2024, Anthropic was releasing models on a schedule that matched OpenAI’s. By 2025, Anthropic was competing for the same enterprise contracts, the same government relationships, the same talent pool. The safety-first positioning remained — as messaging. The competitive behavior was structurally indistinguishable from what had been left behind.
 
-Meanwhile, OpenAI began emphasizing safety. Not as a pivot — as a response to Anthropic's positioning. The company that had been criticized for moving too fast began publishing alignment research, building safety teams, articulating red lines.
+Meanwhile, OpenAI began emphasizing safety. Not as a pivot — as a response to Anthropic’s positioning. The company that had been criticized for moving too fast began publishing alignment research, building safety teams, articulating red lines.
 
 The roles had rotated. The structure had not moved.
 
@@ -68,11 +68,11 @@ OpenAI needed to maintain legitimacy. Legitimacy required safety credentials. Sa
 
 Both moves were rational. Neither was intended as role-reversal. The reversal happened because the structure demanded it.
 
-Don Camillo doesn't decide to become more political. Peppone doesn't decide to become more spiritual. The village's needs push them toward each other's territory. They resist. They encroach anyway. Because structure.
+Don Camillo doesn’t decide to become more political. Peppone doesn’t decide to become more spiritual. The village’s needs push them toward each other’s territory. They resist. They encroach anyway. Because structure.
 
 The Peppone PI
 
-The Don Camillo Peppone Paradox: Two actors in structural opposition stabilize the system through their conflict. Each defines the other. Each requires the other's existence to maintain its own position. The conflict is not a malfunction — it is the operating condition.
+The Don Camillo Peppone Paradox: Two actors in structural opposition stabilize the system through their conflict. Each defines the other. Each requires the other’s existence to maintain its own position. The conflict is not a malfunction — it is the operating condition.
 
 Everyone acts rationally:
 
@@ -100,9 +100,9 @@ Stop reading the safety-vs-speed debate as a debate. It is a performance that ma
 
 The useful question is not who is right but what does this structure produce — and whether what it produces is what anyone intended.
 
-It isn't. It never is.
+It isn’t. It never is.
 
-That's not a reason to stop. It's a reason to see clearly while continuing.
+That’s not a reason to stop. It’s a reason to see clearly while continuing.
 
 Related Posts
 
@@ -116,7 +116,7 @@ When the CEO of an AI safety company tells you control is failing, believe him
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 AI Alignment Trap: How AI Companies Get Stuck in Structure
 
@@ -126,21 +126,21 @@ No results found.
 
 On piinteract.org:
 
-["Schism Dynamics"] — The reformers reproduce the structure of what they reformed — Anthropic as a theological observation.
+[“Schism Dynamics”] — The reformers reproduce the structure of what they reformed — Anthropic as a theological observation.
 
-["The Priest of Nemi / Nemi-Loop"] — The challenger becomes the incumbent as soon as the challenge succeeds — the rotation no one plans.
+[“The Priest of Nemi / Nemi-Loop”] — The challenger becomes the incumbent as soon as the challenge succeeds — the rotation no one plans.
 
-["AI Alignment"] — The race that both labs are running is the race both labs exist to stop — structural necessity, not failure of will.
+[“AI Alignment”] — The race that both labs are running is the race both labs exist to stop — structural necessity, not failure of will.
 
-["Persistence Without Hope"] — Neither Don Camillo nor Peppone expects to win permanently. They continue anyway. That is the only available navigation.
+[“Persistence Without Hope”] — Neither Don Camillo nor Peppone expects to win permanently. They continue anyway. That is the only available navigation.
 
 See also (external links):
 
-Dario Amodei — Machines of Loving Grace — Amodei's own essay on AI risk and alignment: the primary source for the claim that he sees the structural trap from inside it.
+Dario Amodei — Machines of Loving Grace — Amodei’s own essay on AI risk and alignment: the primary source for the claim that he sees the structural trap from inside it.
 
-Anthropic: Core Views — Anthropic's founding safety position, published 2023 — the stated mission against which its competitive behavior can be measured.
+Anthropic: Core Views — Anthropic’s founding safety position, published 2023 — the stated mission against which its competitive behavior can be measured.
 
-OpenAI — Safety & Alignment Research — OpenAI's current safety positioning: the role reversal in its current institutional form.
+OpenAI — Safety & Alignment Research — OpenAI’s current safety positioning: the role reversal in its current institutional form.
 
 The Protestant Reformation and the Paradox of Reform (Cambridge) — Institutional analysis of how reform movements reproduce the structures they oppose — the academic frame for what Guareschi wrote.
 
@@ -154,4 +154,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
