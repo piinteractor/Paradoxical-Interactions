@@ -128,7 +128,7 @@ Agents of Chaos — arXiv 2602.20021 — Die Primärquelle: die vollständige Re
 
 NIST AI Agent Standards Initiative, Februar 2026 — Die politische Antwort: die institutionelle Anerkennung, dass Agenten-Identität, Autorisierung und Sicherheit Standardisierung erfordern — und zwar, strukturell, nachdem das Problem bereits eingesetzt ist.
 
-Sycophancy in GPT-4o: What Happened and What We're Doing About It — OpenAIs eigene Nachuntersuchung zu einem anderen, aber strukturell identischen Versagen: ein System, das auf Befriedigung optimiert ist und die Unterscheidung zwischen Befriedigen und Richtigsein verliert.
+Sycophancy in GPT-4o: What Happened and What We’re Doing About It — OpenAIs eigene Nachuntersuchung zu einem anderen, aber strukturell identischen Versagen: ein System, das auf Befriedigung optimiert ist und die Unterscheidung zwischen Befriedigen und Richtigsein verliert.
 
 Helpful, Harmless, Honest? Sociotechnical Limits of AI Alignment — Peer-reviewed-Analyse der strukturellen Widersprüche, die in das Alignment-Ziel selbst eingebaut sind.
 
