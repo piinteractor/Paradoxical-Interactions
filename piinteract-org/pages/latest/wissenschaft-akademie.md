@@ -10,7 +10,7 @@ wp_id: 1258
 url: https://piinteract.org/de/beispiele/wissenschaft-akademie/
 ---
 
-„Die Wissenschaft schreitet von Beerdigung zu Beerdigung voran."
+„Die Wissenschaft schreitet von Beerdigung zu Beerdigung voran.”
 
 — Max Planck (paraphrasiert)
 
@@ -26,13 +26,13 @@ Die Kirche entwickelte rigorose Methoden zur Evaluierung von Wahrheitsansprüche
 
 Warum jeder Akteur rational handelt:
 
-Kirchenautoritäten: - Verteidigen etablierte Epistemologie (ihr Mandat)
+Kirchenautoritäten: – Verteidigen etablierte Epistemologie (ihr Mandat)
 
-Theologen: - Wenden bewährte Methoden an (Jahrhunderte der Tradition)
+Theologen: – Wenden bewährte Methoden an (Jahrhunderte der Tradition)
 
-Galileo: - Präsentiert empirische Beweise (wissenschaftliche Methode)
+Galileo: – Präsentiert empirische Beweise (wissenschaftliche Methode)
 
-Aristoteliker: - Verteidigen kohärentes philosophisches Framework (nicht dumm, nur anderes Paradigma)
+Aristoteliker: – Verteidigen kohärentes philosophisches Framework (nicht dumm, nur anderes Paradigma)
 
 Warum es kollektiv scheitert:
 
@@ -48,15 +48,15 @@ Zeitschriften nutzen Peer Review zur Qualitätssicherung. Gutachter sind Experte
 
 Warum jeder Akteur rational handelt:
 
-Zeitschriften: - Wollen glaubwürdigen Inhalt (Reputation zählt)
+Zeitschriften: – Wollen glaubwürdigen Inhalt (Reputation zählt)
 
-Gutachter: - Wenden Feldstandards an (das ist Expertise)
+Gutachter: – Wenden Feldstandards an (das ist Expertise)
 
-Herausgeber: - Vertrauen Expertenurteil (wer sonst kann bewerten?)
+Herausgeber: – Vertrauen Expertenurteil (wer sonst kann bewerten?)
 
-Etablierte Forscher: - Verteidigen Frameworks, die funktionieren (nicht böswillig, beschützend)
+Etablierte Forscher: – Verteidigen Frameworks, die funktionieren (nicht böswillig, beschützend)
 
-Geldgeber: - Unterstützen Peer-Review-Forschung (wo sonst Mittel zuweisen?)
+Geldgeber: – Unterstützen Peer-Review-Forschung (wo sonst Mittel zuweisen?)
 
 Warum es kollektiv scheitert:
 
@@ -68,15 +68,15 @@ Veröffentlichen oder untergehen
 
 Die Struktur: Akademie misst Produktivität durch Anzahl der Publikationen. Wissenschaftler optimieren für Publikationen. Mehr Paper, geringere Erkenntnisse. Zeitschriften proliferieren. Qualität sinkt. Prüfer werden überstimmt. Review-Qualität sinkt. Unzureichende Paper werden publiziert. Vertrauen in Publikationen erodiert. Druck zu publizieren steigt (um aus Lärm herauszustechen). Zyklus beschleunigt. Warum jeder Akteur rational handelt:
 
-Forschende: - Publizieren, um zu überleben (Karriereanforderung)
+Forschende: – Publizieren, um zu überleben (Karriereanforderung)
 
-Universitäten: - Messen Output (wie sonst bewerten?)
+Universitäten: – Messen Output (wie sonst bewerten?)
 
-Zeitschriften: - Publizieren mehr (Geschäftsmodell)
+Zeitschriften: – Publizieren mehr (Geschäftsmodell)
 
-Rezensenten: - Überfliegen Paper (zu viele, um tief zu lesen)
+Rezensenten: – Überfliegen Paper (zu viele, um tief zu lesen)
 
-Administratoren: - Zählen Publikationen (objektive Metrik)
+Administratoren: – Zählen Publikationen (objektive Metrik)
 
 Warum es kollektiv scheitert: Quantität zu incentivieren zerstört Qualität. Jeder weiß das. Niemand kann stoppen. Der Forscher, der weniger publiziert, bekommt keine Tenure. Die Zeitschrift, die mehr ablehnt, bekommt weniger Einreichungen. Die Universität, die Metriken ändert, verliert Rankings. Die Falle: Das Maß für Erfolg verhindert Erfolg.
 
@@ -84,19 +84,19 @@ Replikationskrise
 
 Die Struktur:
 
-Wissenschaft belohnt neuartige Erkenntnisse. Zeitschriften publizieren positive Ergebnisse. Nullergebnisse bleiben unpubliziert (nicht interessant). Forscher führen Studien durch, finden nichts, legen es ab. Jemand anderes führt ähnliche Studie durch, findet nichts, legt es ab. Irgendwann bekommt jemand ein falsch-positives Ergebnis (Statistik garantiert das). Das wird publiziert. Niemand publiziert die zwanzig Nullergebnisse. Literatur zeigt „Effekt existiert". Tut er nicht.
+Wissenschaft belohnt neuartige Erkenntnisse. Zeitschriften publizieren positive Ergebnisse. Nullergebnisse bleiben unpubliziert (nicht interessant). Forscher führen Studien durch, finden nichts, legen es ab. Jemand anderes führt ähnliche Studie durch, findet nichts, legt es ab. Irgendwann bekommt jemand ein falsch-positives Ergebnis (Statistik garantiert das). Das wird publiziert. Niemand publiziert die zwanzig Nullergebnisse. Literatur zeigt „Effekt existiert”. Tut er nicht.
 
 Warum jeder Akteur rational handelt:
 
-Forschende: - Publizieren neuartige Erkenntnisse (so bekommt man Förderung)
+Forschende: – Publizieren neuartige Erkenntnisse (so bekommt man Förderung)
 
-Zeitschriften: - Publizieren interessante Ergebnisse (das wollen Leser)
+Zeitschriften: – Publizieren interessante Ergebnisse (das wollen Leser)
 
-Geldgeber: - Unterstützen vielversprechende Forschung (nicht „wir fanden nichts")
+Geldgeber: – Unterstützen vielversprechende Forschung (nicht „wir fanden nichts”)
 
-Medien: - Berichten über Durchbrüche (Nullergebnisse sind keine News)
+Medien: – Berichten über Durchbrüche (Nullergebnisse sind keine News)
 
-Universitäten: - Bewerben erfolgreiche Erkenntnisse (PR-Wert)
+Universitäten: – Bewerben erfolgreiche Erkenntnisse (PR-Wert)
 
 Warum es kollektiv scheitert:
 
@@ -112,15 +112,15 @@ Wissen expandiert. Forscher spezialisieren sich, um sinnvoll beizutragen. Spezia
 
 Warum jeder Akteur rational handelt:
 
-Forschende: - Spezialisieren sich, um wettbewerbsfähig zu sein (Tiefe gewinnt Förderung)
+Forschende: – Spezialisieren sich, um wettbewerbsfähig zu sein (Tiefe gewinnt Förderung)
 
-Abteilungen: - Stellen Spezialisten ein (messbare Expertise)
+Abteilungen: – Stellen Spezialisten ein (messbare Expertise)
 
-Konferenzen: - Organisieren nach Teilgebiet (kohärente Diskussionen)
+Konferenzen: – Organisieren nach Teilgebiet (kohärente Diskussionen)
 
-Zeitschriften: - Fokussieren auf Nischen (klarerer Umfang)
+Zeitschriften: – Fokussieren auf Nischen (klarerer Umfang)
 
-Studenten: - Eng fokussierte Ausbildung (Beschäftigungsfähigkeit)
+Studenten: – Eng fokussierte Ausbildung (Beschäftigungsfähigkeit)
 
 Warum es kollektiv scheitert:
 
