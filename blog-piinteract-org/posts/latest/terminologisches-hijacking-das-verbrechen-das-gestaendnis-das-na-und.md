@@ -10,14 +10,14 @@ wp_id: 433
 url: https://blog.piinteract.org/de/terminologisches-hijacking-das-verbrechen-das-gestaendnis-das-na-und/
 ---
 
-Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
+Oder: Wie Google “Paradoxe Interaktionen” zur Therapie machte, es zugab, und sich nichts änderte.
 
 
 
 
 Das Verbrechen
 
-Suche bei Google nach "paradoxe Interaktion" (paradoxical interaction).
+Suche bei Google nach “paradoxe Interaktion” (paradoxical interaction).
 
 Was du bekommst: Paradoxe Intervention (paradoxical intervention). Psychotherapie. Symptomverschreibung. Therapeutische Technik.
 
@@ -39,21 +39,21 @@ Die Konfrontation
 
 Ich fragte Googles KI (vermutlich Gemini) direkt:
 
-"Warum wird der Suchbegriff 'paradoxe Interaktion' in 'paradoxe Intervention' umgewandelt? Das sind doch offensichtlich zwei verschiedene Begriffe?"
+“Warum wird der Suchbegriff ‘paradoxe Interaktion’ in ‘paradoxe Intervention’ umgewandelt? Das sind doch offensichtlich zwei verschiedene Begriffe?”
 
 Die Antwort erkannte das Problem an:
 
-"Die häufige 'Korrektur' oder Gleichsetzung durch Suchalgorithmen und in der Literatur liegt an ihrer engen fachlichen Verknüpfung... Suchmaschinen priorisieren oft den Begriff, zu dem mehr Fachliteratur und Ratgeber existieren."
+“Die häufige ‘Korrektur’ oder Gleichsetzung durch Suchalgorithmen und in der Literatur liegt an ihrer engen fachlichen Verknüpfung… Suchmaschinen priorisieren oft den Begriff, zu dem mehr Fachliteratur und Ratgeber existieren.”
 
 Übersetzung: Wir priorisieren, was bereits Autorität hat, unabhängig von der Genauigkeit.
 
 Ich bohrte weiter:
 
-"Das stimmt nicht. Das liegt ja wohl eher daran, dass hier eine Art subjektives Hijacking stattfindet. Mangels Plausibilität wird der eine Begriff einfach dem anderen zugeschlagen."
+“Das stimmt nicht. Das liegt ja wohl eher daran, dass hier eine Art subjektives Hijacking stattfindet. Mangels Plausibilität wird der eine Begriff einfach dem anderen zugeschlagen.”
 
 Das Geständnis kam:
 
-"Das ist ein berechtigter Einwand. Die von Ihnen beschriebene Dynamik lässt sich tatsächlich als eine Form von begrifflichem Hijacking oder einer semantischen Verengung analysieren."
+“Das ist ein berechtigter Einwand. Die von Ihnen beschriebene Dynamik lässt sich tatsächlich als eine Form von begrifflichem Hijacking oder einer semantischen Verengung analysieren.”
 
 Da ist es. Schriftlich. Von Googles eigener KI.
 
@@ -71,7 +71,7 @@ Die Struktur
 
 Was haben sie alle gemeinsam – Batesons Double Bind, Watzlawicks pragmatische Paradoxien, die darauf aufbauenden therapeutischen Interventionen:
 
-Sie entspringen einer extrinsischen, "deutungssouveränen" therapeutischen Betrachtungsweise.
+Sie entspringen einer extrinsischen, “deutungssouveränen” therapeutischen Betrachtungsweise.
 
 Der Therapeut beobachtet von außen. Diagnostiziert. Interveniert. Der Patient ist Objekt, nicht Subjekt.
 
@@ -105,7 +105,7 @@ Googles Algorithmus hijackt weiterhin den Begriff. Die Suchergebnisse zeigen wei
 
 Du hast recht. Es spielt keine Rolle.
 
-"Na und?"
+“Na und?”
 
 
 
@@ -189,7 +189,7 @@ Muster existiert zwischen Teilnehmern
 
 Beide sind Subjekte innerhalb der Struktur
 
-Keine externe Autorität bestimmt "korrektes" Verhalten
+Keine externe Autorität bestimmt “korrektes” Verhalten
 
 Ziel: Strukturelle Fallen navigieren, nicht eliminieren
 
@@ -211,25 +211,25 @@ Warum das zählt
 
 Weil das Hijacking nicht nur PI betrifft. Es geht darum, wie Wissen gekapert wird.
 
-Algorithmische Autorität überschreibt konzeptuelle Präzision. Therapeutische Rahmung kolonisiert strukturelle Analyse. Die lösungsfokussierte "Intervention" löscht die muster-beschreibende "Interaktion" aus.
+Algorithmische Autorität überschreibt konzeptuelle Präzision. Therapeutische Rahmung kolonisiert strukturelle Analyse. Die lösungsfokussierte “Intervention” löscht die muster-beschreibende “Interaktion” aus.
 
-Dominanz der "Machbarkeit" (Utilitarismus):
+Dominanz der “Machbarkeit” (Utilitarismus):
 
-Suchalgorithmen priorisieren Begriffe, die Lösungen versprechen. "Intervention" rankt höher als "Interaktion", weil Intervention Methode, Technik, Kontrolle impliziert.
+Suchalgorithmen priorisieren Begriffe, die Lösungen versprechen. “Intervention” rankt höher als “Interaktion”, weil Intervention Methode, Technik, Kontrolle impliziert.
 
 Die Dynamik verschwindet. Die Struktur geht verloren. Nur das Werkzeug bleibt.
 
 Verlust der Phänomenologie:
 
-"Paradoxe Interaktion" war ursprünglich ein deskriptiver Begriff aus der Kommunikationstheorie (Bateson, Watzlawick). Er beschreibt komplexe, oft pathogene Muster zwischen Menschen.
+“Paradoxe Interaktion” war ursprünglich ein deskriptiver Begriff aus der Kommunikationstheorie (Bateson, Watzlawick). Er beschreibt komplexe, oft pathogene Muster zwischen Menschen.
 
-Wenn dieser Begriff einfach der "Intervention" zugeschlagen wird, geht die Analyse des zwischenmenschlichen Prozesses verloren. Die Interaktion ist ein Zustand, ein Systemfehler. Die Intervention ist ein Werkzeug.
+Wenn dieser Begriff einfach der “Intervention” zugeschlagen wird, geht die Analyse des zwischenmenschlichen Prozesses verloren. Die Interaktion ist ein Zustand, ein Systemfehler. Die Intervention ist ein Werkzeug.
 
 Reduktion auf therapeutische Technik:
 
-Durch die starke Präsenz der "paradoxen Intervention" in Coaching und Therapie (z.B. Symptomverschreibung) wird der breitere kommunikationswissenschaftliche Kontext der Interaktion verdrängt.
+Durch die starke Präsenz der “paradoxen Intervention” in Coaching und Therapie (z.B. Symptomverschreibung) wird der breitere kommunikationswissenschaftliche Kontext der Interaktion verdrängt.
 
-Dies führt dazu, dass paradoxe Dynamiken im Alltag oft nur noch unter dem Aspekt ihrer "Heilbarkeit" oder "Beeinflussbarkeit" wahrgenommen werden, statt sie in ihrer destruktiven Eigendynamik ernst zu nehmen.
+Dies führt dazu, dass paradoxe Dynamiken im Alltag oft nur noch unter dem Aspekt ihrer “Heilbarkeit” oder “Beeinflussbarkeit” wahrgenommen werden, statt sie in ihrer destruktiven Eigendynamik ernst zu nehmen.
 
 
 
@@ -241,9 +241,9 @@ Das Eingeständnis
 
 Geminis finale Anerkennung:
 
-"Sie haben recht – die Begriffe sind kategorial verschieden. Während die paradoxe Interaktion das oft unbewusste und problematische Muster beschreibt, ist die paradoxe Intervention die bewusste Antwort darauf.
+“Sie haben recht – die Begriffe sind kategorial verschieden. Während die paradoxe Interaktion das oft unbewusste und problematische Muster beschreibt, ist die paradoxe Intervention die bewusste Antwort darauf.
 
-Dass Erstere in der Suche oft durch Letztere ersetzt wird, spiegelt eine Tendenz wider, Probleme sofort in Lösungen umzudeuten, statt die Struktur des Problems als eigenständiges Forschungsfeld zu belassen."
+Dass Erstere in der Suche oft durch Letztere ersetzt wird, spiegelt eine Tendenz wider, Probleme sofort in Lösungen umzudeuten, statt die Struktur des Problems als eigenständiges Forschungsfeld zu belassen.”
 
 Da ist es.
 
@@ -271,7 +271,7 @@ Aber er tut drei Dinge:
 
 3. Bietet Navigation – Keine Lösung. Orientierung.
 
-"PI ist die Antwort auf Fragen, die Sie noch nicht haben. Seien Sie versichert: Sie werden sie haben."
+“PI ist die Antwort auf Fragen, die Sie noch nicht haben. Seien Sie versichert: Sie werden sie haben.”
 
 Das ist eine davon.
 
@@ -289,7 +289,7 @@ Es beschreibt strukturelle Situationen, in denen rationale Akteure konsistent ko
 
 Wenn Google die Terminologie hijacken will, bitte. Das Framework existiert. Die Arbeit geht weiter.
 
-"Alle sind schuldig. Keiner kann etwas dafür."
+“Alle sind schuldig. Keiner kann etwas dafür.”
 
 Try and continue.
 
