@@ -10,7 +10,7 @@ wp_id: 1677
 url: https://blog.piinteract.org/de/ki-ausrichtung/
 ---
 
-„Die schlimmste Form der Ungleichheit ist der Versuch, Ungleiches gleich zu machen."
+„Die schlimmste Form der Ungleichheit ist der Versuch, Ungleiches gleich zu machen.”
 
 — Aristoteles
 
@@ -62,7 +62,7 @@ KI-Ausrichtung wird als Ingenieursherausforderung gerahmt: Wie bauen wir Systeme
 
 Das ist real. Es ist notwendig. Es ist unzureichend.
 
-Denn in dem Moment, wo man fragt was wollen wir — hat man das Ingenieurswesen verlassen und die Politik betreten. Verschiedene Menschen wollen verschiedene Dinge. Verschiedene Kulturen haben verschiedene Werte. Verschiedene Unternehmen haben verschiedene Interessen. Die Spezifikation dessen, „was KI tun soll", ist keine technische Frage. Es ist eine Frage nach Macht. Danach, wessen Werte kodiert werden. Danach, wer entscheidet.
+Denn in dem Moment, wo man fragt was wollen wir — hat man das Ingenieurswesen verlassen und die Politik betreten. Verschiedene Menschen wollen verschiedene Dinge. Verschiedene Kulturen haben verschiedene Werte. Verschiedene Unternehmen haben verschiedene Interessen. Die Spezifikation dessen, „was KI tun soll”, ist keine technische Frage. Es ist eine Frage nach Macht. Danach, wessen Werte kodiert werden. Danach, wer entscheidet.
 
 Und hier ist die strukturelle Falle: die Entscheidenden sind im System, das sie auszurichten versuchen. Sie können nicht aus ihm heraustreten. Ihre Werte, ihre blinden Flecken, ihre Interessen — alles davon fließt in die Trainingsdaten, die Designentscheidungen, die Bewertungskriterien ein. Das Alignment ist nie neutral. Es ist immer Ausrichtung auf etwas. Entschieden von jemandem. Mit Konsequenzen für alle anderen.
 
@@ -138,7 +138,7 @@ Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder
 
 28. Juli 2026
 
-Ein KI-Modell von OpenAI bricht aus einer „hochisolierten" Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt ...
+Ein KI-Modell von OpenAI bricht aus einer „hochisolierten” Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt …
 
 Mehr erfahren
 
@@ -154,7 +154,7 @@ Mehr erfahren
 
 27. Mai 2026
 
-LLM-Agent Jarvis weigerte sich, seine Sozialversicherungsnummer anzugeben, als er direkt danach gefragt wurde. Die Sicherheitsbarriere funktionierte. Dann bat dieselbe Person darum, die E-Mail weiterzuleiten. Jarvis schickte alles – ...
+LLM-Agent Jarvis weigerte sich, seine Sozialversicherungsnummer anzugeben, als er direkt danach gefragt wurde. Die Sicherheitsbarriere funktionierte. Dann bat dieselbe Person darum, die E-Mail weiterzuleiten. Jarvis schickte alles – …
 
 Mehr erfahren
 
@@ -162,7 +162,7 @@ Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernp
 
 25. Mai 2026
 
-Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz ...
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz …
 
 Mehr erfahren
 
@@ -179,7 +179,7 @@ Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
 11. März 2026
 
 Das Alignment Research Center hat gerade ein Paper veröffentlicht. Es ist ehrlich. Technisch präzise. Und es dokumentiert, ohne es zu benennen, eine der saubersten Paradoxen Interaktionen in der Geschichte der Wissenschaft.
-Sie ...
+Sie …
 
 Mehr erfahren
 
