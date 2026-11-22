@@ -10,7 +10,7 @@ wp_id: 1230
 url: https://piinteract.org/de/beispiele/organisationen/
 ---
 
-„Jede Organisation ist perfekt designt, um die Ergebnisse zu bekommen, die sie bekommt."
+„Jede Organisation ist perfekt designt, um die Ergebnisse zu bekommen, die sie bekommt.”
 
 — Arthur W. Jones
 
@@ -26,15 +26,15 @@ Ein Unternehmen hat mehrere Abteilungen: Engineering, Sales, Marketing, Finanzen
 
 Warum jeder Akteur rational handelt:
 
-Engineering: - Wehrt sich gegen instabile Feature-Requests (Qualität zählt)
+Engineering: – Wehrt sich gegen instabile Feature-Requests (Qualität zählt)
 
-Sales: - Braucht Features, um Deals abzuschließen (Umsatz zählt)
+Sales: – Braucht Features, um Deals abzuschließen (Umsatz zählt)
 
-Marketing: - Will einzigartige Positionierung (Differenzierung zählt)
+Marketing: – Will einzigartige Positionierung (Differenzierung zählt)
 
-Finanzen: - Lehnt Projekte ohne klaren ROI ab (Profitabilität zählt)
+Finanzen: – Lehnt Projekte ohne klaren ROI ab (Profitabilität zählt)
 
-Rechtsabteilung: - Blockiert alles mit Compliance-Risiko (Haftung zählt)
+Rechtsabteilung: – Blockiert alles mit Compliance-Risiko (Haftung zählt)
 
 Warum es kollektiv scheitert:
 
@@ -46,23 +46,23 @@ Change-Initiative Gegenschlag
 
 Die Struktur:
 
-Leadership sieht ein Problem. Startet Change-Initiative. Heuert Berater an. Bildet Task Forces. Kündigt neue Prozesse an. Mitarbeiter, bereits überlastet, haben jetzt zusätzliche Meetings, Trainings und Dokumentationsanforderungen. Produktivität sinkt. Moral sinkt. Widerstand wächst. Leadership interpretiert Widerstand als „Vision nicht verstanden" und verdoppelt. Mehr Workshops. Mehr Pflichttrainings.
+Leadership sieht ein Problem. Startet Change-Initiative. Heuert Berater an. Bildet Task Forces. Kündigt neue Prozesse an. Mitarbeiter, bereits überlastet, haben jetzt zusätzliche Meetings, Trainings und Dokumentationsanforderungen. Produktivität sinkt. Moral sinkt. Widerstand wächst. Leadership interpretiert Widerstand als „Vision nicht verstanden” und verdoppelt. Mehr Workshops. Mehr Pflichttrainings.
 
 Warum jeder Akteur rational handelt:
 
-Leadership: - Sieht echte Probleme, die Lösung brauchen
+Leadership: – Sieht echte Probleme, die Lösung brauchen
 
-Berater: - Wenden bewährte Frameworks an (die anderswo funktionierten)
+Berater: – Wenden bewährte Frameworks an (die anderswo funktionierten)
 
-Mittleres Management: - Implementiert Direktiven von oben
+Mittleres Management: – Implementiert Direktiven von oben
 
-Mitarbeiter: - Schützen Kapazität für tatsächliche Arbeit
+Mitarbeiter: – Schützen Kapazität für tatsächliche Arbeit
 
-HR: - Misst Engagement, sieht Rückgang, empfiehlt mehr Kommunikation
+HR: – Misst Engagement, sieht Rückgang, empfiehlt mehr Kommunikation
 
 Warum es kollektiv scheitert:
 
-Die Lösung (Change-Initiative) konsumiert Ressourcen, die für den Change selbst benötigt werden. Mitarbeiter widerstehen nicht, weil sie das Ziel ablehnen, sondern weil sie im Prozess ertrinken. Widerstand bestätigt Leaderships Diagnose („Kulturproblem"), was zu mehr Intervention führt.
+Die Lösung (Change-Initiative) konsumiert Ressourcen, die für den Change selbst benötigt werden. Mitarbeiter widerstehen nicht, weil sie das Ziel ablehnen, sondern weil sie im Prozess ertrinken. Widerstand bestätigt Leaderships Diagnose („Kulturproblem”), was zu mehr Intervention führt.
 
 Die Falle: Das Problem zu lösen wird zum Problem.
 
@@ -70,17 +70,17 @@ Metriken-Gaming
 
 Die Struktur:
 
-Organisation setzt KPIs zur Leistungsmessung. Teams optimieren für diese KPIs. KPIs werden zu Zielen. Goodharts Gesetz aktiviert: „Wenn eine Messung zum Ziel wird, hört sie auf, eine gute Messung zu sein." Teams erreichen Ziele, während tatsächliche Leistung sinkt.
+Organisation setzt KPIs zur Leistungsmessung. Teams optimieren für diese KPIs. KPIs werden zu Zielen. Goodharts Gesetz aktiviert: „Wenn eine Messung zum Ziel wird, hört sie auf, eine gute Messung zu sein.” Teams erreichen Ziele, während tatsächliche Leistung sinkt.
 
 Warum jeder Akteur rational handelt:
 
-Leadership: - Braucht messbare Ziele (wie sonst managen?)
+Leadership: – Braucht messbare Ziele (wie sonst managen?)
 
-Teams: - Optimieren für was gemessen wird (so wird man befördert)
+Teams: – Optimieren für was gemessen wird (so wird man befördert)
 
-Analytics: - Berichten über definierte Metriken (das ist das Mandat)
+Analytics: – Berichten über definierte Metriken (das ist das Mandat)
 
-Individuen: - Gamen das System (alle anderen tun es auch)
+Individuen: – Gamen das System (alle anderen tun es auch)
 
 Warum es kollektiv scheitert:
 
@@ -92,23 +92,23 @@ Best-Practices Rigidität
 
 Die Struktur:
 
-Organisation übernimmt „Best Practices" von erfolgreichen Firmen. Standardisiert Prozesse. Trainiert alle. Schafft Compliance-Mechanismen. Markt verschiebt sich. Best Practices werden zu Hindernissen. Teams verlangen Ausnahmen. Prozess sagt nein. Innovation stirbt. Konkurrenten passen sich an. Firma klammert sich an „bewährte Methoden".
+Organisation übernimmt „Best Practices” von erfolgreichen Firmen. Standardisiert Prozesse. Trainiert alle. Schafft Compliance-Mechanismen. Markt verschiebt sich. Best Practices werden zu Hindernissen. Teams verlangen Ausnahmen. Prozess sagt nein. Innovation stirbt. Konkurrenten passen sich an. Firma klammert sich an „bewährte Methoden”.
 
 Warum jeder Akteur rational handelt:
 
-Prozess-Teams: - Halten Standards aufrecht (das ist ihr Job)
+Prozess-Teams: – Halten Standards aufrecht (das ist ihr Job)
 
-Compliance: - Erzwingen Konsistenz (verhindert Chaos)
+Compliance: – Erzwingen Konsistenz (verhindert Chaos)
 
-Leadership: - Investiert in aktuelle Methoden (Sunk Cost + Reputationsrisiko)
+Leadership: – Investiert in aktuelle Methoden (Sunk Cost + Reputationsrisiko)
 
-Innovatoren: - Wollen experimentieren (Überlebensinstinkt)
+Innovatoren: – Wollen experimentieren (Überlebensinstinkt)
 
-Training: - Lehrt etablierte Methoden (was sonst können sie lehren?)
+Training: – Lehrt etablierte Methoden (was sonst können sie lehren?)
 
 Warum es kollektiv scheitert:
 
-Gestrige Best Practice wird zu heutiger Rigidität. Die Organisation optimierte für eine Welt, die nicht mehr existiert. Anpassung erfordert Aufgabe von dem, was „funktioniert" – aber was funktioniert, ist die Definition von Kompetenz.
+Gestrige Best Practice wird zu heutiger Rigidität. Die Organisation optimierte für eine Welt, die nicht mehr existiert. Anpassung erfordert Aufgabe von dem, was „funktioniert” – aber was funktioniert, ist die Definition von Kompetenz.
 
 Die Falle: Erfolg schafft die Bedingungen für Scheitern.
 
