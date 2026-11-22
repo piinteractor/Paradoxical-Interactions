@@ -10,13 +10,13 @@ wp_id: 1461
 url: https://piinteract.org/fr/pratiques/anti-pratiques/
 ---
 
-« La folie, c'est de faire toujours la même chose et de s'attendre à un résultat différent. »
+« La folie, c’est de faire toujours la même chose et de s’attendre à un résultat différent. »
 
 — Souvent attribué à Einstein (en réalité inconnu)
 
 Anti-Pratiques
 
-Ce qui garantit l'Échec
+Ce qui garantit l’Échec
 
 Ces approches renforcent systématiquement les IP. Évitez-les. Ou pas. Mais ne soyez pas surpris quand elles échouent.
 
@@ -26,31 +26,31 @@ Si ça ne marche pas, essayez plus vite, plus fort, mieux.
 
 Pourquoi ça échoue?
 
-Amplifie le schéma. Paradoxe de l'effort en action.
+Amplifie le schéma. Paradoxe de l’effort en action.
 
 Exemple:
 
-Les mesures de sécurité créent de nouvelles vulnérabilités. Ajouter plus de sécurité crée plus de vulnérabilités. Le schéma ne se brise pas – il s'étend.
+Les mesures de sécurité créent de nouvelles vulnérabilités. Ajouter plus de sécurité crée plus de vulnérabilités. Le schéma ne se brise pas – il s’étend.
 
 Alternative:
 
-Brise le schéma, ne l'amplifie pas. Si l'approche renforce le problème, l'approche est le problème. Essaie quelque chose de structurellement différent—même si ça semble faux.
+Brise le schéma, ne l’amplifie pas. Si l’approche renforce le problème, l’approche est le problème. Essaie quelque chose de structurellement différent—même si ça semble faux.
 
-« Plus Vous le Voulez, Moins Vous l'Obtenez »
+« Plus Vous le Voulez, Moins Vous l’Obtenez »
 
-Le désespoir se diffuse. Et repousse ce qu'il cherche.
+Le désespoir se diffuse. Et repousse ce qu’il cherche.
 
 Pourquoi ça échoue?
 
-Le désir intense change la structure de l'interaction. Ce qui ressemble à de l'engagement se lit comme du désespoir. L'authenticité devient stratégie. L'autre côté le sent – et se retire. Plus vous essayez fort, plus vous signalez le besoin. Le besoin est faiblesse. La faiblesse est peu attrayante.
+Le désir intense change la structure de l’interaction. Ce qui ressemble à de l’engagement se lit comme du désespoir. L’authenticité devient stratégie. L’autre côté le sent – et se retire. Plus vous essayez fort, plus vous signalez le besoin. Le besoin est faiblesse. La faiblesse est peu attrayante.
 
 Exemple:
 
-Entretien d'embauche : Besoin désespéré du poste. Chaque réponse trop empressée, trop répétée, trop parfaite. L'intervieweur sent le désespoir. « Nous vous recontacterons. » Ils ne le feront pas. Pendant ce temps, le candidat déjà employé – détendu, authentique, indifférent – obtient l'offre. Pas parce qu'il est meilleur. Parce qu'il n'en a pas besoin.
+Entretien d’embauche : Besoin désespéré du poste. Chaque réponse trop empressée, trop répétée, trop parfaite. L’intervieweur sent le désespoir. « Nous vous recontacterons. » Ils ne le feront pas. Pendant ce temps, le candidat déjà employé – détendu, authentique, indifférent – obtient l’offre. Pas parce qu’il est meilleur. Parce qu’il n’en a pas besoin.
 
 Alternative:
 
-Veux-le moins. Pas un détachement feint—une véritable redirection de l'attention ailleurs. Rends-le optionnel dans ton esprit avant d'approcher. La structure répond à l'indifférence authentique, pas au calme joué.
+Veux-le moins. Pas un détachement feint—une véritable redirection de l’attention ailleurs. Rends-le optionnel dans ton esprit avant d’approcher. La structure répond à l’indifférence authentique, pas au calme joué.
 
 « Mettre de Bonnes Personnes aux Commandes »
 
@@ -58,13 +58,13 @@ Remplacer les individus, réparer le système.
 
 Pourquoi ça échoue?
 
-La structure dévore l'intention. De bonnes personnes dans de mauvaises structures produisent de mauvais résultats.
+La structure dévore l’intention. De bonnes personnes dans de mauvaises structures produisent de mauvais résultats.
 
 Exemple:
 
 Chaque nouveau PDG promet le changement. La structure reste. Les résultats restent.
 
-Alternative:Demande-toi pourquoi les bonnes personnes échouent ici sans cesse. Le problème n'est pas qui—c'est dans quoi elles marchent. Cartographie les forces qui les brisent avant de les remplacer.
+Alternative:Demande-toi pourquoi les bonnes personnes échouent ici sans cesse. Le problème n’est pas qui—c’est dans quoi elles marchent. Cartographie les forces qui les brisent avant de les remplacer.
 
 « Loyauté plutôt que Compétence »
 
@@ -72,15 +72,15 @@ Embaucher du cercle intérieur. Confiance plutôt que talent.
 
 Pourquoi ça échoue?
 
-Les réseaux personnels supplantent les critères objectifs. Le système récompense la connexion, pas la capacité. La compétence devient une menace – les outsiders apportent l'examen. La médiocrité devient une assurance structurelle.
+Les réseaux personnels supplantent les critères objectifs. Le système récompense la connexion, pas la capacité. La compétence devient une menace – les outsiders apportent l’examen. La médiocrité devient une assurance structurelle.
 
 Exemple:
 
-Nominations politiques : Candidats qualifiés contournés pour des loyalistes du parti. Agences dotées d'alliés idéologiques manquant d'expertise de domaine. Réponse aux catastrophes, politique économique, santé publique – tous souffrent. Mais le cercle intérieur reste protégé. Jusqu'à ce que la structure s'effondre sous sa propre incompétence.
+Nominations politiques : Candidats qualifiés contournés pour des loyalistes du parti. Agences dotées d’alliés idéologiques manquant d’expertise de domaine. Réponse aux catastrophes, politique économique, santé publique – tous souffrent. Mais le cercle intérieur reste protégé. Jusqu’à ce que la structure s’effondre sous sa propre incompétence.
 
 Alternative:
 
-Embauche pour ce qu'ils peuvent faire, pas qui ils connaissent. Teste la capacité réelle. Laisse le travail parler avant que la relation ne parle.
+Embauche pour ce qu’ils peuvent faire, pas qui ils connaissent. Teste la capacité réelle. Laisse le travail parler avant que la relation ne parle.
 
 « Succès comme Gardiennage »
 
@@ -88,55 +88,55 @@ But atteint. Maintenant protéger la position.
 
 Pourquoi ça échoue:
 
-Ceux qui ont survécu à une structure brisée ne la réparent pas – ils l'arment. Le succès transforme les victimes en défenseurs du système qui les a blessées. Plus le chemin est dur, plus la porte est forte.
+Ceux qui ont survécu à une structure brisée ne la réparent pas – ils l’arment. Le succès transforme les victimes en défenseurs du système qui les a blessées. Plus le chemin est dur, plus la porte est forte.
 
 Exemple:
 
-Professeurs titularisés qui ont survécu au bizutage académique brutal exigent maintenant la même chose des doctorants. « J'ai souffert, ils devraient aussi. » La structure qui les a blessés devient leur fossé. Perspectives fraîches bloquées. L'innovation meurt.
+Professeurs titularisés qui ont survécu au bizutage académique brutal exigent maintenant la même chose des doctorants. « J’ai souffert, ils devraient aussi. » La structure qui les a blessés devient leur fossé. Perspectives fraîches bloquées. L’innovation meurt.
 
 Alternative:
 
-Reconnais l'intelligence chez les autres. Ne sois pas le maître intouchable de la situation. Les suggestions créatives viennent souvent de sources inattendues. Ceux qui sécurisent leur position par l'exclusivité la perdent par l'insignifiance.
+Reconnais l’intelligence chez les autres. Ne sois pas le maître intouchable de la situation. Les suggestions créatives viennent souvent de sources inattendues. Ceux qui sécurisent leur position par l’exclusivité la perdent par l’insignifiance.
 
 « Le diable chie sur le plus gros tas ».
 
-Ou à ceux qui ont déjà, il sera donné davantage. L'effet Matthieu.
+Ou à ceux qui ont déjà, il sera donné davantage. L’effet Matthieu.
 
 Pourquoi ça échoue?
 
-Les inégalités initiales créent un avantage structurel. La position attire les ressources. Les ressources renforcent la position. L'écart se creuse systématiquement. Toutes les parties agissent de manière rationnelle : les investisseurs soutiennent les gagnants confirmés, les institutions choisissent les noms établis, les opportunités vont à ceux qui y ont accès. La structure favorise l'accumulation, et non le mérite.
+Les inégalités initiales créent un avantage structurel. La position attire les ressources. Les ressources renforcent la position. L’écart se creuse systématiquement. Toutes les parties agissent de manière rationnelle : les investisseurs soutiennent les gagnants confirmés, les institutions choisissent les noms établis, les opportunités vont à ceux qui y ont accès. La structure favorise l’accumulation, et non le mérite.
 
 Exemple:
 
-Milieu universitaire : première publication dans une revue prestigieuse → citations → financement → ressources → autres publications prestigieuses. Pas de première publication → spirale descendante, quelle que soit la qualité. Capital-risque : premier financement → embauche → livraison → utilisateurs → prochain cycle. Pas de financement → disparition, quel que soit le produit. Paradoxe de la reconnaissance de l'autorité : impossible de valider ses propres compétences. Besoin de la reconnaissance de ceux qui occupent une position, qui souvent occupent cette position précisément parce qu'ils ne sont pas capables de reconnaître des compétences supérieures.
+Milieu universitaire : première publication dans une revue prestigieuse → citations → financement → ressources → autres publications prestigieuses. Pas de première publication → spirale descendante, quelle que soit la qualité. Capital-risque : premier financement → embauche → livraison → utilisateurs → prochain cycle. Pas de financement → disparition, quel que soit le produit. Paradoxe de la reconnaissance de l’autorité : impossible de valider ses propres compétences. Besoin de la reconnaissance de ceux qui occupent une position, qui souvent occupent cette position précisément parce qu’ils ne sont pas capables de reconnaître des compétences supérieures.
 
 Alternative:
 
-Dénonce l'accumulation quand tu la vois. Nomme la chance. Questionne pourquoi la position continue d'attirer des ressources. Ne l'arrêtera pas—mais tue le mythe du "mérite".
+Dénonce l’accumulation quand tu la vois. Nomme la chance. Questionne pourquoi la position continue d’attirer des ressources. Ne l’arrêtera pas—mais tue le mythe du “mérite”.
 
 « Belle Idée – Aurait Pu Être la Mienne »
 
-S'approprier les idées des autres. S'élever soi-même. Les diminuer.
+S’approprier les idées des autres. S’élever soi-même. Les diminuer.
 
 Pourquoi ça échoue?
 
-Le pouvoir détermine le crédit, pas la contribution. Ceux en positions plus fortes revendiquent les idées des plus faibles – non par vol, mais par appropriation rétroactive. « J'aurais pensé à ça » devient « Donc c'est essentiellement le mien. » La position structurelle supplante l'origine intellectuelle.
+Le pouvoir détermine le crédit, pas la contribution. Ceux en positions plus fortes revendiquent les idées des plus faibles – non par vol, mais par appropriation rétroactive. « J’aurais pensé à ça » devient « Donc c’est essentiellement le mien. » La position structurelle supplante l’origine intellectuelle.
 
 Exemple:
 
-Développeur junior propose une solution d'architecture. Senior dit : « Belle idée – je pensais la même chose. » Puis la présente à la direction comme la sienne. Junior n'obtient ni crédit, ni avancement. Senior renforce sa position. La prochaine fois, junior reste silencieux. L'innovation meurt où le pouvoir revendique la paternité.
+Développeur junior propose une solution d’architecture. Senior dit : « Belle idée – je pensais la même chose. » Puis la présente à la direction comme la sienne. Junior n’obtient ni crédit, ni avancement. Senior renforce sa position. La prochaine fois, junior reste silencieux. L’innovation meurt où le pouvoir revendique la paternité.
 
 Alternative:
 
-Documente l'attribution de manière transparente. Horodate les contributions. Rends le vol intellectuel visible et coûteux. La structure exploite l'opacité—élimine-la.
+Documente l’attribution de manière transparente. Horodate les contributions. Rends le vol intellectuel visible et coûteux. La structure exploite l’opacité—élimine-la.
 
 « Promettre des Carrières, Livrer la Précarité »
 
-Attirer le talent avec des opportunités. La structure garantit l'échec pour la plupart.
+Attirer le talent avec des opportunités. La structure garantit l’échec pour la plupart.
 
 Pourquoi ça échoue?
 
-Le système nécessite l'exploitation temporaire pour fonctionner. La durée maximale du contrat force même les chercheurs réussis à sortir. Ceux qui survivent deviennent défenseurs – ou partent. La structure se perpétue par la précarité légiférée.
+Le système nécessite l’exploitation temporaire pour fonctionner. La durée maximale du contrat force même les chercheurs réussis à sortir. Ceux qui survivent deviennent défenseurs – ou partent. La structure se perpétue par la précarité légiférée.
 
 Exemple:
 
@@ -144,7 +144,7 @@ Exemple:
 
 Alternative:
 
-Dis la vérité sur les chances. Pas de faux espoir. La structure fonctionne par tromperie—brise ça. La plupart n'y arriveront pas. Dis-le d'emblée.
+Dis la vérité sur les chances. Pas de faux espoir. La structure fonctionne par tromperie—brise ça. La plupart n’y arriveront pas. Dis-le d’emblée.
 
 « Voir Problème → Résoudre Problème »
 
@@ -152,23 +152,23 @@ Celui qui le repère doit le réparer. Tout de suite.
 
 Pourquoi ça échoue?
 
-Le diagnostic n'est pas la thérapie. Le réflexe d'exiger des solutions immédiates empêche de comprendre la structure. La pression pour livrer produit de fausses corrections qui renforcent le schéma.
+Le diagnostic n’est pas la thérapie. Le réflexe d’exiger des solutions immédiates empêche de comprendre la structure. La pression pour livrer produit de fausses corrections qui renforcent le schéma.
 
 Exemple:
 
-Ingénieur repère une faille de sécurité. « Super, vous l'avez trouvée – réparez-la d'ici vendredi. » Pas le temps de cartographier les dépendances, comprendre les vecteurs d'attaque, évaluer les implications systémiques. Le patch crée trois nouvelles vulnérabilités. Le schéma se répète.
+Ingénieur repère une faille de sécurité. « Super, vous l’avez trouvée – réparez-la d’ici vendredi. » Pas le temps de cartographier les dépendances, comprendre les vecteurs d’attaque, évaluer les implications systémiques. Le patch crée trois nouvelles vulnérabilités. Le schéma se répète.
 
 Alternative:
 
-Sépare le diagnostic de l'action. Donne de l'espace pour comprendre la structure avant d'exiger des solutions. La pression de résoudre empêche la compréhension. La compréhension crée des options de navigation.
+Sépare le diagnostic de l’action. Donne de l’espace pour comprendre la structure avant d’exiger des solutions. La pression de résoudre empêche la compréhension. La compréhension crée des options de navigation.
 
 « La Transparence Crée la Confiance »
 
-Plus d'information résout tout.
+Plus d’information résout tout.
 
 Pourquoi ça échoue?
 
-Dans les PI, la transparence crée souvent plus de problèmes. Les paradoxes d'information sont réels.
+Dans les PI, la transparence crée souvent plus de problèmes. Les paradoxes d’information sont réels.
 
 Exemple:
 
@@ -176,15 +176,15 @@ Publier les capacités IA : Informer le public ou accélérer la course aux arme
 
 Alternative:
 
-Transparence sélective selon le contexte. L'information peut nuire. Parfois l'opacité protège. Cartographie d'abord la structure—puis décide ce qu'il faut révéler.
+Transparence sélective selon le contexte. L’information peut nuire. Parfois l’opacité protège. Cartographie d’abord la structure—puis décide ce qu’il faut révéler.
 
 « Solutions Gagnant-Gagnant »
 
-Tout le monde peut obtenir ce qu'il veut.
+Tout le monde peut obtenir ce qu’il veut.
 
 Pourquoi ça échoue?
 
-N'existent pas dans les structures asymétriques. Quelqu'un paie toujours.
+N’existent pas dans les structures asymétriques. Quelqu’un paie toujours.
 
 Exemple:
 
@@ -192,7 +192,7 @@ Exemple:
 
 Alternative:
 
-Nomme l'asymétrie. Montre qui paie. Prétendre que tout le monde gagne crée du ressentiment quand la réalité frappe. Les compromis honnêtes battent les fausses promesses.
+Nomme l’asymétrie. Montre qui paie. Prétendre que tout le monde gagne crée du ressentiment quand la réalité frappe. Les compromis honnêtes battent les fausses promesses.
 
 « Parlons Simplement »
 
@@ -200,11 +200,11 @@ La communication résout les problèmes structurels.
 
 Pourquoi ça échoue?
 
-Parler ne supplante pas les incitations. L'étroitesse d'esprit refuse tout argument. La structure bat le dialogue.
+Parler ne supplante pas les incitations. L’étroitesse d’esprit refuse tout argument. La structure bat le dialogue.
 
 Exemple:
 
-Réunions du conseil sur la « culture toxique ». Tout le monde est d'accord que c'est mauvais. Tout le monde y contribue le lendemain. Parce que la structure de promotion récompense le comportement toxique.
+Réunions du conseil sur la « culture toxique ». Tout le monde est d’accord que c’est mauvais. Tout le monde y contribue le lendemain. Parce que la structure de promotion récompense le comportement toxique.
 
 Alternative:
 
@@ -224,7 +224,7 @@ Agile, Scrum, OKRs, Design Thinking – tous vaincus par les mêmes forces struc
 
 Alternative:
 
-Adapte les outils à la structure, pas aux espoirs. L'outil qui a fonctionné ailleurs opère dans un contexte différent. Comprends d'abord ta structure. Puis choisis des outils—s'il en existe.
+Adapte les outils à la structure, pas aux espoirs. L’outil qui a fonctionné ailleurs opère dans un contexte différent. Comprends d’abord ta structure. Puis choisis des outils—s’il en existe.
 
 « Cette Fois Sera Différent »
 
@@ -232,7 +232,7 @@ Nous avons appris des erreurs passées.
 
 Pourquoi ça échoue?
 
-Si la structure n'a pas changé, le résultat non plus.
+Si la structure n’a pas changé, le résultat non plus.
 
 Exemple:
 
@@ -240,11 +240,11 @@ Crises financières. Chaque fois : « Nous avons appris. » Chaque fois : Même 
 
 Alternative:
 
-Structure changée? Alors peut-être différent. Même structure? Même résultat. L'espoir ne surpasse pas la mécanique.
+Structure changée? Alors peut-être différent. Même structure? Même résultat. L’espoir ne surpasse pas la mécanique.
 
 « Ne Jamais Changer une Équipe Gagnante »
 
-Le succès prouve l'approche. Continuez ce qui fonctionne.
+Le succès prouve l’approche. Continuez ce qui fonctionne.
 
 Pourquoi ça échoue?
 
@@ -256,7 +256,7 @@ Nokia dominait les téléphones mobiles. « Pourquoi changer ? Nous gagnons. » 
 
 Alternative:
 
-Utilise la victoire comme espace pour poser des questions difficiles. Qu'est-ce qui change dehors qu'on ne peut pas voir de l'intérieur? Le succès aveugle—audite tant que tu peux encore.
+Utilise la victoire comme espace pour poser des questions difficiles. Qu’est-ce qui change dehors qu’on ne peut pas voir de l’intérieur? Le succès aveugle—audite tant que tu peux encore.
 
 « Ce Que Vous Ne Savez Pas Ne Peut Pas Vous Blesser »
 
@@ -264,15 +264,15 @@ Ignorez ce que vous ne pouvez pas voir. Concentrez-vous sur ce que vous contrôl
 
 Pourquoi ça échoue?
 
-Les risques inconnus ne disparaissent pas parce que vous les ignorez. Les problèmes structurels s'aggravent dans l'obscurité. Quand ils font surface, il est trop tard pour naviguer.
+Les risques inconnus ne disparaissent pas parce que vous les ignorez. Les problèmes structurels s’aggravent dans l’obscurité. Quand ils font surface, il est trop tard pour naviguer.
 
 Exemple:
 
-Hypothèques subprime avant 2008 : « Les modèles fonctionnent, les rendements sont excellents – pourquoi creuser plus profond ? » Personne ne s'est donné la peine de comprendre la structure sous-jacente. Jusqu'à ce qu'elle s'effondre. L'ignorance n'a protégé personne.
+Hypothèques subprime avant 2008 : « Les modèles fonctionnent, les rendements sont excellents – pourquoi creuser plus profond ? » Personne ne s’est donné la peine de comprendre la structure sous-jacente. Jusqu’à ce qu’elle s’effondre. L’ignorance n’a protégé personne.
 
 Alternative:
 
-Cherche activement les angles morts. La structure cache ce qui la menace. Ne pas savoir n'empêche pas le mal—ça empêche la navigation.
+Cherche activement les angles morts. La structure cache ce qui la menace. Ne pas savoir n’empêche pas le mal—ça empêche la navigation.
 
 « Optimisez Simplement »
 
@@ -280,7 +280,7 @@ Rendez le système plus efficace.
 
 Pourquoi ça échoue?
 
-L'optimisation au sein d'une structure défectueuse perfectionne le défaut.
+L’optimisation au sein d’une structure défectueuse perfectionne le défaut.
 
 Exemple:
 
@@ -290,21 +290,21 @@ Alternative:
 
 Demande ce que tu optimises avant de le rendre plus efficace. Perfectionner un mauvais système le rend pire, pas meilleur.
 
-« L'âne de Buridan »
+« L’âne de Buridan »
 
-Informez tout le monde sur tout. Plus d'informations, de meilleures décisions.
+Informez tout le monde sur tout. Plus d’informations, de meilleures décisions.
 
 Pourquoi cela échoue-t-il ?
 
-La surabondance d'informations engendre la paralysie, pas la clarté. Chaque élément supplémentaire censé aider rend le choix plus difficile. Les gens cessent de lire. Ils cessent de prendre des décisions. Le flot de données se transforme en bruit de fond. Les acteurs rationnels se noient dans la rationalité.
+La surabondance d’informations engendre la paralysie, pas la clarté. Chaque élément supplémentaire censé aider rend le choix plus difficile. Les gens cessent de lire. Ils cessent de prendre des décisions. Le flot de données se transforme en bruit de fond. Les acteurs rationnels se noient dans la rationalité.
 
 Exemple :
 
-Une entreprise met en place une « transparence radicale » : chaque réunion est enregistrée, chaque décision documentée, chaque mise à jour partagée à l'échelle de l'entreprise. La boîte mail explose. Les canaux Slack se multiplient. Tout le monde sait tout – ce qui signifie que personne ne sait ce qui est important. Les décisions ralentissent. Les gens se déconnectent. L'âne meurt de faim au milieu d'innombrables meules de foin.
+Une entreprise met en place une « transparence radicale » : chaque réunion est enregistrée, chaque décision documentée, chaque mise à jour partagée à l’échelle de l’entreprise. La boîte mail explose. Les canaux Slack se multiplient. Tout le monde sait tout – ce qui signifie que personne ne sait ce qui est important. Les décisions ralentissent. Les gens se déconnectent. L’âne meurt de faim au milieu d’innombrables meules de foin.
 
 Alternative :
 
-Filtre sans pitié. N'informe que ceux qui doivent agir. Distingue le signal du bruit avant d'envoyer quoi que ce soit. La plupart des informations ne sont pas pertinentes pour l'action – ne fais pas comme si elles l'étaient. La clarté l'emporte sur l'exhaustivité.
+Filtre sans pitié. N’informe que ceux qui doivent agir. Distingue le signal du bruit avant d’envoyer quoi que ce soit. La plupart des informations ne sont pas pertinentes pour l’action – ne fais pas comme si elles l’étaient. La clarté l’emporte sur l’exhaustivité.
 
 « Nous avons besoin de plus de conscience »
 
@@ -312,11 +312,11 @@ Si seulement les gens comprenaient…
 
 Pourquoi cela échoue-t-il ?
 
-La compréhension ne l'emporte pas sur les incitations structurelles. Tout le monde comprend le changement climatique. Rien ne change. La structure ne récompense pas l'action.
+La compréhension ne l’emporte pas sur les incitations structurelles. Tout le monde comprend le changement climatique. Rien ne change. La structure ne récompense pas l’action.
 
 Exemple :
 
-Tabac, sucre, combustibles fossiles – la prise de conscience n'arrête pas la dynamique structurelle.
+Tabac, sucre, combustibles fossiles – la prise de conscience n’arrête pas la dynamique structurelle.
 
 Alternative :
 
@@ -338,13 +338,13 @@ Alternative :
 
 Donne ce qui est demandé. Rien de plus. Respecte leur autonomie.
 
-« Réinterpréter l'échec comme une réussite »
+« Réinterpréter l’échec comme une réussite »
 
 La réalité contredit le récit. Changez le récit, pas la réalité.
 
 Pourquoi cela échoue-t-il ?
 
-La dissonance cognitive se résout par la redéfinition, pas par la correction. Le problème persiste. L'histoire change. La structure reste intacte.
+La dissonance cognitive se résout par la redéfinition, pas par la correction. Le problème persiste. L’histoire change. La structure reste intacte.
 
 Exemple :
 
@@ -352,11 +352,11 @@ Exemple :
 
 Alternative :
 
-Des faits plutôt que des récits. L'histoire ne change pas le résultat. Une évaluation honnête plutôt que des mensonges commodes. La structure se moque de la manipulation.
+Des faits plutôt que des récits. L’histoire ne change pas le résultat. Une évaluation honnête plutôt que des mensonges commodes. La structure se moque de la manipulation.
 
 « Tirez sur le messager »
 
-Problème identifié. Accusez celui qui l'a signalé, pas la structure.
+Problème identifié. Accusez celui qui l’a signalé, pas la structure.
 
 Pourquoi cela échoue-t-il ?
 
@@ -376,31 +376,31 @@ Adaptez-le à ce que vous connaissez.
 
 Pourquoi ça échoue?
 
-Les nouvelles idées menacent les cadres existants. Il est plus facile de réduire que d'adapter. « Ce n'est que X » protège la position, élimine l'incertitude, préserve le statut. L'idée est raccourcie, étirée, brisée jusqu'à ce qu'elle s'adapte au modèle familier. L'originalité meurt. L'ancien cadre survit. Ce n'est pas de la malveillance, mais une autoprotection structurelle.
+Les nouvelles idées menacent les cadres existants. Il est plus facile de réduire que d’adapter. « Ce n’est que X » protège la position, élimine l’incertitude, préserve le statut. L’idée est raccourcie, étirée, brisée jusqu’à ce qu’elle s’adapte au modèle familier. L’originalité meurt. L’ancien cadre survit. Ce n’est pas de la malveillance, mais une autoprotection structurelle.
 
 Exemple:
 
-Un universitaire rencontre le cadre IP. « Ce n'est que le double lien de Bateson. » Réduction terminée. Aucun engagement avec ce qui est réellement nouveau : la dynamisation, l'inévitabilité structurelle, les principes de navigation. Bateson référencé, position sécurisée, apprentissage évité. Ou dans le monde des affaires : chaque innovation devient « essentiellement Uber pour X ». La complexité est réduite à un modèle. La compréhension est contournée. Le cadre est protégé.
+Un universitaire rencontre le cadre IP. « Ce n’est que le double lien de Bateson. » Réduction terminée. Aucun engagement avec ce qui est réellement nouveau : la dynamisation, l’inévitabilité structurelle, les principes de navigation. Bateson référencé, position sécurisée, apprentissage évité. Ou dans le monde des affaires : chaque innovation devient « essentiellement Uber pour X ». La complexité est réduite à un modèle. La compréhension est contournée. Le cadre est protégé.
 
 Alternative:
 
-Engage-toi avec ce qui est réellement nouveau avant de le réduire. "C'est juste X" protège la position, tue l'apprentissage. Essaie de comprendre avant de catégoriser.
+Engage-toi avec ce qui est réellement nouveau avant de le réduire. “C’est juste X” protège la position, tue l’apprentissage. Essaie de comprendre avant de catégoriser.
 
-« Quand l'Explication Devient Sables Mouvants »
+« Quand l’Explication Devient Sables Mouvants »
 
 Plus vous expliquez, plus vous coulez.
 
 Pourquoi ça échoue?
 
-Les problèmes structurels ne peuvent pas être expliqués à ceux qui refusent la fondation. Chaque tentative de clarification vous fait paraître plus désespéré, moins crédible. L'interaction elle-même devient le schéma que vous essayez de décrire.
+Les problèmes structurels ne peuvent pas être expliqués à ceux qui refusent la fondation. Chaque tentative de clarification vous fait paraître plus désespéré, moins crédible. L’interaction elle-même devient le schéma que vous essayez de décrire.
 
 Exemple:
 
-Essayer d'expliquer PI à quelqu'un qui ne veut pas lire le framework. Ils exigent que vous expliquiez. Vous essayez. Ça semble absurde sans contexte. Ils rejettent. Vous essayez plus fort. Semblez plus désespéré. La dynamique prouve le point – mais ils ne peuvent pas le voir. Vous ne pouvez pas les faire voir. La seule navigation : Arrêter d'essayer.
+Essayer d’expliquer PI à quelqu’un qui ne veut pas lire le framework. Ils exigent que vous expliquiez. Vous essayez. Ça semble absurde sans contexte. Ils rejettent. Vous essayez plus fort. Semblez plus désespéré. La dynamique prouve le point – mais ils ne peuvent pas le voir. Vous ne pouvez pas les faire voir. La seule navigation : Arrêter d’essayer.
 
 Alternative:
 
-Arrête d'expliquer à ceux qui ne liront pas. Le schéma se prouve lui-même—tu ne peux pas les forcer à le voir. Pose des marqueurs. Avance. Ils viendront quand la structure les y forcera.
+Arrête d’expliquer à ceux qui ne liront pas. Le schéma se prouve lui-même—tu ne peux pas les forcer à le voir. Pose des marqueurs. Avance. Ils viendront quand la structure les y forcera.
 
 « Course à l’Audience »
 
@@ -418,13 +418,13 @@ Alternative :
 
 Pose des marqueurs. Laisse-les te rencontrer quand la structure les y force.
 
-« L'équilibre de l'incompétence »
+« L’équilibre de l’incompétence »
 
 La médiocrité mutuelle stabilise le système. La compétence menace cet équilibre.
 
 Pourquoi cela échoue-t-il ?
 
-La structure favorise l'incompétence. Ceux qui en savent trop sont exclus. Ceux qui remettent trop en question sont isolés. Il en résulte un système auto-stabilisateur où personne n'a intérêt à changer, car tout le monde tire profit de ce dysfonctionnement.
+La structure favorise l’incompétence. Ceux qui en savent trop sont exclus. Ceux qui remettent trop en question sont isolés. Il en résulte un système auto-stabilisateur où personne n’a intérêt à changer, car tout le monde tire profit de ce dysfonctionnement.
 
 Exemple :
 
@@ -432,7 +432,7 @@ Organisations bureaucratiques : chaque service est incompétent à sa manière, 
 
 Alternative :
 
-Importer des compétences de l'extérieur de l'équilibre. La structure fait obstacle à la compréhension — contourner ce filtre. L'expertise externe n'est pas encore capturée.
+Importer des compétences de l’extérieur de l’équilibre. La structure fait obstacle à la compréhension — contourner ce filtre. L’expertise externe n’est pas encore capturée.
 
 « Reste là où on a besoin de toi »
 
@@ -458,31 +458,31 @@ Pourquoi cela échoue-t-il ?
 
 Les organisations promeuvent ceux qui arrivent, pas ceux qui restent. Celui qui vient de l’extérieur n’a ni passé, ni dette, ni lien. Celui qui est resté porte ces trois fardeaux. La fidélité est perçue comme une incapacité à partir — et cette incapacité à partir est perçue comme un manque d’options.
 
-La structure ne récompense pas l'engagement. Elle récompense la rareté. Et vous n'êtes jamais plus rare que le jour où vous démissionnez.
+La structure ne récompense pas l’engagement. Elle récompense la rareté. Et vous n’êtes jamais plus rare que le jour où vous démissionnez.
 
 Exemple
 
-Vingt ans de service. Un dossier impeccable. Écarté au profit d'un candidat embauché il y a six mois chez un concurrent. Non pas parce que ce candidat est meilleur. Mais parce qu'il n'a pas d'histoire ici. Personne ne lui doit rien. Personne ne craint ce qu'il sait.
+Vingt ans de service. Un dossier impeccable. Écarté au profit d’un candidat embauché il y a six mois chez un concurrent. Non pas parce que ce candidat est meilleur. Mais parce qu’il n’a pas d’histoire ici. Personne ne lui doit rien. Personne ne craint ce qu’il sait.
 
-L'employé loyal n'a jamais été un candidat. Il faisait partie du mobilier.
+L’employé loyal n’a jamais été un candidat. Il faisait partie du mobilier.
 
-« Assez Parlé — Il Faut qu'on en Parle »
+« Assez Parlé — Il Faut qu’on en Parle »
 
-La métadiscussion comme stratégie d'évitement. Mettre fin au débat en en ouvrant un nouveau à son sujet.
+La métadiscussion comme stratégie d’évitement. Mettre fin au débat en en ouvrant un nouveau à son sujet.
 
 Pourquoi ça échoue ?
 
-La discussion sur la discussion remplace la discussion. Chaque tour de « il faut qu'on discute de comment on discute » produit des points à l'ordre du jour, pas des décisions. La structure consomme de l'énergie sans résultat — par conception.
+La discussion sur la discussion remplace la discussion. Chaque tour de « il faut qu’on discute de comment on discute » produit des points à l’ordre du jour, pas des décisions. La structure consomme de l’énergie sans résultat — par conception.
 
 Exemple :
 
-Une équipe bloquée sur une décision depuis des mois. Au lieu de décider, quelqu'un dit : « On doit d'abord s'aligner sur comment on prend des décisions ici. » Nouveau groupe de travail formé. Six semaines plus tard : un cadre de processus. La question initiale : toujours ouverte.
+Une équipe bloquée sur une décision depuis des mois. Au lieu de décider, quelqu’un dit : « On doit d’abord s’aligner sur comment on prend des décisions ici. » Nouveau groupe de travail formé. Six semaines plus tard : un cadre de processus. La question initiale : toujours ouverte.
 
 Alternative :
 
-Séparer discussion et décision. Fixer une échéance : « On discute jusqu'à X, puis on décide — même imparfaitement. » Demander : qu'est-ce qui devrait être vrai pour qu'on arrête de parler et qu'on agisse ?
+Séparer discussion et décision. Fixer une échéance : « On discute jusqu’à X, puis on décide — même imparfaitement. » Demander : qu’est-ce qui devrait être vrai pour qu’on arrête de parler et qu’on agisse ?
 
-« L'opinion majoritaire comme vérité absolue »
+« L’opinion majoritaire comme vérité absolue »
 
 Considérer le consensus comme une preuve. Ce que tout le monde croit doit forcément être vrai.
 
@@ -490,9 +490,9 @@ Pourquoi cela ne tient-il pas la route ?
 
 Le consensus est un fait social, pas un fait épistémique. Il décrit ce que la plupart des gens croient — pas ce qui est vrai. Dans les structures IP, le consensus est souvent le mécanisme qui génère l’angle mort : lorsque tout le monde occupe la même position structurelle, la limite commune devient invisible. Non pas parce qu’elle n’existe pas, mais parce qu’il n’y a pas de contraste.
 
-Si tout le monde a le même angle mort, celui-ci ne peut être vu. Si une personne ne l'a pas, c'est elle qui devient celle qui a l'angle mort.
+Si tout le monde a le même angle mort, celui-ci ne peut être vu. Si une personne ne l’a pas, c’est elle qui devient celle qui a l’angle mort.
 
-L'Allemand qui conduit en Angleterre et crie depuis le pont de l'autoroute : « Vous roulez tous du mauvais côté ! » — a objectivement raison. La majorité le rend faux par définition — et non par argumentation. Il n'est pas réfuté. Il est en minorité.
+L’Allemand qui conduit en Angleterre et crie depuis le pont de l’autoroute : « Vous roulez tous du mauvais côté ! » — a objectivement raison. La majorité le rend faux par définition — et non par argumentation. Il n’est pas réfuté. Il est en minorité.
 
 La structure se moque de la justesse. Elle se stabilise par le volume.
 
@@ -504,7 +504,7 @@ Ce n’est jamais le cas.
 
 Le piège dans le piège :
 
-L'erreur inverse est tout aussi dangereuse : considérer la position minoritaire comme une preuve de justesse. « Personne ne me comprend » n'est pas une preuve de perspicacité. Cela peut l'être. Ou bien cela peut être une erreur sans public. L'ambiguïté structurelle est irréductible.
+L’erreur inverse est tout aussi dangereuse : considérer la position minoritaire comme une preuve de justesse. « Personne ne me comprend » n’est pas une preuve de perspicacité. Cela peut l’être. Ou bien cela peut être une erreur sans public. L’ambiguïté structurelle est irréductible.
 
 Lequel des deux ? Exactement.
 
@@ -512,9 +512,9 @@ Alternative :
 
 Séparer la question de la justesse de celle de la position. Demander : Quelle position structurelle rendrait ce consensus rationnel ? Puis demander : Quelle position rendrait la dissidence rationnelle ?
 
-Aucune de ces questions ne résout l'ambiguïté. Mais elles remplacent la recherche de la vérité par le vote par la recherche d'une explication structurelle.
+Aucune de ces questions ne résout l’ambiguïté. Mais elles remplacent la recherche de la vérité par le vote par la recherche d’une explication structurelle.
 
-→ Voir aussi : Reconnaître l'angle mort partagé — Pratiques fondamentales: la même structure que l'outil de navigation.
+→ Voir aussi : Reconnaître l’angle mort partagé — Pratiques fondamentales: la même structure que l’outil de navigation.
 
 « Le piège du génie »
 
@@ -522,15 +522,15 @@ Aucune de ces questions ne résout l'ambiguïté. Mais elles remplacent la reche
 
 Pourquoi ça ne marche pas ?
 
-La capacité même qui permet d’avoir une intuition empêche sa réception. La personne qui perçoit le problème de structure avec suffisamment de clarté pour le nommer avec précision a déjà dépassé le seuil que le groupe est capable d’assimiler. La précision passe pour de l’arrogance. La clarté passe pour de la condescendance. Plus l’analyse est pointue, plus elle confirme le verdict social : « Petit malin ». L'instrument qui diagnostique la situation est le même qui rend le diagnostic inacceptable.
+La capacité même qui permet d’avoir une intuition empêche sa réception. La personne qui perçoit le problème de structure avec suffisamment de clarté pour le nommer avec précision a déjà dépassé le seuil que le groupe est capable d’assimiler. La précision passe pour de l’arrogance. La clarté passe pour de la condescendance. Plus l’analyse est pointue, plus elle confirme le verdict social : « Petit malin ». L’instrument qui diagnostique la situation est le même qui rend le diagnostic inacceptable.
 
 Le piège
 
-se referme dans les deux sens : simplifiez l'intuition et elle perd sa vérité. Restez précis et elle perd son public. Il n'y a pas de juste milieu.
+se referme dans les deux sens : simplifiez l’intuition et elle perd sa vérité. Restez précis et elle perd son public. Il n’y a pas de juste milieu.
 
 Exemple :
 
-Ludwig Boltzmann a développé les fondements statistiques de la thermodynamique dans les années 1870 — la base mathématique pour comprendre la chaleur, l'entropie et le comportement des atomes. Son cadre théorique était correct. La communauté des physiciens l’a rejeté pendant des décennies. Des collègues éminents ont écarté la théorie atomique en la qualifiant de métaphysique. Boltzmann n’a pas été ignoré parce que son travail était obscur. Il a été attaqué parce qu’il était suffisamment précis pour être menaçant. Plus l’argument était incisif, plus la résistance était organisée. Il s’est donné la mort en 1906. En quelques années, les travaux d’Einstein sur le mouvement brownien ont confirmé ce que Boltzmann avait démontré. La structure ne s’est pas excusée. Elle a évolué.
+Ludwig Boltzmann a développé les fondements statistiques de la thermodynamique dans les années 1870 — la base mathématique pour comprendre la chaleur, l’entropie et le comportement des atomes. Son cadre théorique était correct. La communauté des physiciens l’a rejeté pendant des décennies. Des collègues éminents ont écarté la théorie atomique en la qualifiant de métaphysique. Boltzmann n’a pas été ignoré parce que son travail était obscur. Il a été attaqué parce qu’il était suffisamment précis pour être menaçant. Plus l’argument était incisif, plus la résistance était organisée. Il s’est donné la mort en 1906. En quelques années, les travaux d’Einstein sur le mouvement brownien ont confirmé ce que Boltzmann avait démontré. La structure ne s’est pas excusée. Elle a évolué.
 
 Le piège dans le piège :
 
@@ -538,11 +538,11 @@ On ne se libère pas du piège du génie en devenant moins intelligent. La simpl
 
 Alternative :
 
-Cessez d'optimiser le signal. Le problème n'est pas la transmission, mais la réception. Trouvez la seule personne pour qui cette intuition est un outil, et non une menace. Ignorez les autres. Le pissenlit ne négocie pas avec le vent.
+Cessez d’optimiser le signal. Le problème n’est pas la transmission, mais la réception. Trouvez la seule personne pour qui cette intuition est un outil, et non une menace. Ignorez les autres. Le pissenlit ne négocie pas avec le vent.
 
 → Voir aussi :
 
-La foule sait — l'explication structurelle de la manière dont le groupe exécute le verdict.
+La foule sait — l’explication structurelle de la manière dont le groupe exécute le verdict.
 
 Voir aussi :
 
