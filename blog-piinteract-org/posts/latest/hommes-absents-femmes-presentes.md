@@ -10,9 +10,9 @@ wp_id: 7991
 url: https://blog.piinteract.org/fr/hommes-absents-femmes-presentes/
 ---
 
-Pourquoi le débat sur l'égalité de droits traite de la question de savoir qui a le droit d'être absent — et pourquoi il ne parvient pas à expliquer ce qui rend l'absence si intéressante
+Pourquoi le débat sur l’égalité de droits traite de la question de savoir qui a le droit d’être absent — et pourquoi il ne parvient pas à expliquer ce qui rend l’absence si intéressante
 
-« ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα οἴκαδέ τ' ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι. » « Et pourtant je veux et je désire, jour après jour, rentrer chez moi et voir le jour de mon retour. » 
+« ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα οἴκαδέ τ’ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι. » « Et pourtant je veux et je désire, jour après jour, rentrer chez moi et voir le jour de mon retour. » 
 
 — Ulysse à Calypso, dans son lit. Homère, Odyssée V, 219–220
 
@@ -28,9 +28,9 @@ Trois mille ans plus tard, mardi, 7 h 12 : l’enfant a de la fièvre. Deux adul
 
 Le train n’est pas une expédition de pillage. Mais il roule sur les mêmes rails.​
 
-L'architecture ancienne
+L’architecture ancienne
 
-Le raid est la forme originelle de l'absence récompensée. L'homme qui partait rapportait ce que la simple présence n'aurait jamais pu procurer : du butin, de la reconnaissance, des histoires. La femme qui restait à la maison préservait ce qui se serait effondré sans elle — et qui, à son retour, était là, tout naturellement, parce que c'était là. Seul ce qui manquait devenait visible lorsqu’elle échouait. Son plus grand succès était l’invisibilité.
+Le raid est la forme originelle de l’absence récompensée. L’homme qui partait rapportait ce que la simple présence n’aurait jamais pu procurer : du butin, de la reconnaissance, des histoires. La femme qui restait à la maison préservait ce qui se serait effondré sans elle — et qui, à son retour, était là, tout naturellement, parce que c’était là. Seul ce qui manquait devenait visible lorsqu’elle échouait. Son plus grand succès était l’invisibilité.
 
 Ce n’est pas une histoire d’oppression. Ces deux rôles étaient rationnels, tous deux indispensables à la survie, tous deux sans alternative — faute d’alternative. Mais l’évaluation était asymétrique, dès le début : on chantait les louanges de celui qui partait. On tenait tacitement pour acquise celle qui restait.
 
@@ -58,9 +58,9 @@ L’homme optimise l’absence — doublement rationnel : c’est là que se tro
 
 Et par endroits, le débat a gagné — on peut constater le résultat. Les femmes occupant des postes de direction sont absentes, tout comme leurs collègues ; le poste l’exige. La présence ne disparaît pas — elle est porteuse. Elle est déléguée : vers le bas, à des femmes moins bien rémunérées, et au-delà des frontières, à des soignantes recrutées aux Philippines, au Mexique, en Tunisie. Une présence importée, pour que l’absence locale soit possible des deux côtés du bureau. À l’issue du débat remporté, il n’y a pas d’homme présent. Seulement une femme présente, avec un autre passeport.
 
-L'interaction paradoxale
+L’interaction paradoxale
 
-Le PI de l'absence : une structure rémunère l'absence deux fois — en argent et en désir — et a besoin d'une présence qui n'est rémunérée dans aucune de ces deux devises. Le débat sur l'égalité traite de la première devise et confirme ainsi l'évaluation qu'il combat. Elle ne peut pas négocier la seconde monnaie, car on ne peut pas simplement redistribuer le désir.
+Le PI de l’absence : une structure rémunère l’absence deux fois — en argent et en désir — et a besoin d’une présence qui n’est rémunérée dans aucune de ces deux devises. Le débat sur l’égalité traite de la première devise et confirme ainsi l’évaluation qu’il combat. Elle ne peut pas négocier la seconde monnaie, car on ne peut pas simplement redistribuer le désir.
 
 Tous agissent de manière rationnelle :
 
@@ -86,7 +86,7 @@ La navigation plutôt que la solution
 
 Que faire ? Rien qui ressemble à une solution.
 
-Voir qui est présent quand cela n'en vaut pas la peine. Pas dans la rhétorique — dans le calendrier. Les mardis, à 7 h 12.
+Voir qui est présent quand cela n’en vaut pas la peine. Pas dans la rhétorique — dans le calendrier. Les mardis, à 7 h 12.
 
 Demander dans quelle devise une revendication s’exprime. Presque toutes les revendications des cinquante dernières années s’expriment dans la première. Ce n’est pas un échec de la part de ceux qui revendiquent — c’est simplement que la deuxième devise n’accepte pas les revendications.
 
@@ -96,27 +96,27 @@ La prise de conscience n’est pas une issue. Ulysse savait où était sa place 
 
 Le cœur du sujet
 
-Le débat porte sur qui a le droit d'être absent. Pas sur la valeur de la présence. Ni sur les raisons pour lesquelles l'absence est souhaitable.
+Le débat porte sur qui a le droit d’être absent. Pas sur la valeur de la présence. Ni sur les raisons pour lesquelles l’absence est souhaitable.
 
-Il se joue dans une unité de mesure quantifiable. La structure, quant à elle, s'exprime dans une autre unité.
+Il se joue dans une unité de mesure quantifiable. La structure, quant à elle, s’exprime dans une autre unité.
 
 Articles connexes
 
 Pourquoi les sociétés prétendument égales génèrent l’inégalité
 
-Ou : Le paradoxe de l'égalité
+Ou : Le paradoxe de l’égalité
 
 Le Paradoxe du Nockherberg. La Critique la Plus Acérée Est la Meilleure Alliée du Système.
 
-Pourquoi la satire politique la plus mordante renforce ce qu'elle attaque — et pourquoi toutes les personnes impliquées agissent de manière tout à fait rationnelle.
+Pourquoi la satire politique la plus mordante renforce ce qu’elle attaque — et pourquoi toutes les personnes impliquées agissent de manière tout à fait rationnelle.
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 No results found.
 
@@ -124,7 +124,7 @@ Sur piinteract.org :
 
 [« Reconnaître la structure, pas traiter les symptômes »] — Le taux traite le symptôme dans la première devise. La tendance calcule dans la seconde — et reste sans traitement.
 
-[« Toujours la même chose »] — Cinquante ans de la même exigence à dose croissante : un accès accru à la partie payante. L'équation continue de calculer, imperturbable.
+[« Toujours la même chose »] — Cinquante ans de la même exigence à dose croissante : un accès accru à la partie payante. L’équation continue de calculer, imperturbable.
 
 [« Acceptez les asymétries »] — Présence et absence ne peuvent être rendues symétriques tant qu’un seul des deux camps est rémunéré dans les deux devises. Voir l’asymétrie, c’est cesser de la négocier.
 
@@ -142,7 +142,7 @@ Sexual Motivation and the Duration of Partnership (Klusmann, Archives of Sexual 
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -150,4 +150,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
