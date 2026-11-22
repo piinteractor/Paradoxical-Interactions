@@ -46,11 +46,11 @@ Examples
 
   Academia:
 
-  Galileo shows professors Jupiter's moons through his telescope. They refuse to look. Not because they're stupid. But because they understand: If these moons exist, their worldview collapses—and their careers with it.
+  Galileo shows professors Jupiter’s moons through his telescope. They refuse to look. Not because they’re stupid. But because they understand: If these moons exist, their worldview collapses—and their careers with it.
 
   Organizations:
 
-  A junior employee suggests a solution that works. Management rejects it. Not because the solution is bad. But because it implies: "Why didn't we do this long ago?" Acknowledgment would admit failure.
+  A junior employee suggests a solution that works. Management rejects it. Not because the solution is bad. But because it implies: “Why didn’t we do this long ago?” Acknowledgment would admit failure.
 
   AI Development:
 
@@ -74,9 +74,9 @@ The reader protects his self-image (rational)
 
 Everyone produces the problem:
 
-Intelligence doesn't get transmitted
+Intelligence doesn’t get transmitted
 
-Insights don't get shared
+Insights don’t get shared
 
 Systems remain suboptimal
 
@@ -86,7 +86,7 @@ None are at fault:
 
 Whoever acknowledges superior intelligence pays structural costs
 
-Whoever doesn't acknowledge it prevents progress
+Whoever doesn’t acknowledge it prevents progress
 
 The structure forces a choice between self-protection and truth
 
@@ -110,21 +110,21 @@ By those they see through (they feel exposed)
 
 By those who understand them (they recognize: This person is dangerous)
 
-What Doesn't Work
+What Doesn’t Work
 
 “Be more open to new ideas!”
 
 However, the structure rewards internal cohesion and the consensus of collective knowledge. “I’m familiar with that; I can speak to that.”
 
-"Let's be intellectually honest!"
+“Let’s be intellectually honest!”
 
 Honesty has structural costs.
 
-"Intelligent people recognize better arguments!"
+“Intelligent people recognize better arguments!”
 
 Precisely therefore they recognize which arguments they must not acknowledge.
 
-"Education solves the problem!"
+“Education solves the problem!”
 
 More intelligence = better defense mechanisms.
 
@@ -156,9 +156,9 @@ This text describes why intelligent people reject more intelligent insights.
 
 If the text works, it will be rejected.
 
-If it's accepted, it wasn't intelligent enough.
+If it’s accepted, it wasn’t intelligent enough.
 
-That's the structure.
+That’s the structure.
 
 Try and continue.
 
