@@ -12,9 +12,9 @@ url: https://blog.piinteract.org/what-is-the-ais-iq/
 
 Why a language model with an IQ of 155 is not smarter than one with 140 — and why the number will be everywhere anyway.
 
-"Intelligence is what the tests test." 
+“Intelligence is what the tests test.” 
 
-— Edwin G. Boring, "Intelligence as the Tests Test It" (1923)
+— Edwin G. Boring, “Intelligence as the Tests Test It” (1923)
 
 9. July 2026
 
@@ -98,11 +98,11 @@ Why smart people reject smarter insights—and act intelligently doing so
 
 The 432-Parameter Wall. A Job Ad for the Wrong Person.
 
-Why the people who need to understand AI most can't understand 432 parameters — and why they're hiring anyway.
+Why the people who need to understand AI most can’t understand 432 parameters — and why they’re hiring anyway.
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
-Why the most rigorous approach to AI safety produces explanations no human can read — and why that's not a bug.
+Why the most rigorous approach to AI safety produces explanations no human can read — and why that’s not a bug.
 
 The Formula That Proved the Opposite of What You Think
 
@@ -112,23 +112,23 @@ No results found.
 
 On piinteract.org:
 
-["Metrics Gaming"] — The moment the benchmark is the target, it measures the optimization toward itself. Goodhart, here with decimal places.
+[“Metrics Gaming”] — The moment the benchmark is the target, it measures the optimization toward itself. Goodhart, here with decimal places.
 
-["See the Pattern, Not the Symptom"] — The number is the symptom. The pattern is a system that needs orientation cheaper than truth can be had.
+[“See the Pattern, Not the Symptom”] — The number is the symptom. The pattern is a system that needs orientation cheaper than truth can be had.
 
-["When Intelligence Becomes a Threat"] — The sorting runs by height. The danger runs on an axis no test has in stock.
+[“When Intelligence Becomes a Threat”] — The sorting runs by height. The danger runs on an axis no test has in stock.
 
-["Name the Paradox"] — The question of AI's IQ cannot be answered. It can be named. That is more.
+[“Name the Paradox”] — The question of AI’s IQ cannot be answered. It can be named. That is more.
 
 See also (external links):
 
-I Gave ChatGPT an IQ Test. Here's What I Discovered (Roivainen, Scientific American, 2023) — The tester's own primary report: verbal IQ 155 — including the caveats no headline kept.
+I Gave ChatGPT an IQ Test. Here’s What I Discovered (Roivainen, Scientific American, 2023) — The tester’s own primary report: verbal IQ 155 — including the caveats no headline kept.
 
-"General Intelligence," Objectively Determined and Measured (Spearman, 1904) — The original document of the web: why in humans everything correlates with everything — the sole justification of the testing principle.
+“General Intelligence,” Objectively Determined and Measured (Spearman, 1904) — The original document of the web: why in humans everything correlates with everything — the sole justification of the testing principle.
 
 Rethinking Benchmark and Contamination for Language Models with Rephrased Samples (arXiv) — The empirical evidence of contamination: rephrase the test questions and the score collapses. The model knew the exam.
 
-The Debate Over Understanding in AI's Large Language Models (Mitchell & Krakauer, arXiv/PNAS) — The map of the prior question: before anything can be measured, it would have to be settled what understanding even means here. It isn't.
+The Debate Over Understanding in AI’s Large Language Models (Mitchell & Krakauer, arXiv/PNAS) — The map of the prior question: before anything can be measured, it would have to be settled what understanding even means here. It isn’t.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
@@ -140,4 +140,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
