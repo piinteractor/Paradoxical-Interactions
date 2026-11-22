@@ -36,7 +36,7 @@ Piers Gaveston, königlicher Günstling Eduards II. von England. Aus Frankreich 
 
 Die Barone hassten Gaveston. Nicht nur wegen seiner Person, sondern wegen dessen, was er verkörperte: eine geschlossene Schleife zwischen König und Günstling, die sie ausschloss. Jeder Titel, den Eduard Gaveston verlieh, war ein Titel, den die Barone nicht bekommen konnten. Jede Stunde mit Gaveston war eine Stunde verweigerter Zugang.
 
-Gaveston verstand das vollkommen. Und machte es schlimmer. Er gab den führenden Baronen Spitznamen. Lancaster war "der Fiedler". Pembroke war "Joseph der Jude". Er besetzte nicht nur die strukturelle Position — er verhöhnte die Ausgeschlossenen.
+Gaveston verstand das vollkommen. Und machte es schlimmer. Er gab den führenden Baronen Spitznamen. Lancaster war “der Fiedler”. Pembroke war “Joseph der Jude”. Er besetzte nicht nur die strukturelle Position — er verhöhnte die Ausgeschlossenen.
 
 Das ist keine Dummheit. Das ist die Logik seiner Position. Er hatte den König. Er hatte alles. Warum braucht man Diplomatie, wenn man alles hat?
 
@@ -108,7 +108,7 @@ Gleiche Struktur. Andere Kostüme.
 
 Was das nicht ist
 
-Das ist kein Fatalismus. "Es kann nichts getan werden" ist nicht die Schlussfolgerung.
+Das ist kein Fatalismus. “Es kann nichts getan werden” ist nicht die Schlussfolgerung.
 
 Die Schlussfolgerung ist: Dasselbe härter zu tun — mehr Gewalt, mehr Loyalitätstests, mehr Kontrolle — verändert die Struktur nicht. Es beschleunigt sie.
 
@@ -136,13 +136,13 @@ No results found.
 
 On piinteract.org:
 
-["Put Good People in Charge"] — Gaveston war fähig. Die Struktur, die ihn notwendig machte, machte ihn auch unmöglich.
+[“Put Good People in Charge”] — Gaveston war fähig. Die Struktur, die ihn notwendig machte, machte ihn auch unmöglich.
 
-["Loyalty Over Competence"] — Der Favorit ernannt aus persönlichem Vertrauen. Die Barone reagieren in gleicher Weise. Verdienst wird auf beiden Seiten irrelevant.
+[“Loyalty Over Competence”] — Der Favorit ernannt aus persönlichem Vertrauen. Die Barone reagieren in gleicher Weise. Verdienst wird auf beiden Seiten irrelevant.
 
-["Accept Asymmetries"] — Der König kann seinen Favoriten nicht schützen. Die Barone können das Muster nicht aufhören zu wiederholen. Macht ist nie symmetrisch.
+[“Accept Asymmetries”] — Der König kann seinen Favoriten nicht schützen. Die Barone können das Muster nicht aufhören zu wiederholen. Macht ist nie symmetrisch.
 
-["This Time Will Be Different"] — Siebenhundert Jahre dieselbe Konfiguration. Neue Namen. Dieselbe Struktur. Dasselbe Ergebnis.
+[“This Time Will Be Different”] — Siebenhundert Jahre dieselbe Konfiguration. Neue Namen. Dieselbe Struktur. Dasselbe Ergebnis.
 
 Paradoxical Interactions documents structural patterns in human systems — not to solve them, but to navigate them with open eyes.
 
