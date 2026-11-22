@@ -18,7 +18,7 @@ Warum die unaufgelöste Spannung zwischen Relativitätstheorie und Quantentheori
 
 
 
-„Was wir beobachten, ist nicht die Natur selbst, sondern die Natur, die unserer Art des Fragens ausgesetzt ist."
+„Was wir beobachten, ist nicht die Natur selbst, sondern die Natur, die unserer Art des Fragens ausgesetzt ist.”
 
 — Werner Heisenberg
 
@@ -75,7 +75,7 @@ Die Physik hat es nicht versäumt, dieses Problem zu lösen. Die Physik ist dies
 
 
 
-Die Spannung liegt eine - Stufe höher
+Die Spannung liegt eine – Stufe höher
 
 Hier irrt die Standardversion.
 
@@ -169,7 +169,7 @@ Navigation
 
 Man kann den Beobachter nicht abschaffen. Man kann nicht aus dem Rahmen heraustreten. Man kann die Spannung nicht auflösen, nur weil man es will.
 
-Was man tun kann: benennen, in welchem Rahmen man steht, bevor man spricht. Nicht als Disclaimer. Als strukturelle Ehrlichkeit. Der Physiker, der sagt „aus der Perspektive der allgemeinen Relativitätstheorie sieht die Frage so aus", hat etwas Nützlicheres gesagt als der, der behauptet, die Wirklichkeit als solche zu beschreiben.
+Was man tun kann: benennen, in welchem Rahmen man steht, bevor man spricht. Nicht als Disclaimer. Als strukturelle Ehrlichkeit. Der Physiker, der sagt „aus der Perspektive der allgemeinen Relativitätstheorie sieht die Frage so aus”, hat etwas Nützlicheres gesagt als der, der behauptet, die Wirklichkeit als solche zu beschreiben.
 
 Was man auch tun kann: bemerken, wenn eine Schule sich um eine Einsicht über Schließung geschlossen hat. Wenn eine Theorie der Beobachtung immun gegen Beobachtung geworden ist. Wenn der Rahmen zur Beschreibung struktureller Blindheit selbst blind geworden ist. Das ist keine Widerlegung des Rahmens. Es ist der Rahmen — der genau so funktioniert, wie er beschrieben wurde.
 
@@ -224,13 +224,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Shared Blindspot"] — Die Beobachter der Relativitätstheorie und der Quantenmechanik teilen denselben strukturellen blinden Fleck: Keiner kann sehen, dass die Spannung in der Beobachtung liegt, nicht im Beobachteten.
+[“Shared Blindspot”] — Die Beobachter der Relativitätstheorie und der Quantenmechanik teilen denselben strukturellen blinden Fleck: Keiner kann sehen, dass die Spannung in der Beobachtung liegt, nicht im Beobachteten.
 
-["You Are Never Just Yourself"] — Der Physiker spricht als Wissenschaftler. Er handelt als Framework. Der Anspruch auf Objektivität ist selbst eine Position innerhalb einer Struktur.
+[“You Are Never Just Yourself”] — Der Physiker spricht als Wissenschaftler. Er handelt als Framework. Der Anspruch auf Objektivität ist selbst eine Position innerhalb einer Struktur.
 
-["Galileo's Paradox"] — Die Institution, die den inkompatiblen Rahmen nicht verarbeiten kann, widerlegt ihn nicht. Sie finanziert einfach weiter, was sie evaluieren kann.
+[“Galileo’s Paradox”] — Die Institution, die den inkompatiblen Rahmen nicht verarbeiten kann, widerlegt ihn nicht. Sie finanziert einfach weiter, was sie evaluieren kann.
 
-["Academic Specialization"] — Die Teilung zwischen Relativisten und Quantenphysikern ist keine disziplinäre Bequemlichkeit. Es ist die Struktur, die ihre eigene Persistenz produziert.
+[“Academic Specialization”] — Die Teilung zwischen Relativisten und Quantenphysikern ist keine disziplinäre Bequemlichkeit. Es ist die Struktur, die ihre eigene Persistenz produziert.
 
 
 
