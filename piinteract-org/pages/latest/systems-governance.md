@@ -10,7 +10,7 @@ wp_id: 406
 url: https://piinteract.org/examples/systems-governance/
 ---
 
-"Democracy is the worst form of government. Except for all the others."
+“Democracy is the worst form of government. Except for all the others.”
 
 — Winston Churchill
 
@@ -18,7 +18,7 @@ url: https://piinteract.org/examples/systems-governance/
 
 Systems & Governance
 
-When legal, democratic, rational processes systematically undermine the systems they're meant to protect.
+When legal, democratic, rational processes systematically undermine the systems they’re meant to protect.
 
 Democracy Erosion
 
@@ -38,9 +38,9 @@ Media: Maximize engagement (outrage works)
 
 Why it fails collectively:
 
-The system cannot defend itself without violating its own principles. Banning anti-democratic parties undermines democratic freedom. Allowing them risks the system's destruction.
+The system cannot defend itself without violating its own principles. Banning anti-democratic parties undermines democratic freedom. Allowing them risks the system’s destruction.
 
-The trap: Democracy's core strength (openness) becomes its vulnerability.
+The trap: Democracy’s core strength (openness) becomes its vulnerability.
 
 Fibrotizing Administrations
 
@@ -50,7 +50,7 @@ Every failure triggers a new rule. Every scandal demands new compliance. Like me
 
 Why each actor is rational:
 
-Public: Demands "this must never happen again"
+Public: Demands “this must never happen again”
 
 Politicians: Create rules to demonstrate action
 
@@ -70,7 +70,7 @@ When Intelligence Becomes a Threat
 
 The structure:
 
-Someone demonstrates intelligence that a gatekeeper recognizes as equal or superior to their own. The gatekeeper cannot dismiss it as incompetent, cannot classify it within familiar categories (no credentials, no institutional backing). Recognition without classifation triggers territorial anxiety: "This could threaten my position." Rational response: Exclude, block, discredit. The more intelligent the challenger, the more threatening they appear. Intelligence produces its own marginalization.
+Someone demonstrates intelligence that a gatekeeper recognizes as equal or superior to their own. The gatekeeper cannot dismiss it as incompetent, cannot classify it within familiar categories (no credentials, no institutional backing). Recognition without classifation triggers territorial anxiety: “This could threaten my position.” Rational response: Exclude, block, discredit. The more intelligent the challenger, the more threatening they appear. Intelligence produces its own marginalization.
 
 Why each actor is rational:
 
@@ -94,7 +94,7 @@ Climate Summits
 
 The structure:
 
-Nations gather to negotiate climate action. Delegates fly from around the world, generating CO₂. Hotels, conference centers, motorcades—all emissions-intensive. The act of coordinating climate policy creates the problem it's meant to solve.
+Nations gather to negotiate climate action. Delegates fly from around the world, generating CO₂. Hotels, conference centers, motorcades—all emissions-intensive. The act of coordinating climate policy creates the problem it’s meant to solve.
 
 Why each actor is rational:
 
@@ -120,7 +120,7 @@ Regulators need expertise to oversee complex industries. Industry experts have t
 
 Why each actor is rational:
 
-Regulators: Need technical knowledge they don't have
+Regulators: Need technical knowledge they don’t have
 
 Industry experts: Apply their genuine expertise
 
@@ -142,11 +142,11 @@ The Pattern
 
 More funding solves structural problems. Invest resources, close gaps, restore function. Standard logic. Rational approach.
 
-Except it doesn't work that way.
+Except it doesn’t work that way.
 
-Resources don't fill structural gaps — they expand the structure around them. More money creates more claims, more dependencies, more constituencies, more expectations. The original problem persists or worsens. The structure grows. Next funding round becomes necessary. Then inevitable. Then desperate.
+Resources don’t fill structural gaps — they expand the structure around them. More money creates more claims, more dependencies, more constituencies, more expectations. The original problem persists or worsens. The structure grows. Next funding round becomes necessary. Then inevitable. Then desperate.
 
-This isn't corruption or incompetence. It's structural dynamics. The mechanism operates regardless of intent.
+This isn’t corruption or incompetence. It’s structural dynamics. The mechanism operates regardless of intent.
 
 The Mechanism
 
@@ -170,9 +170,9 @@ Year 1: Fund exists. Priorities identified. Procurement begins.
 
 Year 2: Coalition partners need projects. Climate commitments need funding. Infrastructure gaps need filling. Each claim individually rational — national interest, coalition stability, economic recovery. Fund becomes general budget overflow.
 
-Year 3: Defense gaps persist. New procurement needed. Original €100B absorbed. Where's the military capability? Where's the readiness? Next special fund required.
+Year 3: Defense gaps persist. New procurement needed. Original €100B absorbed. Where’s the military capability? Where’s the readiness? Next special fund required.
 
-The funding didn't fail to solve the problem. The funding became the mechanism perpetuating it.
+The funding didn’t fail to solve the problem. The funding became the mechanism perpetuating it.
 
 Example: Sovereign Debt Trap State borrows to solve crisis. Creditors want repayment. Debtor must stay creditworthy. Requires more borrowing. Exit impossible without creditor losses. Neither side can stop. The funding meant to solve the problem becomes the problem.
 
@@ -182,17 +182,17 @@ The Immortality Paradox
 
 The structure:
 
-Finite collective memory. Infinite candidates for immortality. Politicians compete for historical relevance—consciously (monuments, memoirs, "how will history judge me?") or unconsciously (legacy projects, named institutions). Zero-sum game: If you're remembered, someone else is forgotten. Most will be forgotten—structurally inevitable. But no one can stop competing without giving up entirely.
+Finite collective memory. Infinite candidates for immortality. Politicians compete for historical relevance—consciously (monuments, memoirs, “how will history judge me?”) or unconsciously (legacy projects, named institutions). Zero-sum game: If you’re remembered, someone else is forgotten. Most will be forgotten—structurally inevitable. But no one can stop competing without giving up entirely.
 
 Why each actor is rational:
 
 Politicians: Seek legacy (why else endure the brutality of politics?)
 
-Media: Cover those who compete loudest (that's the spectacle)
+Media: Cover those who compete loudest (that’s the spectacle)
 
 Historians: Write about consequential figures (limited book space)
 
-Public: Remembers simplified narratives (complexity doesn't scale)
+Public: Remembers simplified narratives (complexity doesn’t scale)
 
 Rivals: Compete for the same spots (survival instinct)
 
@@ -200,7 +200,7 @@ Autocrats: Prefer infamy over obscurity (Putin, Erdogan—better feared than for
 
 Why it fails collectively:
 
-Everyone competes. Most lose. The ones who want it too obviously (Trump—name on every building) become parodies. The ones who are subtle might stay invisible. The ones who don't compete get erased. History has limited chapters. Unlimited applicants. The competition is permanent. The outcome is predetermined for most: oblivion.
+Everyone competes. Most lose. The ones who want it too obviously (Trump—name on every building) become parodies. The ones who are subtle might stay invisible. The ones who don’t compete get erased. History has limited chapters. Unlimited applicants. The competition is permanent. The outcome is predetermined for most: oblivion.
 
 The trap: You must compete to matter. Competing makes you one of millions. Immortality through non-striving. Irrelevance through striving. Everyone plays. Almost everyone loses.
 
