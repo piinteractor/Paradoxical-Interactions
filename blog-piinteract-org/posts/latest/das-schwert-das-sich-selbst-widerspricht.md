@@ -78,7 +78,7 @@ Analytiker: Strategie und Betrieb. Vision und Ausführung. Innovation und Stabil
 
 Schmied: Und was tun sie normalerweise dagegen?
 
-Analytiker: Sie versuchen zu gewinnen. Die Strategie versucht, den Betrieb "agiler" zu machen. Der Betrieb versucht, die Strategie "realistischer" zu machen. Sie halten Workshops ab. Sie engagieren Berater. Sie kündigen Transformationen an.
+Analytiker: Sie versuchen zu gewinnen. Die Strategie versucht, den Betrieb “agiler” zu machen. Der Betrieb versucht, die Strategie “realistischer” zu machen. Sie halten Workshops ab. Sie engagieren Berater. Sie kündigen Transformationen an.
 
 Schmied: Und?
 
@@ -190,7 +190,7 @@ Analytiker: Das Material hat also Handlungsmacht.
 
 Schmied: (nachdenkend) Das ist ein seltsames Wort dafür. Aber ja. Das Schwert, das Sie planen, ist nicht das Schwert, das Sie schmieden. Das Schwert, das Sie schmieden, ist das Schwert, das das Material erlaubt, geformt durch die Entscheidungen, die Sie unterwegs treffen.
 
-Analytiker: Ich habe Unternehmen das Gegenteil tun sehen. Sie entscheiden, was sie wollen. Sie zwingen das Material — die Menschen, den Markt, die Technologie — zur Compliance. Sie nennen es "Ausführung."
+Analytiker: Ich habe Unternehmen das Gegenteil tun sehen. Sie entscheiden, was sie wollen. Sie zwingen das Material — die Menschen, den Markt, die Technologie — zur Compliance. Sie nennen es “Ausführung.”
 
 Schmied: Und?
 
@@ -268,7 +268,7 @@ Analytiker: Das ist eine PI.
 
 Schmied: Ich kenne Ihren Begriff nicht. Aber ja — man kann die Schönheit nicht ohne die Zerbrechlichkeit haben. Sie sind dasselbe. Die Oberfläche, die das Licht einfängt, ist die Oberfläche, die die Luft einfängt und rostet. Man akzeptiert beides oder keines.
 
-Analytiker: Ich habe das in Organisationen gesehen, die durch "radikale Transparenz" gehen. Sie öffnen alles. Alle Informationen geteilt, alle Entscheidungen sichtbar, alle Prozesse dokumentiert. Und plötzlich werden sie viel leichter angreifbar. Konkurrenten können ihre Roadmap lesen. Mitarbeiter können jede Inkonsistenz zwischen erklärten Werten und tatsächlichem Verhalten finden. Die Presse kann jeden Fehler sehen.
+Analytiker: Ich habe das in Organisationen gesehen, die durch “radikale Transparenz” gehen. Sie öffnen alles. Alle Informationen geteilt, alle Entscheidungen sichtbar, alle Prozesse dokumentiert. Und plötzlich werden sie viel leichter angreifbar. Konkurrenten können ihre Roadmap lesen. Mitarbeiter können jede Inkonsistenz zwischen erklärten Werten und tatsächlichem Verhalten finden. Die Presse kann jeden Fehler sehen.
 
 Schmied: Und davor?
 
@@ -428,17 +428,17 @@ No results found.
 
 On piinteract.org:
 
-["Procrustes' Bed"] — Vierzig Jahre Handwerk trifft auf Theorie, die erklärt, warum es scheitert. Jeder versucht, den anderen in seinen Rahmen zu zwingen.
+[“Procrustes’ Bed”] — Vierzig Jahre Handwerk trifft auf Theorie, die erklärt, warum es scheitert. Jeder versucht, den anderen in seinen Rahmen zu zwingen.
 
-["Perspective Switching"] — Der Hersteller und der Analytiker sehen verschiedene Strukturen. Keiner liegt falsch. Keiner ist vollständig.
+[“Perspective Switching”] — Der Hersteller und der Analytiker sehen verschiedene Strukturen. Keiner liegt falsch. Keiner ist vollständig.
 
-["Antagonistic Sparring"] — Keine Feinde — strukturelle Korrektive. Der Handwerker und der Theoretiker enthüllen gegenseitig ihre blinden Flecken.
+[“Antagonistic Sparring”] — Keine Feinde — strukturelle Korrektive. Der Handwerker und der Theoretiker enthüllen gegenseitig ihre blinden Flecken.
 
-["We Need Better Awareness"] — Zu verstehen, warum das Schwert scheitert, bringt es nicht zum Aufhören. Struktur schlägt Intention.
+[“We Need Better Awareness”] — Zu verstehen, warum das Schwert scheitert, bringt es nicht zum Aufhören. Struktur schlägt Intention.
 
 Peter Senner schreibt über Paradoxe Interaktionen — strukturelle Muster, in denen individuell rationales Verhalten kollektiv irrationale Ergebnisse erzeugt. Mehr auf piinteract.org.
 
-„Alle sind schuldig. Keiner kann etwas dafür. Versuchen und weitermachen."
+„Alle sind schuldig. Keiner kann etwas dafür. Versuchen und weitermachen.”
 
  
 
