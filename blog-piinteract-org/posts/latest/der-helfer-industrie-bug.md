@@ -30,9 +30,9 @@ Nichts davon zeugt von Betrug, Faulheit oder bösem Willen. Es offenbart das Zie
 
 Zwei verschiedene Fragen, eine Budgetierung
 
-„Wie helfen wir den Menschen, damit sie weniger Hilfe brauchen?" und „Welcher Antrag ist als Nächstes zu stellen, wie organisieren wir das und rechnen es ab?" klingt fast wie dieselbe Frage, zweimal gestellt. Ist es aber nicht. Die erste senkt die Fallzahl. Die zweite lässt sie wachsen. Die Sachbearbeiterin, die Werkstätte, der Kostenträger und die Förderinstanz können die zweite Frage ehrlich, kompetent und vollständig rechtskonform beantworten. Das Ergebnis ist ein System, das genau dort wächst, wo sein erklärter Auftrag Minderung verlangt.
+„Wie helfen wir den Menschen, damit sie weniger Hilfe brauchen?” und „Welcher Antrag ist als Nächstes zu stellen, wie organisieren wir das und rechnen es ab?” klingt fast wie dieselbe Frage, zweimal gestellt. Ist es aber nicht. Die erste senkt die Fallzahl. Die zweite lässt sie wachsen. Die Sachbearbeiterin, die Werkstätte, der Kostenträger und die Förderinstanz können die zweite Frage ehrlich, kompetent und vollständig rechtskonform beantworten. Das Ergebnis ist ein System, das genau dort wächst, wo sein erklärter Auftrag Minderung verlangt.
 
-Niemand setzt sich hin und entscheidet, dass die zweite Frage Vorrang hat. Sie gewinnt automatisch, weil an ihr eine Haushaltszeile hängt. Bedarfsreduktion ist ein Ergebnis, für dessen direkte Herstellung niemand bezahlt wird. Dokumentieren, beantragen und Leistung erbringen ist die einzige Version von „Hilfe", die auf einer Bilanz auftaucht — und eine Organisation, die nicht in der Lage ist abzurechnen, überlebt nicht lange genug, um im nächsten Jahr noch jemandem zu behilflich zu sein.
+Niemand setzt sich hin und entscheidet, dass die zweite Frage Vorrang hat. Sie gewinnt automatisch, weil an ihr eine Haushaltszeile hängt. Bedarfsreduktion ist ein Ergebnis, für dessen direkte Herstellung niemand bezahlt wird. Dokumentieren, beantragen und Leistung erbringen ist die einzige Version von „Hilfe”, die auf einer Bilanz auftaucht — und eine Organisation, die nicht in der Lage ist abzurechnen, überlebt nicht lange genug, um im nächsten Jahr noch jemandem zu behilflich zu sein.
 
 Warum jeder Akteur in Folge richtig handelt
 
@@ -106,25 +106,25 @@ No results found.
 
 On piinteract.org:
 
-["See Pattern, Not Symptom"] — The individual case file always looks reasonable. The pattern only shows up once you stop looking at one file at a time.
+[“See Pattern, Not Symptom”] — The individual case file always looks reasonable. The pattern only shows up once you stop looking at one file at a time.
 
-["See Problem, Solve Problem"] — The visible problem is a client's unmet need. The invisible one is a budget line that requires the need to stay visible.
+[“See Problem, Solve Problem”] — The visible problem is a client’s unmet need. The invisible one is a budget line that requires the need to stay visible.
 
-["Just Optimize"] — Every actor in the chain optimizes their own step. Nobody optimizes for the caseload actually shrinking, because nobody is funded to.
+[“Just Optimize”] — Every actor in the chain optimizes their own step. Nobody optimizes for the caseload actually shrinking, because nobody is funded to.
 
-["Fibrotizing Administrations"] — A support system that grows every year without its stated goal ever being reached isn't failing to shrink. It has hardened around the shape that keeps it funded.
+[“Fibrotizing Administrations”] — A support system that grows every year without its stated goal ever being reached isn’t failing to shrink. It has hardened around the shape that keeps it funded.
 
 See also (external links):
 
 Eingliederungshilfe für Menschen mit Behinderung 2024 (Statistisches Bundesamt) — The primary institutional data: 1.03 million recipients, €28.7 billion in spending, up 12.9 percent year over year.
 
-Werkstätten für behinderte Menschen (Wissenschaftliche Dienste des Deutschen Bundestages, WD 6 - 065/23) — The parliamentary research service's own figures on the annual transition rate from sheltered workshops into the general labor market: 0.35 percent in 2019.
+Werkstätten für behinderte Menschen (Wissenschaftliche Dienste des Deutschen Bundestages, WD 6 – 065/23) — The parliamentary research service’s own figures on the annual transition rate from sheltered workshops into the general labor market: 0.35 percent in 2019.
 
 Ivan Illich, Disabling Professions (1977), full text — The source of the quote at the top of this post, and the earliest systematic account of how professionalized help generates the dependency it claims to treat.
 
 Raus aus der Werkstatt, aber wie? (Die Neue Norm) — A journalistic account of why the transition out of sheltered workshops stays this low in practice, from the people trying to make it happen.
 
-Menschenrechtliche Eckpunkte für die Reform von Werkstätten für behinderte Menschen (Deutsches Institut für Menschenrechte) — Germany's national human rights institution on why the workshop system, as structured, conflicts with its own stated purpose.
+Menschenrechtliche Eckpunkte für die Reform von Werkstätten für behinderte Menschen (Deutsches Institut für Menschenrechte) — Germany’s national human rights institution on why the workshop system, as structured, conflicts with its own stated purpose.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
@@ -136,4 +136,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
