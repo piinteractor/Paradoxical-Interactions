@@ -30,19 +30,19 @@ Struktur 1: Der blinde Beobachter
 
 Precht analysiert, wie dominante Narrative den Diskurs verengen. Ukraine-Krieg, Gaza, Corona – überall sieht er Mainstream-Zwang.
 
-Seine Lösung? Eine Gegenperspektive. Die seiner links-alternativen Prägung. "Emotionale Äquidistanz zu den USA", wie er es nennt.
+Seine Lösung? Eine Gegenperspektive. Die seiner links-alternativen Prägung. “Emotionale Äquidistanz zu den USA”, wie er es nennt.
 
-Was er nicht sieht: Das ist kein neutraler Standpunkt. Das ist ein anderer Bias. Sein Elternhaus – DKP-nah, antiimperialistisch, DDR-romantisch – prägt ihn bis heute. Nur nennt er es "Orientierung in einer veränderten Weltordnung."
+Was er nicht sieht: Das ist kein neutraler Standpunkt. Das ist ein anderer Bias. Sein Elternhaus – DKP-nah, antiimperialistisch, DDR-romantisch – prägt ihn bis heute. Nur nennt er es “Orientierung in einer veränderten Weltordnung.”
 
 Die PI: Wer am lautesten über blinde Flecken spricht, übersieht die eigenen. Je schärfer die Kritik am System, desto unsichtbarer die eigene Position darin.
 
 Struktur 2: Die Kritik, die das Kritisierte reproduziert
 
-Precht beklagt die "Schere im Kopf" beim Gaza-Krieg. Er ist vorsichtig, weil jeder Satz aus dem Kontext gerissen werden könnte.
+Precht beklagt die “Schere im Kopf” beim Gaza-Krieg. Er ist vorsichtig, weil jeder Satz aus dem Kontext gerissen werden könnte.
 
-Gleichzeitig verklärt er die DDR ("Ja, dieses Deutschland meine ich"), relativiert russische Aggression ("auch eine Folge der NATO-Expansion"), warnt vor AfD-Dämonisierung.
+Gleichzeitig verklärt er die DDR (“Ja, dieses Deutschland meine ich”), relativiert russische Aggression (“auch eine Folge der NATO-Expansion”), warnt vor AfD-Dämonisierung.
 
-Er fordert Meinungsfreiheit – aber nur für seine Meinung. Wer ihn kritisch befragt (wie der NZZ-Journalist), bekommt Ausflüchte: "Darüber müssen Sie sich mit ihm unterhalten."
+Er fordert Meinungsfreiheit – aber nur für seine Meinung. Wer ihn kritisch befragt (wie der NZZ-Journalist), bekommt Ausflüchte: “Darüber müssen Sie sich mit ihm unterhalten.”
 
 Die PI: Die geforderte Offenheit gilt nur für die eigene Position. Der Kampf gegen Verengung verengt – nur in die andere Richtung.
 
@@ -50,7 +50,7 @@ Struktur 3: Erfolg als „Türhüten“
 
 Precht hat es geschafft. Millionenpublikum. Bestseller. Talkshows.
 
-Und nutzt diese Position, um sich als unterdrückten Außenseiter zu inszenieren. "Man wird ausgegrenzt, wenn man vom Narrativ abweicht." Sagt er. In der Talkshow. Vor Millionen.
+Und nutzt diese Position, um sich als unterdrückten Außenseiter zu inszenieren. “Man wird ausgegrenzt, wenn man vom Narrativ abweicht.” Sagt er. In der Talkshow. Vor Millionen.
 
 Michael Lüders, sein Beispiel für Cancel Culture, ist weiterhin in Medien präsent. Nur nicht mehr überall. Precht deutet das um: als Beweis für Unterdrückung.
 
