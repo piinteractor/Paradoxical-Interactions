@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/the-pike-syndrome/
 
 How structures become entrenched over time without anyone intending them to—and why insight does nothing to change the glass wall.
 
-"He loved Big Brother."
+“He loved Big Brother.”
 
 — George Orwell, Nineteen Eighty-Four (1949)
 
@@ -26,13 +26,13 @@ They are reading the wrong story.
 
 What actually happened
 
-The pike was not deterred. His instinct reacted correctly. The partition was real. The pain was real. The conditioning did not arise out of nothing - it arose from the altered reality.
+The pike was not deterred. His instinct reacted correctly. The partition was real. The pain was real. The conditioning did not arise out of nothing – it arose from the altered reality.
 
-The mistake - if there was one - occurred later. After the glass was removed, the pike's perception was not updated. Not because the pike was not adaptable enough. It was because the conditioning had become more deeply ingrained than the changed reality. It had changed its behavior. Reality had changed. Both had changed - only in different directions.
+The mistake – if there was one – occurred later. After the glass was removed, the pike’s perception was not updated. Not because the pike was not adaptable enough. It was because the conditioning had become more deeply ingrained than the changed reality. It had changed its behavior. Reality had changed. Both had changed – only in different directions.
 
 This is not an error in perception. It is the success of conditioning. It did what conditioning does. It erased natural behavior in favor of adapting to a changed reality.
 
-The pike perhaps even watched itself change. He just couldn't do anything about it. His will was irreversibly broken.
+The pike perhaps even watched itself change. He just couldn’t do anything about it. His will was irreversibly broken.
 
 The distorted reality led to their distorted perception. The reality was corrected back. But the perception remained. The disk was gone. The changed pike was not.
 
@@ -60,7 +60,7 @@ The impairment is real. The reaction is rational. The result is the permanent lo
 
 The PI of the pike syndrome:
 
-A subject reacts rationally to a real barrier. The reaction is adaptation - this prevents further damage. After some time, the adaptive reaction becomes a structure. The barrier is removed. The subject is incapable of acting - not because the barrier remains, but because the ability to act against it has been organized out of existence. The barrier has been internalized.
+A subject reacts rationally to a real barrier. The reaction is adaptation – this prevents further damage. After some time, the adaptive reaction becomes a structure. The barrier is removed. The subject is incapable of acting – not because the barrier remains, but because the ability to act against it has been organized out of existence. The barrier has been internalized.
 
 Everyone is guilty. No one can help it.
 
@@ -100,7 +100,7 @@ Related Posts
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Priest of Nemi: How Success Creates Its Own Assassin
 
@@ -126,7 +126,7 @@ See also (external links):
 
 Pike Syndrome — Karl Möbius, original experiment context — Documents the original Möbius experiment and its replication, including the detail that some researchers allowed the pike to starve rather than intervening.
 
-Learned Helplessness: Seligman's original research — Peer-reviewed overview of the foundational research on learned helplessness — the mechanism by which repeated exposure to inescapable harm produces structural passivity, not mere discouragement.
+Learned Helplessness: Seligman’s original research — Peer-reviewed overview of the foundational research on learned helplessness — the mechanism by which repeated exposure to inescapable harm produces structural passivity, not mere discouragement.
 
 Neuroplasticity and the persistence of conditioned responses — Institutional source on how conditioned neural pathways persist after the conditioning stimulus is removed — the biological substrate of what Möbius observed behaviorally.
 
@@ -142,4 +142,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
