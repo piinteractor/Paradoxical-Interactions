@@ -26,13 +26,13 @@ Self-organization is the great hope of complexity theory.
 
 No central authority. No master plan. Local actors, local rules, emergent order. The market. The brain. The flock of starlings. The city that nobody designed but everybody navigates.
 
-It works. That's the astonishing part. Without anyone in charge, coherence emerges. Without a conductor, the orchestra finds its tempo. Without a blueprint, the anthill builds its cathedral. Without a CEO, the economy allocates resources across billions of simultaneous transactions, each one uninstructed, each one fitting into something that functions.
+It works. That’s the astonishing part. Without anyone in charge, coherence emerges. Without a conductor, the orchestra finds its tempo. Without a blueprint, the anthill builds its cathedral. Without a CEO, the economy allocates resources across billions of simultaneous transactions, each one uninstructed, each one fitting into something that functions.
 
 This is the miracle. Not a small one. Not a metaphor for something else. An actual, structural miracle: order that nobody ordered.
 
 And then the system explains how it does this.
 
-That's where it gets complicated.
+That’s where it gets complicated.
 
 The Miracle First
 
@@ -66,7 +66,7 @@ The technical term is emergence: the whole is not just greater than the sum of i
 
 This is why self-organizing systems are so hard to control. You cannot manage emergence by managing the parts. The parts are not where the action is. The action is in the space between the parts — in the rules of interaction, in the feedback loops, in the attractor landscape that the system falls through.
 
-You can change the parts all you want. If you don't change the interaction structure, you get the same emergent patterns. Different players, same game. Different neurons, same pathology. Different politicians, same system.
+You can change the parts all you want. If you don’t change the interaction structure, you get the same emergent patterns. Different players, same game. Different neurons, same pathology. Different politicians, same system.
 
 This is the structural insight. It is also the beginning of the problem.
 
@@ -74,13 +74,13 @@ The Moment when the Miracle Becomes Aware of Itself
 
 At some point, the self-organizing system produces something new: a component that can observe the system.
 
-In biological evolution, this takes billions of years. In social systems, it happens faster — usually as soon as the system is complex enough to sustain the specialization required for reflection. Priests. Philosophers. Scientists. Economists. Sociologists. These are the system's observers, the components that turn around and look at the whole.
+In biological evolution, this takes billions of years. In social systems, it happens faster — usually as soon as the system is complex enough to sustain the specialization required for reflection. Priests. Philosophers. Scientists. Economists. Sociologists. These are the system’s observers, the components that turn around and look at the whole.
 
 And they describe what they see.
 
 This is also a miracle, of a different kind. The capacity of a system to represent itself — to model its own operation, to name its own patterns — is extraordinary. We are, as far as we know, the only species that does this with anything like our degree of sophistication. We have built entire disciplines around it. Libraries. Journals. Universities.
 
-The description is never the thing. The map is not the territory. The word "fire" does not burn. The economic model is not the economy.
+The description is never the thing. The map is not the territory. The word “fire” does not burn. The economic model is not the economy.
 
 But here is what this familiar warning misses: in self-organizing social systems, the map enters the territory. It becomes a component of the system it describes. And the system reorganizes around it.
 
@@ -96,7 +96,7 @@ When economists describe how markets function, their description enters the mark
 
 When management theorists describe how organizations function, their descriptions enter organizations. Managers implement them. HR departments build systems around them. The organization restructures itself according to the theory. The theory now describes an organization that has been shaped by the theory. The next generation of theory describes that organization.
 
-When urban planners describe how cities function, they build roads and zones based on their models. The city reorganizes around those interventions. The model was derived from a city that didn't have the interventions. It now describes a city that does. A new model is required.
+When urban planners describe how cities function, they build roads and zones based on their models. The city reorganizes around those interventions. The model was derived from a city that didn’t have the interventions. It now describes a city that does. A new model is required.
 
 The pattern is always the same.
 
@@ -122,7 +122,7 @@ All are guilty. None are at fault.
 
 The theorist is doing exactly what theorists should do. The system is doing exactly what systems should do. The outcome is a permanent loop in which accurate description is structurally impossible — not because of poor observation, but because observation itself is participation.
 
-The Magic Bus doesn't have a driver. But it has a route now. Someone described it. The route is real. It was produced by the description. The description of the route will produce a new route.
+The Magic Bus doesn’t have a driver. But it has a route now. Someone described it. The route is real. It was produced by the description. The description of the route will produce a new route.
 
 The Reference Loop
 
@@ -138,7 +138,7 @@ Every theory of how we self-organize produces a new layer of self-organization a
 
 This is not failure. It is what reflexive self-organization does. The capacity to observe the system is itself a feature of the system — one that produces its own structural consequences.
 
-Consider the history of economics. Classical economics describes markets. Markets incorporate classical economics. Keynesianism describes the failures of markets incorporating classical economics. Governments incorporate Keynesianism. Monetarism describes the failures of governments incorporating Keynesianism. Central banks incorporate monetarism. Behavioral economics describes the failures of rational-agent models that monetarism depended on. Markets begin incorporating behavioral economics. Each generation describes the system that the previous generation's description helped create.
+Consider the history of economics. Classical economics describes markets. Markets incorporate classical economics. Keynesianism describes the failures of markets incorporating classical economics. Governments incorporate Keynesianism. Monetarism describes the failures of governments incorporating Keynesianism. Central banks incorporate monetarism. Behavioral economics describes the failures of rational-agent models that monetarism depended on. Markets begin incorporating behavioral economics. Each generation describes the system that the previous generation’s description helped create.
 
 This is not a sequence of corrections moving toward truth. It is a sequence of accurate descriptions of systems that the descriptions themselves helped produce. Each one is locally right. None of them is finally right. The system keeps moving because the descriptions keep entering it.
 
@@ -146,7 +146,7 @@ The bus drives. Nobody ordered the route. Except the route keeps being ordered, 
 
 Why This Is Not Nihilism
 
-At this point, someone usually objects: if description always modifies the system, and if accurate description is therefore structurally impossible, what's the point? Are we just chasing our tails?
+At this point, someone usually objects: if description always modifies the system, and if accurate description is therefore structurally impossible, what’s the point? Are we just chasing our tails?
 
 No. But the point is different from what we usually think it is.
 
@@ -160,7 +160,7 @@ What changes is the posture. The theorist who knows their description will modif
 
 This is navigation without solution. Not because solution is impossible in principle, but because the system keeps producing new problems in response to every solution. The solutions are real. The problems they produce are real. The next solutions are real.
 
-The miracle doesn't stop being a miracle because it's also a PI. The starlings are still astonishing. The brain is still astonishing. The city is still astonishing. The fact that describing these things modifies them does not unmiracle them.
+The miracle doesn’t stop being a miracle because it’s also a PI. The starlings are still astonishing. The brain is still astonishing. The city is still astonishing. The fact that describing these things modifies them does not unmiracle them.
 
 It just means the observer is inside. Always inside. There is no outside position from which to watch safely.
 
@@ -176,9 +176,9 @@ This post is participating in the loop it describes. It knows this. Knowing this
 
 That is the deepest layer of the PI: the description of the reference loop is itself inside the reference loop. The map of the territory that includes maps is itself on the map.
 
-Gödel again: the system cannot fully capture itself from within. The proof requires a position the system doesn't have.
+Gödel again: the system cannot fully capture itself from within. The proof requires a position the system doesn’t have.
 
-We don't have it. We never did. The Magic Bus has been driving us since before we noticed we were on it.
+We don’t have it. We never did. The Magic Bus has been driving us since before we noticed we were on it.
 
 We are noticing now.
 
@@ -188,15 +188,15 @@ Navigation, Not Solution
 
 You cannot step outside a self-organizing system to observe it neutrally. The observation is already inside the system. It is already reorganizing things.
 
-This is not a call for silence. Silence is also an input. Withdrawal is also a modification. There is no move that doesn't move things.
+This is not a call for silence. Silence is also an input. Withdrawal is also a modification. There is no move that doesn’t move things.
 
 It is the condition. The structure. The PI that cannot be dissolved by understanding it — because understanding it is itself a move within it.
 
 What remains is this:
 
-Hold your descriptions lightly. They are accurate now. They will be less accurate soon — partly because of you. Update without defensiveness. Watch the system for the trace of your own intervention. Don't mistake the map for the territory. Don't mistake the bus route for the bus.
+Hold your descriptions lightly. They are accurate now. They will be less accurate soon — partly because of you. Update without defensiveness. Watch the system for the trace of your own intervention. Don’t mistake the map for the territory. Don’t mistake the bus route for the bus.
 
-And don't mistake the miracle for the problem.
+And don’t mistake the miracle for the problem.
 
 The miracle is that order emerges at all. The PI is that the order cannot be described without being changed. Both are true. Neither cancels the other.
 
@@ -216,7 +216,7 @@ Why systems that analyze closure risk reproducing it — and why structural awar
 
 The Understanding That Nobody Understands. A Solution in Search of a Problem It Created.
 
-Why the most rigorous approach to AI safety produces explanations no human can read — and why that's not a bug.
+Why the most rigorous approach to AI safety produces explanations no human can read — and why that’s not a bug.
 
 The Articulate Gatekeeper
 
@@ -234,13 +234,13 @@ Examples: Systems & Governance — Self-organizing systems in politics and insti
 
 See also (external links):
 
-Collective motion in starling flocks — Ballerini et al. (2008), PNAS: the peer-reviewed source for the topological neighborhood rule in murmurations — the local constraint from which the Magic Bus's global order emerges without instruction.
+Collective motion in starling flocks — Ballerini et al. (2008), PNAS: the peer-reviewed source for the topological neighborhood rule in murmurations — the local constraint from which the Magic Bus’s global order emerges without instruction.
 
-Performativity of Economics — Donald MacKenzie's primary paper on the performativity hypothesis: economic models do not merely describe markets, they actively reshape them — the exact structure the post identifies in every self-organizing system that produces observers.
+Performativity of Economics — Donald MacKenzie’s primary paper on the performativity hypothesis: economic models do not merely describe markets, they actively reshape them — the exact structure the post identifies in every self-organizing system that produces observers.
 
 Emergent Properties — Stanford Encyclopedia of Philosophy: the canonical philosophical account of emergence and the relationship between parts and wholes — primary source for the claim that wetness, consciousness, and price are not properties of components.
 
-Gödel's Incompleteness Theorems — Stanford Encyclopedia of Philosophy: formal account of why no sufficiently powerful system can fully capture itself from within — the structural ground for the post's final claim that the reference loop has no outside position.
+Gödel’s Incompleteness Theorems — Stanford Encyclopedia of Philosophy: formal account of why no sufficiently powerful system can fully capture itself from within — the structural ground for the post’s final claim that the reference loop has no outside position.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
@@ -254,4 +254,4 @@ contact@piinteract.org
 
 www.piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
