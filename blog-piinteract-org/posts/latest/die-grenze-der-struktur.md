@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/de/die-grenze-der-struktur/
 
 Warum ein Framework, welches niemals scheitert, nichts beweist — und wo Paradoxe Interaktionen tatsächlich enden.
 
-„Wir müssen daher den gegenwärtigen Zustand des Universums als Wirkung seines vorherigen Zustands und als Ursache des folgenden betrachten. Eine Intelligenz, die für einen gegebenen Augenblick alle Kräfte kennen würde, die die Natur bewegen, sowie die jeweilige Lage aller Wesen, aus denen sie besteht — wäre diese Intelligenz zudem umfassend genug, um diese Daten der Analyse zu unterwerfen —, würde in derselben Formel die Bewegungen der größten Himmelskörper des Universums wie die des leichtesten Atoms erfassen: Nichts wäre für sie ungewiss, und die Zukunft läge, wie die Vergangenheit, offen vor ihren Augen."
+„Wir müssen daher den gegenwärtigen Zustand des Universums als Wirkung seines vorherigen Zustands und als Ursache des folgenden betrachten. Eine Intelligenz, die für einen gegebenen Augenblick alle Kräfte kennen würde, die die Natur bewegen, sowie die jeweilige Lage aller Wesen, aus denen sie besteht — wäre diese Intelligenz zudem umfassend genug, um diese Daten der Analyse zu unterwerfen —, würde in derselben Formel die Bewegungen der größten Himmelskörper des Universums wie die des leichtesten Atoms erfassen: Nichts wäre für sie ungewiss, und die Zukunft läge, wie die Vergangenheit, offen vor ihren Augen.”
 
 — Pierre-Simon Laplace, Essai philosophique sur les probabilités, 1814
 
@@ -36,7 +36,7 @@ Das Setup
 
 1965, Birkbeck College, London. Roger Penrose veröffentlicht ein Theorem, das die Physik seither beschäftigt: Unter sehr allgemeinen Bedingungen endet ein Gravitationskollaps zwangsläufig in einer Singularität — kein Ort im Raum, sondern der Abbruch einer Geodäte, das Ende dessen, was sich in der Raumzeit überhaupt noch beschreiben lässt.
 
-2020 bekommt er dafür den Nobelpreis. Kein Physiker bestreitet das Theorem. Fast jeder weigert sich, dessen eigentliche Konsequenz auszusprechen: dass es einen Punkt gibt, an dem die Frage „was passiert hier" aufhört, eine Antwort zu haben — nicht aus Mangel an Daten. Aus Mangel an einem Gegenstand.
+2020 bekommt er dafür den Nobelpreis. Kein Physiker bestreitet das Theorem. Fast jeder weigert sich, dessen eigentliche Konsequenz auszusprechen: dass es einen Punkt gibt, an dem die Frage „was passiert hier” aufhört, eine Antwort zu haben — nicht aus Mangel an Daten. Aus Mangel an einem Gegenstand.
 
 Das wäre der Punkt an dem jedes Framework, das behauptet, universal zu gelten, sich selbst der Prüfung unterzieht.
 
@@ -176,13 +176,13 @@ No results found.
 
 Auf piinteract.org:
 
-["Accept Incompleteness"] — Gödel und Penrose-Hawking sagen dasselbe auf zwei Ebenen: Unvollständigkeit ist keine Lücke, die geschlossen werden muss, sondern die Bedingung, unter der ein System überhaupt aussagekräftig bleibt.
+[“Accept Incompleteness”] — Gödel und Penrose-Hawking sagen dasselbe auf zwei Ebenen: Unvollständigkeit ist keine Lücke, die geschlossen werden muss, sondern die Bedingung, unter der ein System überhaupt aussagekräftig bleibt.
 
-["Shared Blindspot"] — Eine Theorie, die überall Bestätigung findet, hat denselben blinden Fleck wie ein Kollektiv, das seine Prämisse nicht sieht: Sie kann die eigene Grenze nicht erkennen, weil sie nie danach gesucht hat.
+[“Shared Blindspot”] — Eine Theorie, die überall Bestätigung findet, hat denselben blinden Fleck wie ein Kollektiv, das seine Prämisse nicht sieht: Sie kann die eigene Grenze nicht erkennen, weil sie nie danach gesucht hat.
 
-["Galileo's Paradox"] — Nicht jede Struktur, die sich gegen eine Konsequenz sperrt, widerlegt sie damit. Die Cosmic-Censorship-Vermutung ist der moderne Fall: verteidigt, nicht bewiesen.
+[“Galileo’s Paradox”] — Nicht jede Struktur, die sich gegen eine Konsequenz sperrt, widerlegt sie damit. Die Cosmic-Censorship-Vermutung ist der moderne Fall: verteidigt, nicht bewiesen.
 
-["Academic Escape Reflex"] — Der unlösbare Randfall wird nicht gelöst, sondern methodisch für unphysikalisch erklärt. Genau dieser Reflex trägt die Cosmic-Censorship-Vermutung bis heute.
+[“Academic Escape Reflex”] — Der unlösbare Randfall wird nicht gelöst, sondern methodisch für unphysikalisch erklärt. Genau dieser Reflex trägt die Cosmic-Censorship-Vermutung bis heute.
 
 Siehe auch (externe Links):
 
