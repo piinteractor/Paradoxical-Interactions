@@ -172,7 +172,7 @@ Kassandra stand daneben. Bestätigt. Nutzlos.
 
 Das ist das Schicksal der Präzision in der Prophezeiung: einmal recht zu haben, in dem Moment, in dem Rechthaberei niemandem mehr hilft, um danach nie wieder auf dieselbe Weise recht zu haben.
 
-Nostradamus' Pferd steht nie am Strand. Sein Pferd kommt immer an. Wird immer gerade geöffnet. Trägt immer etwas, das die nächste Generation als ihre eigene Katastrophe erkennen wird.
+Nostradamus’ Pferd steht nie am Strand. Sein Pferd kommt immer an. Wird immer gerade geöffnet. Trägt immer etwas, das die nächste Generation als ihre eigene Katastrophe erkennen wird.
 
 Die Struktur, die nicht abgeschlossen werden kann, kann niemals erschöpft werden.
 
@@ -190,7 +190,7 @@ Im Klartext: PI kann falsch liegen. Sie kann getestet werden. Sie kann verfeiner
 
 Das ist keine Schwäche. Das ist die Methode.
 
-Kassandras Präzision machte sie einmalig und entbehrlich. Nostradamus' Vagheit machte ihn ewig und unfalsifizierbar. PI zielt auf etwas zwischen beiden und darüber hinaus: Strukturbeschreibungen, die präzise genug sind, um getestet zu werden, und zahlreich genug, dass einige immer landen.
+Kassandras Präzision machte sie einmalig und entbehrlich. Nostradamus’ Vagheit machte ihn ewig und unfalsifizierbar. PI zielt auf etwas zwischen beiden und darüber hinaus: Strukturbeschreibungen, die präzise genug sind, um getestet zu werden, und zahlreich genug, dass einige immer landen.
 
 Nenn es Geschwurbel, wenn du musst. Das ist ebenfalls rational.
 
