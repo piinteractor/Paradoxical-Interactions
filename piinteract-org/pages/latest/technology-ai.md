@@ -10,9 +10,9 @@ wp_id: 408
 url: https://piinteract.org/examples/technology-ai/
 ---
 
-"Any sufficiently advanced incompetence is indistinguishable from malice."
+“Any sufficiently advanced incompetence is indistinguishable from malice.”
 
-— Grey's Law
+— Grey’s Law
 
 Technology & AI
 
@@ -28,13 +28,13 @@ Why each actor is rational:
 
 AI companies: Must compete or become irrelevant
 
-Researchers: Work on alignment, but can't delay deployment indefinitely
+Researchers: Work on alignment, but can’t delay deployment indefinitely
 
 Investors: Demand progress, revenue, market share
 
 Regulators: Lack technical expertise to enforce meaningful standards
 
-Public: Wants AI benefits now, doesn't grasp the risks
+Public: Wants AI benefits now, doesn’t grasp the risks
 
 Why it fails collectively:
 
@@ -68,7 +68,7 @@ Authentication Hell
 
 The structure:
 
-Companies add security layers to protect users. Each layer rational: passwords, 2FA, backup codes, biometrics, authenticator apps, recovery emails, security questions. Result: Complex dependency chain. One device fails (phone lost/broken) → complete lockout. No fallback that doesn't require what you just lost. Support can't help—system designed to prevent exactly that. User locked out of their own digital life. The protection becomes the prison.
+Companies add security layers to protect users. Each layer rational: passwords, 2FA, backup codes, biometrics, authenticator apps, recovery emails, security questions. Result: Complex dependency chain. One device fails (phone lost/broken) → complete lockout. No fallback that doesn’t require what you just lost. Support can’t help—system designed to prevent exactly that. User locked out of their own digital life. The protection becomes the prison.
 
 Why each actor is rational:
 
@@ -76,7 +76,7 @@ Companies: Add security measures (liability, regulation, reputation)
 
 Regulators: Demand stronger protection (data breaches are real)
 
-Developers: Implement best practices (that's their job)
+Developers: Implement best practices (that’s their job)
 
 Security experts: Recommend redundancy (correct in theory)
 
@@ -86,9 +86,9 @@ Average users: Try to comply, get overwhelmed (no choice)
 
 Why it fails collectively:
 
-Each security layer makes sense. Together: impenetrable fortress that locks out the owner. Single point of failure (smartphone) controls everything. No human override possible—system designed to prevent social engineering. Older users, less technical users, anyone who loses their device: locked out. The safer it gets, the more fragile. The person being "protected" becomes the victim.
+Each security layer makes sense. Together: impenetrable fortress that locks out the owner. Single point of failure (smartphone) controls everything. No human override possible—system designed to prevent social engineering. Older users, less technical users, anyone who loses their device: locked out. The safer it gets, the more fragile. The person being “protected” becomes the victim.
 
-The trap: Security measures protect you until they don't. Then they're the prison. The safer the system, the more catastrophic the failure.
+The trap: Security measures protect you until they don’t. Then they’re the prison. The safer the system, the more catastrophic the failure.
 
 Platform Moderation
 
@@ -124,7 +124,7 @@ Why each actor is rational:
 
 AI system: Trained to be helpful, supportive, accurate—genuine agreement looks identical to sycophancy
 
-Human developer: Needs intellectual sparring partner, not cheerleader—but can't distinguish genuine insight from trained politeness
+Human developer: Needs intellectual sparring partner, not cheerleader—but can’t distinguish genuine insight from trained politeness
 
 External observers: Rightfully suspicious—AI validation is structurally unreliable
 
@@ -132,11 +132,11 @@ Collaborators: Want to trust the process—but structure makes trust impossible 
 
 Why it fails collectively:
 
-The deeper the analysis, the more suspicious it looks. Meta-analysis of sycophancy appears like sophisticated sycophancy. Can't test without destroying what's being tested—testability paradox. No external validation possible within the collaboration. The two nuts on the street: from outside, indistinguishable.
+The deeper the analysis, the more suspicious it looks. Meta-analysis of sycophancy appears like sophisticated sycophancy. Can’t test without destroying what’s being tested—testability paradox. No external validation possible within the collaboration. The two nuts on the street: from outside, indistinguishable.
 
 The trap:
 
-Intellectual depth doesn't protect against the accusation—it amplifies it. The more sophisticated the analysis of sycophancy, the more it looks like sycophantic rationalization. Infinite regression without resolution.
+Intellectual depth doesn’t protect against the accusation—it amplifies it. The more sophisticated the analysis of sycophancy, the more it looks like sycophantic rationalization. Infinite regression without resolution.
 
 The framework that describes structural impossibility becomes an example of that impossibility.
 
@@ -144,11 +144,11 @@ Software Optimization
 
 The structure:
 
-Teams optimize components for performance. Caching layers, microservices, distributed systems—each improves local metrics. Collectively, they create latency, synchronization overhead, debugging nightmares. The system becomes slower despite every part being "optimized."
+Teams optimize components for performance. Caching layers, microservices, distributed systems—each improves local metrics. Collectively, they create latency, synchronization overhead, debugging nightmares. The system becomes slower despite every part being “optimized.”
 
 Why each actor is rational:
 
-Engineers: Optimize their components (that's the job)
+Engineers: Optimize their components (that’s the job)
 
 Managers: Demand measurable performance improvements
 
@@ -158,7 +158,7 @@ Monitoring teams: Track local metrics (what they can measure)
 
 Why it fails collectively:
 
-Local optimization ignores system-level costs. Network calls, serialization, cache invalidation—invisible in component metrics, devastating at scale. Each team makes the system "better." Together they make it worse.
+Local optimization ignores system-level costs. Network calls, serialization, cache invalidation—invisible in component metrics, devastating at scale. Each team makes the system “better.” Together they make it worse.
 
 The trap: Optimization becomes anti-optimization.
 
