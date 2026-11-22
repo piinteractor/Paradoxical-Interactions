@@ -18,9 +18,9 @@ Pourquoi la plus célèbre expérience de pensée de la physique a été conçue
 
 
 
-« Ça ne me plaît pas, et je regrette d'y avoir jamais été mêlé. »
+« Ça ne me plaît pas, et je regrette d’y avoir jamais été mêlé. »
 
-— Erwin Schrödinger, à propos de l'interprétation de Copenhague, 1935
+— Erwin Schrödinger, à propos de l’interprétation de Copenhague, 1935
 
 
 
@@ -34,7 +34,7 @@ Le contexte
 
 Erwin Schrödinger détestait ce qu’impliquait la mécanique quantique. Il a donc mis au point un piège. Il a placé un chat dans une boîte avec un atome radioactif, un compteur Geiger et un flacon de poison. Si l’atome se désintègre, le compteur se déclenche, le flacon se brise et le chat meurt. Sinon, il survit. Tant que la boîte n’est pas ouverte, la théorie quantique affirme que l’atome est en superposition : à la fois désintégré et non désintégré. Il en va donc de même pour le chat. Vivant et mort. En même temps.
 
-Schrödinger voulait en faire un raisonnement par l'absurde. Regardez comme c'est ridicule. Regardez ce que vous êtes obligé d'accepter si vous prenez Copenhague au sérieux.
+Schrödinger voulait en faire un raisonnement par l’absurde. Regardez comme c’est ridicule. Regardez ce que vous êtes obligé d’accepter si vous prenez Copenhague au sérieux.
 
 Soixante-dix ans plus tard, tous les manuels de physique utilisent son chat pour expliquer l’interprétation de Copenhague.
 
@@ -68,7 +68,7 @@ L’observateur se tient dans le laboratoire. La boîte est fermée. D’ici, la
 
 Maintenant, entrez à l’intérieur.
 
-De l'intérieur de la boîte, il n'y a pas de superposition. L'atome s'est désintégré ou ne s'est pas désintégré. Le chat est mort ou n'est pas mort. L'effondrement a déjà eu lieu — ou n'a pas eu lieu — sans que personne ne regarde. L'intérieur de la boîte n'a pas accès à l'incertitude de l'observateur extérieur. Il ne sait pas qu'il est censé être indéterminé.
+De l’intérieur de la boîte, il n’y a pas de superposition. L’atome s’est désintégré ou ne s’est pas désintégré. Le chat est mort ou n’est pas mort. L’effondrement a déjà eu lieu — ou n’a pas eu lieu — sans que personne ne regarde. L’intérieur de la boîte n’a pas accès à l’incertitude de l’observateur extérieur. Il ne sait pas qu’il est censé être indéterminé.
 
 Le paradoxe — vivant et mort — n’est pas une propriété du chat. C’est une propriété de la position depuis laquelle le système est observé.
 
@@ -84,29 +84,29 @@ Le maître du quiz qui ne peut pas venir
 
 Allons maintenant un peu plus loin.
 
-À l'extérieur de la boîte se tient un observateur potentiel. Quelqu'un qui pourrait l'ouvrir. Qui a la capacité physique de faire s'effondrer la fonction d'onde. Qui existe dans le même univers que la boîte et qui, en principe, pourrait s'approcher et soulever le couvercle.
+À l’extérieur de la boîte se tient un observateur potentiel. Quelqu’un qui pourrait l’ouvrir. Qui a la capacité physique de faire s’effondrer la fonction d’onde. Qui existe dans le même univers que la boîte et qui, en principe, pourrait s’approcher et soulever le couvercle.
 
 Quel est le statut ontologique de ce personnage ?
 
-Vu de l'intérieur de la boîte : sans importance. L'état du chat est déjà déterminé. L'observateur potentiel ne change rien.
+Vu de l’intérieur de la boîte : sans importance. L’état du chat est déjà déterminé. L’observateur potentiel ne change rien.
 
 Du point de vue de l’observateur lui-même : indéterminé. Il n’a pas encore ouvert la boîte. Il est, en quelque sorte, à la fois celui qui trouvera le chat vivant et celui qui le trouvera mort — jusqu’à ce qu’il l’ouvre.
 
-Mais c'est là que le problème se pose : l'observateur potentiel se trouve lui-même à l'intérieur d'une boîte plus grande. Sa position — à l'extérieur de la boîte du chat — se situe à l'intérieur de l'univers. Il n'existe aucun point de vue extérieur à partir duquel sa superposition s'effondre. Il est à la fois l'animateur du quiz et celui qui ne se présente jamais.
+Mais c’est là que le problème se pose : l’observateur potentiel se trouve lui-même à l’intérieur d’une boîte plus grande. Sa position — à l’extérieur de la boîte du chat — se situe à l’intérieur de l’univers. Il n’existe aucun point de vue extérieur à partir duquel sa superposition s’effondre. Il est à la fois l’animateur du quiz et celui qui ne se présente jamais.
 
-L'observateur qui pourrait résoudre le paradoxe est lui-même irrésolu.
-
-
+L’observateur qui pourrait résoudre le paradoxe est lui-même irrésolu.
 
 
 
 
 
-L'IP de Schrödinger
 
-Ce n'est pas un problème de physique. C'est un problème structurel.
 
-L'IP de Schrödinger : Le système a besoin d'un observateur externe pour faire s'effondrer son indétermination. Mais l'observateur externe fait partie d'un système plus vaste. Aucune position d'observation n'est véritablement externe. Chaque effondrement génère une nouvelle superposition à un niveau supérieur.
+L’IP de Schrödinger
+
+Ce n’est pas un problème de physique. C’est un problème structurel.
+
+L’IP de Schrödinger : Le système a besoin d’un observateur externe pour faire s’effondrer son indétermination. Mais l’observateur externe fait partie d’un système plus vaste. Aucune position d’observation n’est véritablement externe. Chaque effondrement génère une nouvelle superposition à un niveau supérieur.
 
 Tout le monde agit de manière rationnelle :
 
@@ -114,33 +114,33 @@ Le chat — vivant ou mort, déterminé, attendant. Incapable de communiquer son
 
 La boîte — fermée. Remplissant parfaitement sa fonction.
 
-L'observateur à l'extérieur — incertain, construisant le paradoxe depuis sa position. Il est rationnel d'attendre.
+L’observateur à l’extérieur — incertain, construisant le paradoxe depuis sa position. Il est rationnel d’attendre.
 
-L'observateur potentiel plus loin — également incertain. Également rationnel.
+L’observateur potentiel plus loin — également incertain. Également rationnel.
 
-Le système — produisant une véritable indétermination à chaque niveau d'observation.
+Le système — produisant une véritable indétermination à chaque niveau d’observation.
 
-Tous sont coupables. Aucun n'est en tort.
+Tous sont coupables. Aucun n’est en tort.
 
-L'incertitude ne réside pas dans la boîte. Elle réside dans l'écart entre les positions. Et cet écart ne peut être comblé — car le combler crée un autre écart, un niveau plus haut.
-
-
+L’incertitude ne réside pas dans la boîte. Elle réside dans l’écart entre les positions. Et cet écart ne peut être comblé — car le combler crée un autre écart, un niveau plus haut.
 
 
 
 
 
-Ce que Schrödinger n'a pas remarqué
 
-Il a conçu cette expérience pour démontrer que la superposition quantique était absurde lorsqu'elle s'appliquait à des objets macroscopiques. Il avait raison quant à cette absurdité. Il avait tort quant à ce que cela prouvait.
 
-L'expérience ne démontre pas que l'interprétation de Copenhague est fausse. Elle montre que la position de l'observateur est toujours structurelle. Toujours intégrée. Générant toujours exactement l'indétermination qu'elle prétend observer.
+Ce que Schrödinger n’a pas remarqué
 
-Schrödinger avait l'intention de se placer en dehors de la théorie pour la réfuter. Mais il n'y a pas d'extérieur. Il se trouvait déjà à l'intérieur de la structure qu'il tentait de réfuter. Son raisonnement par l'absurde a démontré ce qu'il était censé réduire.
+Il a conçu cette expérience pour démontrer que la superposition quantique était absurde lorsqu’elle s’appliquait à des objets macroscopiques. Il avait raison quant à cette absurdité. Il avait tort quant à ce que cela prouvait.
 
-Le chat était mort. Et vivant. Et Schrödinger était l'observateur qui ne le savait pas.
+L’expérience ne démontre pas que l’interprétation de Copenhague est fausse. Elle montre que la position de l’observateur est toujours structurelle. Toujours intégrée. Générant toujours exactement l’indétermination qu’elle prétend observer.
 
-Per Errorem ad Astra. Non pas malgré l'erreur. Mais à travers elle.
+Schrödinger avait l’intention de se placer en dehors de la théorie pour la réfuter. Mais il n’y a pas d’extérieur. Il se trouvait déjà à l’intérieur de la structure qu’il tentait de réfuter. Son raisonnement par l’absurde a démontré ce qu’il était censé réduire.
+
+Le chat était mort. Et vivant. Et Schrödinger était l’observateur qui ne le savait pas.
+
+Per Errorem ad Astra. Non pas malgré l’erreur. Mais à travers elle.
 
 
 
@@ -184,11 +184,11 @@ Aricles connexes
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 Quand l’observation de la fermeture devient fermeture
 
-Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n'empêche-t-elle pas automatiquement un durcissement structurel ?
+Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n’empêche-t-elle pas automatiquement un durcissement structurel ?
 
 Le Piège de l’Intelligence
 
@@ -201,13 +201,13 @@ No results found.
 
 Sur piinteract.org:
 
-["Perspective Switching"] — L'intérieur et l'extérieur de la boîte de Schrödinger ne sont pas deux vues de la même chose. Ce sont des positions structurellement différentes qui génèrent des réalités différentes.
+[“Perspective Switching”] — L’intérieur et l’extérieur de la boîte de Schrödinger ne sont pas deux vues de la même chose. Ce sont des positions structurellement différentes qui génèrent des réalités différentes.
 
-["You Are Never Just Yourself"] — L'observateur à l'extérieur de la boîte est simultanément à l'intérieur d'une boîte plus grande. Il n'y a pas de position uniquement externe.
+[“You Are Never Just Yourself”] — L’observateur à l’extérieur de la boîte est simultanément à l’intérieur d’une boîte plus grande. Il n’y a pas de position uniquement externe.
 
-["Galileo's Paradox"] — La structure qui ne peut pas traiter le nouveau cadre ne le réfute pas. Schrödinger a essayé de réfuter Copenhague. Il l'a illustré.
+[“Galileo’s Paradox”] — La structure qui ne peut pas traiter le nouveau cadre ne le réfute pas. Schrödinger a essayé de réfuter Copenhague. Il l’a illustré.
 
-["Name the Paradox"] — La condition du chat n'est pas le paradoxe. La position de l'observateur l'est. Nommer cela arrête la recherche d'une solution à l'intérieur du mauvais système.
+[“Name the Paradox”] — La condition du chat n’est pas le paradoxe. La position de l’observateur l’est. Nommer cela arrête la recherche d’une solution à l’intérieur du mauvais système.
 
 
 
@@ -228,7 +228,7 @@ Intrication quantique — Stanford Encyclopedia of Philosophy
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 
 
@@ -239,4 +239,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
