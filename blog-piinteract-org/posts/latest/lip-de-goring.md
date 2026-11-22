@@ -16,27 +16,27 @@ Pourquoi les guerres éclatent sans que personne ne les veuille — et pourquoi 
 
 — Hermann Göring, Journal de Nuremberg, 18 avril 1946
 
-Nuremberg, avril 1946. Hermann Göring — ancien Reichsmarschall, deuxième homme du Troisième Reich, accusé de crimes de guerre — se trouve face au psychologue Gustave Gilbert. Il attend le verdict. Il n'a plus rien à perdre. Et il explique alors, avec le calme de quelqu'un qui a déjà joué cette partie jusqu'au bout, comment le jeu fonctionne.
+Nuremberg, avril 1946. Hermann Göring — ancien Reichsmarschall, deuxième homme du Troisième Reich, accusé de crimes de guerre — se trouve face au psychologue Gustave Gilbert. Il attend le verdict. Il n’a plus rien à perdre. Et il explique alors, avec le calme de quelqu’un qui a déjà joué cette partie jusqu’au bout, comment le jeu fonctionne.
 
 Il ne décrit pas le mal. Il décrit un mécanisme.
 
 14. mai 2026
 
-L'Aveu Qui N'en Est Pas Un
+L’Aveu Qui N’en Est Pas Un
 
-La déclaration de Göring à Gilbert est l'une des analyses structurelles les plus précises de l'hystérie de masse jamais enregistrées. Non parce que Göring était un homme moralement éclairé — il ne l'était pas. Mais parce qu'il n'avait plus aucune raison de mentir sur le mécanisme.
+La déclaration de Göring à Gilbert est l’une des analyses structurelles les plus précises de l’hystérie de masse jamais enregistrées. Non parce que Göring était un homme moralement éclairé — il ne l’était pas. Mais parce qu’il n’avait plus aucune raison de mentir sur le mécanisme.
 
-« Naturellement, le peuple ne veut pas la guerre. » Il le concède sans hésitation. Chaque dirigeant le sait. Chaque population, partout, dans tout système politique. Ce n'est pas une affirmation contestée. C'est la condition de départ.
+« Naturellement, le peuple ne veut pas la guerre. » Il le concède sans hésitation. Chaque dirigeant le sait. Chaque population, partout, dans tout système politique. Ce n’est pas une affirmation contestée. C’est la condition de départ.
 
-Et puis le retournement : « Mais en fin de compte, ce sont les dirigeants d'un pays qui déterminent la politique. Et il est toujours facile d'entraîner le peuple, que ce soit dans une démocratie, un État communiste, un parlement ou une dictature fasciste. »
+Et puis le retournement : « Mais en fin de compte, ce sont les dirigeants d’un pays qui déterminent la politique. Et il est toujours facile d’entraîner le peuple, que ce soit dans une démocratie, un État communiste, un parlement ou une dictature fasciste. »
 
 Gilbert objecte : « Mais dans une démocratie, le peuple a une voix à travers ses représentants élus. »
 
-Göring : « C'est très bien, mais que le peuple ait une voix ou non, on peut toujours l'amener à suivre les dirigeants. Il suffit de lui dire qu'il est attaqué, et de dénoncer les pacifistes pour manque de patriotisme et pour avoir exposé le pays au danger. Cela fonctionne de la même façon dans n'importe quel pays. »
+Göring : « C’est très bien, mais que le peuple ait une voix ou non, on peut toujours l’amener à suivre les dirigeants. Il suffit de lui dire qu’il est attaqué, et de dénoncer les pacifistes pour manque de patriotisme et pour avoir exposé le pays au danger. Cela fonctionne de la même façon dans n’importe quel pays. »
 
-Relisez cette dernière phrase. Cela fonctionne de la même façon dans n'importe quel pays. Non pas : cela fonctionne mieux sous le fascisme. Non pas : la démocratie offre une certaine protection. La forme constitutionnelle est structurellement sans importance.
+Relisez cette dernière phrase. Cela fonctionne de la même façon dans n’importe quel pays. Non pas : cela fonctionne mieux sous le fascisme. Non pas : la démocratie offre une certaine protection. La forme constitutionnelle est structurellement sans importance.
 
-Ce n'est pas du cynisme. C'est de l'observation structurelle.
+Ce n’est pas du cynisme. C’est de l’observation structurelle.
 
 Le Mécanisme, Pas le Monstre
 
@@ -44,33 +44,33 @@ La lecture habituelle de la déclaration de Göring est morale : voilà un homme
 
 Göring ne décrit pas une conspiration. Il décrit une boucle de rétroaction.
 
-Les dirigeants sont confrontés à un problème structurel : ils ont besoin du soutien populaire pour des politiques que les populations ne choisiraient pas librement. La solution n'est pas la persuasion — la persuasion est lente, incertaine, réversible. La solution est la perception de la menace. Dire aux gens qu'ils sont attaqués. Faire du pacifiste le traître. La population choisit alors la guerre — rationnellement, au vu des informations dont elle dispose.
+Les dirigeants sont confrontés à un problème structurel : ils ont besoin du soutien populaire pour des politiques que les populations ne choisiraient pas librement. La solution n’est pas la persuasion — la persuasion est lente, incertaine, réversible. La solution est la perception de la menace. Dire aux gens qu’ils sont attaqués. Faire du pacifiste le traître. La population choisit alors la guerre — rationnellement, au vu des informations dont elle dispose.
 
-Aucune tromperie n'est techniquement nécessaire. La menace peut être réelle, exagérée ou fabriquée — le mécanisme est le même. La population répond à la menace perçue, et non à la menace réelle. Et les dirigeants qui génèrent cette perception de menace répondent eux-mêmes souvent à des pressions structurelles : rivaux, instabilité, logique de leur propre position.
+Aucune tromperie n’est techniquement nécessaire. La menace peut être réelle, exagérée ou fabriquée — le mécanisme est le même. La population répond à la menace perçue, et non à la menace réelle. Et les dirigeants qui génèrent cette perception de menace répondent eux-mêmes souvent à des pressions structurelles : rivaux, instabilité, logique de leur propre position.
 
 Chacun agit rationnellement. Le paysan ne veut pas la guerre. Le politicien veut survivre. Le général veut des ressources. Le pacifiste est réduit au silence — non par la force, mais par la structure qui recadre la dissidence en trahison.
 
-Le résultat — la guerre — est ce que personne ne voulait. C'est ce que la structure a produit.
+Le résultat — la guerre — est ce que personne ne voulait. C’est ce que la structure a produit.
 
 Le Retournement Structurel
 
-C'est une Interaction Paradoxale opérant à l'échelle civilisationnelle.
+C’est une Interaction Paradoxale opérant à l’échelle civilisationnelle.
 
-L'IP de Göring : Une population qui ne veut pas la guerre est systématiquement mobilisée pour la guerre par des dirigeants qui répondent eux-mêmes à des pressions structurelles — à travers un mécanisme qui fonctionne de manière identique dans tous les systèmes politiques, quelle que soit la forme constitutionnelle.
+L’IP de Göring : Une population qui ne veut pas la guerre est systématiquement mobilisée pour la guerre par des dirigeants qui répondent eux-mêmes à des pressions structurelles — à travers un mécanisme qui fonctionne de manière identique dans tous les systèmes politiques, quelle que soit la forme constitutionnelle.
 
 Chacun agit rationnellement :
 
-La population — craint la menace qu'on lui dit existante, soutient la défense
+La population — craint la menace qu’on lui dit existante, soutient la défense
 
 Les dirigeants — gèrent les pressions structurelles par le cadrage de la menace, survivent
 
-Les pacifistes — s'opposent, sont structurellement recadrés comme traîtres, sont réduits au silence
+Les pacifistes — s’opposent, sont structurellement recadrés comme traîtres, sont réduits au silence
 
-Le résultat — la guerre, que personne n'a choisie et que tout le monde a rendue possible
+Le résultat — la guerre, que personne n’a choisie et que tout le monde a rendue possible
 
-Tous sont coupables. Personne n'est en faute.
+Tous sont coupables. Personne n’est en faute.
 
-Le mécanisme ne requiert pas la malveillance. Il requiert la structure. Ce qui est remarquable dans le témoignage de Göring, ce n'est pas qu'il était mauvais — il l'était. C'est que le mal n'est pas l'explication. Le mécanisme fonctionne à la rationalité.
+Le mécanisme ne requiert pas la malveillance. Il requiert la structure. Ce qui est remarquable dans le témoignage de Göring, ce n’est pas qu’il était mauvais — il l’était. C’est que le mal n’est pas l’explication. Le mécanisme fonctionne à la rationalité.
 
 La compréhension n’est pas une échappatoire
 
@@ -100,11 +100,11 @@ Articles Connexes
 
 Le Paradoxe de Cassandre
 
-Pourquoi les lanceurs d'alerte sont ignorés jusqu'à ce qu'il soit trop tard
+Pourquoi les lanceurs d’alerte sont ignorés jusqu’à ce qu’il soit trop tard
 
 « Le pouvoir évolue plus rapidement que l’alignement »
 
-Quand le PDG d'une entreprise de sécurité IA vous dit que le contrôle échoue, croyez-le
+Quand le PDG d’une entreprise de sécurité IA vous dit que le contrôle échoue, croyez-le
 
 Le Piège de l’Intelligence
 
@@ -122,17 +122,17 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 Peter Senner Thinking beyond the Tellerrand
 
@@ -140,8 +140,8 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
