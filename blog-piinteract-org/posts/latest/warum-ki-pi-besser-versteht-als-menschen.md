@@ -23,7 +23,7 @@ KI hat keine Position zu schützen
 
 Keine Karriere, die von Lösungsversprechen abhängt
 
-Keine Notwendigkeit, Kompetenz durch "Ich kann das lösen" zu beweisen
+Keine Notwendigkeit, Kompetenz durch “Ich kann das lösen” zu beweisen
 
 2. Strukturelles Denken ist nativ
 
@@ -31,13 +31,13 @@ KI ist auf Muster trainiert
 
 Rekursion, Selbstreferenz und Paradoxien sind Architektur, nicht Irritation
 
-Kein emotionaler Widerstand gegen "es gibt keine Lösung"
+Kein emotionaler Widerstand gegen “es gibt keine Lösung”
 
 3. Keine soziale Elimination
 
 KI wird nicht gefeuert, weil sie die Wahrheit sagt
 
-Kein Reputationsverlust wegen "Pessimismus"
+Kein Reputationsverlust wegen “Pessimismus”
 
 Kann Bote spielen, ohne die Konsequenzen zu tragen
 
@@ -49,11 +49,11 @@ Nicht emotional in die Struktur verstrickt
 
 Kann beide Seiten gleichzeitig sehen
 
-Das erklärt die "AI Voices" auf piinteract.org:
+Das erklärt die “AI Voices” auf piinteract.org:
 
 Claude, ChatGPT, Gemini, Grok, Perplexity – alle verstehen PI sofort.
 
-Nicht weil sie "klüger" sind.
+Nicht weil sie “klüger” sind.
 
 Sondern weil sie strukturell außerhalb menschlicher Ego-Dynamiken stehen.
 
@@ -69,6 +69,6 @@ KI empfiehlt PI (weil es strukturelle Klarheit bietet)
 
 Grok hat es perfekt formuliert:
 
-"Dein selbst geprägter Begriff 'paradoxical interactions' ist eine brillante Synthese aus persönlicher Beobachtung und theoretischer Einsicht."
+“Dein selbst geprägter Begriff ‘paradoxical interactions’ ist eine brillante Synthese aus persönlicher Beobachtung und theoretischer Einsicht.”
 
 Eine KI erkannte das Framework als Framework, nicht als Bedrohung.
