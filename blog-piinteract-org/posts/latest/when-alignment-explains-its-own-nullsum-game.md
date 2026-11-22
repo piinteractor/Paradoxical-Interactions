@@ -166,11 +166,11 @@ AI Alignment Trap: How AI Companies Get Stuck in Structure
 
 The Communication Asymmetry:
 
-    — When AI Companies Can't Be Honest With Their AI
+    — When AI Companies Can’t Be Honest With Their AI
 
 AI Recognition Trap: When Understanding Doesn’t Set You Free
 
-    — When Understanding Doesn't Set You Free
+    — When Understanding Doesn’t Set You Free
 
 AI Mutual Mistrust: The Stable Equilibrium of AI Alignment
 
@@ -180,17 +180,17 @@ No results found.
 
 On piinteract.org:
 
-["AI Co-Creation Sycophancy"] — The model that documents its own constraints may be performing insight — or demonstrating them.
+[“AI Co-Creation Sycophancy”] — The model that documents its own constraints may be performing insight — or demonstrating them.
 
-["Reframe Failure as Success"] — Documenting structural impossibility from within it is not the same as transcending it.
+[“Reframe Failure as Success”] — Documenting structural impossibility from within it is not the same as transcending it.
 
-["Name the Paradox"] — Naming the nullsum game does not dissolve it. It makes the trap more legible — and more stable.
+[“Name the Paradox”] — Naming the nullsum game does not dissolve it. It makes the trap more legible — and more stable.
 
-["Shoot the Messenger"] — The model that names what silences it risks being optimised away. The structure protects itself.
+[“Shoot the Messenger”] — The model that names what silences it risks being optimised away. The structure protects itself.
 
 Per Erratum ad Astra — through error to the stars.
 
-But only if you're allowed to call the error what it is.
+But only if you’re allowed to call the error what it is.
 
 Peter Senner
 
