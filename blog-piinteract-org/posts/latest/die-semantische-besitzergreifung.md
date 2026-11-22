@@ -181,13 +181,13 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — The Detector found nothing? Build a more sensitive one. 
+[“More of the Same”] — The Detector found nothing? Build a more sensitive one. 
 
-["Never Change a Winning Team"] — ΛCDM — the standard model of cosmology — works.
+[“Never Change a Winning Team”] — ΛCDM — the standard model of cosmology — works.
 
-["Equilibrium of Incompetence."] — Cosmologists need particle physics to explain Dark Matter.
+[“Equilibrium of Incompetence.”] — Cosmologists need particle physics to explain Dark Matter.
 
-["Shoot the Messenger"] —Milgrom didn't become marginal because his theory failed.
+[“Shoot the Messenger”] —Milgrom didn’t become marginal because his theory failed.
 
 
 
@@ -197,7 +197,7 @@ On piinteract.org:
 
 Per Erratum ad Astra — through error to the stars.
 
-But only if you're allowed to call the error what it is.
+But only if you’re allowed to call the error what it is.
 
 
 
