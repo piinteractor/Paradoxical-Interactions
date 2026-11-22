@@ -10,7 +10,7 @@ wp_id: 4552
 url: https://blog.piinteract.org/the-race-that-runs-itself/
 ---
 
-"We have met the enemy and he is us."
+“We have met the enemy and he is us.”
 
 — Walt Kelly, Pogo, 1970
 
@@ -73,7 +73,7 @@ The argument is not wrong. It is incomplete in a way that matters.
 
 The Argument You Cannot Refuse
 
-The text's structure is elegant. It works like this: the exponential is real. The talent convergence is real. Two countries are pulling away. One has a free press. The other has surveillance and a declared goal of global AI dominance.
+The text’s structure is elegant. It works like this: the exponential is real. The talent convergence is real. Two countries are pulling away. One has a free press. The other has surveillance and a declared goal of global AI dominance.
 
 Therefore: America must win, or a government that imprisons people for searching the wrong word will control what a billion minds are allowed to conclude.
 
@@ -111,13 +111,13 @@ Both arguments are rational. Both arguments are compelling. Both arguments, take
 
 The Structure That No One Chose
 
-This is the Paradoxical Interaction: two actors, each rationally responding to the other's rational response, each making the other's worst fears more structurally necessary with every move.
+This is the Paradoxical Interaction: two actors, each rationally responding to the other’s rational response, each making the other’s worst fears more structurally necessary with every move.
 
-Washington invests: Beijing reads this as confirmation and accelerates. Beijing accelerates: Washington reads this as confirmation and invests more. Both cite the other's behavior as proof of the threat. Both are right. Neither is at fault.
+Washington invests: Beijing reads this as confirmation and accelerates. Beijing accelerates: Washington reads this as confirmation and invests more. Both cite the other’s behavior as proof of the threat. Both are right. Neither is at fault.
 
 The race does not require bad actors. It requires rational ones.
 
-The "America Must Win" PI:
+The “America Must Win” PI:
 
 The more compelling the case for winning becomes, the more urgently the other side makes the same case. Each argument for dominance is simultaneously an argument the other side uses to justify its own dominance.
 
@@ -145,9 +145,9 @@ What the Text Cannot Say
 
 The text that argues America must win cannot say this. Not because the author lacks intelligence — the author is clearly sharp. But because saying it removes the ground the argument stands on.
 
-If the race structure itself produces the outcome everyone fears — a world where the most powerful cognitive tool is controlled by actors optimizing for dominance — then "win the race" is not a solution. It is participation.
+If the race structure itself produces the outcome everyone fears — a world where the most powerful cognitive tool is controlled by actors optimizing for dominance — then “win the race” is not a solution. It is participation.
 
-The text ends with: "Whoever wins the race does not just build the future. They decide what the future is allowed to think."
+The text ends with: “Whoever wins the race does not just build the future. They decide what the future is allowed to think.”
 
 This is true.
 
@@ -167,7 +167,7 @@ PI does not offer solutions. It offers structural clarity.
 
 The clarity here is this: the race frame is not a description of a problem that exists independently. The race frame is partially constitutive of the problem. Every actor who accepts it — and then acts rationally within it — strengthens the structure.
 
-This does not mean the exponential is not real. It is real. It does not mean the geopolitical stakes are not real. They are real. It means that the argument "therefore we must win" does not escape the structure. It deepens it.
+This does not mean the exponential is not real. It is real. It does not mean the geopolitical stakes are not real. They are real. It means that the argument “therefore we must win” does not escape the structure. It deepens it.
 
 The question worth asking is not: how do we win?
 
@@ -210,7 +210,7 @@ Why smart people reject smarter insights—and act intelligently doing so
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 The Priest of Nemi: How Success Creates Its Own Assassin
 
@@ -223,13 +223,13 @@ No results found.
 
 On piinteract.org:
 
-["More of the Same"] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
+[“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
 
-["This Time Will Be Different"] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
+[“This Time Will Be Different”] — Each new experiment promises resolution. The structure that produces the absence is never questioned.
 
-["Never Change a Winning Team"] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
+[“Never Change a Winning Team”] — ΛCDM works. The anomalies accumulate. The model survives because the alternative has no framework yet.
 
-["See the Pattern, Not the Symptom"] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
+[“See the Pattern, Not the Symptom”] — Dark matter may be the symptom. The pattern is a science that cannot accommodate what it cannot detect.
 
 
 
@@ -253,4 +253,4 @@ Thinking beyond the Tellerrand contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
