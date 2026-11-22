@@ -10,7 +10,7 @@ wp_id: 7481
 url: https://blog.piinteract.org/fr/le-moi-du-lundi-et-le-moi-du-vendredi/
 ---
 
-Pourquoi tu vas à l'encontre de tes propres bonnes résolutions, alors que tes deux « moi » ont raison — et pourquoi l'instance qui pourrait arbitrer le conflit prend toujours parti.
+Pourquoi tu vas à l’encontre de tes propres bonnes résolutions, alors que tes deux « moi » ont raison — et pourquoi l’instance qui pourrait arbitrer le conflit prend toujours parti.
 
 
 
@@ -38,9 +38,9 @@ Pourquoi tu vas à l'encontre de tes propres bonnes résolutions, alors que tes 
 
 Aire de jeux
 
-Cet article s'appuie sur une hypothèse, et non sur un exemple. Il se demande si l'interaction paradoxale (PI) a une limite inférieure — et n'en trouve pas.
+Cet article s’appuie sur une hypothèse, et non sur un exemple. Il se demande si l’interaction paradoxale (PI) a une limite inférieure — et n’en trouve pas.
 
-Les interactions paradoxales nécessitent plusieurs acteurs rationnels. Jusqu'à présent, c'était l'exigence minimale tacite du cadre théorique : pas d'interaction paradoxale entre moins de deux personnes. L'hypothèse de ce texte est la suivante : cette limite inférieure n'existe pas. Une seule et même personne sur une période donnée équivaut à plusieurs acteurs. Le « moi » qui planifie le lundi et le « moi » qui ne respecte pas le plan le vendredi agissent tous deux de manière rationnelle — et entrent en conflit sur le plan structurel, et non sur le plan du caractère. Ce qui manque ici, c’est la seule chose qui pourrait désamorcer ce conflit : une rétroaction qui ne provienne pas de la même boucle. En son absence, le système s’enchaîne sur lui-même. Cela porte un nom courant. On appelle cela le désespoir.
+Les interactions paradoxales nécessitent plusieurs acteurs rationnels. Jusqu’à présent, c’était l’exigence minimale tacite du cadre théorique : pas d’interaction paradoxale entre moins de deux personnes. L’hypothèse de ce texte est la suivante : cette limite inférieure n’existe pas. Une seule et même personne sur une période donnée équivaut à plusieurs acteurs. Le « moi » qui planifie le lundi et le « moi » qui ne respecte pas le plan le vendredi agissent tous deux de manière rationnelle — et entrent en conflit sur le plan structurel, et non sur le plan du caractère. Ce qui manque ici, c’est la seule chose qui pourrait désamorcer ce conflit : une rétroaction qui ne provienne pas de la même boucle. En son absence, le système s’enchaîne sur lui-même. Cela porte un nom courant. On appelle cela le désespoir.
 
 Dimanche soir, 21 h 40. Quelqu’un est assis à la table de la cuisine et planifie sa semaine. Lundi, course à pied à 6 h 30. Pas d’alcool jusqu’à vendredi. Le soir, deux heures de travail sur le manuscrit. Le programme est bon. Il est réaliste, bien pensé, élaboré avec lucidité.
 
@@ -93,7 +93,7 @@ Celui qui gagne contre lui-même perd, par conséquent, aussi contre lui-même.
 
 La boucle fermée
 
-Passons maintenant au tournant structurel. L'IP a besoin de rétroaction — d’acteurs dont les actions rationnelles s’influencent mutuellement. Lorsque n = 1, cette rétroaction existe également. Elle présente toutefois une particularité : elle ne quitte jamais le système. Elle tourne sur elle-même. Elle se recouple avec elle-même, à la recherche de rétroaction.
+Passons maintenant au tournant structurel. L’IP a besoin de rétroaction — d’acteurs dont les actions rationnelles s’influencent mutuellement. Lorsque n = 1, cette rétroaction existe également. Elle présente toutefois une particularité : elle ne quitte jamais le système. Elle tourne sur elle-même. Elle se recouple avec elle-même, à la recherche de rétroaction.
 
 Le « moi » du lundi réagit au « moi » du vendredi en établissant des projets plus stricts. Le « moi » du vendredi réagit à ces projets plus stricts en manifestant un besoin accru de repos. Chaque cycle exacerbe le suivant. Luhmann a décrit des systèmes qui se ferment à leur environnement et ne font plus que reproduire leurs propres éléments — il faisait référence aux organisations, aux systèmes fonctionnels, aux écoles théoriques. L’hypothèse ici est la suivante : le plus petit système autopoïétique est un individu qui entre en rétroaction avec lui-même.
 
@@ -107,7 +107,7 @@ La psychologie qualifie le fonctionnement continu de cette boucle de « ruminati
 
 
 
-L'IP lundi-vendredi
+L’IP lundi-vendredi
 
 Les états successifs d’une personne agissent chacun de manière rationnelle, mais ne coïncident jamais dans le temps. Le seul retour d’information disponible provient du système lui-même — y compris de l’instance censée arbitrer le conflit.
 
@@ -169,7 +169,7 @@ Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 Synchronisation des métronomes. L’axiome physique de l’IP.
 
@@ -177,7 +177,7 @@ Le phénomène des oscillateurs couplés
 
 Quand l’observation de la fermeture devient fermeture
 
-Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n'empêche-t-elle pas automatiquement un durcissement structurel ?
+Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n’empêche-t-elle pas automatiquement un durcissement structurel ?
 
 No results found.
 
@@ -186,9 +186,9 @@ No results found.
 
 Sur piinteract.org :
 
-[« Identifier l'angle mort commun »] — Si tous les participants ne font qu'un, ils partagent tous le même angle mort. Y compris le médiateur.
+[« Identifier l’angle mort commun »] — Si tous les participants ne font qu’un, ils partagent tous le même angle mort. Y compris le médiateur.
 
-[« Sparring antagoniste »] — La seule correction que la boucle n'a pas produite elle-même provient d'un interlocuteur présentant d'autres erreurs.
+[« Sparring antagoniste »] — La seule correction que la boucle n’a pas produite elle-même provient d’un interlocuteur présentant d’autres erreurs.
 
 [« Changement de perspective »] — La boucle simule le changement de perspective. Chaque perspective provient du même système.
 
@@ -226,7 +226,7 @@ Identité personnelle (Stanford Encyclopedia of Philosophy) – Le fondement phi
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'est responsable.
+Tous sont coupables. Personne n’est responsable.
 
 
 
@@ -237,4 +237,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
