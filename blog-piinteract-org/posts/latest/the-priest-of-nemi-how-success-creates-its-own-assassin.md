@@ -12,7 +12,7 @@ url: https://blog.piinteract.org/the-priest-of-nemi-how-success-creates-its-own-
 
 Win the position. Guarantee your death. Repeat forever.
 
-"The priest who slew the slayer, and shall himself be slain."
+“The priest who slew the slayer, and shall himself be slain.”
 
 — James George Frazer, The Golden Bough
 
@@ -20,15 +20,15 @@ The Setup
 
 Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and the certainty that success breeds your assassin.
 
-Sounds archaic? Look at tech disruption, nuclear states, authoritarian succession, or academic gatekeeping. Same structure. Different swords. The pattern hasn't disappeared. It's just wearing a suit.
+Sounds archaic? Look at tech disruption, nuclear states, authoritarian succession, or academic gatekeeping. Same structure. Different swords. The pattern hasn’t disappeared. It’s just wearing a suit.
 
 The Mechanics
 
-Here's how it worked:
+Here’s how it worked:
 
 The priest kills his predecessor.
 
-That's the job interview. Murder or fail.
+That’s the job interview. Murder or fail.
 
 The priest fears his successor.
 
@@ -54,7 +54,7 @@ The cycle continues.
 
 Winner becomes priest. Pattern repeats. Forever.
 
-Why It's a PI
+Why It’s a PI
 
 Locally rational, globally insane.
 
@@ -68,19 +68,19 @@ Everyone ends up dead (including observers who wander too close)
 
 All are guilty. None are at fault.
 
-The first priest? Maybe he was power-hungry. But by generation three, everyone's in self-defense. The structure reproduces through its victims.
+The first priest? Maybe he was power-hungry. But by generation three, everyone’s in self-defense. The structure reproduces through its victims.
 
 The Cruel Logic
 
-Paranoia isn't a bug. It's the winning strategy.
+Paranoia isn’t a bug. It’s the winning strategy.
 
-Trust = death. The priest who relaxes, who gives the benefit of the doubt, who tries diplomacy—he's the next corpse.
+Trust = death. The priest who relaxes, who gives the benefit of the doubt, who tries diplomacy—he’s the next corpse.
 
 The structure selects for violence. Not because people are violent. Because the alternatives are fatal.
 
 Success breeds the conditions for failure.
 
-Winning the position guarantees you'll lose it the same way you won it.
+Winning the position guarantees you’ll lose it the same way you won it.
 
 Modern Equivalents
 
@@ -98,7 +98,7 @@ Pattern: Disrupt or be disrupted. Paranoia encoded as innovation culture.
 
 Acquire weapons to protect yourself. Now everyone else sees you as threat. Build more. They build more. Preemptive strike doctrine = Nemi logic at scale.
 
-Pakistan got nukes because India had them. North Korea got them because everyone threatened regime change. Israel has them and won't confirm. Iran wants them for the same reason Israel has them.
+Pakistan got nukes because India had them. North Korea got them because everyone threatened regime change. Israel has them and won’t confirm. Iran wants them for the same reason Israel has them.
 
 Pattern: Security measures create the insecurity they claim to prevent.
 
@@ -106,7 +106,7 @@ Pattern: Security measures create the insecurity they claim to prevent.
 
 Leader eliminates rivals to secure power. Creates culture where competence = threat. Next leader must eliminate them to survive. Cycle perpetuates.
 
-Stalin purged everyone close to him. Xi purged potential successors through "anti-corruption." Every dictator knows: the closer someone is, the more dangerous they become.
+Stalin purged everyone close to him. Xi purged potential successors through “anti-corruption.” Every dictator knows: the closer someone is, the more dangerous they become.
 
 Pattern: The purge is rational. Not paranoid. The structure demands it.
 
@@ -120,7 +120,7 @@ Pattern: Virtue signaling as preemptive self-defense.
 
 5. Academic Hazing
 
-PhD survives exploitation. Gets tenure. Now defends the system that nearly broke them. "I suffered, so must you." Structure reproduces through survivors.
+PhD survives exploitation. Gets tenure. Now defends the system that nearly broke them. “I suffered, so must you.” Structure reproduces through survivors.
 
 #IchBinHanna—German academics protesting systematic precarity. Those with power survived the same system. Now they gatekeep. Not cruelty. Structural logic.
 
@@ -132,7 +132,7 @@ All share:
 
 Entry through violence (literal or structural)
 
-You don't negotiate your way in.
+You don’t negotiate your way in.
 
 Rational paranoia
 
@@ -140,7 +140,7 @@ Relaxation = elimination. Trust is fatal.
 
 Projection creates threat
 
-Suspicion generates the enemy. The wanderer wasn't hostile until you decided they were.
+Suspicion generates the enemy. The wanderer wasn’t hostile until you decided they were.
 
 No neutral position
 
@@ -154,37 +154,37 @@ Self-perpetuation
 
 Survivors defend the system. Because it worked for them. Once.
 
-Why You Can't Just Walk Away
+Why You Can’t Just Walk Away
 
 Because leaving looks like plotting.
 
-The priest can't retire. If he steps down voluntarily, everyone assumes he's planning something. Weakness invites attack. Mercy reads as strategy.
+The priest can’t retire. If he steps down voluntarily, everyone assumes he’s planning something. Weakness invites attack. Mercy reads as strategy.
 
-The structure doesn't permit peaceful exit.
+The structure doesn’t permit peaceful exit.
 
 Modern equivalent:
 
-Try leaving a zero-sum competition gracefully. Your competitors assume you're repositioning. Your allies assume betrayal. The market assumes weakness.
+Try leaving a zero-sum competition gracefully. Your competitors assume you’re repositioning. Your allies assume betrayal. The market assumes weakness.
 
-The system interprets “I'm pulling out” as “I'm planning something worse or I'm a coward.”
+The system interprets “I’m pulling out” as “I’m planning something worse or I’m a coward.”
 
-Why Awareness Doesn't Help
+Why Awareness Doesn’t Help
 
-You might think: "Just recognize the pattern and stop."
+You might think: “Just recognize the pattern and stop.”
 
-Doesn't work.
+Doesn’t work.
 
-Because once you're in, recognition changes nothing.
+Because once you’re in, recognition changes nothing.
 
-If you're the priest: You know the next guy will kill you. Knowing doesn't protect you.
+If you’re the priest: You know the next guy will kill you. Knowing doesn’t protect you.
 
-If you're the passerby: You know he'll attack. Knowing doesn't give you an alternative.
+If you’re the passerby: You know he’ll attack. Knowing doesn’t give you an alternative.
 
-If you're the observer: You know it's a trap. Knowing doesn't mean you can avoid it if you need something from the grove.
+If you’re the observer: You know it’s a trap. Knowing doesn’t mean you can avoid it if you need something from the grove.
 
-Awareness doesn't break structure. It just makes the entrapment conscious.
+Awareness doesn’t break structure. It just makes the entrapment conscious.
 
-That's worse, not better.
+That’s worse, not better.
 
 What Actually Changes the Pattern
 
@@ -200,17 +200,17 @@ Not because someone woke up and chose differently.
 
 Navigation Principles
 
-You can't solve Nemi structures. But you can recognize them.
+You can’t solve Nemi structures. But you can recognize them.
 
 1. Identify the entry violence
 
-What's the murder equivalent? What do you have to destroy to get in?
+What’s the murder equivalent? What do you have to destroy to get in?
 
-If success requires eliminating your predecessor, you're in a Nemi structure.
+If success requires eliminating your predecessor, you’re in a Nemi structure.
 
 2. Notice the paranoia gradient
 
-When caution becomes policy, when prevention becomes standard operating procedure—you're inside.
+When caution becomes policy, when prevention becomes standard operating procedure—you’re inside.
 
 Not because people are crazy. Because the structure rewards it.
 
@@ -218,29 +218,29 @@ Not because people are crazy. Because the structure rewards it.
 
 Can you leave without penalty? Without suspicion?
 
-If not, you're trapped. Knowing won't free you. But it might prepare you.
+If not, you’re trapped. Knowing won’t free you. But it might prepare you.
 
 4. Look for externality shifts
 
 What would make this position irrelevant? What would drain the power/status/resources from the structure itself?
 
-That's your only structural exit. Everything else is navigation.
+That’s your only structural exit. Everything else is navigation.
 
-5. Don't moralize
+5. Don’t moralize
 
-The priest isn't evil. The passerby isn't innocent. The structure is.
+The priest isn’t evil. The passerby isn’t innocent. The structure is.
 
-"All are guilty. None are at fault."
+“All are guilty. None are at fault.”
 
-Understanding that won't save you. But it might stop you from wasting energy on blame.
+Understanding that won’t save you. But it might stop you from wasting energy on blame.
 
 The Modern Trap
 
-We think we've evolved past this. Ancient Rome, savage rituals, primitive violence.
+We think we’ve evolved past this. Ancient Rome, savage rituals, primitive violence.
 
-We haven't.
+We haven’t.
 
-We've just made the structure abstract.
+We’ve just made the structure abstract.
 
 The violence is economic, reputational, political
 
@@ -266,13 +266,13 @@ Nemi is the perfect PI demonstration.
 
 Local rationality → global madness (everyone in self-defense, everyone dead)
 
-Structure > intention (doesn't matter if you wanted peace)
+Structure > intention (doesn’t matter if you wanted peace)
 
-No resolution through awareness (knowing doesn't give you options)
+No resolution through awareness (knowing doesn’t give you options)
 
 Self-perpetuation through survivors (winner becomes next target)
 
-The framework doesn't just describe this. It predicts it.
+The framework doesn’t just describe this. It predicts it.
 
 Wherever you find:
 
@@ -284,25 +284,25 @@ Binary outcome logic
 
 High exit costs
 
-You'll find Nemi.
+You’ll find Nemi.
 
 Maybe not with literal swords. But the pattern holds.
 
 The Question You Should Ask
 
-"Am I the priest, the passerby, or the observer?"
+“Am I the priest, the passerby, or the observer?”
 
 Because the structure treats each role differently:
 
-Priest: You're defending. Attack feels like survival.
+Priest: You’re defending. Attack feels like survival.
 
-Passerby: You're reacting. Defense feels like necessity.
+Passerby: You’re reacting. Defense feels like necessity.
 
-Observer: You're analyzing. Safety feels like wisdom.
+Observer: You’re analyzing. Safety feels like wisdom.
 
 All three are trapped. Just differently.
 
-The observer thinks they're safe until they need something from the grove.
+The observer thinks they’re safe until they need something from the grove.
 
 All are guilty. None are at fault.
 
