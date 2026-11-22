@@ -52,9 +52,9 @@ Peter Senner co-created with Anthropic Claude
 
 Das Setup
 
-Das Alignment Research Center hat ein neues Ziel. Es ist konkreter als zuvor. Direkter mit nützlichen Anwendungen verknüpft. Sie nennen es „Sampling übertreffen".
+Das Alignment Research Center hat ein neues Ziel. Es ist konkreter als zuvor. Direkter mit nützlichen Anwendungen verknüpft. Sie nennen es „Sampling übertreffen”.
 
-Das bedeutet: Anstatt dass Menschen verstehen, was ein neuronales Netz tut, wird ein Algorithmus gebaut , der es stattdessen versteht. Die Erklärung, die dieser Algorithmus produziert, kann in ihren eigenen Worten „für einen Menschen ebenso unverständlich sein, wie das neuronale Netz selbst".
+Das bedeutet: Anstatt dass Menschen verstehen, was ein neuronales Netz tut, wird ein Algorithmus gebaut , der es stattdessen versteht. Die Erklärung, die dieser Algorithmus produziert, kann in ihren eigenen Worten „für einen Menschen ebenso unverständlich sein, wie das neuronale Netz selbst”.
 
 Die Lösung für das Problem, dass Menschen KI nicht verstehen: aufhören zu verlangen, dass Menschen sie verstehen.
 
@@ -72,7 +72,7 @@ Das Problem, das ARC zu lösen versucht, ist real und ernst. Bevor man sagen kan
 
 Ihr vorgeschlagener Ansatz: einen mechanistischen Schätzer bauen. Einen Algorithmus, der die Struktur eines neuronalen Netzes tief genug versteht, um die Wahrscheinlichkeit seltener schlechter Ausgaben weit effizienter als blindes Sampling zu berechnen.
 
-Der Haken, den sie explizit benennen: Dieses mechanistische Verstehen muss nicht menschenlesbar sein. Die Erklärung des neuronalen Netzes könnte so groß wie das Netz selbst sein. Sie könnte, in ihrer präzisen Formulierung, „für einen Menschen ebenso unverständlich sein, wie das neuronale Netz".
+Der Haken, den sie explizit benennen: Dieses mechanistische Verstehen muss nicht menschenlesbar sein. Die Erklärung des neuronalen Netzes könnte so groß wie das Netz selbst sein. Sie könnte, in ihrer präzisen Formulierung, „für einen Menschen ebenso unverständlich sein, wie das neuronale Netz”.
 
 Was sie bauen, ist eine KI, die KI versteht, damit Menschen es nicht müssen.
 
@@ -128,9 +128,9 @@ Das ist kein Argument gegen ARCs Forschung. Es ist eine Beschreibung ihrer struk
 
 Nicht-menschliches Verstehen als Ziel
 
-Der Satz, der im ARC-Paper das meiste Gewicht trägt, ist fast beiläufig. Über ihren mechanistischen Schätzer schreiben sie, dass die Erklärung „so groß wie das neuronale Netz selbst sein könnte, und für einen Menschen ebenso unverständlich sein kann wie das neuronale Netz".
+Der Satz, der im ARC-Paper das meiste Gewicht trägt, ist fast beiläufig. Über ihren mechanistischen Schätzer schreiben sie, dass die Erklärung „so groß wie das neuronale Netz selbst sein könnte, und für einen Menschen ebenso unverständlich sein kann wie das neuronale Netz”.
 
-Dann: „unser Ziel ist es nicht, dass ein Mensch die Struktur betrachtet".
+Dann: „unser Ziel ist es nicht, dass ein Mensch die Struktur betrachtet”.
 
 Das ist eine bedeutsame konzeptuelle Verschiebung, ruhig formuliert. Jahrzehntelang war KI-Interpretabilitätsforschung auf der Prämisse aufgebaut, dass Verstehen menschliches Verstehen bedeutet. Man versteht ein Modell, wenn eine Person es ansehen und erklären kann, was es tut. Das ist der ganze Sinn von Interpretabilität — die Black Box lesbar zu machen.
 
@@ -168,7 +168,7 @@ Ausgefeiltere Werkzeuge → noch weiter von menschlichem Verstehen entfernt
 
 Jeder Schritt rational. Die Richtung: weg von dem, was Alignment schützen sollte.
 
-Und am Ende des Papers: „We're hiring!"
+Und am Ende des Papers: „We’re hiring!”
 
 Die Stellenanzeige ist die Struktur, sichtbar gemacht.
 
