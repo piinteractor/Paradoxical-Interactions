@@ -18,7 +18,7 @@ Pratiques
 
 Navigation, pas Solutions
 
-Les pratiques dans le framework IP ne sont pas des instructions étape par étape. Pas de meilleures pratiques pour le succès. Pas de solutions aux paradoxes. Ce sont des points d'orientation dans le brouillard structurel. Des façons de se déplacer sans garanties. Des outils pour la navigation, pas pour la résolution.
+Les pratiques dans le framework IP ne sont pas des instructions étape par étape. Pas de meilleures pratiques pour le succès. Pas de solutions aux paradoxes. Ce sont des points d’orientation dans le brouillard structurel. Des façons de se déplacer sans garanties. Des outils pour la navigation, pas pour la résolution.
 
 Le Principe Fondamental
 
@@ -26,11 +26,11 @@ Vous ne pouvez pas résoudre les Interactions Paradoxales. Vous pouvez seulement
 
 Ces pratiques vous aident à voir où vous êtes, quels mouvements sont possibles et à quoi vous attendre.
 
-Pas de promesses. Pas d'illusions.
+Pas de promesses. Pas d’illusions.
 
 Ce que cela signifie
 
-Pas : « Faites X, puis Y s'améliore » Mais : « Si vous êtes dans la structure Z, voici des points d'orientation »
+Pas : « Faites X, puis Y s’améliore » Mais : « Si vous êtes dans la structure Z, voici des points d’orientation »
 
 Pas : « Suivez ces 5 étapes » Mais : « Ces mouvements sont possibles. Pas de garanties. »
 
@@ -42,7 +42,7 @@ Parce que les IP sont structurelles, pas personnelles.
 
 Parce que les acteurs rationnels produisent des résultats irrationnels.
 
-Parce que le schéma se renforce lorsqu'il est reconnu.
+Parce que le schéma se renforce lorsqu’il est reconnu.
 
 Vous ne pouvez pas briser le schéma. Vous pouvez vous déplacer à travers lui.
 
@@ -52,7 +52,7 @@ Explorez les Pratiques
 
 [Pratiques Fondamentales – Les outils de navigation essentiels]
 
-[Anti-Pratiques – Ce qui garantit l'échec]
+[Anti-Pratiques – Ce qui garantit l’échec]
 
 [Scénarios – Orientation « Si vous êtes ici… »]
 
