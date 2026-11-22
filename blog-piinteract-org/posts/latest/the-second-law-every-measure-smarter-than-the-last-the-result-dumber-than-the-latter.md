@@ -18,7 +18,7 @@ Why a second regulatory intervention — still only under discussion — already
 
 
 
-"For every complex problem there is an answer that is clear, simple, and wrong."
+“For every complex problem there is an answer that is clear, simple, and wrong.”
 
 — H.L. Mencken
 
@@ -62,9 +62,9 @@ The First Law
 
 The April 1 regulation synchronized the market without coordinating it. Every petrol station raises prices once a day, at noon. Not because they agreed. Because the structure now gives them one permitted window and a shared incentive to maximize it.
 
-The clock did the cartel's work. Without a meeting. Without liability.
+The clock did the cartel’s work. Without a meeting. Without liability.
 
-What the first law left untouched: the oligopoly structure of the fuel market. The shared interest of refiners and distributors in margin preservation. The fundamental pricing logic of a market with inelastic demand — where fewer buyers don't automatically mean lower prices; they mean higher prices per transaction.
+What the first law left untouched: the oligopoly structure of the fuel market. The shared interest of refiners and distributors in margin preservation. The fundamental pricing logic of a market with inelastic demand — where fewer buyers don’t automatically mean lower prices; they mean higher prices per transaction.
 
 ​
 
@@ -86,7 +86,7 @@ It is an oligopoly with high fixed costs, shared infrastructure, and a pricing s
 
 A speed limit would remove buyers from the market. The fuel price law would ensure the remaining buyers pay the optimized price.
 
-The PI doesn't wait for the law to pass. The market prices in expected volume reduction the moment the debate becomes serious. The synchronized clock is already running.
+The PI doesn’t wait for the law to pass. The market prices in expected volume reduction the moment the debate becomes serious. The synchronized clock is already running.
 
 
 
@@ -106,7 +106,7 @@ The result would not be the sum of two interventions. It would be their structur
 
 This is what Paradoxical Interactions look like at scale: not a single rational actor doing something irrational, but two rational policy decisions — one passed, one still being debated — already producing a combined dynamic that neither analysis predicted and neither institution owns.
 
-The second law doesn't need to exist to have structural consequences. The debate is enough.
+The second law doesn’t need to exist to have structural consequences. The debate is enough.
 
 
 
@@ -130,7 +130,7 @@ The refining industry — prices in expected volume loss with no structural ince
 
 The consumer — adjusts driving behavior in anticipation of the limit, tanks less, pays more per liter each time (rational: adaptation to policy signals and new price rhythm)
 
-The Bundeskartellamt — enforces the first law correctly and has no mandate over the structural interaction with a law that doesn't yet exist (rational: applies the rules as written)
+The Bundeskartellamt — enforces the first law correctly and has no mandate over the structural interaction with a law that doesn’t yet exist (rational: applies the rules as written)
 
 All are guilty. None are at fault.
 
@@ -142,11 +142,11 @@ All are guilty. None are at fault.
 
 Navigation
 
-The word for this is not "stupidity." Stupidity implies a failure of intelligence. What is happening here is a failure of structure — which is worse, because it is not correctable by smarter people.
+The word for this is not “stupidity.” Stupidity implies a failure of intelligence. What is happening here is a failure of structure — which is worse, because it is not correctable by smarter people.
 
 The first law was analyzed independently. It passed its own cost-benefit review. It had a defensible theory of change. The second is being analyzed the same way — independently, on its own terms, against its own metrics.
 
-The interaction between them is nobody's mandate to assess.
+The interaction between them is nobody’s mandate to assess.
 
 This is the standard operating mode of governance in complex systems: interventions are designed, evaluated, and implemented in isolation. The system they enter is not isolated. It is a network of interdependencies, each with its own structural logic, each capable of absorbing an intervention and redirecting its energy.
 
@@ -175,7 +175,7 @@ Related Posts
 
 The Synchronized Clock. How a Law Against Price Chaos Created a Price Cartel.
 
-How Luhmann Refutes Himself. And Why It's Urgently Necessary.
+How Luhmann Refutes Himself. And Why It’s Urgently Necessary.
 
 Synchronization of Metronomes. The Physical Axiom of PI.
 
@@ -187,7 +187,7 @@ How Every Solution Becomes the Next Problem
 
 The Cassandra Paradox
 
-Why truth-tellers get ignored until it's too late
+Why truth-tellers get ignored until it’s too late
 
 No results found.
 
@@ -200,7 +200,7 @@ On piinteract.org
 
 Examples: Systems & Governance — The structural conditions under which regulatory interventions produce the outcomes they were designed to prevent.
 
-Anti-Practices — What not to do when the structure doesn't change.
+Anti-Practices — What not to do when the structure doesn’t change.
 
 Framework — Why rational actors and collective irrationality are not contradictions.
 
@@ -226,4 +226,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-created with Claude (Anthropic) — two incomplete systems making each other's gaps visible.
+Co-created with Claude (Anthropic) — two incomplete systems making each other’s gaps visible.
