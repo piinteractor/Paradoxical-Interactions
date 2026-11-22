@@ -10,7 +10,7 @@ wp_id: 335
 url: https://blog.piinteract.org/pi-cases/
 ---
 
-What experience and history teach is this — that peoples and governments have never learned anything from history, or acted on principles deduced from it."
+What experience and history teach is this — that peoples and governments have never learned anything from history, or acted on principles deduced from it.”
 
 — Georg Wilhelm Friedrich Hegel
 
@@ -18,7 +18,7 @@ PI Cases
 
 The same structure. Different centuries. Different names. Different costumes.
 
-Paradoxical Interactions don't respect time. They appear in myths, in history books, in yesterday's news, and in laboratory data. The actors change. The trap doesn't.
+Paradoxical Interactions don’t respect time. They appear in myths, in history books, in yesterday’s news, and in laboratory data. The actors change. The trap doesn’t.
 
 [Classical PI]
 
@@ -30,7 +30,7 @@ The structures were already there. The myths just named them first.
 
 They knew what they were doing. They did it anyway. The outcome surprised everyone.
 
-History doesn't repeat itself. The structure does.
+History doesn’t repeat itself. The structure does.
 
 [Present PI]
 
@@ -40,9 +40,9 @@ What looks like incompetence, greed, or bad faith is usually something colder: s
 
 [Science PI]
 
-The universe doesn't care about our frameworks. It keeps producing results that shouldn't exist.
+The universe doesn’t care about our frameworks. It keeps producing results that shouldn’t exist.
 
-Scientists keep producing frameworks that can't contain them.
+Scientists keep producing frameworks that can’t contain them.
 
 Something has to give. So far, nothing has.
 
