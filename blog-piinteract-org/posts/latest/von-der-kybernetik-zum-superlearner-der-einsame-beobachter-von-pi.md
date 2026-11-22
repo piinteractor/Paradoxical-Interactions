@@ -18,7 +18,7 @@ Warum die Kybernetik den Beobachter erfand und trotzdem alleine blieb — und wa
 
 
 
-„Wirklich urteilen kann nur die Partei, als Partei aber kann sie nicht urteilen. Demnach gibt es in der Welt keine Urteilsmöglichkeit, sondern nur deren Schimmer."
+„Wirklich urteilen kann nur die Partei, als Partei aber kann sie nicht urteilen. Demnach gibt es in der Welt keine Urteilsmöglichkeit, sondern nur deren Schimmer.”
 
 — Franz Kafka, Die acht Oktavhefte
 
@@ -55,9 +55,9 @@ Die Kritik kam schnell, und sie kam gebildet. Sie zitierte achtzig Jahre Kyberne
 
 Die Verkettung
 
-1943 veröffentlichen Arturo Rosenblueth, Norbert Wiener und Julian Bigelow „Behavior, Purpose and Teleology". Die These: Maschinen können zweckgerichtet handeln. Feedback genügt. Wieners Flugabwehr-Prädiktor berechnet, wo ein Flugzeug sein wird — er verfolgt ein Ziel, das noch nicht existiert. Der Zweck ist in die Maschine eingezogen.
+1943 veröffentlichen Arturo Rosenblueth, Norbert Wiener und Julian Bigelow „Behavior, Purpose and Teleology”. Die These: Maschinen können zweckgerichtet handeln. Feedback genügt. Wieners Flugabwehr-Prädiktor berechnet, wo ein Flugzeug sein wird — er verfolgt ein Ziel, das noch nicht existiert. Der Zweck ist in die Maschine eingezogen.
 
-1966 widerspricht Hans Jonas in „The Phenomenon of Life". Automaten verfolgen einen Zweck, den der Mensch ihnen eingeschrieben hat. Echter Zweck braucht ein metabolisches Risiko: die Möglichkeit zu sterben, wenn er verfehlt wird. Der Zweck zieht wieder aus.
+1966 widerspricht Hans Jonas in „The Phenomenon of Life”. Automaten verfolgen einen Zweck, den der Mensch ihnen eingeschrieben hat. Echter Zweck braucht ein metabolisches Risiko: die Möglichkeit zu sterben, wenn er verfehlt wird. Der Zweck zieht wieder aus.
 
 1974 zieht Heinz von Foerster die Konsequenz aus beidem: Wer beobachtet, gehört zum System. Kybernetik zweiter Ordnung — die Beobachtung der Beobachtung. Objektive Beschreibung: unmöglich. Die Schleife: epistemisch unlösbar.
 
@@ -163,7 +163,7 @@ Warum Verantwortung kollabiert, wenn Verbrechen skalieren
 
 Terminologisches Hijacking: Das Verbrechen, das Geständnis, das “Na und?”
 
-Oder: Wie Google "Paradoxe Interaktionen" zur Therapie machte, es zugab, und sich nichts änderte.
+Oder: Wie Google “Paradoxe Interaktionen” zur Therapie machte, es zugab, und sich nichts änderte.
 
 Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
 
