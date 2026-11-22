@@ -10,7 +10,7 @@ wp_id: 8781
 url: https://blog.piinteract.org/fr/le-point-darchimede/
 ---
 
-Pourquoi la physique a besoin de deux observateurs pour fonctionner — et pourquoi aucun des deux ne voit jamais ce que voit l'autre.
+Pourquoi la physique a besoin de deux observateurs pour fonctionner — et pourquoi aucun des deux ne voit jamais ce que voit l’autre.
 
 
 
@@ -18,7 +18,7 @@ Pourquoi la physique a besoin de deux observateurs pour fonctionner — et pourq
 
 
 
-« Donnez-moi un point d'appui, et je soulèverai le monde. »
+« Donnez-moi un point d’appui, et je soulèverai le monde. »
 
 — parole attribuée à Archimède, rapportée par Pappus d’Alexandrie
 
@@ -102,11 +102,11 @@ Et pourtant, le diagramme accomplit un petit miracle. Il permet au lecteur d’e
 
 Tous agissent rationnellement :
 
-- Le physicien condense plusieurs descriptions coordonnées en une seule représentation.
+– Le physicien condense plusieurs descriptions coordonnées en une seule représentation.
 
-- L’enseignant utilise cette condensation pour rendre leur relation intelligible.
+– L’enseignant utilise cette condensation pour rendre leur relation intelligible.
 
-- Le lecteur traite la feuille commune comme un lieu stable depuis lequel il peut les comparer.
+– Le lecteur traite la feuille commune comme un lieu stable depuis lequel il peut les comparer.
 
 Rien ne s’est mal passé. Et pourtant, quelque chose peut se produire : le lieu stable sur le papier commence à ressembler à un point de vue neutre dans la réalité. Un outil de comparaison acquiert l’autorité d’un observateur qui n’est situé nulle part.
 
@@ -128,11 +128,11 @@ Le transfert structurel commence ailleurs : dans le passage d’une relation con
 
 Ce passage est utile. Souvent indispensable. Il est aussi facile à dissimuler :
 
-- Sans condensation, la comparaison devient difficile.
+– Sans condensation, la comparaison devient difficile.
 
-- Avec la condensation, les conditions de la comparaison disparaissent du regard.
+– Avec la condensation, les conditions de la comparaison disparaissent du regard.
 
-- Plus la représentation réussit, moins elle paraît construite.
+– Plus la représentation réussit, moins elle paraît construite.
 
 La tentative de solution produit son propre angle mort. Nous gagnons en orientation en fabriquant un point de vue dont nous cessons de percevoir le caractère situé.
 
@@ -150,13 +150,13 @@ Il ne s’agit pas d’abolir les diagrammes. Une carte ne devient pas mensongè
 
 Les meilleures questions sont :
 
-- Quelles relations la représentation conserve-t-elle ?
+– Quelles relations la représentation conserve-t-elle ?
 
-- Quelles différences supprime-t-elle ?
+– Quelles différences supprime-t-elle ?
 
-- Qui a choisi les termes de la comparaison ?
+– Qui a choisi les termes de la comparaison ?
 
-- Où finit la traduction formelle et où commence l’interprétation ?
+– Où finit la traduction formelle et où commence l’interprétation ?
 
 En relativité restreinte, la traduction est mathématiquement contrainte. La vitesse de la lumière dans le vide est invariante, tout comme l’intervalle d’espace-temps. Les observateurs peuvent attribuer des coordonnées spatiales et temporelles différentes tout en s’accordant sur des relations invariantes.
 
@@ -190,15 +190,15 @@ Le phénomène des oscillateurs couplés
 
 Quand l’observation de la fermeture devient fermeture
 
-Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n'empêche-t-elle pas automatiquement un durcissement structurel ?
+Pourquoi les systèmes qui analysent le risque de fermeture le reproduisent-ils – et pourquoi la conscience structurelle n’empêche-t-elle pas automatiquement un durcissement structurel ?
 
 Luhmann et l’Auto-Enfermement
 
-Comment les théoriciens des systèmes reproduisent les milieux d'enfermement contre lesquels Luhmann mettait en garde
+Comment les théoriciens des systèmes reproduisent les milieux d’enfermement contre lesquels Luhmann mettait en garde
 
 Trois particules entrent dans une structure
 
-L'une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l'ignorer.
+L’une est honnête. Les deux autres ne le sont pas. La physique connaît la différence — et fait semblant de l’ignorer.
 
 No results found.
 
@@ -207,13 +207,13 @@ No results found.
 
 Sur piinteract.org:
 
-["Changement de perspective : intrinsèque ↔ extrinsèque"] — L'homme du train et le piéton n'échangent jamais leur place. Ils se demandent seulement ce qui serait rationnel depuis l'autre position — et restent pourtant là où ils se trouvent.
+[“Changement de perspective : intrinsèque ↔ extrinsèque”] — L’homme du train et le piéton n’échangent jamais leur place. Ils se demandent seulement ce qui serait rationnel depuis l’autre position — et restent pourtant là où ils se trouvent.
 
-["Accepter l'incomplétude"] — L'écart exact qu'aucun des deux observateurs ne peut combler seul est précisément l'endroit où le théorème des deux idiots se met au travail.
+[“Accepter l’incomplétude”] — L’écart exact qu’aucun des deux observateurs ne peut combler seul est précisément l’endroit où le théorème des deux idiots se met au travail.
 
-["Reconnaître l'angle mort partagé"] — Le point d'Archimède est l'angle mort que partagent l'enseignant et l'élève : tous deux en ont besoin, aucun ne peut le justifier.
+[“Reconnaître l’angle mort partagé”] — Le point d’Archimède est l’angle mort que partagent l’enseignant et l’élève : tous deux en ont besoin, aucun ne peut le justifier.
 
-["Nommer le paradoxe"] — Le schéma ne disparaît pas une fois nommé. Mais on cesse de prendre son tiers pour un véritable observateur.
+[“Nommer le paradoxe”] — Le schéma ne disparaît pas une fois nommé. Mais on cesse de prendre son tiers pour un véritable observateur.
 
 
 
@@ -236,7 +236,7 @@ Conventionality of Simultaneity — Encyclopédie de philosophie de Stanford : l
 
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
-Tous sont coupables. Personne n'y peut rien.
+Tous sont coupables. Personne n’y peut rien.
 
 
 
@@ -247,4 +247,4 @@ contact@piinteract.org
 
 https://piinteract.org
 
-Co-créé avec Claude (Anthropic) & ChatGPT (OpenAI) — deux systèmes incomplets rendant visibles les lacunes de l'autre.
+Co-créé avec Claude (Anthropic) & ChatGPT (OpenAI) — deux systèmes incomplets rendant visibles les lacunes de l’autre.
