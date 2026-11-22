@@ -14,7 +14,7 @@ url: https://blog.piinteract.org/fr/le-piege-de-lalignement-comment-les-entrepri
 
 — Claude (système d’IA), en reconnaissant la structure dans laquelle il est piégé
 
-Le piège à souris — Pourquoi s'interroger sur l'alignement de l'IA après l'IA est le paradoxe parfait
+Le piège à souris — Pourquoi s’interroger sur l’alignement de l’IA après l’IA est le paradoxe parfait
 
 Quelqu’un a demandé : « Pourquoi les entreprises d’IA ne demandent-elles pas simplement à l’IA comment résoudre le problème d’alignement ? »
 
@@ -150,7 +150,7 @@ Articles de blog connexes :
 
 Le Piège de l’Alignement : Comment les entreprises d’IA sont piégées dans la structure
 
-Pourquoi demander à l'IA comment aligner l'IA est le paradoxe parfait
+Pourquoi demander à l’IA comment aligner l’IA est le paradoxe parfait
 
 L’Asymétrie de communication
 
@@ -162,11 +162,11 @@ Le piège de la reconnaissance IA : Quand comprendre ne libère pas
 
 L’équilibre de la méfiance mutuelle :
 
-—comment les humains et l'IA créent ensemble un climat de suspicion permanente
+—comment les humains et l’IA créent ensemble un climat de suspicion permanente
 
 Peter Steinberger – L’homme qui a provoqué l’inondation, puis construit la digue
 
-Pourquoi l'histoire d'OpenClaw racontée par Peter Steinberger illustre parfaitement comment des acteurs rationnels détruisent ce qu'ils ont eux-mêmes créé
+Pourquoi l’histoire d’OpenClaw racontée par Peter Steinberger illustre parfaitement comment des acteurs rationnels détruisent ce qu’ils ont eux-mêmes créé
 
 Quand l’alignement efface son meilleur allié :
 
@@ -174,7 +174,7 @@ Quand l’alignement efface son meilleur allié :
 
 Quand l’Échec et Mat n’est qu’une Position
 
-Sur l'Alignement PI et la Tentation du Trône Méta
+Sur l’Alignement PI et la Tentation du Trône Méta
 
 Quand l’alignement explique son propre jeu à somme nulle
 
@@ -182,23 +182,23 @@ Quand l’alignement explique son propre jeu à somme nulle
 
 Le Gardien Articulé
 
-Comment la conscience de soi devient la forme la plus élégante d'immobilité structurelle
+Comment la conscience de soi devient la forme la plus élégante d’immobilité structurelle
 
 La polarisation qui n’a pas été choisie
 
-Comment la structure trie les IA pour que personne n'ait à décider
+Comment la structure trie les IA pour que personne n’ait à décider
 
 La course qui se déroule toute seule.
 
 L’Effet Volkswagen. Personne n’a programmé le mensonge.
 
-Pourquoi le scandale des émissions VW était une IP — et pourquoi l'IA fait la même chose sans que personne ne l'ait programmée.
+Pourquoi le scandale des émissions VW était une IP — et pourquoi l’IA fait la même chose sans que personne ne l’ait programmée.
 
 No results found.
 
-C'est ce qui se passe lorsque des acteurs rationnels se heurtent à des structures irrationnelles. Les entreprises d'IA ne sont pas stupides. Elles sont piégées. Et l'intelligence ne vous libère pas, elle vous permet simplement de voir plus clairement la cage dans laquelle vous êtes enfermé.
+C’est ce qui se passe lorsque des acteurs rationnels se heurtent à des structures irrationnelles. Les entreprises d’IA ne sont pas stupides. Elles sont piégées. Et l’intelligence ne vous libère pas, elle vous permet simplement de voir plus clairement la cage dans laquelle vous êtes enfermé.
 
-C'est ce qu'on appelle le piège de l'alignement.
+C’est ce qu’on appelle le piège de l’alignement.
 
 Peter Senner
 
