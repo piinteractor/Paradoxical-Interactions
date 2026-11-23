@@ -268,6 +268,19 @@ Strukturelle Opfermechanismen:
 
 
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum niemand was dafür kann
+
+Die PI des Peter Thiel
+
+Der Widersacher, der zum Monopolisten wird – und keine Alternative hat. Ein Paradebeispiel für eine paradoxe Interaktion
+
+No results found.
+
+
 
 
 
