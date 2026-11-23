@@ -78,6 +78,20 @@ England hat nicht verloren, weil sie schlechter waren als Argentinien. England h
 
 Verwandte Beiträge
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Das Perelman-Paradox
+
+Wie die Ablehnung von Ruhm zum ruhmreichsten Akt wird – und warum man daraus nicht entkommen kann
+
+Das Jona-Paradoxon
+
+Wenn erfolgreiche Warnungen den Propheten widerlegen
+
+No results found.
+
 Auf piinteract.org:
 
 [“Je härter du es willst, desto weniger bekommst du es”] — Der Sieger-Reflex in Reinform: Der Wunsch nach dem Finale erzeugt genau das Verhalten, das das Finale verhindert.
