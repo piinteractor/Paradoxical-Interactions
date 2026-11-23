@@ -70,6 +70,24 @@ Bessere Werkzeuge machen bessere Individuen. Sie machen aber keine bessere Gesam
 
 Verwandte Beiträge
 
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+No results found.
+
 Auf piinteract.org:
 
 [“Nur optimieren”] — Genau das tut jeder Akteur im Navi-Paradox: optimieren, ohne die Summe zu sehen.
