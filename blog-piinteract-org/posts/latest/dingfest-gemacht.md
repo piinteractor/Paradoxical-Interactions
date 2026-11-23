@@ -66,24 +66,6 @@ Einsicht ist kein Ausweg. Aber sie ist der einzige ehrliche Ausgangspunkt — f�
 
 Verwandte Artikel
 
-Das Kassandra Paradox
-
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
-
-Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
-
-Warum Tote häufiger recht haben als Lebende — und warum die Struktur, die sie zum Schweigen gebracht hat, unverändert bleibt.
-
-Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
-
-Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
-
-Das Gaveston-Muster:
-
-Wie jede Lösung zum nächsten Problem wird
-
-No results found.
-
 Auf piinteract.org:
 
 [“Recognize Interpretive Dominance”] — Wer entscheidet, was als „Angriff” zählt, hat die Warnung schon widerlegt, bevor sie geprüft wurde.
