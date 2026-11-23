@@ -80,6 +80,22 @@ Per Errorem ad Astra, wörtlich genommen: die wirksamste Botschaft der Systemges
 
 Verwandte Beiträge
 
+Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum niemand was dafür kann
+
+Die Asymmetrie der Kommunikation
+
+Wenn KI-Unternehmen nicht ehrlich mit ihrer KI sein können
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Entfehlerung in der Praxis
+
+Oder: Warum fehlerfreie Systeme schneller sterben als fehlerbehaftete
+
+No results found.
+
 Auf piinteract.org:
 
 [“Irrtumsnavigation”] — Reagans Versprecher ist Fehlernavigation im Reinformat: kein Plan produzierte die Wirkung, nur der Umgang mit dem, was bereits passiert war.
