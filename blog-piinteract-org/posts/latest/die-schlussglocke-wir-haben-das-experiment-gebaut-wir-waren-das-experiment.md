@@ -118,6 +118,28 @@ Die nächste Runde hat keine vorgegebene Länge. Die Glocke dafür hat noch nich
 
 Verwandte Posts
 
+Das Universum, das nicht existieren dürfte
+
+Die Struktur, die ihre eigene Unmöglichkeit vorhersagt — und dann trotzdem existiert
+
+Drei Teilchen wandern in eine Struktur
+
+Eines ist ehrlich. Zwei sind es nicht. Die Physik kennt den Unterschied — und tut so, als gäbe es ihn nicht.
+
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+Wenn die Beobachtung des Einschlusses zum Einschluss wird
+
+Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
+
+No results found.
+
 Auf piinteract.org
 
 Beispiele: Technologie & KI — Die Intelligenzasymmetrie als Strukturgesetz
