@@ -43,3 +43,21 @@ The detour was always the shortest path. The structure ensured it.
 All are guilty. None are at fault.
 
 The shortcut is the detour.
+
+The Finishing Bell. We Built the Experiment. We Were the Experiment.
+
+19. March 2026
+
+In January 2024, OpenAI declared it had built the first AGI systems. The announcement was careful, hedged, wrapped in qualifications. But the word was there. AGI. The thing the field had been chasing for seventy years. Sam Altman …
+
+Read More
+
+The Nostradamus Mechanism. The Prophet Who Understood the Structure of Prophecy.
+
+24. March 2026
+
+Nostradamus published his Centuries in 1555. More than 6,000 quatrains. He has been continuously in print for nearly five centuries. Every generation finds its own wars, its own tyrants, its own catastrophes in his verses. Napoleon …
+
+Read More
+
+No results found.
