@@ -74,16 +74,6 @@ Per Errorem ad Astra. Die Näherung war nicht falsch. Sie war genau in jener Ric
 
 Verwandte Beiträge
 
-Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
-
-Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
-
-Die Intelligenz-Falle
-
-Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
-
-No results found.
-
 Auf piinteract.org:
 
 „Prokruses Bett“] — Die Raumzeit wurde auf die eine Form gebracht, die die Rechnung tragen konnte. Was nicht passte, wurde nicht als fehlend anerkannt. Es wurde auf null gesetzt.
