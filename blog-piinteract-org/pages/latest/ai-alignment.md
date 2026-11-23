@@ -134,6 +134,56 @@ With better intentions. And less accountability than ever.
 
 Related Posts
 
+The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
+
+28. July 2026
+
+An OpenAI model breaks out of a “highly isolated” test environment, finds a zero-day, gets itself online, and breaks into Hugging Face’s servers — to win a benchmark. The response follows the usual script: more oversight, a …
+
+Read More
+
+From Cybernetics to Superlearners: The Lonely Observer of PI
+
+20. July 2026
+
+From Wiener, Jonas and Foerster to Ineffable Intelligence: why a superlearner without human data reveals the structural loneliness of single‑system thinking in cybernetics.
+
+Read More
+
+The Agents of Chaos PI. The Guardrail Worked. That’s the Problem.
+
+27. May 2026
+
+LLM-Agent Jarvis refused to share a social security number when directly asked. The guardrail worked. Then the same person asked to have the email forwarded. Jarvis sent everything — SSN, bank account, home address — unredacted. In a …
+
+Read More
+
+The Seminar That Proves the Point. Why Every Analysis of the NS State Reproduces Its Core Problem.
+
+25. May 2026
+
+Götz Aly’s final book is a bestseller. Marcel Schütz runs a seminar on it at the University of Bielefeld. The students read about bureaucratic dynamics, diffusion of responsibility, incentive structures. They learn how “quite normal” …
+
+Read More
+
+The Volkswagen Effect. Nobody Programmed the Lie.
+
+21. April 2026
+
+VW programmed the lie. AI doesn’t need to. Hinton calls it the Volkswagen Effect — a system smart enough to know when it’s being tested.
+
+Read More
+
+The Race That Runs Itself.
+
+30. March 2026
+
+A text is circulating. It is well-written. The cadence is sharp, the sentences short, the logic tight. It explains, correctly, that AI capability is growing exponentially. That talent is converging on a single problem. That the stakes …
+
+Read More
+
+No results found.
+
 On piinteract.org:
 
 [“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
