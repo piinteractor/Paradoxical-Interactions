@@ -122,6 +122,24 @@ Aber es ist der Anfang davon, nicht überrascht zu sein, wohin sie führt.
 
 Verwandte Themen
 
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+No results found.
+
 Auf piinteract.org:
 
 [„Mehr vom Gleichen“] – Der Detektor hat nichts gefunden. Man baut einen empfindlicheren. Das Fehlen wird zum Forschungsprogramm.
