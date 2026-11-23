@@ -32,6 +32,53 @@ Alle sind schuldig. Keiner kann was dafür
 
 Beispiele
 
+Das Jona-Paradoxon
+
+4. Februar 2026
+
+Ein Prophet warnt vor der Katastrophe. Wenn die Warnung wirkt, tritt die Katastrophe nicht ein. Die Prophezeiung erfüllt sich nicht. Der Erfolg macht ihn zum Lügner.
+Wenn die Warnung nicht wirkt, tritt die Katastrophe ein. Die …
+
+Mehr erfahren
+
+Borniertheit statt Weisheit – Die PI des Philosophen
+
+28. Januar 2026
+
+Richard David Precht beklagt die Schere im Kopf. Er warnt vor verengten Meinungskorridoren. Er fordert offenen Diskurs.
+Dabei verkörpert er genau die Struktur, die er kritisiert. Nur sieht er es nicht.
+Das ist keine persönliche …
+
+Mehr erfahren
+
+Das Propheten-Paradox
+
+28. Januar 2026
+
+Der Fremde mit Referenzen wird gehört. Der Freund oder Verwandte, der das Muster kennt, wird abgetan.
+Nicht weil Fremde klüger sind. Weil sie unbekannt sind. Unbekannt bedeutet ungetestet. Ungetestet kann falsch liegen – aber könnte …
+
+Mehr erfahren
+
+Das Kassandra Paradox
+
+26. Januar 2026
+
+Apollo schenkt Cassandra die Gabe der Prophezeiung. Sie weist ihn zurück. Er verflucht sie: Sie wird die Wahrheit sagen, aber niemand wird ihr glauben. Sie warnt Troja vor dem hölzernen Pferd. Troja brennt trotzdem.
+Ende der …
+
+Mehr erfahren
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+26. Januar 2026
+
+Das antike Rom hatte eine Priester-Stelle mit ungewöhnlichen Anforderungen: Töte deinen Vorgänger, um eingestellt zu werden. Verbringe dann jeden Tag im Wissen, dass dich jemand auf dieselbe Weise töten wird. Kein Ruhestand. Kein …
+
+Mehr erfahren
+
+No results found.
+
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
 Alle sind schuldig. Keiner kann etwas dafür.
