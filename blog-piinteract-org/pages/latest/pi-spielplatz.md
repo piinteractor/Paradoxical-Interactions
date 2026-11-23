@@ -31,3 +31,69 @@ Der Spielplatz hat eigene Regeln. Eine Hypothese heißt Hypothese — im Text, n
 Manches von dem, was hier spielt, wandert ins Archiv auf. Das meiste nicht. Das ist kein Scheitern. Der Löwenzahn weiß nicht, wo er landet. Das Kind am Brett auch nicht. Dem Spiel geht es nur um das Spiel.
 
 Alle sind schuldig. Keiner kann etwas dafür.
+
+PI, KI & Ich – Das Navigations-Paradox. Warum private KI-Nutzung keine bessere Gesellschaft macht.
+
+21. August 2026
+
+Jeder, der KI nutzt, um schneller zu schreiben, besser zu entscheiden, mehr zu schaffen, handelt vernünftig. Genau das ist das Problem. Adam Smith versprach: Wer seinem eigenen Interesse folgt, fördert automatisch das der …
+
+Read More
+
+Der Unsinnskrieg. Warum jede bessere Wahrheit wie ein Angriff klingt.
+
+21. August 2026
+
+Im September 2025 veröffentlichen Isaac Slaughter und Martin Saveski, gemeinsam mit Kolleg:innen aus Stanford und Yale, eine Studie in den Proceedings of the National Academy of Sciences. Untersucht: 40.000 Posts auf X, März bis Juni …
+
+Read More
+
+Dingfest gemacht. Warum die Verkünderin der Wahrheit zur Verräterin an der Wahrheit wird.
+
+19. August 2026
+
+Des Kaisers neue Kleider endet mit dem Lachen der Menge. Aber das Lachen ist nicht das Ende der Geschichte, es ist nur das Ende, das Andersen erzählt. Was mit dem Kind danach passiert, steht nirgends — und genau diese Lücke ist der …
+
+Read More
+
+Das Münchhausen-Trilemma – drei Auswege, alle versperrt.
+
+12. August 2026
+
+Das Münchhausen-Trilemma knüpft an die Hypothese von „Das fehlende Organ“ an – der unvoreingenommene Beobachter, der den blinden Fleck eines Systems von außen überprüfen könnte. Es fragt, was dieser Beobachter braucht, um überhaupt …
+
+Read More
+
+Das fehlende Organ – Wenn der Teil des Gehirns fehlt, der erkennen würde, dass ein Teil des Gehirns fehlt
+
+11. August 2026
+
+Das fehlende Organ basiert auf einer Hypothese und nicht auf einer Fallstudie. Er geht der Frage nach, ob das Organ, das einen strukturellen blinden Fleck wahrnehmen würde, jemals sein eigenes Versagen erkennen könnte – und …
+
+Read More
+
+Die Erkenntnisfalle. Warum die ultimative Einsicht die ist, dass sich Erkenntnis nicht teilen lässt.
+
+12. Juli 2026
+
+Erkenntnis ist kein Objekt. Sie ist ein Zustand nach einem Weg. Übertragen lässt sich nur die Formulierung — die Hülse. Wer sie empfängt, ohne den Weg gegangen zu sein, hält Information in der Hand, keine Erkenntnis. Deshalb …
+
+Read More
+
+Wie hoch ist der IQ der KI? Die Zahl, die ihren Maßstab verlor.
+
+9. Juli 2026
+
+Wie hoch ist der IQ der KI? Eine einfache Frage, die bei genauerer Betrachtung nicht mehr Sinn ergibt. Der IQ misst die Rangfolge innerhalb einer Gruppe. Nimmt man die Gruppe weg, verliert die Zahl ihre Bedeutung.
+
+Read More
+
+Das Montags-Ich und das Freitags-Ich. Die kleinste Paradoxe Interaktion der Welt.
+
+7. Juli 2026
+
+Spielplatz: Dieses Stück arbeitet mit einer Hypothese, nicht mit einem Fall. Es fragt, ob PI eine Untergrenze hat — und findet keine.
+
+Paradoxe Interaktionen brauchen mehrere rationale Akteure. Das war bisher die stillschweigende …
+
+Read More
