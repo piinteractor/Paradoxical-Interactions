@@ -110,6 +110,20 @@ Einsicht ist kein Ausweg. Aber sie zeigt dir, in welcher Kiste du bist.
 
 Verwandte Posts
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Wenn die Beobachtung des Einschlusses zum Einschluss wird
+
+Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+No results found.
+
 Aur piinteract.org
 
 [“Perspective Switching”] — Das Innen und Außen von Schrödingers Kiste sind nicht zwei Perspektiven auf dasselbe. Es sind strukturell verschiedene Positionen, die verschiedene Realitäten erzeugen.
