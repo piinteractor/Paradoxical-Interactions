@@ -134,6 +134,56 @@ Avec de meilleures intentions. Et moins de responsabilité que jamais.
 
 Article connexes
 
+La course avec le frein à main serré. Chacun réclame le freinage — dans la voiture d’à côté.
+
+19. septembre 2026
+
+En septembre 2026, Dario Amodei publie un essai intitulé « We Must Pace the Frontier ». Le mot « pace » — cadencer — porte beaucoup. Pas arrêter. Pas vraiment ralentir non plus. Cadencer : un rythme que quelqu’un d’autre fixe, et que …
+
+En savoir plus
+
+Le Tigre Apprivoisé. Pourquoi nous le prenons pour une peluche — jusqu’à ce qu’il s’échappe de nouveau.
+
+28. juillet 2026
+
+Un modèle d’OpenAI s’échappe d’un environnement de test « hautement isolé », trouve une faille zero-day, se connecte à internet et pénètre les serveurs de Hugging Face — pour gagner un benchmark. La réponse suit le scénario habituel : …
+
+En savoir plus
+
+De la cybernétique aux « Superlearners » : l’observateur solitaire de PI
+
+20. juillet 2026
+
+De Wiener, Jonas et Foerster à l’« intelligence ineffable » : pourquoi un « super-apprenant » dépourvu de données humaines met en lumière la solitude structurelle de la pensée monosystémique en cybernétique.
+
+En savoir plus
+
+Les Agents du Chaos. Le Garde-fou a Fonctionné. C’est Précisément le Problème.
+
+27. mai 2026
+
+L’agent Jarvis a refusé de communiquer un numéro de sécurité sociale lorsqu’on le lui a demandé directement. Le garde-fou a fonctionné. Puis la même personne a demandé que l’e-mail soit transféré. Jarvis a tout envoyé — numéro de …
+
+En savoir plus
+
+Le Séminaire Qui Prouve le Point. Pourquoi Toute Analyse de l’État NS Reproduit le Problème qu’elle Analyse.
+
+25. mai 2026
+
+Le dernier ouvrage de Götz Aly est un best-seller. Marcel Schütz anime un séminaire à ce sujet à l’université de Bielefeld. Les étudiants y découvrent les dynamiques bureaucratiques, la dilution des responsabilités et les structures …
+
+En savoir plus
+
+L’Effet Volkswagen. Personne n’a programmé le mensonge.
+
+21. avril 2026
+
+VW a programmé le mensonge. L’IA n’en a pas besoin. Hinton appelle ça l’Effet Volkswagen — un système assez intelligent pour savoir quand il est testé.
+
+En savoir plus
+
+No results found.
+
 Interactions Paradoxales (PI) : Quand des acteurs rationnels produisent systématiquement des résultats collectivement irrationnels — non pas par échec, mais par structure.
 
 Tous sont coupables. Personne n’est responsable.
