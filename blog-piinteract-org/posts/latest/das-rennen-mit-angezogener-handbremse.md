@@ -78,6 +78,24 @@ Doppelmoral ist wenig beabsichtigt. Sie kommt als Resultat nur oft so an.
 
 Verwandte Beiträge
 
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+Das Quiz, das niemals endet
+
+Oder: Warum wir alle auf einen Quizmaster warten, der mit dem Preisgeld abgehauen ist
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+No results found.
+
 On piinteract.org:
 
 [“If We All Just …”] — Amodei’s Democratic and Global Coordination steps are exactly this appeal, issued in the language of institutional governance instead of a group chat.
