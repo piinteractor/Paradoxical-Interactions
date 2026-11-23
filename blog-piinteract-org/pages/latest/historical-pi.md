@@ -31,3 +31,102 @@ History doesn’t repeat itself. Historians keep saying this. They are right in 
 What you will find here: cases where rational actors, acting in good faith and in their own interest, produced outcomes that none of them wanted and none of them could stop. Not because they failed. Because they succeeded — at the wrong level.
 
 All are guilty. None are at fault.
+
+We Begin Bombing in Five Minutes. Why the Slip Threatened Louder Than Any Plan.
+
+8. August 2026
+
+On August 11, 1984, a technician runs a sound check before Ronald Reagan’s weekly radio address. Reagan jokes: he’s just signed legislation outlawing Russia forever, bombing begins in five minutes. The room laughs. The mic was never …
+
+Read More
+
+“A horse. A horse. My kingdom for a horse.” Two Houses, One Bloodline, No Way Out.
+
+6. August 2026
+
+Two houses, one family tree, two truths. Lancaster stands on male succession. York stands on the older line, carried through a woman. Both premises hold. Both cancel each other out. For thirty years, lords switch sides, kings get …
+
+Read More
+
+The Improvement Ban. Why Established Systems Fight Every Attempt to Get Better.
+
+26. July 2026
+
+A system that has succeeded so far carries its own unimprovability like a flag — earned, it believes, by its own merit. Suggestions for improvement arriving from outside register as an annoyance: reinterpret them, dilute them, file …
+
+Read More
+
+The Castello Este in Ferrara. Built Against the People It Was Meant to Rule.
+
+5. June 2026
+
+In 1385, the people of Ferrara killed a tax collector on the market square. His name was Tommaso da Tortona. The Este had him collecting what the city could not afford to pay. The city responded the way cities respond when they have …
+
+Read More
+
+The Nuremberg Axiom. The Only Way to Punish the Crime Was to Commit One.
+
+31. May 2026
+
+Nuremberg, 1946. Hermann Göring sits across from the prosecution and watches with something close to professional interest. He has already explained, in private, how the mechanism works. He knows the argument. He built it. And he …
+
+Read More
+
+The Albigensian PI. How Christians Launched a Crusade Against Christians.
+
+22. May 2026
+
+In July 1209, crusader forces arrived at the walls of Béziers in what is now southern France. They had come to root out the Cathar heresy — a dualist Christian movement the Church of Rome had declared an existential threat. Inside the …
+
+Read More
+
+The Göring PI. Nobody Wanted the War. That’s Exactly Why It Happened.
+
+14. May 2026
+
+Nuremberg, April 1946. Hermann Göring — former Reichsmarschall, second man of the Third Reich, accused war criminal — sits across from psychologist Gustave Gilbert. He is waiting for the verdict. He has nothing left to lose. And so he …
+
+Read More
+
+The Reformation PI. The more violent the separation, the more solid the connection.
+
+2. April 2026
+
+Wittenberg, 1517. Martin Luther nails 95 theses to a church door. The argument: the Church sells what it cannot own. Grace is not a commodity. God is not a franchise. The diagnosis is correct. The structure is not impressed.
+
+Read More
+
+The Gaveston Pattern:
+
+19. February 2026
+
+Medieval England, 1312. A favorite is murdered. A king takes revenge. A queen invades. A son seizes power. Seven hundred years later, the same structure runs every week in organizations, governments, and tech companies worldwide.
+
+Read More
+
+Von Papen, Schleicher & Co.
+
+23. January 2026
+
+How did Hitler’s opponents become his enablers? Von Papen, Schleicher, and Hugenberg each acted rationally—yet collectively produced the outcome they tried to prevent. A Paradoxical Interaction case study from 1933.
+
+Read More
+
+The Economics of Justice
+
+23. January 2026
+
+The economics of justice: Justice promises universality. Reality delivers selection. When crimes scale to millions, systems reach their limits.
+
+Read More
+
+Justice That Could Be Afforded
+
+23. January 2026
+
+The Nazi regime was organized mass murder. The moral diagnosis was unambiguous. Yet postwar justice remained structurally incomplete.
+Not because perpetrators were innocent. Not because evidence was lacking. But because the system …
+
+Read More
+
+No results found.
