@@ -88,22 +88,6 @@ Mehr ist nicht zu erreichen. Das Montags-Ich wird weiter planen, das Freitags-Ic
 
 Verwandte Beiträge
 
-Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
-
-Luhmann und der Selbsteinschluss
-
-Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
-
-Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
-
-Das Phänomen gekoppelter Oszillatoren
-
-Wenn die Beobachtung des Einschlusses zum Einschluss wird
-
-Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
-
-No results found.
-
 Auf piinteract.org:
 
 [„Erkenne den gemeinsamen blinden Fleck”] — Wenn alle Beteiligten dasselbe Ich sind, teilen alle Beteiligten denselben blinden Fleck. Der Schlichter eingeschlossen.
