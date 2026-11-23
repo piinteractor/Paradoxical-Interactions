@@ -120,6 +120,20 @@ Einsicht ist kein Ausweg. Aber es ist ein Anfang, nicht mehr überrascht zu werd
 
 Verwandte Beiträge
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Wenn die Beobachtung des Einschlusses zum Einschluss wird
+
+Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
+
+Das Gaveston-Muster:
+
+Wie jede Lösung zum nächsten Problem wird
+
+No results found.
+
 Auf piinteract.org:
 
 [“Democracy Erosion”] — Der Aufstieg der AfD ist nicht die Erosion der Demokratie — er ist ihr strukturelles Produkt: Repräsentation, die ein Vakuum füllt, das die Regierungslogik geschaffen hat.
