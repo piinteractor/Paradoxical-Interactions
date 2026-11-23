@@ -86,6 +86,24 @@ Die Effizienz, die versprochen wurde, war nie für die Zeit der Antragsteller ge
 
 Verwandte Beiträge
 
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+Der wortgewandte Türhüter
+
+Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+Das Quiz, das niemals endet
+
+Oder: Warum wir alle auf einen Quizmaster warten, der mit dem Preisgeld abgehauen ist
+
+No results found.
+
 Auf piinteract.org
 
 [“Just Optimize”] — Headcount senken ist die Optimierung, die sich in einer Pressemitteilung feiern lässt. Die Struktur, die die Last erzeugt, bleibt dabei unangetastet.
