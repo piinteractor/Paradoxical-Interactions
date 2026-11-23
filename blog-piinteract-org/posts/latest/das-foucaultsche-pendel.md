@@ -72,6 +72,24 @@ Galileo brauchte sein ganzes Leben, inklusive Prozess mit Widerruf, um auszusage
 
 Verwandte Beiträge
 
+Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
+
+Das Phänomen gekoppelter Oszillatoren
+
+Die PI der Dunklen Materie
+
+Warum das größte Geheimnis des Universums eine strukturelle Falle sein könnte
+
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+Das Universum, das nicht existieren dürfte
+
+Die Struktur, die ihre eigene Unmöglichkeit vorhersagt — und dann trotzdem existiert
+
+No results found.
+
 Auf piinteract.org:
 
 [“Shared Blindspot”] — Everyone turns with it. That’s why nobody feels it. The pendulum is the one exception that makes the blind spot visible.
