@@ -266,6 +266,24 @@ Versuchen und weitermachen.
 
 Verwandte Beiträge
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Das Perelman-Paradox
+
+Wie die Ablehnung von Ruhm zum ruhmreichsten Akt wird – und warum man daraus nicht entkommen kann
+
+No results found.
+
 Auf piinteract.org:
 
 [“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
