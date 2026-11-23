@@ -156,24 +156,6 @@ Genau deshalb hält PI.
 
 Verwandte Beiträge
 
-Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
-
-Warum ein Pendel beweist, wofür ein Genie verurteilt wurde — und warum nur Indifferenz als Zeuge zählt.
-
-Der Rückkopplungs-Bug. Die Hawking-Strahlung lässt die Quelle nicht unberührt — sie erzeugt einen Rückstoß.
-
-Warum ein sechzig Jahre altes Modell zur „Verdampfung Schwarzer Löcher“ durch einen faseroptischen Versuchsaufbau in Paderborn korrigiert wurde – und warum es bei dieser Korrektur nicht um Schwarze Löcher ging, sondern um die Rückkopplung zwischen einer Grenze und dem Ereignis, das diese Grenze zieht.
-
-„Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
-
-Warum die Stringtheorie die Physik nicht zum Scheitern brachte — und warum die Struktur dafür gesorgt hat, dass das nicht möglich war.
-
-Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
-
-Warum jeder Versuch, die Mathematik endgültig zu schließen, sie erweitert hat — und warum eine KI, die sie für geschlossen hält, genau das nicht lernen kann.
-
-No results found.
-
 Auf piinteract.org:
 
 [“Accept Incompleteness”] — Gödel und Penrose-Hawking sagen dasselbe auf zwei Ebenen: Unvollständigkeit ist keine Lücke, die geschlossen werden muss, sondern die Bedingung, unter der ein System überhaupt aussagekräftig bleibt.
