@@ -197,29 +197,6 @@ Verwandte Beiträge
 
 
 
-Drei Teilchen wandern in eine Struktur
-
-Eines ist ehrlich. Zwei sind es nicht. Die Physik kennt den Unterschied — und tut so, als gäbe es ihn nicht.
-
-Luhmann und der Selbsteinschluss
-
-Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
-
-Wenn die Beobachtung des Einschlusses zum Einschluss wird
-
-Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
-
-Die Intelligenz-Falle
-
-Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
-
-Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
-
-Warum Tote häufiger recht haben als Lebende — und warum die Struktur, die sie zum Schweigen gebracht hat, unverändert bleibt.
-
-No results found.
-
-
 
 
 Auf piinteract.org:
