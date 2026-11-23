@@ -204,6 +204,24 @@ Versuchen und weitermachen.
 
 Verwandte Artikel
 
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+Wenn die Beobachtung des Einschlusses zum Einschluss wird
+
+Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
+
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
+
+Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
+
+Der wortgewandte Türhüter
+
+Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
+
+No results found.
+
 Auf piinteract.org
 
 Framework — Warum Struktur, nicht Absicht, Ergebnisse antreibt
