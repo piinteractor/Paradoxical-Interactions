@@ -116,16 +116,6 @@ Nicht weil jemand versagt hat. Weil alle erfolgreich waren.
 
 Ähnliche Beiträge
 
-Das falsche Paradies. Wie soziale Medien das echte Leben zu Hintergrundlärm machen.
-
-Warum Plattformen eine perfekte Welt verkaufen – und warum die Struktur alles ausblenden muss, was nicht ins Bild passt.
-
-Das Kassandra Paradox
-
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
-
-No results found.
-
 On piinteract.org:
 
 „Viral Outrage Cycles” — Die Engagement-Dynamiken der Spiegelökonomie produzieren Empörung als ihren effizientesten Output: sie verbreitet sich schneller als jede andere Inhaltsart.
