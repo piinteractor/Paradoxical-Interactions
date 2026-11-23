@@ -130,24 +130,6 @@ Das Axiom blieb. Mit dem Widerspruch, den es in sich trug.
 
 Verwandte Beiträge
 
-Die Formel, die das Gegenteil von dem bewies, was Sie denken
-
-Eine Paradoxe Interaktion in drei Akten
-
-Das Kassandra Paradox
-
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
-
-Der Türhüter-Ausbruch
-
-Warum nur der kognitive Ausbruch aus der Struktur herausführt
-
-Die Göring-PI. Niemand wollte den Krieg. Genau deshalb ist er passiert.
-
-Warum Kriege entstehen, ohne dass irgendjemand sie will — und warum die Staatsform dabei keine Rolle spielt.
-
-No results found.
-
 Auf piinteract.org:
 
 [„Mehr vom Gleichen“] – Der Detektor hat nichts gefunden. Man baut einen empfindlicheren. Das Fehlen wird zum Forschungsprogramm.
