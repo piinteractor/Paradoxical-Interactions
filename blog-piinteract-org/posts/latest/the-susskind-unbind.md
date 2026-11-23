@@ -112,24 +112,6 @@ Aber sie ist eine Koordinate. Der Susskind-Unbind ist ein Name für einen Ort au
 
 Verwandte Beiträge
 
-Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
-
-Eine Stellenanzeige für die falsche Person.
-
-Der wortgewandte Türhüter
-
-Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
-
-Wenn die Beobachtung des Einschlusses zum Einschluss wird
-
-Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
-
-Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
-
-Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
-
-No results found.
-
 Auf piinteract.org:
 
 [“Galileo’s Paradox”] — Die Struktur, die eine Herausforderung nicht verarbeiten kann, widerlegt sie nicht; die Stringtheorie widerlegt Falsifizierbarkeit nicht — sie verschiebt iterativ den Punkt, an dem Falsifizierbarkeit greifen würde.
