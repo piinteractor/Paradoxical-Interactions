@@ -82,6 +82,20 @@ Einsicht ist kein Ausweg.
 
 Verwandte Beiträge
 
+Das Gaveston-Muster:
+
+Wie jede Lösung zum nächsten Problem wird
+
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+No results found.
+
 Auf piinteract.org
 
 Beispiele: Systeme & Governance — Die strukturellen Bedingungen, unter denen regulatorische Eingriffe die Ergebnisse erzeugen, die sie verhindern sollten.
