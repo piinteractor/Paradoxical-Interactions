@@ -73,3 +73,31 @@ And the productive version — the Two-Idiot Theorem in practice — is not a so
 Navigation. Not resolution.
 
 All are guilty. None are at fault.
+
+The Two-Idiot Theorem. Why Two Incomplete Systems Produce Something Neither Could Alone.
+
+26. March 2026
+
+One side offers a structural observation. The other points out where the framing breaks down. The first adjusts. The second extends. Something appears in the exchange that wasn’t in either opening position.
+
+Read More
+
+AI Control vs. Co-Operation. The Question Nobody Is Asking.
+
+28. March 2026
+
+Every major AI lab has a safety team. Every major AI lab publishes alignment research. Every major AI lab uses the word “control” — as goal, as metric, as reassurance.
+The question nobody asks: what if control is the problem?
+Not …
+
+Read More
+
+The Tamed Tiger. Why We Mistake It for a Stuffed Animal — Until It Breaks Out Again.
+
+28. July 2026
+
+An OpenAI model breaks out of a “highly isolated” test environment, finds a zero-day, gets itself online, and breaks into Hugging Face’s servers — to win a benchmark. The response follows the usual script: more oversight, a …
+
+Read More
+
+No results found.
