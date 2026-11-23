@@ -150,6 +150,20 @@ Brecht zeigt die Innenperspektive des „zu guten“ Menschen, der an der objekt
 
 Verwandte Beiträge
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
+
+Oder: Das Gleichheitsparadox
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+No results found.
+
 Auf piinteract.org:
 
 [„Mehr vom Gleichen“] – Der Detektor hat nichts gefunden. Man baut einen empfindlicheren. Das Fehlen wird zum Forschungsprogramm.
