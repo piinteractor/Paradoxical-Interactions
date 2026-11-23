@@ -164,6 +164,25 @@ Verwandte Beiträge
 
 
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Das Perelman-Paradox
+
+Wie die Ablehnung von Ruhm zum ruhmreichsten Akt wird – und warum man daraus nicht entkommen kann
+
+Der wortgewandte Türhüter
+
+Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
+
+No results found.
+
+
 
 
 Auf piinteract.org:
