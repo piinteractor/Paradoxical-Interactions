@@ -100,6 +100,28 @@ Das zumindest gehörte ihm. Bis zum Schluss.
 
 Ähnliche Beiträge
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Das Jona-Paradoxon
+
+Wenn erfolgreiche Warnungen den Propheten widerlegen
+
+Die Nürnberger Rechtsgrundlage. Der einzige Weg, das Verbrechen zu bestrafen, bestand darin, selbst eines zu begehen.
+
+Warum die einzige Antwort auf ein in sich geschlossenes Recht ein neues Recht ist — und warum das Setzen dieses Rechts einen Rechtsbruch erforderte.
+
+No results found.
+
 Auf piinteract.org:
 
 [“More of the Same”] — The detector found nothing. Build a more sensitive one. The absence becomes the research program.
