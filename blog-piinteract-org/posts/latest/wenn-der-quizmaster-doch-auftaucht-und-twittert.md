@@ -196,6 +196,28 @@ Sehr menschlich. Sehr Quizmaster.
 
  
 
+Borniertheit statt Weisheit – Die PI des Philosophen
+
+Warum Richard David Precht im Alter nicht weiser, sondern engstirniger wird
+
+Das Propheten-Paradox
+
+Warum Nähe den Respekt zerstört
+
+Das Quiz, das niemals endet
+
+Oder: Warum wir alle auf einen Quizmaster warten, der mit dem Preisgeld abgehauen ist
+
+€$€€$$ — Wenn der Quizmaster doch auftaucht und twittert
+
+Ein Follow-Up zu „Das Quiz, das niemals endet”
+
+Das Jona-Paradoxon
+
+Wenn erfolgreiche Warnungen den Propheten widerlegen
+
+No results found.
+
 See also:
 
 Framework—The full theoretical foundation
