@@ -162,6 +162,22 @@ Die Schwierigkeit besteht darin, dass wir von innen möglicherweise nicht wissen
 
 Verwandte Beiträge
 
+Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
+
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
+
+Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+No results found.
+
 Auf piinteract.org
 
 [“Erkenne den gemeinsamen blinden Fleck”] — dasselbe Gesetz, nur durch eine Netzhaut und einen Schlaganfall geführt statt durch ein Argument.
