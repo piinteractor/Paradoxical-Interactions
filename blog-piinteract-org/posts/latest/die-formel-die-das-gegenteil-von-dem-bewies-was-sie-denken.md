@@ -114,7 +114,25 @@ Verwandte Posts
 
 Structural sacrifice mechanisms:
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum niemand was dafür kann
+
+No results found.
+
 Warnings that fail:
+
+Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
+
+Oder: Das Gleichheitsparadox
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+No results found.
 
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes—not through failure, but through structure.
 
