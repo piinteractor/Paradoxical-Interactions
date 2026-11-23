@@ -98,6 +98,24 @@ So funktioniert PI. Sie ist immer schon da. Das Benennen kommt später.
 
 Verwandte Beiträge
 
+Das Gaveston-Muster:
+
+Wie jede Lösung zum nächsten Problem wird
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
+
+Warum Tote häufiger recht haben als Lebende — und warum die Struktur, die sie zum Schweigen gebracht hat, unverändert bleibt.
+
+No results found.
+
 Auf piinteract.org:
 
 „Demokratieerosion” — Die Este haben den Anschein legitimer Herrschaft nicht aufgegeben — sie haben ihn hinter einem Wassergraben aufrechterhalten. Das ist die Strukturvorlage für verwaltete demokratische Erosion.
