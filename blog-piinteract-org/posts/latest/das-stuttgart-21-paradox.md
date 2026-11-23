@@ -106,18 +106,6 @@ Und wer gar nicht widerspricht: baut auch.
 
 Ähnliche Beiträge
 
-Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
-
-Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
-
-Das Kassandra Paradox
-
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
-
-Aktuelle PI
-
-No results found.
-
 Auf piinteract.org:
 
 [„Gutes Geld schlechtem hinterher werfen”] — Stuttgart 21 ist das Lehrstück: Investition rechtfertigt Investition, bis das Aufhören teurer ist als das Weitermachen.
