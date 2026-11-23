@@ -104,6 +104,24 @@ Der Löwenzahn verhandelt nicht mit dem Wind.
 
 Verwandte Beiträge
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
+
+Warum Tote häufiger recht haben als Lebende — und warum die Struktur, die sie zum Schweigen gebracht hat, unverändert bleibt.
+
+Wenn die Beobachtung des Einschlusses zum Einschluss wird
+
+Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
+
+Der wortgewandte Türhüter
+
+Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
+
+No results found.
+
 Auf piinteract.org
 
 Framework — Die strukturelle Feldtheorie, die individuelle Entfernung in systemisches Muster verwandelt.
