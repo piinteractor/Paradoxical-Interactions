@@ -106,6 +106,24 @@ Das ist kein Grund, damit aufzuhören. Es ist ein Grund, klar zu sehen und weite
 
 Ähnliche Artikel
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+No results found.
+
 Auf piinteract.org:
 
 „Schism Dynamics” — Die Reformatoren reproduzieren die Struktur dessen, was sie reformiert haben — Anthropic als theologische Beobachtung.
