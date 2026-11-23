@@ -32,6 +32,60 @@ All are guilty. None are at fault.
 
 Examples
 
+Absent Men, Present Women. Why the Debate on Equality Doesn’t Get to the Heart of the Matter.
+
+23. July 2026
+
+“Absent Men, Present Women” analyzes how a seemingly egalitarian debate on equality leaves the underlying structure unchanged—because the absence of men itself becomes the invisible norm.
+
+Read More
+
+The Jonah Paradox
+
+4. February 2026
+
+A prophet warns of catastrophe. If the warning works, catastrophe doesn’t happen. The prophecy becomes false. Success makes him a liar.
+If the warning fails, catastrophe strikes. The prophecy comes true. Failure validates him.
+
+Read More
+
+The Prophet Paradox
+
+28. January 2026
+
+The stranger with credentials gets heard. The friend who knows the pattern gets dismissed.
+Not because strangers are smarter. Because they’re unknown. Unknown equals untested. Untested can still be wrong — but also might be right.
+
+Read More
+
+Narrow-mindedness instead of Wisdom – The Philosopher’s PI
+
+28. January 2026
+
+Richard David Precht laments the scissors in the head. He warns against narrowed opinion corridors. He demands open discourse.
+Yet he embodies the very structure he criticizes. He just doesn’t see it.
+This isn’t personal weakness. …
+
+Read More
+
+The Priest of Nemi: How Success Creates Its Own Assassin
+
+26. January 2026
+
+Ancient Rome had a priest job with unusual requirements: kill your predecessor to get hired. Then spend every day knowing someone will kill you the same way. No retirement plan. No peaceful transition. Just paranoia, preemption, and …
+
+Read More
+
+The Cassandra Paradox
+
+26. January 2026
+
+Apollo gives Cassandra the gift of prophecy. She rejects him. He curses her: she’ll speak truth, but no one will believe her. She warns Troy about the wooden horse. Troy burns anyway.
+
+Read More
+
+No results found.
+
 Paradoxical Interactions (PI): When rational actors consistently produce collectively irrational outcomes — not through failure, but through structure.
 
 All are guilty. None are at fault.
