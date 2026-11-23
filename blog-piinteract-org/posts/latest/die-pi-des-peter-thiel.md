@@ -144,6 +144,22 @@ Verwandte Beiträge:
 
 Strukturelle Opfermechanismen:
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum niemand was dafür kann
+
+Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
+
+Oder: Das Gleichheitsparadox
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+No results found.
+
 Auf piinteract.org
 
 [The Jesus Paradox] — The Jesus Paradox and the Heresy Mechanism
