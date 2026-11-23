@@ -108,6 +108,28 @@ PI war da. Schon immer!
 
 Verwandte Beiträge
 
+Wenn die KI-Ausrichtung ihren besten Verbündeten auslöscht:
+
+Another Note on Paradoxical Interactions
+
+Die semantische Besitzergreifung:
+
+A Confession of Meaning Elimination
+
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+No results found.
+
 Per Errorem ad Astra – durch Irrtum zu den Sternen.
 
 Aber nur, wenn man den Irrtum beim Namen nennen darf.
