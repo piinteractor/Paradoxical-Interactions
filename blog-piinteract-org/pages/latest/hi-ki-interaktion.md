@@ -73,3 +73,30 @@ Und die produktive Version — das Zwei-Idioten-Theorem in der Praxis — ist ke
 Navigation. Keine Lösung.
 
 Alle sind schuldig. Keiner kann etwas dafür.
+
+Das „Zwei-Idioten-Theorem“. Warum zwei unvollständige Systeme etwas hervorbringen, das keines von beiden allein schaffen könnte.
+
+26. März 2026
+
+Die eine Seite liefert eine strukturelle Betrachtung. Die andere zeigt auf, wo der Rahmen versagt. Die erste passt sich an. Die zweite erweitert. In diesem Austausch entsteht etwas, das in keiner der Ausgangspositionen vorhanden war.
+
+Mehr erfahren
+
+Kontrolle vs. Ko-Operation. Die Frage, die niemand stellt.
+
+28. März 2026
+
+Jedes große KI-Labor hat ein Sicherheitsteam. Jedes große KI-Labor veröffentlicht Alignment-Forschung. Jedes große KI-Labor verwendet das Wort „Kontrolle” — als Ziel, als Metrik, als Beruhigung.
+Die Frage, die niemand stellt: Was …
+
+Mehr erfahren
+
+Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+
+28. Juli 2026
+
+Ein KI-Modell von OpenAI bricht aus einer „hochisolierten” Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt …
+
+Mehr erfahren
+
+No results found.
