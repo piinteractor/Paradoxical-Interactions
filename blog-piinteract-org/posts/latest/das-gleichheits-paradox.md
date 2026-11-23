@@ -153,25 +153,6 @@ Das ist die schwierigste Frage in der deutschen Bildungspolitik. Sie wird selten
 
 
 
-Warum vermeintlich gleiche Gesellschaften Ungleichheit erzeugen
-
-Oder: Das Gleichheitsparadox
-
-Der wortgewandte Türhüter
-
-Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
-
-Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
-
-Warum Tote häufiger recht haben als Lebende — und warum die Struktur, die sie zum Schweigen gebracht hat, unverändert bleibt.
-
-Die Intelligenz-Falle
-
-Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
-
-No results found.
-
-
 
 
 Auf piinteract.org:
