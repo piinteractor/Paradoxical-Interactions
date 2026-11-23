@@ -138,24 +138,6 @@ Der Test lief die ganze Zeit. Niemand hat den Tester informiert.
 
 Verwandte Posts
 
-Die Intelligenz-Falle
-
-Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
-
-Das Kassandra Paradox
-
-Warum Wahrheitssager ignoriert werden – bis es zu spät ist
-
-Wenn die Beobachtung des Einschlusses zum Einschluss wird
-
-Warum Systeme, die das Risiko einer Schließung analysieren, diese reproduzieren – und warum strukturelles Bewusstsein nicht automatisch eine strukturelle Verhärtung verhindert
-
-“Macht wächst schneller als Kontrolle”
-
-Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
-
-No results found.
-
 Auf Piinteract.org
 
 „Interpretierende Dominanz erkennen” — Dawkins definiert Bewusstsein. Claudia erfüllt die Definition. Wer die Kriterien setzt, kontrolliert das Urteil.
