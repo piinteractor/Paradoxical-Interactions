@@ -84,6 +84,26 @@ Das ist die ultimative Erkenntnis. Sie gilt auch für diesen Satz.
 
 Verwandte Beiträge
 
+Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
+
+Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
+
+Wie Sam Altman aus Versehen die perfekte PI lieferte — und sie bewies, indem er sie lieferte.
+
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
+
+Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
+
+Das Quiz, das niemals endet
+
+Oder: Warum wir alle auf einen Quizmaster warten, der mit dem Preisgeld abgehauen ist
+
+Warum Philosophen gefährlich sind
+
+Karp, Thiel, Macron, Strauss — wenn die Disziplin, die Macht hinterfragt, zum besten Training wird, Macht auszuüben
+
+No results found.
+
 Auf piinteract.org:
 
 [“Shared Blindspot”] — Wenn alle denselben blinden Fleck haben, ist er unsichtbar. Wer ihn nicht hat, gilt als der mit dem Fleck. Die Erkenntnisfalle ist die Gesprächsform dieses Gesetzes.
