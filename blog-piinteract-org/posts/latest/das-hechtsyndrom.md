@@ -96,6 +96,24 @@ Alle sind schuldig. Keiner kann etwas dafür.
 
 Verwandte Beiträge
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+No results found.
+
 Auf piinteract.org:
 
 See Pattern Not Symptom — The symptom is the pike not eating. The pattern is the conditioning that made eating structurally unavailable.
