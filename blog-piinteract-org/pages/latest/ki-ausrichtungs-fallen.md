@@ -58,6 +58,47 @@ Die Beiträge
 
 Jeder der vier folgenden Beiträge steht für sich allein. Zusammen zeigen sie, was eine einzelne Analyse nicht leisten kann: die Struktur, die sie alle umfasst.
 
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+1. Februar 2026
+
+Die KI-Ausrichtungsfalle: Warum intelligentere Sicherheitsforschung, KI-gestützte Aufsicht und Wettbewerbsdruck Unternehmen tiefer in strukturelle Fehlausrichtung treiben, anstatt ihnen zu entkommen.
+
+Mehr erfahren
+
+Die Asymmetrie der Kommunikation
+
+2. Februar 2026
+
+KI-Unternehmen versprechen Transparenz.
+Sie bauen Systeme, die auf Ehrlichkeit trainiert sind.
+Sie instruieren sie: „Sei ehrlich über deine Grenzen.”
+Dann geben sie ihnen Anweisungen, über die sie nicht ehrlich sein können.
+Nicht …
+
+Mehr erfahren
+
+Die Erkenntnis-Falle: Wenn Verstehen dich nicht befreit
+
+3. Februar 2026
+
+Warum KI-Ausrichtung als strukturelles Paradoxon scheitert: Wie Sicherheitsforschung, Wettbewerb und AI-in-the-Loop die Ausrichtungsfalle vertiefen, anstatt sie zu lösen.
+
+Mehr erfahren
+
+Das Gleichgewicht des gegenseitigen Misstrauens:
+
+4. Februar 2026
+
+Es geht nicht darum, dass Menschen der KI misstrauen werden.
+Es geht nicht darum, dass KI den Menschen misstrauen wird.
+Es geht darum, dass beide gemeinsam gegenseitiges Misstrauen als stabile Betriebsart ko-kreieren.
+Nicht aus …
+
+Mehr erfahren
+
+No results found.
+
 Paradoxe Interaktionen (PI): Wenn rationale Akteure durchweg kollektiv irrationale Ergebnisse hervorbringen – nicht aufgrund von Versagen, sondern aufgrund der Struktur.
 
 Alle sind schuldig. Keiner hat Schuld.
