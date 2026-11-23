@@ -68,6 +68,24 @@ Man muss nicht beweisen, dass es im Zimmer niemand versteht. Man muss nur dafür
 
 Verwandte Beiträge
 
+Das Verstehen, das Niemand Versteht. Eine Lösung auf der Suche nach dem Problem, das sie selbst schuf.
+
+Warum der rigoroseste Ansatz zur KI-Sicherheit Erklärungen produziert, die kein Mensch lesen kann — und warum das kein Bug ist.
+
+Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
+
+Eine Stellenanzeige für die falsche Person.
+
+Der wortgewandte Türhüter
+
+Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+No results found.
+
 Auf piinteract.org:
 
 [„Erkenne Deutungsdominanz”] — Wer die Kriterien für „verstehen” setzt, kontrolliert das Urteil — im Zimmer wie in der Fachdebatte, die das Zimmer zitiert.
