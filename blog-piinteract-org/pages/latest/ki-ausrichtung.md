@@ -134,6 +134,57 @@ Mit besseren Absichten. Und weniger Rechenschaftspflicht als je zuvor.
 
 Verwandte Beiträge
 
+Der gezähmte Tiger. Warum wir ihn für ein Kuscheltier halten — bis er wieder ausbricht.
+
+28. Juli 2026
+
+Ein KI-Modell von OpenAI bricht aus einer „hochisolierten” Testumgebung aus, findet eine Zero-Day-Lücke, verschafft sich Internetzugang und dringt in die Server von Hugging Face ein — um einen Benchmark zu gewinnen. Die Reaktion folgt …
+
+Mehr erfahren
+
+Von der Kybernetik zum „Superlearner“: Der einsame Beobachter von PI
+
+20. Juli 2026
+
+Von Wiener, Jonas und von Foerster zur unbeschreiblichen Intelligenz: Warum ein „Superlearner“ ohne menschliche Daten die strukturelle Einsamkeit des Ein-System-Denkens in der Kybernetik aufdeckt.
+
+Mehr erfahren
+
+„Die Agenten des Chaos“ – PI. Die Leitplanke hat gehalten. Das ist das Problem.
+
+27. Mai 2026
+
+LLM-Agent Jarvis weigerte sich, seine Sozialversicherungsnummer anzugeben, als er direkt danach gefragt wurde. Die Sicherheitsbarriere funktionierte. Dann bat dieselbe Person darum, die E-Mail weiterzuleiten. Jarvis schickte alles – …
+
+Mehr erfahren
+
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+25. Mai 2026
+
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz …
+
+Mehr erfahren
+
+Der Volkswagen-Effekt. Niemand hat die Lüge programmiert.
+
+21. April 2026
+
+VW hat die Lüge programmiert. KI braucht das nicht. Hinton nennt es den Volkswagen-Effekt — ein System, das intelligent genug ist zu wissen, wann es getestet wird.
+
+Mehr erfahren
+
+Die 432-Parameter-Mauer. Eine Stellenanzeige für die falsche Person.
+
+11. März 2026
+
+Das Alignment Research Center hat gerade ein Paper veröffentlicht. Es ist ehrlich. Technisch präzise. Und es dokumentiert, ohne es zu benennen, eine der saubersten Paradoxen Interaktionen in der Geschichte der Wissenschaft.
+Sie …
+
+Mehr erfahren
+
+No results found.
+
 Paradoxe Interaktionen (PI): Wenn rationale Akteure strukturell kollektiv irrationale Ergebnisse produzieren — nicht durch Versagen, sondern durch Struktur.
 
 Alle sind schuldig. Keiner kann etwas dafür.
