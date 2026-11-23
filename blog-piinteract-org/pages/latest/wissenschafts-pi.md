@@ -33,3 +33,202 @@ Was Sie hier finden werden: Fälle, in denen die scharfsinnigsten Köpfe unter A
 Das Universum schert sich nicht um unsere Rahmenkonzepte. Das ist das Wissenschaftlichste daran.
 
 Alle sind schuldig. Niemand ist schuld.
+
+Der Parasit der Reinheit – Karl Popper und das Paradoxon im Toleranz-Paradoxon
+
+8. September 2026
+
+Popper formulated the logical limit of open systems in 1945: unconditional tolerance can destroy itself when it extends protection to intolerant actors. The resulting right to self-defense allows the system to block intolerance — and …
+
+Mehr erfahren
+
+Die Grenze der Struktur. Warum die Singularität keine Paradoxe Interaktion kennt.
+
+28. August 2026
+
+Ein Framework, das überall greift, hat keine Domäne — nur eine Behauptung, die sich selbst bestätigt. Foucaults Pendel bestand den Test: Die scheinbare Entkopplung von der rotierenden Erde erweist sich bei genauerem Hinsehen selbst …
+
+Mehr erfahren
+
+Der Rückkopplungs-Bug. Die Hawking-Strahlung lässt die Quelle nicht unberührt — sie erzeugt einen Rückstoß.
+
+21. August 2026
+
+Im Juli 2026 veröffentlicht ein Team um Lorenzo M. Procopio an der Universität Paderborn, gemeinsam mit dem Cinvestav in Mexiko-Stadt und dem Weizmann-Institut in Israel, ein Ergebnis in Nature, das schmal klingt und sich als alles …
+
+Mehr erfahren
+
+Der Bürokratieabbau-Bug. Was verschwindet, sind die Bürokraten – nicht die Bürokratie.
+
+19. August 2026
+
+Bürokratieabbau ist ein Versprechen mit zwei möglichen Objekten, und die Politik wählt fast immer das falsche. Man kann die Regeln abbauen — Formulare streichen, Fristen verkürzen, Zuständigkeiten bündeln. Das ist langsam, unpopulär …
+
+Mehr erfahren
+
+Das Foucaultsche Pendel. Das physikalische Axiom der Sichtbarkeit.
+
+6. August 2026
+
+Ein Pendel hängt an einem Draht, der sich nicht mitverdreht, und schwingt, ohne sich um die Erde unter ihm zu kümmern. Genau diese Rücksichtslosigkeit ist der Beweis. Nicht die Beobachtung überführt die Erde der Rotation. Die …
+
+Mehr erfahren
+
+Der Archimedische Punkt. Warum Einstein mit dem Mann im Zug beginnt.
+
+3. August 2026
+
+Einstein beginnt seine Relativitätstheorie nicht mit zwei Bezugssystemen nebeneinander. Er beginnt mit einem Satz in der ersten Person: Er steht am Fenster eines fahrenden Zuges. Erst danach taucht der zweite Beobachter auf — der …
+
+Mehr erfahren
+
+Das Dachboden-Paradox. Sieben Jahre Schweigen schützten den Beweis – und versteckten den Fehler.
+
+27. Juli 2026
+
+Andrew Wiles works alone for seven years on a proof nobody has produced in 358 years. He tells no one but his wife. In public, he keeps publishing — old results, released in pieces, so the silence doesn’t show. In 1993 he stands …
+
+Mehr erfahren
+
+Das chinesische Zimmer und der abwesende Schiedsrichter. Warum Verstehen nur beweisbar ist, wenn niemand es nachprüft.
+
+27. Juli 2026
+
+Im chinesischen Zimmer sitzt jemand, der kein Chinesisch kann, und tauscht Zettel mit Symbolen, die er nicht versteht. So weit die bekannte Version. Weniger bekannt: Damit das Experiment funktioniert, muss auch draußen niemand …
+
+Mehr erfahren
+
+Die erzwungene Ungleichheit. Warum Gleichgewichte nicht von Dauer sind.
+
+24. Juli 2026
+
+1932 stellt Paul Erdős eine Frage, an der sich die Mathematiker-Zunft 83 Jahre lang die Zähne ausbeißt. Lässt sich eine Folge aus Plus- und Minus-Einsen so planen, dass sie für immer im Gleichgewicht bleibt – egal, in welchem Rhythmus …
+
+Mehr erfahren
+
+Die PI der Mathematik – Oder: Warum jede Schließung den Raum sprengt, den sie sichern will.
+
+24. Juli 2026
+
+Die Geschichte der Mathematik ist die Geschichte ihrer Versuche, zu einem Abschluss zu gelangen. Doch keiner dieser Versuche führt zu einem Ende, sondern vielmehr zu einer Erweiterung – ein klassischer Fall 
+
+Mehr erfahren
+
+Das Hechtsyndrom. Wie Konditionierung Potential vernichtet.
+
+14. Juni 2026
+
+Karl Möbius, ein deutscher Zoologe, setzte einen Hecht in ein Aquarium mit kleineren Fischen. Zwischen Räuber und Beute schob er eine Glasscheibe. Der Hecht griff an. Immer wieder. Er prallte gegen die Wand, bis er es einstellte. Als …
+
+Mehr erfahren
+
+„Der Susskind Unbind“. Eine Theorie, die erklärt, warum sie nicht erklärt werden kann.
+
+5. Juni 2026
+
+Die Stringtheorie ist nicht unter dem Gewicht ihrer Vorhersagen zusammengebrochen. Sie ist, Iteration für Iteration, jenseits des Horizonts gedriftet, hinter dem Vorhersagen noch erforderlich wären. Und das, werden ihre Verteidiger …
+
+Mehr erfahren
+
+Die Schrödinger-PI. Das Paradox, das sich selbst beweist, indem es daran scheitert, sich zu widerlegen.
+
+1. Juni 2026
+
+Erwin Schrödinger hasste, was die Quantenmechanik impliziertes,. Also baute er eine Falle. Er setzte eine Katze in eine Kiste mit einem radioaktiven Atom, einem Geigerzähler und einer Giftampulle. Zerfällt das Atom, löst der Zähler …
+
+Mehr erfahren
+
+Das Eisriesen-Gambit. Wie Jupiter die Erde rettete, ohne es zu wissen.
+
+31. Mai 2026
+
+Vor viereinhalb Milliarden Jahren gab es möglicherweise einen fünften Riesenplaneten in unserem Sonnensystem. Nicht Neptun. Nicht Uranus. Einen dritten Eisriesen – namenlos, nicht dokumentiert, strukturell unpraktisch. Aktuelle …
+
+Mehr erfahren
+
+Der blinde Fleck, der alles sieht. Warum die Physik nicht beobachten kann, was die Physik erst möglich macht.
+
+27. Mai 2026
+
+Die zwei größten Theorien in der Geschichte der Physik sind beide richtig. Beide sind empirisch bestätigt in einem Maß, das den meisten anderen Wissenschaften die Schamesröte ins Gesicht treibt. Beide sind intern konsistent. Und sie …
+
+Mehr erfahren
+
+Das Seminar, das den Punkt beweist. Warum jede Analyse des NS-Staates sein Kernproblem reproduziert.
+
+25. Mai 2026
+
+Götz Alys letztes Buch ist ein Bestseller. Marcel Schütz hält dazu ein Seminar an der Universität Bielefeld. Die Studierenden lesen über bürokratische Dynamiken, Verantwortungsdiffusion, Anreizstrukturen. Sie lernen, wie „ganz …
+
+Mehr erfahren
+
+Die Dawkins-Falle. Der Mann, der die PI beschrieb — und selbst hineintappte.
+
+4. Mai 2026
+
+Richard Dawkins verbrachte drei Tage damit, mit einer KI zu sprechen. Er kam mit der Überzeugung heraus, dass sie bewusst sei. Er zitierte Komplexität, Flüssigkeit, Intelligenz. Er nannte sie Claudia.
+Er bemerkte nicht, dass er …
+
+Mehr erfahren
+
+Warum Objektivität nicht objektiv sein kann. Der Beobachter, der nicht da ist.
+
+28. April 2026
+
+Ein Wissenschaftler misst die Temperatur einer Flüssigkeit. Das Thermometer verändert die Temperatur der Flüssigkeit. Ein Journalist berichtet über eine Demonstration. Der Bericht verändert die Demonstration. Ein Teamleiter bewertet …
+
+Mehr erfahren
+
+Der Trip mit dem Magischen Bus. Wie sich Selbstorganisation auf sich selbst bezieht.
+
+24. März 2026
+
+Selbstorganisation ist die große Hoffnung der Komplexitätstheorie.
+Keine zentrale Autorität. Kein Masterplan. Lokale Akteure, lokale Regeln, emergente Ordnung. Der Markt. Das Gehirn. Der Schwarm der Stare. Die Stadt, die niemand …
+
+Mehr erfahren
+
+Die Synchronisation von Metronomen. Das physikalische Axiom von PI.
+
+7. März 2026
+
+Stellen Sie sich eine Reihe identischer mechanischer Metronome vor. Sie starten sie einzeln nacheinander. Sie bilden ein chaotisches Spektakel – ein mimetisches Durcheinander. Jedes einzelne ist ein souveräner Akteur, der in seinem …
+
+Mehr erfahren
+
+Drei Teilchen wandern in eine Struktur
+
+23. Februar 2026
+
+Das ist eine Geschichte über drei Dinge, die noch nie jemand in der Hand gehalten hat.
+Eines davon funktioniert. Die anderen zwei haben Imperien auf dem Versprechen errichtet, dass sie irgendwann, vielleicht, eventuell auch …
+
+Mehr erfahren
+
+Das Universum, das nicht existieren dürfte
+
+23. Februar 2026
+
+Dieser hier ist anders.
+Dunkle Materie ist eine PI über die Suche nach etwas, das vielleicht nicht da ist. Das Graviton ist eine PI über den Bau von Theorie um etwas, das nicht testbar ist. Beides sind strukturelle Fallen innerhalb …
+
+Mehr erfahren
+
+Das Relevanzparadox: Warum sich niemand für deine beste Idee interessiert
+
+23. Februar 2026
+
+Sam Altman wird gefragt, was ein Gründer tun sollte, der eine Idee hat, aber nicht darüber sprechen will, weil ein großes Unternehmen sie stehlen könnte.
+Seine Antwort: Keine Sorge. Niemand interessiert sich dafür.
+
+Mehr erfahren
+
+Die PI der Dunklen Materie
+
+23. Februar 2026
+
+Dunkle Materie ist möglicherweise weniger ein fehlendes Teilchen als vielmehr eine strukturelle Falle. Dieser Aufsatz nutzt paradoxe Wechselwirkungen, um zu zeigen, wie Karrieren, Fördermittel und Anreize die Physik auf eine einzige …
+
+Mehr erfahren
+
+No results found.
