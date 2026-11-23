@@ -77,6 +77,18 @@ Die Verfügung endet am 1. August 2026 – es sei denn, sie wird verlängert. De
 
 Verwandte Beiträge
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Wie Elon Musk einen Memecoin pimpte, ohne ein Wort zu sagen – Und warum niemand was dafür kann
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+No results found.
+
 Auf piinteract.org:
 
 [“Die Tragik der Allmende”] — Münchner Leitungswasser ist die Allmende in Reinform: unbepreist, gemeinsam genutzt, für jeden Einzelnen kostenlos zu übernutzen.
