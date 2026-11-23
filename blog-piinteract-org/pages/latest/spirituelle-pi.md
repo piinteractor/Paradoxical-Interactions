@@ -41,3 +41,22 @@ Wer die Struktur klar sah, hatte drei Möglichkeiten: schweigen, verfolgt werden
 Der Umweg war immer der kürzeste Weg. Die Struktur hat dafür gesorgt.
 
 „Die Abkürzung ist der Umweg.“
+
+Die Schlussglocke. Wir haben das Experiment gebaut. Wir waren das Experiment.
+
+19. März 2026
+
+Im Januar 2024 erklärte OpenAI, die ersten AGI-Systeme gebaut zu haben. Die Ankündigung war vorsichtig, abgesichert, in Qualifikationen gehüllt. Aber das Wort war da. AGI. Das Ding, das das Feld seit siebzig Jahren jagte.
+Sam Altman …
+
+Mehr erfahren
+
+Der Nostradamus-Mechanismus. Der Prophet, der wusste wie Prophezeiung ging.
+
+24. März 2026
+
+Nostradamus veröffentlichte seine Centuries 1555. Mehr als 6.000 Vierzeiler. Er ist seit fast fünf Jahrhunderten ununterbrochen im Druck. Jede Generation findet darin ihre eigenen Kriege, ihre eigenen Tyrannen, ihre eigenen …
+
+Mehr erfahren
+
+No results found.
