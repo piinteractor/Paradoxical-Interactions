@@ -108,6 +108,24 @@ Versuchen und weitermachen. Nicht weil sich das Ergebnis ändert. Sondern weil d
 
 Verwandte Beiträge
 
+Der Priester von Nemi: Wie sich Erfolg den eigenen Attentäter erschafft
+
+Erlange die Position. Sei sicher, dass du stirbst. Wiederhole das ewig.
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Luhmann und der Selbsteinschluss
+
+Wie Systemtheoretiker die Einschlussmilieus reproduzieren, vor denen Luhmann warnte
+
+No results found.
+
 Auf piinteract.org:
 
 [“Kämpfe nicht gegen das Muster”] — Santiago verhandelt nicht mit den Haien. Er navigiert.
