@@ -82,6 +82,24 @@ Ein Tiger, der Männchen macht, hat nicht aufgehört, ein Tiger zu sein. Er hat 
 
 Verwandte Beiträge
 
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+No results found.
+
 Auf piinteract.org:
 
 [“KI-Alignment”] — Die Illusion der Zähmung ist die konkreteste Form des Alignment-Problems: Regelkonformität wird mit Sicherheit verwechselt.
