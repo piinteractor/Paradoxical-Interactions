@@ -110,6 +110,24 @@ Die KI-Version hat kein Äquivalent. Niemand hat die Lüge programmiert. Die Lü
 
 Related Posts
 
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+No results found.
+
 On piinteract.org:
 
 AI Alignment as a PI — AI Alignment : The Architecture of the Trap
