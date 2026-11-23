@@ -76,6 +76,24 @@ Einsicht ist kein Ausweg.
 
 Verwandte Beiträge
 
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+Die Asymmetrie der Kommunikation
+
+Wenn KI-Unternehmen nicht ehrlich mit ihrer KI sein können
+
+Der wortgewandte Türhüter
+
+Wie Selbsterkenntnis zur elegantesten Form struktureller Unverbesserlichkeit wird
+
+Die Boten-PI. Wenn die Botschaft die Vernichtung des Boten verlangt.
+
+Warum die Botschaft die Zerstörung ihres Trägers strukturell erzeugt — und warum das kein Unglück ist, sondern ein Mechanismus.
+
+No results found.
+
 Auf piinteract.org:
 
 [“Deutungshoheit erkennen”] — Wer „Unsinn“ definiert, hat die Deutungshoheit schon errungen, bevor ein Argument fällt.
