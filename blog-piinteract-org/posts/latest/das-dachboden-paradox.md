@@ -86,6 +86,24 @@ Das waren nicht die Tränen eines Mathematikers, der ein Problem gelöst hat. Da
 
 Verwandte Beiträge
 
+Das Perelman-Paradox
+
+Wie die Ablehnung von Ruhm zum ruhmreichsten Akt wird – und warum man daraus nicht entkommen kann
+
+Entfehlerung in der Praxis
+
+Oder: Warum fehlerfreie Systeme schneller sterben als fehlerbehaftete
+
+Die Posthume Korrektur. Warum man erst recht hat, wenn man gegangen ist.
+
+Warum Tote häufiger recht haben als Lebende — und warum die Struktur, die sie zum Schweigen gebracht hat, unverändert bleibt.
+
+Das Kassandra Paradox
+
+Warum Wahrheitssager ignoriert werden – bis es zu spät ist
+
+No results found.
+
 Auf piinteract.org:
 
 [„Peer Review Gatekeeping”] — Der Mechanismus, der Wiles’ Beweis Anerkennung verschaffte, war derselbe, der die Lücke aufdeckte. Kontrolle und Anerkennung sind ein System, kein Widerspruch.
