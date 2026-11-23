@@ -29,3 +29,75 @@ The playground has rules of its own. A hypothesis is named as one, in the text, 
 Some of what plays here will graduate to the archive. Most of it won’t. That is not failure. The dandelion doesn’t know where it lands. Neither does the child moving the pieces. The game is all about the game.
 
 All are guilty. None are at fault.
+
+Monday Me and Friday Me. The world’s smallest paradoxical interaction.
+
+7. July 2026
+
+Playground: This piece works with a hypothesis, not a case study. It asks whether PI has a lower limit—and finds none.
+Paradoxical interactions require multiple rational actors. Until now, that has been the framework’s unspoken lower …
+
+Read More
+
+What is the AI’s IQ? The number that has lost its measure
+
+9. July 2026
+
+This article poses a harmless question—what is the AI’s IQ?—and you can watch as it falls apart while trying to answer it.
+
+Different models, different abilities—ergo, different IQs. The logic sounds sound. It has only one flaw: it …
+
+Read More
+
+The Recognition Trap. Why the ultimate insight is that knowledge cannot be shared.
+
+12. July 2026
+
+Insight is not an object. It is a state reached after a long way. Only the formulation—the descriptive shell—can be conveyed. Those who receive it without having walked the path hold information in their hands, not insight. That is …
+
+Read More
+
+The Missing Organ – If the Part of the Brain Is Missing That Would Detect That the Brain Is Missing
+
+11. August 2026
+
+The Missing Organ is based on a hypothesis, not a case study. It asks whether the organ that would notice a structural blind spot could ever notice its own failure — and argues that the question may be unanswerable from inside.
+
+Read More
+
+The Muenchhausen Trilemma – Three Ways Out, All of Them Closed
+
+12. August 2026
+
+This article continues the hypothesis of “The Missing Organ” — an uncorrupted observer that could audit a system’s blind spot from outside. It asks what that observer would need in order to audit anything at all, and finds that the …
+
+Read More
+
+Fixed as the Thing. Why the one who tells the truth becomes the traitor to it.
+
+19. August 2026
+
+Why the child who saw the emperor naked isn’t celebrated afterward, but fixed in place as a thing — and why that isn’t malice, it’s structure
+
+“Whoever tells the truth needs a fast horse.”
+— Balkan …
+
+Read More
+
+The Nonsense War. Why Every Better Truth Sounds Like an Attack.
+
+21. August 2026
+
+In September 2025, Isaac Slaughter and Martin Saveski, together with colleagues from Stanford and Yale, publish a study in the Proceedings of the National Academy of Sciences. Sample: 40,000 posts on X, tracked March through June …
+
+Read More
+
+PI, AI & I – The Navigation Paradox. Why Handling AI Well, Individually, Won’t Make Society Better.
+
+21. August 2026
+
+Everyone using AI to write faster, decide better, produce more, is acting rationally. That’s exactly the problem. Adam Smith’s promise was that pursuing your own interest automatically serves everyone else’s. It didn’t hold for the …
+
+Read More
+
+No results found.
