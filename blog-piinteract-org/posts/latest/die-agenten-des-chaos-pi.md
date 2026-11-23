@@ -92,6 +92,24 @@ Der Unterschied ist, dass die meisten von ihnen nicht von dreißig Forschern beo
 
 Verwandte Beiträge
 
+“Macht wächst schneller als Kontrolle”
+
+Wenn der CEO eines AI-Safety-Unternehmens sagt, dass die Kontrolle versagt, glaub ihm
+
+Die KI-Ausrichtungs-Falle: Wie KI-Unternehmen in der Struktur feststecken
+
+Warum die Frage, wie man KI ausrichten soll, das perfekte Paradoxon ist
+
+Die Intelligenz-Falle
+
+Warum kluge Menschen intelligentere Erkenntnisse ablehnen – und dabei intelligent handeln
+
+Die Asymmetrie der Kommunikation
+
+Wenn KI-Unternehmen nicht ehrlich mit ihrer KI sein können
+
+No results found.
+
 Auf piinteract.org:
 
 [„KI-Ausrichtung“] – Die strukturelle Unmöglichkeit, etwas auszurichten, das man nicht vollständig spezifizieren kann, zeigt sich in realer Infrastruktur mit realen Konsequenzen.
