@@ -1,7 +1,7 @@
 ---
 title: "The Race With the Handbrake On. Everyone Wants the Other Driver to Brake First."
 date: 2026-09-19T14:51:41
-modified: 2026-10-12T18:48:18
+modified: 2026-11-26T18:53:07
 slug: the-race-with-the-handbrake-on
 lang: en
 type: post
@@ -77,24 +77,6 @@ The Real Insight
 Hypocrisy is rarely intended. It only arrives, often, as a result.
 
 Related Posts
-
-“Power Scales Faster Than Alignment”
-
-When the CEO of an AI safety company tells you control is failing, believe him
-
-AI Alignment Trap: How AI Companies Get Stuck in Structure
-
- The Mousetrap   — Why asking AI how to align AI is the perfect paradox
-
-The Quiz That Never Ends
-
-Or: Why We’re All Waiting for the Quizmaster Who Took the Money and Ran
-
-The Intelligence Trap
-
-Why smart people reject smarter insights—and act intelligently doing so
-
-No results found.
 
 On piinteract.org:
 
